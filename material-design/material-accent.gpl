@@ -1,0 +1,83 @@
+GIMP Palette
+Name: Material Accent
+# <https://play.google.com/store/apps/developer?id=Wojciech+Le%C5%9Bniak>
+ 255   138   128  Red A100        
+ 255    82    82  Red A200        
+ 255    23    68  Red A400        
+ 213     0     0  Red A700        
+                  
+ 255   128   171  Pink A100       
+ 255    64   129  Pink A200       
+ 245     0    87  Pink A400       
+ 197    17    98  Pink A700       
+                  
+ 234   128   252  Purple A100     
+ 224    64   251  Purple A200     
+ 213     0   249  Purple A400     
+ 170     0   255  Purple A700     
+                  
+ 179   136   255  Deep Purple A100
+ 124    77   255  Deep Purple A200
+ 101    31   255  Deep Purple A400
+  98     0   234  Deep Purple A700
+                  
+ 140   158   255  Indigo A100     
+  83   109   254  Indigo A200     
+  61    90   254  Indigo A400     
+  48    79   254  Indigo A700     
+                  
+ 130   177   255  Blue A100       
+  68   138   255  Blue A200       
+  41   121   255  Blue A400       
+  41    98   255  Blue A700       
+                  
+ 128   216   255  Light Blue A100 
+  64   196   255  Light Blue A200 
+   0   176   255  Light Blue A400 
+   0   145   234  Light Blue A700 
+                  
+ 132   255   255  Cyan A100       
+  24   255   255  Cyan A200       
+   0   229   255  Cyan A400       
+   0   184   212  Cyan A700       
+                  
+ 167   255   235  Teal A100       
+ 100   255   218  Teal A200       
+  29   233   182  Teal A400       
+   0   191   165  Teal A700       
+                  
+ 185   246   202  Green A100      
+ 105   240   174  Green A200      
+   0     0     0  Green A400      
+   0   200    83  Green A700      
+                  
+ 204   255   144  Light Green A100
+ 178   255    89  Light Green A200
+ 118   255     3  Light Green A400
+ 100   221    23  Light Green A700
+                  
+ 244   255   129  Lime A100       
+ 238   255    65  Lime A200       
+ 198   255     0  Lime A400       
+ 174   234     0  Lime A700       
+                  
+ 255   255   141  Yellow A100     
+ 255   255     0  Yellow A200     
+ 255   234     0  Yellow A400     
+ 255   214     0  Yellow A700     
+                  
+ 255   229   127  Amber A100      
+ 255   215    64  Amber A200      
+ 255   196     0  Amber A400      
+ 255   171     0  Amber A700      
+                  
+ 255   209   128  Orange A100     
+ 255   171    64  Orange A200     
+ 255   145     0  Orange A400     
+ 255   109     0  Orange A700     
+                  
+ 255   158   128  Deep Orange A100
+ 255   110    64  Deep Orange A200
+ 255    61     0  Deep Orange A400
+ 221    44     0  Deep Orange A700
+
