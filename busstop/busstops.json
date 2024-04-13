@@ -5,7 +5,7 @@
       "departing": "04:40",
       "info": "A, 6",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -14,7 +14,7 @@
       "departing": "06:30",
       "info": "A",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -23,7 +23,7 @@
       "departing": "06:57",
       "info": "6",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -32,7 +32,7 @@
       "departing": "08:55",
       "info": "A, 6",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -41,7 +41,7 @@
       "departing": "10:30",
       "info": "A",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -50,7 +50,7 @@
       "departing": "12:25",
       "info": "A, 6",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -59,7 +59,7 @@
       "departing": "14:15",
       "info": "S",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -68,7 +68,7 @@
       "departing": "15:30",
       "info": "A",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -77,7 +77,7 @@
       "departing": "17:55",
       "info": "A",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -86,7 +86,7 @@
       "departing": "19:20",
       "info": "A",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -95,7 +95,7 @@
       "departing": "20:30",
       "info": "A",
       "start": "Złoty Potok",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -104,7 +104,7 @@
       "departing": "04:41",
       "info": "A, 6",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -113,7 +113,7 @@
       "departing": "06:31",
       "info": "A",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -122,7 +122,7 @@
       "departing": "06:58",
       "info": "6",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -131,7 +131,7 @@
       "departing": "08:56",
       "info": "A, 6",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -140,7 +140,7 @@
       "departing": "10:31",
       "info": "A",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -149,7 +149,7 @@
       "departing": "12:26",
       "info": "A, 6",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -158,7 +158,7 @@
       "departing": "14:16",
       "info": "S",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -167,7 +167,7 @@
       "departing": "15:31",
       "info": "A",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -176,7 +176,7 @@
       "departing": "17:56",
       "info": "A",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -185,7 +185,7 @@
       "departing": "19:21",
       "info": "A",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -194,7 +194,7 @@
       "departing": "20:31",
       "info": "A",
       "start": "Złoty Potok, os. Parkowe",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -203,7 +203,7 @@
       "departing": "04:42",
       "info": "A, 6",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -212,7 +212,7 @@
       "departing": "06:32",
       "info": "A",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -221,7 +221,7 @@
       "departing": "06:59",
       "info": "6",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -230,7 +230,7 @@
       "departing": "08:57",
       "info": "A, 6",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -239,7 +239,7 @@
       "departing": "10:32",
       "info": "A",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -248,7 +248,7 @@
       "departing": "12:27",
       "info": "A, 6",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -257,7 +257,7 @@
       "departing": "14:17",
       "info": "S",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -266,7 +266,7 @@
       "departing": "15:32",
       "info": "A",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -275,7 +275,7 @@
       "departing": "17:57",
       "info": "A",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -284,7 +284,7 @@
       "departing": "19:22",
       "info": "A",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -293,7 +293,7 @@
       "departing": "20:32",
       "info": "A",
       "start": "Janów",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -302,7 +302,7 @@
       "departing": "04:43",
       "info": "A, 6",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -311,7 +311,7 @@
       "departing": "06:33",
       "info": "A",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -320,7 +320,7 @@
       "departing": "07:00",
       "info": "6",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -329,7 +329,7 @@
       "departing": "08:58",
       "info": "A, 6",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -338,7 +338,7 @@
       "departing": "10:33",
       "info": "A",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -347,7 +347,7 @@
       "departing": "12:28",
       "info": "A, 6",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -356,7 +356,7 @@
       "departing": "14:18",
       "info": "S",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -365,7 +365,7 @@
       "departing": "15:33",
       "info": "A",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -374,7 +374,7 @@
       "departing": "17:58",
       "info": "A",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -383,7 +383,7 @@
       "departing": "19:23",
       "info": "A",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -392,7 +392,7 @@
       "departing": "20:33",
       "info": "A",
       "start": "Janów, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -401,7 +401,7 @@
       "departing": "04:46",
       "info": "A, 6",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -410,7 +410,7 @@
       "departing": "06:36",
       "info": "A",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -419,7 +419,7 @@
       "departing": "07:03",
       "info": "6",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -428,7 +428,7 @@
       "departing": "09:01",
       "info": "A, 6",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -437,7 +437,7 @@
       "departing": "10:36",
       "info": "A",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -446,7 +446,7 @@
       "departing": "12:31",
       "info": "A, 6",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -455,7 +455,7 @@
       "departing": "14:21",
       "info": "S",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -464,7 +464,7 @@
       "departing": "15:36",
       "info": "A",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -473,7 +473,7 @@
       "departing": "18:01",
       "info": "A",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -482,7 +482,7 @@
       "departing": "19:26",
       "info": "A",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -491,7 +491,7 @@
       "departing": "20:36",
       "info": "A",
       "start": "Piasek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -500,7 +500,7 @@
       "departing": "04:48",
       "info": "A, 6",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -509,7 +509,7 @@
       "departing": "06:38",
       "info": "A",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -518,7 +518,7 @@
       "departing": "07:05",
       "info": "6",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -527,7 +527,7 @@
       "departing": "09:03",
       "info": "A, 6",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -536,7 +536,7 @@
       "departing": "10:38",
       "info": "A",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -545,7 +545,7 @@
       "departing": "12:33",
       "info": "A, 6",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -554,7 +554,7 @@
       "departing": "14:23",
       "info": "S",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -563,7 +563,7 @@
       "departing": "15:38",
       "info": "A",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -572,7 +572,7 @@
       "departing": "18:03",
       "info": "A",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -581,7 +581,7 @@
       "departing": "19:28",
       "info": "A",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -590,7 +590,7 @@
       "departing": "20:38",
       "info": "A",
       "start": "Czepurka",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -599,7 +599,7 @@
       "departing": "04:49",
       "info": "A, 6",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -608,7 +608,7 @@
       "departing": "06:39",
       "info": "A",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -617,7 +617,7 @@
       "departing": "07:06",
       "info": "6",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -626,7 +626,7 @@
       "departing": "09:04",
       "info": "A, 6",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -635,7 +635,7 @@
       "departing": "10:39",
       "info": "A",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -644,7 +644,7 @@
       "departing": "12:34",
       "info": "A, 6",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -653,7 +653,7 @@
       "departing": "14:24",
       "info": "S",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -662,7 +662,7 @@
       "departing": "15:39",
       "info": "A",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -671,7 +671,7 @@
       "departing": "18:04",
       "info": "A",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -680,7 +680,7 @@
       "departing": "19:29",
       "info": "A",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -689,7 +689,7 @@
       "departing": "20:39",
       "info": "A",
       "start": "Czepurka I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -698,7 +698,7 @@
       "departing": "04:50",
       "info": "A, 6",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -707,7 +707,7 @@
       "departing": "06:40",
       "info": "A",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -716,7 +716,7 @@
       "departing": "07:07",
       "info": "6",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -725,7 +725,7 @@
       "departing": "09:05",
       "info": "A, 6",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -734,7 +734,7 @@
       "departing": "10:40",
       "info": "A",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -743,7 +743,7 @@
       "departing": "12:35",
       "info": "A, 6",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -752,7 +752,7 @@
       "departing": "14:25",
       "info": "S",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -761,7 +761,7 @@
       "departing": "15:40",
       "info": "A",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -770,7 +770,7 @@
       "departing": "18:05",
       "info": "A",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -779,7 +779,7 @@
       "departing": "19:30",
       "info": "A",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -788,7 +788,7 @@
       "departing": "20:40",
       "info": "A",
       "start": "Lusławice, IV Przejazd",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -797,7 +797,7 @@
       "departing": "04:51",
       "info": "A, 6",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -806,7 +806,7 @@
       "departing": "06:41",
       "info": "A",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -815,7 +815,7 @@
       "departing": "07:08",
       "info": "6",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -824,7 +824,7 @@
       "departing": "09:06",
       "info": "A, 6",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -833,7 +833,7 @@
       "departing": "10:41",
       "info": "A",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -842,7 +842,7 @@
       "departing": "12:36",
       "info": "A, 6",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -851,7 +851,7 @@
       "departing": "14:26",
       "info": "S",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -860,7 +860,7 @@
       "departing": "15:41",
       "info": "A",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -869,7 +869,7 @@
       "departing": "18:06",
       "info": "A",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -878,7 +878,7 @@
       "departing": "19:31",
       "info": "A",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -887,7 +887,7 @@
       "departing": "20:41",
       "info": "A",
       "start": "Lusławice, III Centrum",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -896,7 +896,7 @@
       "departing": "04:52",
       "info": "A, 6",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -905,7 +905,7 @@
       "departing": "06:42",
       "info": "A",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -914,7 +914,7 @@
       "departing": "07:09",
       "info": "6",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -923,7 +923,7 @@
       "departing": "09:07",
       "info": "A, 6",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -932,7 +932,7 @@
       "departing": "10:42",
       "info": "A",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -941,7 +941,7 @@
       "departing": "12:37",
       "info": "A, 6",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -950,7 +950,7 @@
       "departing": "14:27",
       "info": "S",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -959,7 +959,7 @@
       "departing": "15:42",
       "info": "A",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -968,7 +968,7 @@
       "departing": "18:07",
       "info": "A",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -977,7 +977,7 @@
       "departing": "19:32",
       "info": "A",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -986,7 +986,7 @@
       "departing": "20:42",
       "info": "A",
       "start": "Lusławice, II Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -995,7 +995,7 @@
       "departing": "04:53",
       "info": "A, 6",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1004,7 +1004,7 @@
       "departing": "06:43",
       "info": "A",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1013,7 +1013,7 @@
       "departing": "07:10",
       "info": "6",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1022,7 +1022,7 @@
       "departing": "09:08",
       "info": "A, 6",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1031,7 +1031,7 @@
       "departing": "10:43",
       "info": "A",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1040,7 +1040,7 @@
       "departing": "12:38",
       "info": "A, 6",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1049,7 +1049,7 @@
       "departing": "14:28",
       "info": "S",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1058,7 +1058,7 @@
       "departing": "15:43",
       "info": "A",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1067,7 +1067,7 @@
       "departing": "18:08",
       "info": "A",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1076,7 +1076,7 @@
       "departing": "19:33",
       "info": "A",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1085,7 +1085,7 @@
       "departing": "20:43",
       "info": "A",
       "start": "Lusławice, I Kolonia",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1094,7 +1094,7 @@
       "departing": "04:54",
       "info": "A, 6",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1103,7 +1103,7 @@
       "departing": "06:44",
       "info": "A",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1112,7 +1112,7 @@
       "departing": "07:11",
       "info": "6",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1121,7 +1121,7 @@
       "departing": "09:09",
       "info": "A, 6",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1130,7 +1130,7 @@
       "departing": "10:44",
       "info": "A",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1139,7 +1139,7 @@
       "departing": "12:39",
       "info": "A, 6",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1148,7 +1148,7 @@
       "departing": "14:29",
       "info": "S",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1157,7 +1157,7 @@
       "departing": "15:44",
       "info": "A",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1166,7 +1166,7 @@
       "departing": "18:09",
       "info": "A",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1175,7 +1175,7 @@
       "departing": "19:34",
       "info": "A",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1184,7 +1184,7 @@
       "departing": "20:44",
       "info": "A",
       "start": "Żuraw, II",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1193,7 +1193,7 @@
       "departing": "04:56",
       "info": "A, 6",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1202,7 +1202,7 @@
       "departing": "06:46",
       "info": "A",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1211,7 +1211,7 @@
       "departing": "07:13",
       "info": "6",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1220,7 +1220,7 @@
       "departing": "09:11",
       "info": "A, 6",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1229,7 +1229,7 @@
       "departing": "10:46",
       "info": "A",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1238,7 +1238,7 @@
       "departing": "12:41",
       "info": "A, 6",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1247,7 +1247,7 @@
       "departing": "14:31",
       "info": "S",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1256,7 +1256,7 @@
       "departing": "15:46",
       "info": "A",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1265,7 +1265,7 @@
       "departing": "18:11",
       "info": "A",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1274,7 +1274,7 @@
       "departing": "19:36",
       "info": "A",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1283,7 +1283,7 @@
       "departing": "20:46",
       "info": "A",
       "start": "Zagórze",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1292,7 +1292,7 @@
       "departing": "04:58",
       "info": "A, 6",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1301,7 +1301,7 @@
       "departing": "06:48",
       "info": "A",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1310,7 +1310,7 @@
       "departing": "07:15",
       "info": "6",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1319,7 +1319,7 @@
       "departing": "09:13",
       "info": "A, 6",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1328,7 +1328,7 @@
       "departing": "10:48",
       "info": "A",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1337,7 +1337,7 @@
       "departing": "12:43",
       "info": "A, 6",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1346,7 +1346,7 @@
       "departing": "14:33",
       "info": "S",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1355,7 +1355,7 @@
       "departing": "15:48",
       "info": "A",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1364,7 +1364,7 @@
       "departing": "18:13",
       "info": "A",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1373,7 +1373,7 @@
       "departing": "19:38",
       "info": "A",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1382,7 +1382,7 @@
       "departing": "20:48",
       "info": "A",
       "start": "Zagórze, I",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1391,7 +1391,7 @@
       "departing": "05:00",
       "info": "A, 6",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1400,7 +1400,7 @@
       "departing": "06:50",
       "info": "A",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1409,7 +1409,7 @@
       "departing": "07:17",
       "info": "6",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1418,7 +1418,7 @@
       "departing": "09:15",
       "info": "A, 6",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1427,7 +1427,7 @@
       "departing": "10:50",
       "info": "A",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1436,7 +1436,7 @@
       "departing": "12:45",
       "info": "A, 6",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1445,7 +1445,7 @@
       "departing": "14:35",
       "info": "S",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1454,7 +1454,7 @@
       "departing": "15:50",
       "info": "A",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1463,7 +1463,7 @@
       "departing": "18:15",
       "info": "A",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1472,7 +1472,7 @@
       "departing": "19:40",
       "info": "A",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1481,7 +1481,7 @@
       "departing": "20:50",
       "info": "A",
       "start": "Małusy Wielkie",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1490,7 +1490,7 @@
       "departing": "05:01",
       "info": "A, 6",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1499,7 +1499,7 @@
       "departing": "06:51",
       "info": "A",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1508,7 +1508,7 @@
       "departing": "07:18",
       "info": "6",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1517,7 +1517,7 @@
       "departing": "09:16",
       "info": "A, 6",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1526,7 +1526,7 @@
       "departing": "10:51",
       "info": "A",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1535,7 +1535,7 @@
       "departing": "12:46",
       "info": "A, 6",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1544,7 +1544,7 @@
       "departing": "14:36",
       "info": "S",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1553,7 +1553,7 @@
       "departing": "15:51",
       "info": "A",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1562,7 +1562,7 @@
       "departing": "18:16",
       "info": "A",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1571,7 +1571,7 @@
       "departing": "19:41",
       "info": "A",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1580,7 +1580,7 @@
       "departing": "20:51",
       "info": "A",
       "start": "Małusy Wielkie, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1589,7 +1589,7 @@
       "departing": "05:02",
       "info": "A, 6",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1598,7 +1598,7 @@
       "departing": "06:52",
       "info": "A",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1607,7 +1607,7 @@
       "departing": "07:19",
       "info": "6",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1616,7 +1616,7 @@
       "departing": "09:17",
       "info": "A, 6",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1625,7 +1625,7 @@
       "departing": "10:52",
       "info": "A",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1634,7 +1634,7 @@
       "departing": "12:47",
       "info": "A, 6",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1643,7 +1643,7 @@
       "departing": "14:37",
       "info": "S",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1652,7 +1652,7 @@
       "departing": "15:52",
       "info": "A",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1661,7 +1661,7 @@
       "departing": "18:17",
       "info": "A",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1670,7 +1670,7 @@
       "departing": "19:42",
       "info": "A",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1679,7 +1679,7 @@
       "departing": "20:52",
       "info": "A",
       "start": "Małusy Wielkie, Kościół",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1688,7 +1688,7 @@
       "departing": "05:04",
       "info": "A, 6",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1697,7 +1697,7 @@
       "departing": "06:54",
       "info": "A",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1706,7 +1706,7 @@
       "departing": "07:21",
       "info": "6",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1715,7 +1715,7 @@
       "departing": "09:19",
       "info": "A, 6",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1724,7 +1724,7 @@
       "departing": "10:54",
       "info": "A",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1733,7 +1733,7 @@
       "departing": "12:49",
       "info": "A, 6",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1742,7 +1742,7 @@
       "departing": "14:39",
       "info": "S",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1751,7 +1751,7 @@
       "departing": "15:54",
       "info": "A",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1760,7 +1760,7 @@
       "departing": "18:19",
       "info": "A",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1769,7 +1769,7 @@
       "departing": "19:44",
       "info": "A",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1778,7 +1778,7 @@
       "departing": "20:54",
       "info": "A",
       "start": "Małusy Małe, Dworek",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1787,7 +1787,7 @@
       "departing": "05:05",
       "info": "A, 6",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1796,7 +1796,7 @@
       "departing": "06:55",
       "info": "A",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1805,7 +1805,7 @@
       "departing": "07:22",
       "info": "6",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1814,7 +1814,7 @@
       "departing": "09:20",
       "info": "A, 6",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1823,7 +1823,7 @@
       "departing": "10:55",
       "info": "A",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1832,7 +1832,7 @@
       "departing": "12:50",
       "info": "A, 6",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1841,7 +1841,7 @@
       "departing": "14:40",
       "info": "S",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1850,7 +1850,7 @@
       "departing": "15:55",
       "info": "A",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1859,7 +1859,7 @@
       "departing": "18:20",
       "info": "A",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1868,7 +1868,7 @@
       "departing": "19:45",
       "info": "A",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1877,7 +1877,7 @@
       "departing": "20:55",
       "info": "A",
       "start": "Małusy Małe, Remiza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1886,7 +1886,7 @@
       "departing": "05:07",
       "info": "A, 6",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1895,7 +1895,7 @@
       "departing": "06:57",
       "info": "A",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -1904,7 +1904,7 @@
       "departing": "07:24",
       "info": "6",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -1913,7 +1913,7 @@
       "departing": "09:22",
       "info": "A, 6",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -1922,7 +1922,7 @@
       "departing": "10:57",
       "info": "A",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -1931,7 +1931,7 @@
       "departing": "12:52",
       "info": "A, 6",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -1940,7 +1940,7 @@
       "departing": "14:42",
       "info": "S",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -1949,7 +1949,7 @@
       "departing": "15:57",
       "info": "A",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -1958,7 +1958,7 @@
       "departing": "18:22",
       "info": "A",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -1967,7 +1967,7 @@
       "departing": "19:47",
       "info": "A",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -1976,7 +1976,7 @@
       "departing": "20:57",
       "info": "A",
       "start": "Brzyszów, Szkoła",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -1985,7 +1985,7 @@
       "departing": "05:08",
       "info": "A, 6",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -1994,7 +1994,7 @@
       "departing": "06:58",
       "info": "A",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2003,7 +2003,7 @@
       "departing": "07:25",
       "info": "6",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2012,7 +2012,7 @@
       "departing": "09:23",
       "info": "A, 6",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2021,7 +2021,7 @@
       "departing": "10:58",
       "info": "A",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2030,7 +2030,7 @@
       "departing": "12:53",
       "info": "A, 6",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2039,7 +2039,7 @@
       "departing": "14:43",
       "info": "S",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2048,7 +2048,7 @@
       "departing": "15:58",
       "info": "A",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2057,7 +2057,7 @@
       "departing": "18:23",
       "info": "A",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2066,7 +2066,7 @@
       "departing": "19:48",
       "info": "A",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2075,7 +2075,7 @@
       "departing": "20:58",
       "info": "A",
       "start": "Brzyszów, Olsztyńska",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2084,7 +2084,7 @@
       "departing": "05:09",
       "info": "A, 6",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2093,7 +2093,7 @@
       "departing": "06:59",
       "info": "A",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2102,7 +2102,7 @@
       "departing": "07:26",
       "info": "6",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2111,7 +2111,7 @@
       "departing": "09:24",
       "info": "A, 6",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2120,7 +2120,7 @@
       "departing": "10:59",
       "info": "A",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2129,7 +2129,7 @@
       "departing": "12:54",
       "info": "A, 6",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2138,7 +2138,7 @@
       "departing": "14:44",
       "info": "S",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2147,7 +2147,7 @@
       "departing": "15:59",
       "info": "A",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2156,7 +2156,7 @@
       "departing": "18:24",
       "info": "A",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2165,7 +2165,7 @@
       "departing": "19:49",
       "info": "A",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2174,7 +2174,7 @@
       "departing": "20:59",
       "info": "A",
       "start": "Srocko, Sklep",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2183,7 +2183,7 @@
       "departing": "05:10",
       "info": "A, 6",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2192,7 +2192,7 @@
       "departing": "07:00",
       "info": "A",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2201,7 +2201,7 @@
       "departing": "07:27",
       "info": "6",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2210,7 +2210,7 @@
       "departing": "09:25",
       "info": "A, 6",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2219,7 +2219,7 @@
       "departing": "11:00",
       "info": "A",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2228,7 +2228,7 @@
       "departing": "12:55",
       "info": "A, 6",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2237,7 +2237,7 @@
       "departing": "14:45",
       "info": "S",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2246,7 +2246,7 @@
       "departing": "16:00",
       "info": "A",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2255,7 +2255,7 @@
       "departing": "18:25",
       "info": "A",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2264,7 +2264,7 @@
       "departing": "19:50",
       "info": "A",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2273,7 +2273,7 @@
       "departing": "21:00",
       "info": "A",
       "start": "Srocko",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2282,7 +2282,7 @@
       "departing": "05:15",
       "info": "A, 6",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2291,7 +2291,7 @@
       "departing": "07:05",
       "info": "A",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2300,7 +2300,7 @@
       "departing": "07:32",
       "info": "6",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2309,7 +2309,7 @@
       "departing": "09:30",
       "info": "A, 6",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2318,7 +2318,7 @@
       "departing": "11:05",
       "info": "A",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2327,7 +2327,7 @@
       "departing": "13:00",
       "info": "A, 6",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2336,7 +2336,7 @@
       "departing": "14:50",
       "info": "S",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2345,7 +2345,7 @@
       "departing": "16:05",
       "info": "A",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2354,7 +2354,7 @@
       "departing": "18:30",
       "info": "A",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2363,7 +2363,7 @@
       "departing": "19:55",
       "info": "A",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2372,7 +2372,7 @@
       "departing": "21:05",
       "info": "A",
       "start": "Częstochowa, Berger",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2381,7 +2381,7 @@
       "departing": "05:16",
       "info": "A, 6",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2390,7 +2390,7 @@
       "departing": "07:06",
       "info": "A",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2399,7 +2399,7 @@
       "departing": "07:33",
       "info": "6",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2408,7 +2408,7 @@
       "departing": "09:31",
       "info": "A, 6",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2417,7 +2417,7 @@
       "departing": "11:06",
       "info": "A",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2426,7 +2426,7 @@
       "departing": "13:01",
       "info": "A, 6",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2435,7 +2435,7 @@
       "departing": "14:51",
       "info": "S",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2444,7 +2444,7 @@
       "departing": "16:06",
       "info": "A",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2453,7 +2453,7 @@
       "departing": "18:31",
       "info": "A",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2462,7 +2462,7 @@
       "departing": "19:56",
       "info": "A",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2471,7 +2471,7 @@
       "departing": "21:06",
       "info": "A",
       "start": "Częstochowa, Koksowania",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2480,7 +2480,7 @@
       "departing": "05:18",
       "info": "A, 6",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2489,7 +2489,7 @@
       "departing": "07:08",
       "info": "A",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2498,7 +2498,7 @@
       "departing": "07:35",
       "info": "6",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2507,7 +2507,7 @@
       "departing": "09:33",
       "info": "A, 6",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2516,7 +2516,7 @@
       "departing": "11:08",
       "info": "A",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2525,7 +2525,7 @@
       "departing": "13:03",
       "info": "A, 6",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2534,7 +2534,7 @@
       "departing": "14:53",
       "info": "S",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2543,7 +2543,7 @@
       "departing": "16:08",
       "info": "A",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2552,7 +2552,7 @@
       "departing": "18:33",
       "info": "A",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2561,7 +2561,7 @@
       "departing": "19:58",
       "info": "A",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2570,7 +2570,7 @@
       "departing": "21:08",
       "info": "A",
       "start": "Częstochowa, Hallera",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2579,7 +2579,7 @@
       "departing": "05:20",
       "info": "A, 6",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2588,7 +2588,7 @@
       "departing": "07:10",
       "info": "A",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2597,7 +2597,7 @@
       "departing": "07:37",
       "info": "6",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2606,7 +2606,7 @@
       "departing": "09:35",
       "info": "A, 6",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2615,7 +2615,7 @@
       "departing": "11:10",
       "info": "A",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2624,7 +2624,7 @@
       "departing": "13:05",
       "info": "A, 6",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2633,7 +2633,7 @@
       "departing": "14:55",
       "info": "S",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2642,7 +2642,7 @@
       "departing": "16:10",
       "info": "A",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2651,7 +2651,7 @@
       "departing": "18:35",
       "info": "A",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2660,7 +2660,7 @@
       "departing": "20:00",
       "info": "A",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2669,7 +2669,7 @@
       "departing": "21:10",
       "info": "A",
       "start": "Częstochowa, Wspólna",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2678,7 +2678,7 @@
       "departing": "05:22",
       "info": "A, 6",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2687,7 +2687,7 @@
       "departing": "07:12",
       "info": "A",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2696,7 +2696,7 @@
       "departing": "07:39",
       "info": "6",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2705,7 +2705,7 @@
       "departing": "09:37",
       "info": "A, 6",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2714,7 +2714,7 @@
       "departing": "11:12",
       "info": "A",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2723,7 +2723,7 @@
       "departing": "13:07",
       "info": "A, 6",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2732,7 +2732,7 @@
       "departing": "14:57",
       "info": "S",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2741,7 +2741,7 @@
       "departing": "16:12",
       "info": "A",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2750,7 +2750,7 @@
       "departing": "18:37",
       "info": "A",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2759,7 +2759,7 @@
       "departing": "20:02",
       "info": "A",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2768,7 +2768,7 @@
       "departing": "21:12",
       "info": "A",
       "start": "Częstochowa, Rynek Narutowicza",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2777,7 +2777,7 @@
       "departing": "05:24",
       "info": "A, 6",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2786,7 +2786,7 @@
       "departing": "07:14",
       "info": "A",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2795,7 +2795,7 @@
       "departing": "07:41",
       "info": "6",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2804,7 +2804,7 @@
       "departing": "09:39",
       "info": "A, 6",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2813,7 +2813,7 @@
       "departing": "11:14",
       "info": "A",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2822,7 +2822,7 @@
       "departing": "13:09",
       "info": "A, 6",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2831,7 +2831,7 @@
       "departing": "14:59",
       "info": "S",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2840,7 +2840,7 @@
       "departing": "16:14",
       "info": "A",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2849,7 +2849,7 @@
       "departing": "18:39",
       "info": "A",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2858,7 +2858,7 @@
       "departing": "20:04",
       "info": "A",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2867,7 +2867,7 @@
       "departing": "21:14",
       "info": "A",
       "start": "Częstochowa, Zawodzie - Szpital",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2876,7 +2876,7 @@
       "departing": "05:25",
       "info": "A, 6",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2885,7 +2885,7 @@
       "departing": "07:15",
       "info": "A",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2894,7 +2894,7 @@
       "departing": "07:42",
       "info": "6",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -2903,7 +2903,7 @@
       "departing": "09:40",
       "info": "A, 6",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -2912,7 +2912,7 @@
       "departing": "11:15",
       "info": "A",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -2921,7 +2921,7 @@
       "departing": "13:10",
       "info": "A, 6",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -2930,7 +2930,7 @@
       "departing": "15:00",
       "info": "S",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -2939,7 +2939,7 @@
       "departing": "16:15",
       "info": "A",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -2948,7 +2948,7 @@
       "departing": "18:40",
       "info": "A",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -2957,7 +2957,7 @@
       "departing": "20:05",
       "info": "A",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -2966,7 +2966,7 @@
       "departing": "21:15",
       "info": "A",
       "start": "Częstochowa, Plac Daszyńskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
@@ -2975,7 +2975,7 @@
       "departing": "05:27",
       "info": "A, 6",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "1"
@@ -2984,7 +2984,7 @@
       "departing": "07:17",
       "info": "A",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "2"
@@ -2993,7 +2993,7 @@
       "departing": "07:44",
       "info": "6",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "3"
@@ -3002,7 +3002,7 @@
       "departing": "09:42",
       "info": "A, 6",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "4"
@@ -3011,7 +3011,7 @@
       "departing": "11:17",
       "info": "A",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "5"
@@ -3020,7 +3020,7 @@
       "departing": "13:12",
       "info": "A, 6",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "6"
@@ -3029,7 +3029,7 @@
       "departing": "15:02",
       "info": "S",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "7"
@@ -3038,7 +3038,7 @@
       "departing": "16:17",
       "info": "A",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "8"
@@ -3047,7 +3047,7 @@
       "departing": "18:42",
       "info": "A",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "9"
@@ -3056,7 +3056,7 @@
       "departing": "20:07",
       "info": "A",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "10"
@@ -3065,7 +3065,7 @@
       "departing": "21:17",
       "info": "A",
       "start": "Częstochowa, Piłsudskiego",
-      "destination": "Częstochowa",
+      "destination": "Częstochowa, Piłsudskiego",
       "details": "przez Srocko",
       "route": "1",
       "journey": "11"
