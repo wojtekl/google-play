@@ -16,6 +16,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdSize
 import com.google.android.gms.ads.AdView
+import com.google.android.gms.ads.MobileAds
 import gmail.lesniakwojciech.gooffline.R
 import gmail.lesniakwojciech.gooffline.databinding.ActivityAlarmBinding
 
@@ -102,6 +103,7 @@ class AlarmActivity : AppCompatActivity() {
             finish()
         }
 
+        MobileAds.initialize(this) {}
         loadBanner()
 
         val airplaneModeOn = intent.getBooleanExtra(AIRPLANE_MODE_ON, false)

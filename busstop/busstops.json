@@ -39,7 +39,7 @@
     },
     {
       "departing": "10:30",
-      "info": "A, 6",
+      "info": "A",
       "start": "Złoty Potok",
       "destination": "Częstochowa",
       "details": "przez Srocko",
@@ -48,7 +48,7 @@
     },
     {
       "departing": "12:25",
-      "info": "A",
+      "info": "A, 6",
       "start": "Złoty Potok",
       "destination": "Częstochowa",
       "details": "przez Srocko",
@@ -103,7 +103,7 @@
     {
       "departing": "04:41",
       "info": "A, 6",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -112,7 +112,7 @@
     {
       "departing": "06:31",
       "info": "A",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -121,7 +121,7 @@
     {
       "departing": "06:58",
       "info": "6",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -130,7 +130,7 @@
     {
       "departing": "08:56",
       "info": "A, 6",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -138,8 +138,8 @@
     },
     {
       "departing": "10:31",
-      "info": "A, 6",
-      "start": "Złoty Potok os. Parkowe",
+      "info": "A",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -147,8 +147,8 @@
     },
     {
       "departing": "12:26",
-      "info": "A",
-      "start": "Złoty Potok os. Parkowe",
+      "info": "A, 6",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -157,7 +157,7 @@
     {
       "departing": "14:16",
       "info": "S",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -166,7 +166,7 @@
     {
       "departing": "15:31",
       "info": "A",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -175,7 +175,7 @@
     {
       "departing": "17:56",
       "info": "A",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -184,7 +184,7 @@
     {
       "departing": "19:21",
       "info": "A",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -193,7 +193,7 @@
     {
       "departing": "20:31",
       "info": "A",
-      "start": "Złoty Potok os. Parkowe",
+      "start": "Złoty Potok, os. Parkowe",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -237,7 +237,7 @@
     },
     {
       "departing": "10:32",
-      "info": "A, 6",
+      "info": "A",
       "start": "Janów",
       "destination": "Częstochowa",
       "details": "przez Srocko",
@@ -246,7 +246,7 @@
     },
     {
       "departing": "12:27",
-      "info": "A",
+      "info": "A, 6",
       "start": "Janów",
       "destination": "Częstochowa",
       "details": "przez Srocko",
@@ -301,7 +301,7 @@
     {
       "departing": "04:43",
       "info": "A, 6",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -310,7 +310,7 @@
     {
       "departing": "06:33",
       "info": "A",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -319,7 +319,7 @@
     {
       "departing": "07:00",
       "info": "6",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -328,7 +328,7 @@
     {
       "departing": "08:58",
       "info": "A, 6",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -336,8 +336,8 @@
     },
     {
       "departing": "10:33",
-      "info": "A, 6",
-      "start": "Janów I",
+      "info": "A",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -345,8 +345,8 @@
     },
     {
       "departing": "12:28",
-      "info": "A",
-      "start": "Janów I",
+      "info": "A, 6",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -355,7 +355,7 @@
     {
       "departing": "14:18",
       "info": "S",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -364,7 +364,7 @@
     {
       "departing": "15:33",
       "info": "A",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -373,7 +373,7 @@
     {
       "departing": "17:58",
       "info": "A",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -382,7 +382,7 @@
     {
       "departing": "19:23",
       "info": "A",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -391,7 +391,7 @@
     {
       "departing": "20:33",
       "info": "A",
-      "start": "Janów I",
+      "start": "Janów, I",
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
@@ -435,7 +435,7 @@
     },
     {
       "departing": "10:36",
-      "info": "A, 6",
+      "info": "A",
       "start": "Piasek",
       "destination": "Częstochowa",
       "details": "przez Srocko",
@@ -444,7 +444,7 @@
     },
     {
       "departing": "12:31",
-      "info": "A",
+      "info": "A, 6",
       "start": "Piasek",
       "destination": "Częstochowa",
       "details": "przez Srocko",
@@ -494,6 +494,5748 @@
       "destination": "Częstochowa",
       "details": "przez Srocko",
       "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:48",
+      "info": "A, 6",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:38",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:05",
+      "info": "6",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:03",
+      "info": "A, 6",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:38",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:33",
+      "info": "A, 6",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:23",
+      "info": "S",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:38",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:03",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:28",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:38",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:49",
+      "info": "A, 6",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:39",
+      "info": "A",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:06",
+      "info": "6",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:04",
+      "info": "A, 6",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:39",
+      "info": "A",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:34",
+      "info": "A, 6",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:24",
+      "info": "S",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:39",
+      "info": "A",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:04",
+      "info": "A",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:29",
+      "info": "A",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:39",
+      "info": "A",
+      "start": "Czepurka I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:50",
+      "info": "A, 6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:40",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:07",
+      "info": "6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:05",
+      "info": "A, 6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:40",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:35",
+      "info": "A, 6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:25",
+      "info": "S",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:40",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:05",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:30",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:40",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:51",
+      "info": "A, 6",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:41",
+      "info": "A",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:08",
+      "info": "6",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:06",
+      "info": "A, 6",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:41",
+      "info": "A",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:36",
+      "info": "A, 6",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:26",
+      "info": "S",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:41",
+      "info": "A",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:06",
+      "info": "A",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:31",
+      "info": "A",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:41",
+      "info": "A",
+      "start": "Lusławice, III Centrum",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:52",
+      "info": "A, 6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:42",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:09",
+      "info": "6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:07",
+      "info": "A, 6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:42",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:37",
+      "info": "A, 6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:27",
+      "info": "S",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:42",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:07",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:32",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:42",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:53",
+      "info": "A, 6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:43",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:10",
+      "info": "6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:08",
+      "info": "A, 6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:43",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:38",
+      "info": "A, 6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:28",
+      "info": "S",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:43",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:08",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:33",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:43",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:54",
+      "info": "A, 6",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:44",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:11",
+      "info": "6",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:09",
+      "info": "A, 6",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:44",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:39",
+      "info": "A, 6",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:29",
+      "info": "S",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:44",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:09",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:34",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:44",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:56",
+      "info": "A, 6",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:46",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:13",
+      "info": "6",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:11",
+      "info": "A, 6",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:46",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:41",
+      "info": "A, 6",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:31",
+      "info": "S",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:46",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:11",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:36",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:46",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "04:58",
+      "info": "A, 6",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:48",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:15",
+      "info": "6",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:13",
+      "info": "A, 6",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:48",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:43",
+      "info": "A, 6",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:33",
+      "info": "S",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:48",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:13",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:38",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:48",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:00",
+      "info": "A, 6",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:50",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:17",
+      "info": "6",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:15",
+      "info": "A, 6",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:50",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:45",
+      "info": "A, 6",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:35",
+      "info": "S",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:50",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:15",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:40",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:50",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:01",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:51",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:18",
+      "info": "6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:16",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:51",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:46",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:36",
+      "info": "S",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:51",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:16",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:41",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:51",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:02",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:52",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:19",
+      "info": "6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:17",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:52",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:47",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:37",
+      "info": "S",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:52",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:17",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:42",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:52",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:04",
+      "info": "A, 6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:54",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:21",
+      "info": "6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:19",
+      "info": "A, 6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:54",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:49",
+      "info": "A, 6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:39",
+      "info": "S",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:54",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:19",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:44",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:54",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:05",
+      "info": "A, 6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:55",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:22",
+      "info": "6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:20",
+      "info": "A, 6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:55",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:50",
+      "info": "A, 6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:40",
+      "info": "S",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:55",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:20",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:45",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:55",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:07",
+      "info": "A, 6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:57",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:24",
+      "info": "6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:22",
+      "info": "A, 6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:57",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:52",
+      "info": "A, 6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:42",
+      "info": "S",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:57",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:22",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:47",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:57",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:08",
+      "info": "A, 6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:58",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:25",
+      "info": "6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:23",
+      "info": "A, 6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:58",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:53",
+      "info": "A, 6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:43",
+      "info": "S",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:58",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:23",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:48",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:58",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:09",
+      "info": "A, 6",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "06:59",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:26",
+      "info": "6",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:24",
+      "info": "A, 6",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "10:59",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:54",
+      "info": "A, 6",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:44",
+      "info": "S",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "15:59",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:24",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:49",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "20:59",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:10",
+      "info": "A, 6",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:00",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:27",
+      "info": "6",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:25",
+      "info": "A, 6",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:00",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "12:55",
+      "info": "A, 6",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:45",
+      "info": "S",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:00",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:25",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:50",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:00",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:15",
+      "info": "A, 6",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:05",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:32",
+      "info": "6",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:30",
+      "info": "A, 6",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:05",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:00",
+      "info": "A, 6",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:50",
+      "info": "S",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:05",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:30",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:55",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:05",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:16",
+      "info": "A, 6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:06",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:33",
+      "info": "6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:31",
+      "info": "A, 6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:06",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:01",
+      "info": "A, 6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:51",
+      "info": "S",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:06",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:31",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:56",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:06",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:18",
+      "info": "A, 6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:08",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:35",
+      "info": "6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:33",
+      "info": "A, 6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:08",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:03",
+      "info": "A, 6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:53",
+      "info": "S",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:08",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:33",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "19:58",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:08",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:20",
+      "info": "A, 6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:10",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:37",
+      "info": "6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:35",
+      "info": "A, 6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:10",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:05",
+      "info": "A, 6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:55",
+      "info": "S",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:10",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:35",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "20:00",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:10",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:22",
+      "info": "A, 6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:12",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:39",
+      "info": "6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:37",
+      "info": "A, 6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:12",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:07",
+      "info": "A, 6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:57",
+      "info": "S",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:12",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:37",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "20:02",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:12",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:24",
+      "info": "A, 6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:14",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:41",
+      "info": "6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:39",
+      "info": "A, 6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:14",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:09",
+      "info": "A, 6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "14:59",
+      "info": "S",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:14",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:39",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "20:04",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:14",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:25",
+      "info": "A, 6",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:15",
+      "info": "A",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:42",
+      "info": "6",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:40",
+      "info": "A, 6",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:15",
+      "info": "A",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:10",
+      "info": "A, 6",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "15:00",
+      "info": "S",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:15",
+      "info": "A",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:40",
+      "info": "A",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "20:05",
+      "info": "A",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:15",
+      "info": "A",
+      "start": "Częstochowa, Plac Daszyńskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:27",
+      "info": "A, 6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "1"
+    },
+    {
+      "departing": "07:17",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "2"
+    },
+    {
+      "departing": "07:44",
+      "info": "6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "3"
+    },
+    {
+      "departing": "09:42",
+      "info": "A, 6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "4"
+    },
+    {
+      "departing": "11:17",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "5"
+    },
+    {
+      "departing": "13:12",
+      "info": "A, 6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "6"
+    },
+    {
+      "departing": "15:02",
+      "info": "S",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "7"
+    },
+    {
+      "departing": "16:17",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "8"
+    },
+    {
+      "departing": "18:42",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "9"
+    },
+    {
+      "departing": "20:07",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "10"
+    },
+    {
+      "departing": "21:17",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Częstochowa",
+      "details": "przez Srocko",
+      "route": "1",
+      "journey": "11"
+    },
+    {
+      "departing": "05:25",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:10",
+      "info": "A, 6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "07:50",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "07:55",
+      "info": "6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:30",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:30",
+      "info": "A, 6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:20",
+      "info": "S",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:40",
+      "info": "A, 6",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:35",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:45",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:25",
+      "info": "A",
+      "start": "Częstochowa, Piłsudskiego",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:26",
+      "info": "A",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:11",
+      "info": "A, 6",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "07:51",
+      "info": "A",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "07:56",
+      "info": "6",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:31",
+      "info": "A",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:31",
+      "info": "A, 6",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:21",
+      "info": "S",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:41",
+      "info": "A, 6",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:36",
+      "info": "A",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:46",
+      "info": "A",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:26",
+      "info": "A",
+      "start": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:27",
+      "info": "A",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:12",
+      "info": "A, 6",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "07:52",
+      "info": "A",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "07:57",
+      "info": "6",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:32",
+      "info": "A",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:32",
+      "info": "A, 6",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:22",
+      "info": "S",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:42",
+      "info": "A, 6",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:37",
+      "info": "A",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:47",
+      "info": "A",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:27",
+      "info": "A",
+      "start": "Częstochowa, Stary Rynek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:28",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:13",
+      "info": "A, 6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "07:53",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "07:58",
+      "info": "6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:33",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:33",
+      "info": "A, 6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:23",
+      "info": "S",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:43",
+      "info": "A, 6",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:38",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:48",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:28",
+      "info": "A",
+      "start": "Częstochowa, Zawodzie - Szpital",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:30",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:15",
+      "info": "A, 6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "07:55",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:00",
+      "info": "6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:35",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:35",
+      "info": "A, 6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:25",
+      "info": "S",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:45",
+      "info": "A, 6",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:40",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:50",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:30",
+      "info": "A",
+      "start": "Częstochowa, Rynek Narutowicza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:32",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:17",
+      "info": "A, 6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "07:57",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:02",
+      "info": "6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:37",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:37",
+      "info": "A, 6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:27",
+      "info": "S",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:47",
+      "info": "A, 6",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:42",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:52",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:32",
+      "info": "A",
+      "start": "Częstochowa, Wspólna",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:34",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:19",
+      "info": "A, 6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "07:59",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:04",
+      "info": "6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:39",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:39",
+      "info": "A, 6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:29",
+      "info": "S",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:49",
+      "info": "A, 6",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:44",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:54",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:34",
+      "info": "A",
+      "start": "Częstochowa, Hallera",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:36",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:21",
+      "info": "A, 6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:01",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:06",
+      "info": "6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:41",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:41",
+      "info": "A, 6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:31",
+      "info": "S",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:51",
+      "info": "A, 6",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:46",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:56",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:36",
+      "info": "A",
+      "start": "Częstochowa, Koksowania",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:37",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:22",
+      "info": "A, 6",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:02",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:07",
+      "info": "6",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:42",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:42",
+      "info": "A, 6",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:32",
+      "info": "S",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:52",
+      "info": "A, 6",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:47",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "18:57",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:37",
+      "info": "A",
+      "start": "Częstochowa, Berger",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:42",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:27",
+      "info": "A, 6",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:07",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:12",
+      "info": "6",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:47",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:47",
+      "info": "A, 6",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:37",
+      "info": "S",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:57",
+      "info": "A, 6",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:52",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:02",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:42",
+      "info": "A",
+      "start": "Srocko",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:43",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:28",
+      "info": "A, 6",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:08",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:13",
+      "info": "6",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:48",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:48",
+      "info": "A, 6",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:38",
+      "info": "S",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:58",
+      "info": "A, 6",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:53",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:03",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:43",
+      "info": "A",
+      "start": "Srocko, Sklep",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:44",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:29",
+      "info": "A, 6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:09",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:14",
+      "info": "6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:49",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:49",
+      "info": "A, 6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:39",
+      "info": "S",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "14:59",
+      "info": "A, 6",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:54",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:04",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:44",
+      "info": "A",
+      "start": "Brzyszów, Olsztyńska",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:45",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:30",
+      "info": "A, 6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:10",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:15",
+      "info": "6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:50",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:50",
+      "info": "A, 6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:40",
+      "info": "S",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:00",
+      "info": "A, 6",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:55",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:05",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:45",
+      "info": "A",
+      "start": "Brzyszów, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:47",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:32",
+      "info": "A, 6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:12",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:17",
+      "info": "6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:52",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:52",
+      "info": "A, 6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:42",
+      "info": "S",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:02",
+      "info": "A, 6",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:57",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:07",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:47",
+      "info": "A",
+      "start": "Małusy Małe, Remiza",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:48",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:33",
+      "info": "A, 6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:13",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:18",
+      "info": "6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:53",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:53",
+      "info": "A, 6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:43",
+      "info": "S",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:03",
+      "info": "A, 6",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "16:58",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:08",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:48",
+      "info": "A",
+      "start": "Małusy Małe, Dworek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:50",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:35",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:15",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:20",
+      "info": "6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:55",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:55",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:45",
+      "info": "S",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:05",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:00",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:10",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:50",
+      "info": "A",
+      "start": "Małusy Wielkie, Kościół",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:51",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:36",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:16",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:21",
+      "info": "6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:56",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:56",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:46",
+      "info": "S",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:06",
+      "info": "A, 6",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:01",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:11",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:51",
+      "info": "A",
+      "start": "Małusy Wielkie, Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:52",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:37",
+      "info": "A, 6",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:17",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:22",
+      "info": "6",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:57",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:57",
+      "info": "A, 6",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:47",
+      "info": "S",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:07",
+      "info": "A, 6",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:02",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:12",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:52",
+      "info": "A",
+      "start": "Małusy Wielkie",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:54",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:39",
+      "info": "A, 6",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:19",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:24",
+      "info": "6",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "09:59",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "10:59",
+      "info": "A, 6",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:49",
+      "info": "S",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:09",
+      "info": "A, 6",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:04",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:14",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:54",
+      "info": "A",
+      "start": "Zagórze, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:56",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:41",
+      "info": "A, 6",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:21",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:26",
+      "info": "6",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:01",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:01",
+      "info": "A, 6",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:51",
+      "info": "S",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:11",
+      "info": "A, 6",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:06",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:16",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:56",
+      "info": "A",
+      "start": "Zagórze",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:58",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:43",
+      "info": "A, 6",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:23",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:28",
+      "info": "6",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:03",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:03",
+      "info": "A, 6",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:53",
+      "info": "S",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:13",
+      "info": "A, 6",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:08",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:18",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:58",
+      "info": "A",
+      "start": "Żuraw, II",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "05:59",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:44",
+      "info": "A, 6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:24",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:29",
+      "info": "6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:04",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:04",
+      "info": "A, 6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:54",
+      "info": "S",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:14",
+      "info": "A, 6",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:09",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:19",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "22:59",
+      "info": "A",
+      "start": "Lusławice, I Kolonia",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:00",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:45",
+      "info": "A, 6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:25",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:30",
+      "info": "6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:05",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:05",
+      "info": "A, 6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:55",
+      "info": "S",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:15",
+      "info": "A, 6",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:10",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:20",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:00",
+      "info": "A",
+      "start": "Lusławice, II Szkoła",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:01",
+      "info": "A",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:46",
+      "info": "A, 6",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:26",
+      "info": "A",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:31",
+      "info": "6",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:06",
+      "info": "A",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:06",
+      "info": "A, 6",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:56",
+      "info": "S",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:16",
+      "info": "A, 6",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:11",
+      "info": "A",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:21",
+      "info": "A",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:01",
+      "info": "A",
+      "start": "Lusławice, III Centrum ",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:02",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:47",
+      "info": "A, 6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:27",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:32",
+      "info": "6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:07",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:07",
+      "info": "A, 6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:57",
+      "info": "S",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:17",
+      "info": "A, 6",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:12",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:22",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:02",
+      "info": "A",
+      "start": "Lusławice, IV Przejazd",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:03",
+      "info": "A",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:48",
+      "info": "A, 6",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:28",
+      "info": "A",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:33",
+      "info": "6",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:08",
+      "info": "A",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:08",
+      "info": "A, 6",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:58",
+      "info": "S",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:18",
+      "info": "A, 6",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:13",
+      "info": "A",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:23",
+      "info": "A",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:03",
+      "info": "A",
+      "start": "Czepurka, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:04",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:49",
+      "info": "A, 6",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:29",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:34",
+      "info": "6",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:09",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:09",
+      "info": "A, 6",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "13:59",
+      "info": "S",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:19",
+      "info": "A, 6",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:14",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:24",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:04",
+      "info": "A",
+      "start": "Czepurka",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:06",
+      "info": "A",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:51",
+      "info": "A, 6",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:31",
+      "info": "A",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:36",
+      "info": "6",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:11",
+      "info": "A",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:11",
+      "info": "A, 6",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "14:01",
+      "info": "S",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:21",
+      "info": "A, 6",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:16",
+      "info": "A",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:26",
+      "info": "A",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:06",
+      "info": "A",
+      "start": "Piasek",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:09",
+      "info": "A",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:54",
+      "info": "A, 6",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:34",
+      "info": "A",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:39",
+      "info": "6",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:14",
+      "info": "A",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:14",
+      "info": "A, 6",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "14:04",
+      "info": "S",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:24",
+      "info": "A, 6",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:19",
+      "info": "A",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:29",
+      "info": "A",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:09",
+      "info": "A",
+      "start": "Janów, I",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:10",
+      "info": "A",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:55",
+      "info": "A, 6",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:35",
+      "info": "A",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:40",
+      "info": "6",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:15",
+      "info": "A",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:15",
+      "info": "A, 6",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "14:05",
+      "info": "S",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:25",
+      "info": "A, 6",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:20",
+      "info": "A",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:30",
+      "info": "A",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:10",
+      "info": "A",
+      "start": "Janów",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:11",
+      "info": "A",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:56",
+      "info": "A, 6",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:36",
+      "info": "A",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:41",
+      "info": "6",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:16",
+      "info": "A",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:16",
+      "info": "A, 6",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "14:06",
+      "info": "S",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:26",
+      "info": "A, 6",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:21",
+      "info": "A",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:31",
+      "info": "A",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:11",
+      "info": "A",
+      "start": "Złoty Potok, os. Parkowe",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "11"
+    },
+    {
+      "departing": "06:12",
+      "info": "A",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "1"
+    },
+    {
+      "departing": "06:57",
+      "info": "A, 6",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "2"
+    },
+    {
+      "departing": "08:37",
+      "info": "A",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "3"
+    },
+    {
+      "departing": "08:42",
+      "info": "6",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "4"
+    },
+    {
+      "departing": "10:17",
+      "info": "A",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "5"
+    },
+    {
+      "departing": "11:17",
+      "info": "A, 6",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "6"
+    },
+    {
+      "departing": "14:07",
+      "info": "S",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "7"
+    },
+    {
+      "departing": "15:27",
+      "info": "A, 6",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "8"
+    },
+    {
+      "departing": "17:22",
+      "info": "A",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "9"
+    },
+    {
+      "departing": "19:32",
+      "info": "A",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
+      "journey": "10"
+    },
+    {
+      "departing": "23:12",
+      "info": "A",
+      "start": "Złoty Potok",
+      "destination": "Złoty Potok",
+      "details": "przez Srocko",
+      "route": "2",
       "journey": "11"
     }
   ]

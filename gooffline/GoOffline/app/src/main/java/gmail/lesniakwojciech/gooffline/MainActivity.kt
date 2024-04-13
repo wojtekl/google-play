@@ -95,8 +95,6 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
-
-        MobileAds.initialize(this)
     }
 
     override fun onPause() {
