@@ -4,8 +4,8 @@
     {
       "name": "Brzyszów, Olsztyńska",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Brzyszów, Szkoła",
@@ -16,8 +16,8 @@
     {
       "name": "Ciecierzyn",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Czepurka",
@@ -28,26 +28,26 @@
     {
       "name": "Czepurka, I",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Berger",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Bugajska",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, C.H. Jagielończycy",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Dworzec Autobusowy",
@@ -58,44 +58,44 @@
     {
       "name": "Częstochowa, Hallera",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, I Aleja Najświętszej Maryi Panny",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Koksownia",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Kręciwilk",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Okrzei",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Plac Daszyńskiego",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Rakowska",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Rondo Mickiewicza",
@@ -106,8 +106,8 @@
     {
       "name": "Częstochowa, Rynek Narutowicza",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Stary Rynek",
@@ -118,8 +118,8 @@
     {
       "name": "Częstochowa, Wspólna",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Zawodzie - Szpital",
@@ -190,8 +190,8 @@
     {
       "name": "Żuraw, II",
       "description": "",
-      "latitude": 0,
-      "longitude": 0
+      "latitude": 0.0,
+      "longitude": 0.0
     }
   ]
 }
