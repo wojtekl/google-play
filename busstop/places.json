@@ -1,11 +1,89 @@
 {
-  "updated": 1713250499928,
+  "updated": 1713291435104,
   "places": [
     {
       "name": "Złoty Potok",
       "description": "",
-      "latitude": 50.70916,
+      "latitude": 50.70914,
       "longitude": 19.43295
+    },
+    {
+      "name": "Złoty Potok, os. Parkowe",
+      "description": "",
+      "latitude": 50.71461,
+      "longitude": 19.43578
+    },
+    {
+      "name": "Janów",
+      "description": "",
+      "latitude": 50.72192,
+      "longitude": 19.436
+    },
+    {
+      "name": "Janów, I",
+      "description": "",
+      "latitude": 50.7239,
+      "longitude": 19.42494
+    },
+    {
+      "name": "Piasek",
+      "description": "",
+      "latitude": 50.73369,
+      "longitude": 19.39715
+    },
+    {
+      "name": "Czepurka",
+      "description": "",
+      "latitude": 50.74956,
+      "longitude": 19.38943
+    },
+    {
+      "name": "Lusławice, III Centrum",
+      "description": "",
+      "latitude": 50.76809,
+      "longitude": 19.39647
+    },
+    {
+      "name": "Zagórze",
+      "description": "",
+      "latitude": 50.77528,
+      "longitude": 19.37418
+    },
+    {
+      "name": "Małusy Wielkie, Szkoła",
+      "description": "",
+      "latitude": 50.79465,
+      "longitude": 19.32858
+    },
+    {
+      "name": "Małusy Wielkie, Kościół",
+      "description": "",
+      "latitude": 50.79704,
+      "longitude": 19.32079
+    },
+    {
+      "name": "Olsztyn, Rynek",
+      "description": "",
+      "latitude": 50.75021,
+      "longitude": 19.26852
+    },
+    {
+      "name": "Częstochowa, Rondo Mickiewicza",
+      "description": "",
+      "latitude": 50.8019,
+      "longitude": 19.11772
+    },
+    {
+      "name": "Częstochowa, Zawodzie - Szpital",
+      "description": "",
+      "latitude": 50.81188,
+      "longitude": 19.13465
+    },
+    {
+      "name": "Częstochowa, Stary Rynek",
+      "description": "",
+      "latitude": 50.8119,
+      "longitude": 19.12826
     },
     {
       "name": "Częstochowa, Dworzec Autobusowy",
