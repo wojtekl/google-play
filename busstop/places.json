@@ -1,5 +1,5 @@
 {
-  "updated": 1713293060264,
+  "updated": 1713296737241,
   "places": [
     {
       "name": "Brzyszów, Olsztyńska",
@@ -28,8 +28,8 @@
     {
       "name": "Czepurka, I",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.75303,
+      "longitude": 19.38987
     },
     {
       "name": "Częstochowa, Berger",
@@ -46,8 +46,8 @@
     {
       "name": "Częstochowa, C.H. Jagielończycy",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.78325,
+      "longitude": 19.14341
     },
     {
       "name": "Częstochowa, Dworzec Autobusowy",
@@ -88,8 +88,8 @@
     {
       "name": "Częstochowa, Plac Daszyńskiego",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.81205,
+      "longitude": 19.1272
     },
     {
       "name": "Częstochowa, Rakowska",
@@ -106,8 +106,8 @@
     {
       "name": "Częstochowa, Rynek Narutowicza",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.81226,
+      "longitude": 19.13895
     },
     {
       "name": "Częstochowa, Stary Rynek",
@@ -140,10 +140,58 @@
       "longitude": 19.42494
     },
     {
+      "name": "Krasawa",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Krasawa, Zapasieka",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lusławice, I Kolonia",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lusławice, II Szkoła",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Lusławice, III Centrum",
       "description": "",
       "latitude": 50.76809,
       "longitude": 19.39647
+    },
+    {
+      "name": "Lusławice, IV Przejazd",
+      "description": "",
+      "latitude": 50.76133,
+      "longitude": 19.39513
+    },
+    {
+      "name": "Małusy Małe, Dworek",
+      "description": "",
+      "latitude": 50.79749,
+      "longitude": 19.30644
+    },
+    {
+      "name": "Małusy Małe, Remiza",
+      "description": "",
+      "latitude": 50.79695,
+      "longitude": 19.29523
+    },
+    {
+      "name": "Małusy Wielkie",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Małusy Wielkie, Kościół",
@@ -158,10 +206,40 @@
       "longitude": 19.32858
     },
     {
+      "name": "Olsztyn, Odrzykoń",
+      "description": "",
+      "latitude": 50.76006,
+      "longitude": 19.22475
+    },
+    {
       "name": "Olsztyn, Rynek",
       "description": "",
       "latitude": 50.75021,
       "longitude": 19.26852
+    },
+    {
+      "name": "Olsztyn, Żwirki i Wigury",
+      "description": "",
+      "latitude": 50.75298,
+      "longitude": 19.26006
+    },
+    {
+      "name": "Pabianice, Brus",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Pabianice, Centrum",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Pabianice, Górka",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Piasek",
@@ -170,10 +248,106 @@
       "longitude": 19.39715
     },
     {
+      "name": "Przymiłowice, Kasztanowa",
+      "description": "",
+      "latitude": 50.74728,
+      "longitude": 19.31771
+    },
+    {
+      "name": "Przymiłowice, Kielnicka",
+      "description": "",
+      "latitude": 50.75296,
+      "longitude": 19.29469
+    },
+    {
+      "name": "Przymiłowice, Remiza",
+      "description": "",
+      "latitude": 50.75248,
+      "longitude": 19.30833
+    },
+    {
+      "name": "Siedlec, Krzyże",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Siedlec, Piekło",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Siedlec, Polna",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Siedlec, k/Janowa",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Siedlec, skrz. k/Janowa",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Skowronów",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Srocko",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Srocko, Sklep",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Zagórze",
       "description": "",
       "latitude": 50.77528,
       "longitude": 19.37418
+    },
+    {
+      "name": "Zagórze, I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zrębice, Ciecierzyn",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zrębice, Rędziny",
+      "description": "",
+      "latitude": 50.73181,
+      "longitude": 19.3318
+    },
+    {
+      "name": "Zrębice, kościół",
+      "description": "",
+      "latitude": 50.72142,
+      "longitude": 19.32934
+    },
+    {
+      "name": "Zrębice, szkoła",
+      "description": "",
+      "latitude": 50.72465,
+      "longitude": 19.32947
     },
     {
       "name": "Złoty Potok",
