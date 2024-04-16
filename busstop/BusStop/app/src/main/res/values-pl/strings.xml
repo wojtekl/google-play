@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BusStop</string>
+    <string name="navigation_drawer_open">Otwórz nawigację</string>
+    <string name="navigation_drawer_close">Zamknij nawigację</string>
+    <string name="nav_header_title">BusStop</string>
+    <string name="nav_header_desc">Nawigacja</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="menu_home">Odjazdy</string>
+    <string name="menu_gallery">Oznaczenia</string>
+    <string name="menu_map">Mapa</string>
+    <string name="menu_slideshow">Polityka prywatności</string>
+    <string name="menu_apps">Inne aplikacje</string>
+
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="messages_header">Lokalizacja</string>
+    <string name="sync_header">Synchronizacja</string>
+    <string name="view_header">Widok</string>
+
+    <string name="signature_title">Ostatnio zaktualizowano</string>
+    <string name="reply_title">Preferowana lokalizacja</string>
+
+    <string name="attachment_title">Ukryj niezaplanowane</string>
+    <string name="departure_title">Powiadamiaj o odjeździe</string>
+    <string name="attachment_summary_on">Niezaplanowane kursy będą ukryte</string>
+    <string name="attachment_summary_off">Wszystkie kursy będą pokazane</string>
+    <string name="departure_summary">Czas do odjazdu będzie wyświetlany przed</string>
+
+    <string name="updating">Aktualizuję rozkład jazdy, proszę czekaj…</string>
+    <string name="route">Trasa</string>
+    <string name="filter">Filtruj</string>
+    <string name="description">A - Poniedziałek - Piątek\nS - Dni nauki szkolnej\n6 - Soboty</string>
+
+    <string name="privacy_policy_title">Polityka prywatności</string>
+</resources>

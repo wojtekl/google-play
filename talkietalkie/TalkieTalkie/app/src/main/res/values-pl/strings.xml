@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Pokaż menu</string>
+    <string name="navigation_drawer_close">Schowaj menu</string>
+    <string name="nav_header_desc">Menu</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="menu_home">Połączone urządzenia</string>
+    <string name="menu_gallery">Urządzenia w zasięgu</string>
+    <string name="menu_slideshow">Polityka prywatności</string>
+    <string name="menu_apps">Inne aplikacje</string>
+
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="messages_header">Twoje urządzenie</string>
+    <string name="signature_title">Nazwa twojego urządzenia</string>
+    <string name="sync_title">Zarządzający</string>
+    <string name="attachment_summary_on">Twoje urządzenie będzie kontrolować połączenie</string>
+    <string name="attachment_summary_off">Twoje urządzenie będzie klientem</string>
+
+    <string name="not_connected">Brak połączonych urządzeń, przejdź do zakładki \"Urządzenia w zasięgu\"</string>
+    <string name="not_discovered">Nie znaleziono urządzeń, upewnij się że WiFi jest włączone oraz TalkieTalkie jest uruchomione na innym urządzeniu</string>
+
+    <string name="title_activity_fullscreen">Brak usług lub uprawnień</string>
+    <string name="dummy_content">Aby korzystać z tej aplikacji upewnij się że:\n- WiFi jest włączone i wyszukiwanie urządzeń w pobliżu dozwolone,\n- lokalizacja jest włączona i dostęp przyznany,\n- nagrywanie dźwięku dozwolone\n\npotem otwórz tę aplikację ponownie</string>
+    <string name="dummy_button">OK</string>
+    <string name="enableLocation">Lokalizacja jest wymagana do znalezienia innych urządzeń. Włączyć?</string>
+    <string name="enableWifi">WiFi jest wymagane do połączenia z innym urządzeniem. Włączyć?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+</resources>

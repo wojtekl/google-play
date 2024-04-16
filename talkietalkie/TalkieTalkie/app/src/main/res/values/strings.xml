@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">TalkieTalkie</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">TalkieTalkie</string>
+    <string name="nav_header_subtitle" translatable="false">v0.1.2</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Connected Devices</string>
+    <string name="menu_gallery">Devices in range</string>
+    <string name="menu_slideshow">Privacy Policy</string>
+    <string name="menu_apps">Other Apps</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Your device</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your device name</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Group Owner</string>
+    <string name="attachment_summary_on">Your device will be controlling connection</string>
+    <string name="attachment_summary_off">Your device will be client</string>
+
+    <string name="not_connected">No device connected, go to \'Devices in range\' tab</string>
+    <string name="not_discovered">No device discovered, make sure the WiFi is on and TalkieTalkie opened on the other device</string>
+    <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>
+
+    <string name="title_activity_fullscreen">Missing services or permissions</string>
+    <string name="dummy_content">To continue using this application make sure:\n- WiFi is enabled and finding nearby devices allowed,\n- location is enabled and access allowed,\n- recording audio is allowed\n\nthen open the application again</string>
+    <string name="dummy_button">OK</string>
+    <string name="enableLocation">Location is required to discover other devices. Do you want turn it on?</string>
+    <string name="enableWifi">WiFi is required to connect to other device. Do you want turn it on?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="privacy_policy_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/talkietalkie/privacy-policy</string>
+
+    <string name="ad_app_id" translatable="false">ca-app-pub-4377490341302105~5612510981</string>
+    <string name="app_open_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/6813912011</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/3066238693</string>
+</resources>
