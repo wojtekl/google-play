@@ -4,14 +4,14 @@
     {
       "name": "Złoty Potok",
       "description": "",
-      "latitude": "50.70916",
-      "longitude": "19.43295"
+      "latitude": 50.70916,
+      "longitude": 19.43295
     },
     {
       "name": "Częstochowa, Dworzec Autobusowy",
       "description": "",
-      "latitude": "50.80573",
-      "longitude": "19.11836"
+      "latitude": 50.80573,
+      "longitude": 19.11836
     }
   ]
 }
