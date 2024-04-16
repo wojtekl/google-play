@@ -1,17 +1,131 @@
 {
-  "updated": 1713291435104,
+  "updated": 1713293060264,
   "places": [
     {
-      "name": "Złoty Potok",
+      "name": "Brzyszów, Olsztyńska",
       "description": "",
-      "latitude": 50.70914,
-      "longitude": 19.43295
+      "latitude": 0,
+      "longitude": 0
     },
     {
-      "name": "Złoty Potok, os. Parkowe",
+      "name": "Brzyszów, Szkoła",
       "description": "",
-      "latitude": 50.71461,
-      "longitude": 19.43578
+      "latitude": 50.79712,
+      "longitude": 19.27994
+    },
+    {
+      "name": "Ciecierzyn",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Czepurka",
+      "description": "",
+      "latitude": 50.74956,
+      "longitude": 19.38943
+    },
+    {
+      "name": "Czepurka, I",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Berger",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Bugajska",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, C.H. Jagielończycy",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Dworzec Autobusowy",
+      "description": "",
+      "latitude": 50.80573,
+      "longitude": 19.11836
+    },
+    {
+      "name": "Częstochowa, Hallera",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Koksownia",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Kręciwilk",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Okrzei",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Plac Daszyńskiego",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Rakowska",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Rondo Mickiewicza",
+      "description": "",
+      "latitude": 50.8019,
+      "longitude": 19.11772
+    },
+    {
+      "name": "Częstochowa, Rynek Narutowicza",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Stary Rynek",
+      "description": "",
+      "latitude": 50.8119,
+      "longitude": 19.12826
+    },
+    {
+      "name": "Częstochowa, Wspólna",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "name": "Częstochowa, Zawodzie - Szpital",
+      "description": "",
+      "latitude": 50.81188,
+      "longitude": 19.13465
     },
     {
       "name": "Janów",
@@ -26,34 +140,10 @@
       "longitude": 19.42494
     },
     {
-      "name": "Piasek",
-      "description": "",
-      "latitude": 50.73369,
-      "longitude": 19.39715
-    },
-    {
-      "name": "Czepurka",
-      "description": "",
-      "latitude": 50.74956,
-      "longitude": 19.38943
-    },
-    {
       "name": "Lusławice, III Centrum",
       "description": "",
       "latitude": 50.76809,
       "longitude": 19.39647
-    },
-    {
-      "name": "Zagórze",
-      "description": "",
-      "latitude": 50.77528,
-      "longitude": 19.37418
-    },
-    {
-      "name": "Małusy Wielkie, Szkoła",
-      "description": "",
-      "latitude": 50.79465,
-      "longitude": 19.32858
     },
     {
       "name": "Małusy Wielkie, Kościół",
@@ -62,34 +152,46 @@
       "longitude": 19.32079
     },
     {
+      "name": "Małusy Wielkie, Szkoła",
+      "description": "",
+      "latitude": 50.79465,
+      "longitude": 19.32858
+    },
+    {
       "name": "Olsztyn, Rynek",
       "description": "",
       "latitude": 50.75021,
       "longitude": 19.26852
     },
     {
-      "name": "Częstochowa, Rondo Mickiewicza",
+      "name": "Piasek",
       "description": "",
-      "latitude": 50.8019,
-      "longitude": 19.11772
+      "latitude": 50.73369,
+      "longitude": 19.39715
     },
     {
-      "name": "Częstochowa, Zawodzie - Szpital",
+      "name": "Zagórze",
       "description": "",
-      "latitude": 50.81188,
-      "longitude": 19.13465
+      "latitude": 50.77528,
+      "longitude": 19.37418
     },
     {
-      "name": "Częstochowa, Stary Rynek",
+      "name": "Złoty Potok",
       "description": "",
-      "latitude": 50.8119,
-      "longitude": 19.12826
+      "latitude": 50.70914,
+      "longitude": 19.43295
     },
     {
-      "name": "Częstochowa, Dworzec Autobusowy",
+      "name": "Złoty Potok, os. Parkowe",
       "description": "",
-      "latitude": 50.80573,
-      "longitude": 19.11836
+      "latitude": 50.71461,
+      "longitude": 19.43578
+    },
+    {
+      "name": "Żuraw, II",
+      "description": "",
+      "latitude": 0,
+      "longitude": 0
     }
   ]
 }
