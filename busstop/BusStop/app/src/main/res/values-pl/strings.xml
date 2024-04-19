@@ -31,6 +31,7 @@
     <string name="route">Trasa</string>
     <string name="filter">Filtruj</string>
     <string name="description">A - Poniedziałek - Piątek\nS - Dni nauki szkolnej\n6 - Soboty</string>
+    <string name="see_journey">Przejdź do Mapy by zobaczyć trasę</string>
 
     <string name="privacy_policy_title">Polityka prywatności</string>
 </resources>
