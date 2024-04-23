@@ -2,6 +2,12 @@
   "updated": 1713296737241,
   "places": [
     {
+      "name": "Bolesławów",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Brzyszów, Olsztyńska",
       "description": "",
       "latitude": 0.0,
@@ -14,7 +20,13 @@
       "longitude": 19.27994
     },
     {
-      "name": "Ciecierzyn",
+      "name": "Bystrzanowice",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Celiny",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
@@ -56,6 +68,18 @@
       "longitude": 19.11836
     },
     {
+      "name": "Częstochowa, Estakada",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Częstochowa, Galeria Jurajska",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Częstochowa, Hallera",
       "description": "",
       "latitude": 0.0,
@@ -74,7 +98,19 @@
       "longitude": 0.0
     },
     {
+      "name": "Częstochowa, Krakowska",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Częstochowa, Kręciwilk",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Częstochowa, Mała",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
@@ -116,6 +152,12 @@
       "longitude": 19.12826
     },
     {
+      "name": "Częstochowa, Stroma",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Częstochowa, Wspólna",
       "description": "",
       "latitude": 0.0,
@@ -126,6 +168,12 @@
       "description": "",
       "latitude": 50.81188,
       "longitude": 19.13465
+    },
+    {
+      "name": "Drochlin, Wieś",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Janów",
@@ -140,6 +188,30 @@
       "longitude": 19.42494
     },
     {
+      "name": "Julianka",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Kobyłczyce, Krzyżówki",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Kobyłczyce, Okupniki",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Kobyłczyce, Remiza",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Krasawa",
       "description": "",
       "latitude": 0.0,
@@ -147,6 +219,36 @@
     },
     {
       "name": "Krasawa, Zapasieka",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lelów, Rynek",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lgoczanka, I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lgota Błotna, Pod Ślęzanami",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lgota Błotna, Skrzyżowanie",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lipnik",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
@@ -248,6 +350,18 @@
       "longitude": 19.39715
     },
     {
+      "name": "Podlesie",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Podlesie, Pustkowie",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Przymiłowice, Kasztanowa",
       "description": "",
       "latitude": 50.74728,
@@ -264,6 +378,24 @@
       "description": "",
       "latitude": 50.75248,
       "longitude": 19.30833
+    },
+    {
+      "name": "Przyrów, Bloki",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Przyrów, Ośrodek Zdrowia",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Przyrów, Rynek",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Siedlec, Krzyże",
@@ -296,7 +428,25 @@
       "longitude": 0.0
     },
     {
+      "name": "Sieraków, I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Sieraków, II",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Skowronów",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Skowronów, I",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
@@ -314,6 +464,48 @@
       "longitude": 0.0
     },
     {
+      "name": "Stanisławów",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Staromieście",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Staromieście, Borowiec I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Staropole, OSP",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Wiercica, I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Wiercica, IV",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Wiercica, OSP",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Zagórze",
       "description": "",
       "latitude": 50.77528,
@@ -326,7 +518,49 @@
       "longitude": 0.0
     },
     {
+      "name": "Zalesice, Koszary",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zalesice, Wieś",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zarębice, OSP",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zarębice, PGR (górka)",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zarębice, OSP",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Zrębice, Ciecierzyn",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zrębice, Główna",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zrębice, Leśniczówka",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
@@ -362,10 +596,46 @@
       "longitude": 19.43578
     },
     {
+      "name": "Ślęzany, Bysów",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Śmiertny Dąb",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żuraw, Centrum",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żuraw, I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Żuraw, II",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
-    }
+    },
+    {
+      "name": "Żuraw, Kolonia Żurawska",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żuraw, Kościół",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
   ]
 }
