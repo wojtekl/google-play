@@ -1,11 +1,11 @@
 {
-  "updated": 1713296737241,
+  "updated": 1713866779254,
   "places": [
     {
       "name": "Bolesławów",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.76643,
+      "longitude": 19.57962
     },
     {
       "name": "Brzyszów, Olsztyńska",
@@ -22,14 +22,14 @@
     {
       "name": "Bystrzanowice",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.70494,
+      "longitude": 19.5339
     },
     {
       "name": "Celiny",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.74138,
+      "longitude": 19.62386
     },
     {
       "name": "Czepurka",
@@ -172,8 +172,8 @@
     {
       "name": "Drochlin, Wieś",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.72795,
+      "longitude": 19.63902
     },
     {
       "name": "Janów",
@@ -190,26 +190,26 @@
     {
       "name": "Julianka",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.76354,
+      "longitude": 19.47364
     },
     {
       "name": "Kobyłczyce, Krzyżówki",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79772,
+      "longitude": 19.37671
     },
     {
       "name": "Kobyłczyce, Okupniki",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.7969,
+      "longitude": 19.35574
     },
     {
       "name": "Kobyłczyce, Remiza",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79715,
+      "longitude": 19.36692
     },
     {
       "name": "Krasawa",
@@ -226,8 +226,8 @@
     {
       "name": "Lelów, Rynek",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.68354,
+      "longitude": 19.62458
     },
     {
       "name": "Lgoczanka, I",
@@ -250,8 +250,8 @@
     {
       "name": "Lipnik",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.77438,
+      "longitude": 19.43363
     },
     {
       "name": "Lusławice, I Kolonia",
@@ -352,14 +352,14 @@
     {
       "name": "Podlesie",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.7543,
+      "longitude": 19.60522
     },
     {
       "name": "Podlesie, Pustkowie",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.75237,
+      "longitude": 19.56864
     },
     {
       "name": "Przymiłowice, Kasztanowa",
@@ -388,14 +388,14 @@
     {
       "name": "Przyrów, Ośrodek Zdrowia",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79805,
+      "longitude": 19.52365
     },
     {
       "name": "Przyrów, Rynek",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80174,
+      "longitude": 19.5272
     },
     {
       "name": "Siedlec, Krzyże",
@@ -466,8 +466,8 @@
     {
       "name": "Stanisławów",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79154,
+      "longitude": 19.54129
     },
     {
       "name": "Staromieście",
@@ -484,8 +484,8 @@
     {
       "name": "Staropole, OSP",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.76852,
+      "longitude": 19.53124
     },
     {
       "name": "Wiercica, I",
@@ -502,8 +502,8 @@
     {
       "name": "Wiercica, OSP",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.77806,
+      "longitude": 19.51522
     },
     {
       "name": "Zagórze",
@@ -532,8 +532,8 @@
     {
       "name": "Zarębice, OSP",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79249,
+      "longitude": 19.5498
     },
     {
       "name": "Zarębice, PGR (górka)",
@@ -542,7 +542,7 @@
       "longitude": 0.0
     },
     {
-      "name": "Zarębice, OSP",
+      "name": "Zarębice, Wieś",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
@@ -598,8 +598,8 @@
     {
       "name": "Ślęzany, Bysów",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.67568,
+      "longitude": 19.58874
     },
     {
       "name": "Śmiertny Dąb",
@@ -610,8 +610,8 @@
     {
       "name": "Żuraw, Centrum",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.78415,
+      "longitude": 19.40625
     },
     {
       "name": "Żuraw, I",
@@ -628,14 +628,14 @@
     {
       "name": "Żuraw, Kolonia Żurawska",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79362,
+      "longitude": 19.39253
     },
     {
       "name": "Żuraw, Kościół",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.78486,
+      "longitude": 19.39879
     },
   ]
 }
