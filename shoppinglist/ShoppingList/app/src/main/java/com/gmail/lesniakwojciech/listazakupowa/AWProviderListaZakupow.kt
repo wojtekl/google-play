@@ -46,7 +46,7 @@ class AWProviderListaZakupow : AppWidgetProvider() {
                     context,
                     0,
                     Intent(context, ActivityMain::class.java),
-                    0
+                    PendingIntent.FLAG_IMMUTABLE
                 )
             )
             appWidgetManager.updateAppWidget(id, views)

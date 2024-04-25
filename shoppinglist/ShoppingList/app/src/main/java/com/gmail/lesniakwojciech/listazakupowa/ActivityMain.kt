@@ -119,7 +119,7 @@ class ActivityMain : AppCompatActivity(), RepositoryListaZakupow.IRepository {
                     .Builder(this, getString(R.string.app_name))
                     .setShortLabel(label)
                     .setLongLabel(label)
-                    .setIcon(Icon.createWithResource(this, R.drawable.ic_launcher))
+                    .setIcon(Icon.createWithResource(this, R.mipmap.ic_launcher_round))
                     .setIntent(intent)
                     .build()
             )

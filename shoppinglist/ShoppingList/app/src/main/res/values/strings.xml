@@ -26,4 +26,6 @@
     <string name="produkty_spolecznosci">Community products</string>
     <string name="udostepnij_tekst">Hi! Try out Shopping List for Android. Get it from Google Play:\n</string>
     <string name="adres_API">API address</string>
+
+    <string name="app_open_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/8998910004</string>
 </resources>

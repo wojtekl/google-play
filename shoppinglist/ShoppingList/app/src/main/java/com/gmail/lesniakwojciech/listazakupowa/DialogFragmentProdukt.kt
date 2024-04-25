@@ -63,7 +63,7 @@ class DialogFragmentProdukt : DialogFragment() {
             else R.style.AppTheme_AlertOverlay
         )
             .setView(view)
-            .setNegativeButton(R.string.zaniechaj) { di, i -> listener.onDialogNegativeClick(this@DialogFragmentProdukt) }
+            .setNegativeButton(R.string.zaniechaj) { _, i -> listener.onDialogNegativeClick(this@DialogFragmentProdukt) }
             .setPositiveButton(R.string.zachowaj) { di, i ->
                 listener.onDialogPositiveClick(
                     this@DialogFragmentProdukt,

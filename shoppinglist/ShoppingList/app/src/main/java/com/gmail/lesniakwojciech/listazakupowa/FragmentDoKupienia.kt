@@ -80,7 +80,7 @@ class FragmentDoKupienia : Fragment(), DialogListener {
                                                         )
                                                         .putExtra(
                                                             ActivityKomunikat.IE_IKONA,
-                                                            R.drawable.ic_launcher
+                                                            R.mipmap.ic_launcher_round
                                                         )
                                                         .putExtra(
                                                             ActivityKomunikat.IE_TYTUL,
@@ -200,15 +200,10 @@ class FragmentDoKupienia : Fragment(), DialogListener {
     }
 
     private fun wyslijListe(context: Context) {
-        if (0 < adapterListaZakupow.itemCount && Zetony(context).sprawdzZetony(
-                Zetony.ZETONY_WYSLIJLISTE, true, view
-            )
-        ) {
-            Wiadomosci.obraz(
-                context, UkrytaWiadomosc(context, adapterListaZakupow.getDatasetJSON())
-                    .przygotuj(R.raw.ic_launcher, R.string.nazwa_pliku)
-            )
-        }
+        Wiadomosci.obraz(
+            context, UkrytaWiadomosc(context, adapterListaZakupow.getDatasetJSON())
+                .przygotuj(R.raw.ic_launcher, R.string.nazwa_pliku)
+        )
     }
 
     private fun ustawKoszt() {

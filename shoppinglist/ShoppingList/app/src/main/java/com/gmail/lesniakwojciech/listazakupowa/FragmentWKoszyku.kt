@@ -73,7 +73,7 @@ class FragmentWKoszyku : Fragment(), DialogListener {
                                                         )
                                                         .putExtra(
                                                             ActivityKomunikat.IE_IKONA,
-                                                            R.drawable.ic_launcher
+                                                            R.mipmap.ic_launcher_round
                                                         )
                                                         .putExtra(
                                                             ActivityKomunikat.IE_TYTUL,
