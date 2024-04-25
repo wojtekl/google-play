@@ -17,6 +17,7 @@
     <string name="attachment_summary_on">Twoje urządzenie będzie kontrolować połączenie</string>
     <string name="attachment_summary_off">Twoje urządzenie będzie klientem</string>
 
+    <string name="hold_button">Trzymaj ten przycisk aby mówić</string>
     <string name="not_connected">Brak połączonych urządzeń, przejdź do zakładki \"Urządzenia w zasięgu\"</string>
     <string name="not_discovered">Nie znaleziono urządzeń, upewnij się że WiFi jest włączone oraz TalkieTalkie jest uruchomione na innym urządzeniu</string>
 

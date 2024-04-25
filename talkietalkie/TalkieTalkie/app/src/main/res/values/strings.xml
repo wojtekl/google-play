@@ -24,6 +24,7 @@
     <string name="attachment_summary_on">Your device will be controlling connection</string>
     <string name="attachment_summary_off">Your device will be client</string>
 
+    <string name="hold_button">Hold this button to talk</string>
     <string name="not_connected">No device connected, go to \'Devices in range\' tab</string>
     <string name="not_discovered">No device discovered, make sure the WiFi is on and TalkieTalkie opened on the other device</string>
     <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>
