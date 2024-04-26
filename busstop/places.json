@@ -1,5 +1,5 @@
 {
-  "updated": 1713866779254,
+  "updated": 1714122538622,
   "places": [
     {
       "name": "Bolesławów",
@@ -10,8 +10,8 @@
     {
       "name": "Brzyszów, Olsztyńska",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79731,
+      "longitude": 19.26865
     },
     {
       "name": "Brzyszów, Szkoła",
@@ -214,8 +214,8 @@
     {
       "name": "Krasawa",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.71271,
+      "longitude": 19.33822
     },
     {
       "name": "Krasawa, Zapasieka",
@@ -232,20 +232,20 @@
     {
       "name": "Lgoczanka, I",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.69602,
+      "longitude": 19.54949
     },
     {
       "name": "Lgota Błotna, Pod Ślęzanami",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.67894,
+      "longitude": 19.5781
     },
     {
       "name": "Lgota Błotna, Skrzyżowanie",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.68505,
+      "longitude": 19.56837
     },
     {
       "name": "Lipnik",
@@ -256,8 +256,8 @@
     {
       "name": "Lusławice, I Kolonia",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.77345,
+      "longitude": 19.39819
     },
     {
       "name": "Lusławice, II Szkoła",
@@ -292,8 +292,8 @@
     {
       "name": "Małusy Wielkie",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79376,
+      "longitude": 19.3394
     },
     {
       "name": "Małusy Wielkie, Kościół",
@@ -400,8 +400,8 @@
     {
       "name": "Siedlec, Krzyże",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.69436,
+      "longitude": 19.38062
     },
     {
       "name": "Siedlec, Piekło",
@@ -442,26 +442,26 @@
     {
       "name": "Skowronów",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.73628,
+      "longitude": 19.38045
     },
     {
       "name": "Skowronów, I",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.73713,
+      "longitude": 19.36661
     },
     {
       "name": "Srocko",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79746,
+      "longitude": 19.24672
     },
     {
       "name": "Srocko, Sklep",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79744,
+      "longitude": 19.25633
     },
     {
       "name": "Stanisławów",
@@ -514,8 +514,8 @@
     {
       "name": "Zagórze, I",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.78344,
+      "longitude": 19.36081
     },
     {
       "name": "Zalesice, Koszary",
@@ -550,20 +550,20 @@
     {
       "name": "Zrębice, Ciecierzyn",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.74239,
+      "longitude": 19.32901
     },
     {
       "name": "Zrębice, Główna",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.74297,
+      "longitude": 19.33014
     },
     {
       "name": "Zrębice, Leśniczówka",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.74137,
+      "longitude": 19.34496
     },
     {
       "name": "Zrębice, Rędziny",
@@ -622,8 +622,8 @@
     {
       "name": "Żuraw, II",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.77718,
+      "longitude": 19.3981
     },
     {
       "name": "Żuraw, Kolonia Żurawska",
