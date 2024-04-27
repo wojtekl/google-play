@@ -1,5 +1,5 @@
 {
-  "updated": 1713866779254,
+  "updated": 1714196737709,
   "busStops": [
     {
       "departing": "05:25",
@@ -36621,6 +36621,2580 @@
       "details": "",
       "route": "10",
       "journey": "16"
+    },
+    {
+      "departing": "06:10",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:30",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:45",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:45",
+      "info": "S",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:28",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:30",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:14",
+      "info": "6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:34",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:49",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:49",
+      "info": "S",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:32",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:34",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:16",
+      "info": "6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:36",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:51",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:51",
+      "info": "S",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:34",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:36",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:20",
+      "info": "6",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:40",
+      "info": "A",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:55",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:55",
+      "info": "S",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:38",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:40",
+      "info": "A",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:21",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:41",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:56",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:56",
+      "info": "S",
+      "start": "Żarki, Olesiów",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:39",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:41",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:22",
+      "info": "6",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:42",
+      "info": "A",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:57",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:57",
+      "info": "S",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:40",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:42",
+      "info": "A",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:23",
+      "info": "6",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:43",
+      "info": "A",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:58",
+      "info": "A, 6",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:58",
+      "info": "S",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:41",
+      "info": "A, 6",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:43",
+      "info": "A",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:24",
+      "info": "6",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:44",
+      "info": "A",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "10:59",
+      "info": "A, 6",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "11:59",
+      "info": "S",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:42",
+      "info": "A, 6",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:44",
+      "info": "A",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:30",
+      "info": "6",
+      "start": "Moczydło, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:50",
+      "info": "A",
+      "start": "Moczydło, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:05",
+      "info": "A, 6",
+      "start": "Moczydło, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:05",
+      "info": "S",
+      "start": "Moczydło, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:48",
+      "info": "A, 6",
+      "start": "Moczydło, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:50",
+      "info": "A",
+      "start": "Moczydło, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:31",
+      "info": "6",
+      "start": "Moczydło, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:51",
+      "info": "A",
+      "start": "Moczydło, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:06",
+      "info": "A, 6",
+      "start": "Moczydło, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:06",
+      "info": "S",
+      "start": "Moczydło, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:49",
+      "info": "A, 6",
+      "start": "Moczydło, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:51",
+      "info": "A",
+      "start": "Moczydło, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:36",
+      "info": "6",
+      "start": "Trzebniów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:56",
+      "info": "A",
+      "start": "Trzebniów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:11",
+      "info": "A, 6",
+      "start": "Trzebniów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:11",
+      "info": "S",
+      "start": "Trzebniów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:54",
+      "info": "A, 6",
+      "start": "Trzebniów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:56",
+      "info": "A",
+      "start": "Trzebniów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:37",
+      "info": "6",
+      "start": "Trzebniów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:57",
+      "info": "A",
+      "start": "Trzebniów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:12",
+      "info": "A, 6",
+      "start": "Trzebniów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:12",
+      "info": "S",
+      "start": "Trzebniów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:55",
+      "info": "A, 6",
+      "start": "Trzebniów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:57",
+      "info": "A",
+      "start": "Trzebniów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:38",
+      "info": "6",
+      "start": "Trzebniów, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "07:58",
+      "info": "A",
+      "start": "Trzebniów, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:13",
+      "info": "A, 6",
+      "start": "Trzebniów, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:13",
+      "info": "S",
+      "start": "Trzebniów, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "14:56",
+      "info": "A, 6",
+      "start": "Trzebniów, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "16:58",
+      "info": "A",
+      "start": "Trzebniów, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:42",
+      "info": "6",
+      "start": "Ludwinów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:02",
+      "info": "A",
+      "start": "Ludwinów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:17",
+      "info": "A, 6",
+      "start": "Ludwinów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:17",
+      "info": "S",
+      "start": "Ludwinów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:00",
+      "info": "A, 6",
+      "start": "Ludwinów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:02",
+      "info": "A",
+      "start": "Ludwinów, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:44",
+      "info": "6",
+      "start": "Ludwinów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:04",
+      "info": "A",
+      "start": "Ludwinów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:19",
+      "info": "A, 6",
+      "start": "Ludwinów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:19",
+      "info": "S",
+      "start": "Ludwinów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:02",
+      "info": "A, 6",
+      "start": "Ludwinów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:04",
+      "info": "A",
+      "start": "Ludwinów, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:45",
+      "info": "6",
+      "start": "Gorzków Nowy, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:05",
+      "info": "A",
+      "start": "Gorzków Nowy, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:20",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:20",
+      "info": "S",
+      "start": "Gorzków Nowy, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:03",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:05",
+      "info": "A",
+      "start": "Gorzków Nowy, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:46",
+      "info": "6",
+      "start": "Gorzków Nowy, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:06",
+      "info": "A",
+      "start": "Gorzków Nowy, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:21",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:21",
+      "info": "S",
+      "start": "Gorzków Nowy, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:04",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:06",
+      "info": "A",
+      "start": "Gorzków Nowy, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:47",
+      "info": "6",
+      "start": "Gorzków Stary",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:07",
+      "info": "A",
+      "start": "Gorzków Stary",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:22",
+      "info": "A, 6",
+      "start": "Gorzków Stary",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:22",
+      "info": "S",
+      "start": "Gorzków Stary",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:05",
+      "info": "A, 6",
+      "start": "Gorzków Stary",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:07",
+      "info": "A",
+      "start": "Gorzków Stary",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:51",
+      "info": "6",
+      "start": "Postaszowice, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:11",
+      "info": "A",
+      "start": "Postaszowice, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:26",
+      "info": "A, 6",
+      "start": "Postaszowice, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:26",
+      "info": "S",
+      "start": "Postaszowice, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:09",
+      "info": "A, 6",
+      "start": "Postaszowice, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:11",
+      "info": "A",
+      "start": "Postaszowice, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "06:56",
+      "info": "6",
+      "start": "Niegowa, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:16",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:31",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:31",
+      "info": "S",
+      "start": "Niegowa, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:14",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:16",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "07:01",
+      "info": "6",
+      "start": "Ogorzelnik, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:21",
+      "info": "A",
+      "start": "Ogorzelnik, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:36",
+      "info": "A, 6",
+      "start": "Ogorzelnik, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:36",
+      "info": "S",
+      "start": "Ogorzelnik, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:19",
+      "info": "A, 6",
+      "start": "Ogorzelnik, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:21",
+      "info": "A",
+      "start": "Ogorzelnik, III",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "07:05",
+      "info": "6",
+      "start": "Bobolice, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "1"
+    },
+    {
+      "departing": "08:25",
+      "info": "A",
+      "start": "Bobolice, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "2"
+    },
+    {
+      "departing": "11:40",
+      "info": "A, 6",
+      "start": "Bobolice, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "3"
+    },
+    {
+      "departing": "12:40",
+      "info": "S",
+      "start": "Bobolice, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "4"
+    },
+    {
+      "departing": "15:23",
+      "info": "A, 6",
+      "start": "Bobolice, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "5"
+    },
+    {
+      "departing": "17:25",
+      "info": "A",
+      "start": "Bobolice, I",
+      "destination": "Bobolice, I",
+      "details": "",
+      "route": "11",
+      "journey": "6"
+    },
+    {
+      "departing": "04:30",
+      "info": "A, 6",
+      "start": "Bobolice, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:30",
+      "info": "A",
+      "start": "Bobolice, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:30",
+      "info": "6",
+      "start": "Bobolice, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:30",
+      "info": "A",
+      "start": "Bobolice, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:30",
+      "info": "S",
+      "start": "Bobolice, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:30",
+      "info": "A, 6",
+      "start": "Bobolice, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:30",
+      "info": "A",
+      "start": "Bobolice, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:34",
+      "info": "A, 6",
+      "start": "Ogorzelnik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:34",
+      "info": "A",
+      "start": "Ogorzelnik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:34",
+      "info": "6",
+      "start": "Ogorzelnik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:34",
+      "info": "A",
+      "start": "Ogorzelnik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:34",
+      "info": "S",
+      "start": "Ogorzelnik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:34",
+      "info": "A, 6",
+      "start": "Ogorzelnik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:34",
+      "info": "A",
+      "start": "Ogorzelnik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:39",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:39",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:39",
+      "info": "6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:39",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:39",
+      "info": "S",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:39",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:39",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:44",
+      "info": "A, 6",
+      "start": "Postaszowice, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:44",
+      "info": "A",
+      "start": "Postaszowice, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:44",
+      "info": "6",
+      "start": "Postaszowice, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:44",
+      "info": "A",
+      "start": "Postaszowice, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:44",
+      "info": "S",
+      "start": "Postaszowice, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:44",
+      "info": "A, 6",
+      "start": "Postaszowice, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:44",
+      "info": "A",
+      "start": "Postaszowice, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:48",
+      "info": "A, 6",
+      "start": "Gorzków Stary",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:48",
+      "info": "A",
+      "start": "Gorzków Stary",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:48",
+      "info": "6",
+      "start": "Gorzków Stary",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:48",
+      "info": "A",
+      "start": "Gorzków Stary",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:48",
+      "info": "S",
+      "start": "Gorzków Stary",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:48",
+      "info": "A, 6",
+      "start": "Gorzków Stary",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:48",
+      "info": "A",
+      "start": "Gorzków Stary",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:49",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:49",
+      "info": "A",
+      "start": "Gorzków Nowy, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:49",
+      "info": "6",
+      "start": "Gorzków Nowy, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:49",
+      "info": "A",
+      "start": "Gorzków Nowy, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:49",
+      "info": "S",
+      "start": "Gorzków Nowy, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:49",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:49",
+      "info": "A",
+      "start": "Gorzków Nowy, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:50",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:50",
+      "info": "A",
+      "start": "Gorzków Nowy, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:50",
+      "info": "6",
+      "start": "Gorzków Nowy, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:50",
+      "info": "A",
+      "start": "Gorzków Nowy, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:50",
+      "info": "S",
+      "start": "Gorzków Nowy, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:50",
+      "info": "A, 6",
+      "start": "Gorzków Nowy, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:50",
+      "info": "A",
+      "start": "Gorzków Nowy, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:51",
+      "info": "A, 6",
+      "start": "Ludwinów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:51",
+      "info": "A",
+      "start": "Ludwinów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:51",
+      "info": "6",
+      "start": "Ludwinów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:51",
+      "info": "A",
+      "start": "Ludwinów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:51",
+      "info": "S",
+      "start": "Ludwinów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:51",
+      "info": "A, 6",
+      "start": "Ludwinów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:51",
+      "info": "A",
+      "start": "Ludwinów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:53",
+      "info": "A, 6",
+      "start": "Ludwinów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:53",
+      "info": "A",
+      "start": "Ludwinów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:53",
+      "info": "6",
+      "start": "Ludwinów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:53",
+      "info": "A",
+      "start": "Ludwinów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:53",
+      "info": "S",
+      "start": "Ludwinów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:53",
+      "info": "A, 6",
+      "start": "Ludwinów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:53",
+      "info": "A",
+      "start": "Ludwinów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:57",
+      "info": "A, 6",
+      "start": "Trzebniów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:57",
+      "info": "A",
+      "start": "Trzebniów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:57",
+      "info": "6",
+      "start": "Trzebniów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:57",
+      "info": "A",
+      "start": "Trzebniów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:57",
+      "info": "S",
+      "start": "Trzebniów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:57",
+      "info": "A, 6",
+      "start": "Trzebniów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:57",
+      "info": "A",
+      "start": "Trzebniów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:58",
+      "info": "A, 6",
+      "start": "Trzebniów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:58",
+      "info": "A",
+      "start": "Trzebniów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:58",
+      "info": "6",
+      "start": "Trzebniów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:58",
+      "info": "A",
+      "start": "Trzebniów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:58",
+      "info": "S",
+      "start": "Trzebniów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:58",
+      "info": "A, 6",
+      "start": "Trzebniów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:58",
+      "info": "A",
+      "start": "Trzebniów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "04:59",
+      "info": "A, 6",
+      "start": "Trzebniów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "06:59",
+      "info": "A",
+      "start": "Trzebniów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "07:59",
+      "info": "6",
+      "start": "Trzebniów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "08:59",
+      "info": "A",
+      "start": "Trzebniów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "09:59",
+      "info": "S",
+      "start": "Trzebniów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "12:59",
+      "info": "A, 6",
+      "start": "Trzebniów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "15:59",
+      "info": "A",
+      "start": "Trzebniów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:04",
+      "info": "A, 6",
+      "start": "Moczydło, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:04",
+      "info": "A",
+      "start": "Moczydło, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:04",
+      "info": "6",
+      "start": "Moczydło, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:04",
+      "info": "A",
+      "start": "Moczydło, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:04",
+      "info": "S",
+      "start": "Moczydło, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:04",
+      "info": "A, 6",
+      "start": "Moczydło, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:04",
+      "info": "A",
+      "start": "Moczydło, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:05",
+      "info": "A, 6",
+      "start": "Moczydło, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:05",
+      "info": "A",
+      "start": "Moczydło, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:05",
+      "info": "6",
+      "start": "Moczydło, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:05",
+      "info": "A",
+      "start": "Moczydło, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:05",
+      "info": "S",
+      "start": "Moczydło, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:05",
+      "info": "A, 6",
+      "start": "Moczydło, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:05",
+      "info": "A",
+      "start": "Moczydło, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:11",
+      "info": "A, 6",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:11",
+      "info": "A",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:11",
+      "info": "6",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:11",
+      "info": "A",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:11",
+      "info": "S",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:11",
+      "info": "A, 6",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:11",
+      "info": "A",
+      "start": "Żarki, ul. Leśniowska ( parking )",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:12",
+      "info": "A, 6",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:12",
+      "info": "A",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:12",
+      "info": "6",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:12",
+      "info": "A",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:12",
+      "info": "S",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:12",
+      "info": "A, 6",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:12",
+      "info": "A",
+      "start": "Żarki, ul. Wierzbowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:13",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:13",
+      "info": "A",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:13",
+      "info": "6",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:13",
+      "info": "A",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:13",
+      "info": "S",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:13",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:13",
+      "info": "A",
+      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:14",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:14",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:14",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:14",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:14",
+      "info": "S",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:14",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:14",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:15",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:15",
+      "info": "A",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:15",
+      "info": "6",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:15",
+      "info": "A",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:15",
+      "info": "S",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:15",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:15",
+      "info": "A",
+      "start": "Żarki, Myszkowska/Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:19",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:19",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:19",
+      "info": "6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:19",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:19",
+      "info": "S",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:19",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:19",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:21",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:21",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:21",
+      "info": "6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:21",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:21",
+      "info": "S",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:21",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:21",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
+    },
+    {
+      "departing": "05:25",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "1"
+    },
+    {
+      "departing": "07:25",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "2"
+    },
+    {
+      "departing": "08:25",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "3"
+    },
+    {
+      "departing": "09:25",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "4"
+    },
+    {
+      "departing": "10:25",
+      "info": "S",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "5"
+    },
+    {
+      "departing": "13:25",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "6"
+    },
+    {
+      "departing": "16:25",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "12",
+      "journey": "7"
     }
   ]
 }
