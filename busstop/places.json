@@ -1,5 +1,5 @@
 {
-  "updated": 1714206021404,
+  "updated": 1714330498701,
   "places": [
     {
       "name": "Bobolice, I",
@@ -182,10 +182,22 @@
       "longitude": 19.63902
     },
     {
-      "name": "Gorzków Stary",
+      "name": "Gorzków Nowy, I",
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
+    },
+    {
+      "name": "Gorzków Nowy, II",
+      "description": "",
+      "latitude": 50.67847,
+      "longitude": 19.47172
+    },
+    {
+      "name": "Gorzków Stary",
+      "description": "",
+      "latitude": 50.68006,
+      "longitude": 19.49154
     },
     {
       "name": "Janów",
@@ -268,8 +280,8 @@
     {
       "name": "Ludwinów, I",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.67756,
+      "longitude": 19.44489
     },
     {
       "name": "Ludwinów, II",
@@ -330,6 +342,12 @@
       "description": "",
       "latitude": 50.79465,
       "longitude": 19.32858
+    },
+    {
+      "name": "Myszków, Plac Dworcowy II",
+      "description": "",
+      "latitude": 50.57495,
+      "longitude": 19.32938
     },
     {
       "name": "Olsztyn, Odrzykoń",
@@ -512,6 +530,24 @@
       "longitude": 19.53124
     },
     {
+      "name": "Trzebniów, I",
+      "description": "",
+      "latitude": 50.65995,
+      "longitude": 19.43667
+    },
+    {
+      "name": "Trzebniów, II",
+      "description": "",
+      "latitude": 50.66398,
+      "longitude": 19.43527
+    },
+    {
+      "name": "Trzebniów, III",
+      "description": "",
+      "latitude": 50.66871,
+      "longitude": 19.4348
+    },
+    {
       "name": "Wiercica, I",
       "description": "",
       "latitude": 0.0,
@@ -660,6 +696,6 @@
       "description": "",
       "latitude": 50.78486,
       "longitude": 19.39879
-    },
+    }
   ]
 }
