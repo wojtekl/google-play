@@ -36787,7 +36787,7 @@
     {
       "departing": "06:20",
       "info": "6",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36796,7 +36796,7 @@
     {
       "departing": "07:40",
       "info": "A",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36805,7 +36805,7 @@
     {
       "departing": "10:55",
       "info": "A, 6",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36814,7 +36814,7 @@
     {
       "departing": "11:55",
       "info": "S",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36823,7 +36823,7 @@
     {
       "departing": "14:38",
       "info": "A, 6",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36832,7 +36832,7 @@
     {
       "departing": "16:40",
       "info": "A",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -38947,7 +38947,7 @@
     {
       "departing": "05:15",
       "info": "A, 6",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38956,7 +38956,7 @@
     {
       "departing": "07:15",
       "info": "A",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38965,7 +38965,7 @@
     {
       "departing": "08:15",
       "info": "6",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38974,7 +38974,7 @@
     {
       "departing": "09:15",
       "info": "A",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38983,7 +38983,7 @@
     {
       "departing": "10:15",
       "info": "S",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38992,7 +38992,7 @@
     {
       "departing": "13:15",
       "info": "A, 6",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -39001,7 +39001,7 @@
     {
       "departing": "16:15",
       "info": "A",
-      "start": "Żarki, Myszkowska/Połomia/",
+      "start": "Żarki, Myszkowska /Połomia/",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -39195,6 +39195,5865 @@
       "details": "",
       "route": "12",
       "journey": "7"
+    },
+    {
+      "departing": "05:40",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:10",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:40",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "08:50",
+      "info": "7",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:15",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:30",
+      "info": "7",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:00",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:18",
+      "info": "A, C",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:15",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:10",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:28",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:10",
+      "info": "7",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:30",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "19:45",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:25",
+      "info": "7",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:20",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:44",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:14",
+      "info": "6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:44",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "08:54",
+      "info": "7",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:19",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:34",
+      "info": "7",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:04",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:22",
+      "info": "A, C",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:19",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:14",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:32",
+      "info": "6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:14",
+      "info": "7",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:34",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "19:49",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:29",
+      "info": "7",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:24",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:45",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:15",
+      "info": "6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:45",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "08:55",
+      "info": "7",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:20",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:35",
+      "info": "7",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:05",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:23",
+      "info": "A, C",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:20",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:15",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:33",
+      "info": "6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:15",
+      "info": "7",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:35",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "19:50",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:30",
+      "info": "7",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:25",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:48",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:18",
+      "info": "6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:48",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "08:58",
+      "info": "7",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:23",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:38",
+      "info": "7",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:08",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:26",
+      "info": "A, C",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:23",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:18",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:36",
+      "info": "6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:18",
+      "info": "7",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:38",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "19:53",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:33",
+      "info": "7",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:28",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:50",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:20",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:50",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:00",
+      "info": "7",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:25",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:40",
+      "info": "7",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:10",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:28",
+      "info": "A, C",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:25",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:20",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:38",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:20",
+      "info": "7",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:40",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "19:55",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:35",
+      "info": "7",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:30",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:52",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:22",
+      "info": "6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:52",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:02",
+      "info": "7",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:27",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:42",
+      "info": "7",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:12",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:30",
+      "info": "A, C",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:27",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:22",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:40",
+      "info": "6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:22",
+      "info": "7",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:42",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "19:57",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:37",
+      "info": "7",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:32",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:57",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:27",
+      "info": "6",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:57",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:07",
+      "info": "7",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:32",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:47",
+      "info": "7",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:17",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:35",
+      "info": "A, C",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:32",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:27",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:45",
+      "info": "6",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:27",
+      "info": "7",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:47",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:02",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:42",
+      "info": "7",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:37",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:58",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:28",
+      "info": "6",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:58",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:08",
+      "info": "7",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:33",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:48",
+      "info": "7",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:18",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:36",
+      "info": "A, C",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:33",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:28",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:46",
+      "info": "6",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:28",
+      "info": "7",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:48",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:03",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:43",
+      "info": "7",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:38",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "05:59",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:29",
+      "info": "6",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "07:59",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:09",
+      "info": "7",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:34",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:49",
+      "info": "7",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:19",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:37",
+      "info": "A, C",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:34",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:29",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:47",
+      "info": "6",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:29",
+      "info": "7",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:49",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:04",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:44",
+      "info": "7",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:39",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:01",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:31",
+      "info": "6",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:01",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:11",
+      "info": "7",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:36",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:51",
+      "info": "7",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:21",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:39",
+      "info": "A, C",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:36",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:31",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:49",
+      "info": "6",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:31",
+      "info": "7",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:51",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:06",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:46",
+      "info": "7",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:41",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:04",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:34",
+      "info": "6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:04",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:14",
+      "info": "7",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:39",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:54",
+      "info": "7",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:24",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:42",
+      "info": "A, C",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:39",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:34",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:52",
+      "info": "6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:34",
+      "info": "7",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:54",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:09",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:49",
+      "info": "7",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:44",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:07",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:37",
+      "info": "6",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:07",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:17",
+      "info": "7",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:42",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:57",
+      "info": "7",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:27",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:45",
+      "info": "A, C",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:42",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:37",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:55",
+      "info": "6",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:37",
+      "info": "7",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:57",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:12",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:52",
+      "info": "7",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:47",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:09",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:39",
+      "info": "6",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:09",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:19",
+      "info": "7",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:44",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "11:59",
+      "info": "7",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:29",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:47",
+      "info": "A, C",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:44",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:39",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "17:57",
+      "info": "6",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:39",
+      "info": "7",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "17:59",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:14",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:54",
+      "info": "7",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:49",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:12",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:42",
+      "info": "6",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:12",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:22",
+      "info": "7",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:47",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:02",
+      "info": "7",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:32",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:50",
+      "info": "A, C",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:47",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:42",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:00",
+      "info": "6",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:42",
+      "info": "7",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:02",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:17",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:57",
+      "info": "7",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:52",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:13",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:43",
+      "info": "6",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:13",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:23",
+      "info": "7",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:48",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:03",
+      "info": "7",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:33",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:51",
+      "info": "A, C",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:48",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:43",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:01",
+      "info": "6",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:43",
+      "info": "7",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:03",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:18",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "20:58",
+      "info": "7",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:53",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:15",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:45",
+      "info": "6",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:15",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:25",
+      "info": "7",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:50",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:05",
+      "info": "7",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:35",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:53",
+      "info": "A, C",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:50",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:45",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:03",
+      "info": "6",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:45",
+      "info": "7",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:05",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:20",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "21:00",
+      "info": "7",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:55",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:16",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:46",
+      "info": "6",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:16",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:26",
+      "info": "7",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:51",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:06",
+      "info": "7",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:36",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:54",
+      "info": "A, C",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:51",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:46",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:04",
+      "info": "6",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:46",
+      "info": "7",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:06",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:21",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "21:01",
+      "info": "7",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:56",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:17",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:47",
+      "info": "6",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:17",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:27",
+      "info": "7",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:52",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:07",
+      "info": "7",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:37",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:55",
+      "info": "A, C",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:52",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:47",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:05",
+      "info": "6",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:47",
+      "info": "7",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:07",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:22",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "21:02",
+      "info": "7",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "22:57",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:20",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:50",
+      "info": "6",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:20",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:30",
+      "info": "7",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:55",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:10",
+      "info": "7",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:40",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:58",
+      "info": "A, C",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:55",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:50",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:08",
+      "info": "6",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:50",
+      "info": "7",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:10",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:25",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "21:05",
+      "info": "7",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "23:00",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:21",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:51",
+      "info": "6",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:21",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:31",
+      "info": "7",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:56",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:11",
+      "info": "7",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:41",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "14:59",
+      "info": "A, C",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:56",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:51",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:09",
+      "info": "6",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:51",
+      "info": "7",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:11",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:26",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "21:06",
+      "info": "7",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "23:01",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "06:22",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "1"
+    },
+    {
+      "departing": "07:52",
+      "info": "6",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "2"
+    },
+    {
+      "departing": "08:22",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "3"
+    },
+    {
+      "departing": "09:32",
+      "info": "7",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "4"
+    },
+    {
+      "departing": "10:57",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "5"
+    },
+    {
+      "departing": "12:12",
+      "info": "7",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "6"
+    },
+    {
+      "departing": "12:42",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "7"
+    },
+    {
+      "departing": "15:00",
+      "info": "A, C",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "8"
+    },
+    {
+      "departing": "15:57",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "9"
+    },
+    {
+      "departing": "16:52",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "10"
+    },
+    {
+      "departing": "18:10",
+      "info": "6",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "11"
+    },
+    {
+      "departing": "18:52",
+      "info": "7",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "12"
+    },
+    {
+      "departing": "18:12",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "13"
+    },
+    {
+      "departing": "20:27",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "14"
+    },
+    {
+      "departing": "21:07",
+      "info": "7",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "15"
+    },
+    {
+      "departing": "23:02",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Dąbrowno, III",
+      "details": "",
+      "route": "13",
+      "journey": "16"
+    },
+    {
+      "departing": "04:50",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "06:50",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:00",
+      "info": "C",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:30",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:20",
+      "info": "7",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:10",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "12:50",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:15",
+      "info": "7",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:15",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:00",
+      "info": "6",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:30",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:10",
+      "info": "6",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:35",
+      "info": "A",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "18:50",
+      "info": "7",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "20:55",
+      "info": "A, 6",
+      "start": "Dąbrowno, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "04:51",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "06:51",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:01",
+      "info": "C",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:31",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:21",
+      "info": "7",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:11",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "12:51",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:16",
+      "info": "7",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:16",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:01",
+      "info": "6",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:31",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:11",
+      "info": "6",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:36",
+      "info": "A",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "18:51",
+      "info": "7",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "20:56",
+      "info": "A, 6",
+      "start": "Dąbrowno, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "04:52",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "06:52",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:02",
+      "info": "C",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:32",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:22",
+      "info": "7",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:12",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "12:52",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:17",
+      "info": "7",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:17",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:02",
+      "info": "6",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:32",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:12",
+      "info": "6",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:37",
+      "info": "A",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "18:52",
+      "info": "7",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "20:57",
+      "info": "A, 6",
+      "start": "Dąbrowno, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "04:55",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "06:55",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:05",
+      "info": "C",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:35",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:25",
+      "info": "7",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:15",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "12:55",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:20",
+      "info": "7",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:20",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:05",
+      "info": "6",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:35",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:15",
+      "info": "6",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:40",
+      "info": "A",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "18:55",
+      "info": "7",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:00",
+      "info": "A, 6",
+      "start": "Mzurów, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "04:56",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "06:56",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:06",
+      "info": "C",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:36",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:26",
+      "info": "7",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:16",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "12:56",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:21",
+      "info": "7",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:21",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:06",
+      "info": "6",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:36",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:16",
+      "info": "6",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:41",
+      "info": "A",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "18:56",
+      "info": "7",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:01",
+      "info": "A, 6",
+      "start": "Mzurów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "04:57",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "06:57",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:07",
+      "info": "C",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:37",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:27",
+      "info": "7",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:17",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "12:57",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:22",
+      "info": "7",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:22",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:07",
+      "info": "6",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:37",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:17",
+      "info": "6",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:42",
+      "info": "A",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "18:57",
+      "info": "7",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:02",
+      "info": "A, 6",
+      "start": "Mzurów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "04:59",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "06:59",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:09",
+      "info": "C",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:39",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:29",
+      "info": "7",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:19",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "12:59",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:24",
+      "info": "7",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:24",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:09",
+      "info": "6",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:39",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:19",
+      "info": "6",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:44",
+      "info": "A",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "18:59",
+      "info": "7",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:04",
+      "info": "A, 6",
+      "start": "Niegowa, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:00",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:00",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:10",
+      "info": "C",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:40",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:30",
+      "info": "7",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:20",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:00",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:25",
+      "info": "7",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:25",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:10",
+      "info": "6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:40",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:20",
+      "info": "6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:45",
+      "info": "A",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:00",
+      "info": "7",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:05",
+      "info": "A, 6",
+      "start": "Niegowa, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:03",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:03",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:13",
+      "info": "C",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:43",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:33",
+      "info": "7",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:23",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:03",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:28",
+      "info": "7",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:28",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:13",
+      "info": "6",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:43",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:23",
+      "info": "6",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:48",
+      "info": "A",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:03",
+      "info": "7",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:08",
+      "info": "A, 6",
+      "start": "Łutowiec",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:05",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:05",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:15",
+      "info": "C",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:45",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:35",
+      "info": "7",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:25",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:05",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:30",
+      "info": "7",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:30",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:15",
+      "info": "6",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:45",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:25",
+      "info": "6",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:50",
+      "info": "A",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:05",
+      "info": "7",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:10",
+      "info": "A, 6",
+      "start": "Mirów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:08",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:08",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:18",
+      "info": "C",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:48",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:38",
+      "info": "7",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:28",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:08",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:33",
+      "info": "7",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:33",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:18",
+      "info": "6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:48",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:28",
+      "info": "6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:53",
+      "info": "A",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:08",
+      "info": "7",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:13",
+      "info": "A, 6",
+      "start": "Kotowice, Zamkowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:11",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:11",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:21",
+      "info": "C",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:51",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:41",
+      "info": "7",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:31",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:11",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:36",
+      "info": "7",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:36",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:21",
+      "info": "6",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:51",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:31",
+      "info": "6",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:56",
+      "info": "A",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:11",
+      "info": "7",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:16",
+      "info": "A, 6",
+      "start": "Jaworznik, IV",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:13",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:13",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:23",
+      "info": "C",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:53",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:43",
+      "info": "7",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:33",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:13",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:38",
+      "info": "7",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:38",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:23",
+      "info": "6",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:53",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:33",
+      "info": "6",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:58",
+      "info": "A",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:13",
+      "info": "7",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:18",
+      "info": "A, 6",
+      "start": "Jaworznik, III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:14",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:14",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:24",
+      "info": "C",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:54",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:44",
+      "info": "7",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:34",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:14",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:39",
+      "info": "7",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:39",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:24",
+      "info": "6",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:54",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:34",
+      "info": "6",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "18:59",
+      "info": "A",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:14",
+      "info": "7",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:19",
+      "info": "A, 6",
+      "start": "Jaworznik, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:15",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:15",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:25",
+      "info": "C",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "08:55",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:45",
+      "info": "7",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:35",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:15",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:40",
+      "info": "7",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:40",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:25",
+      "info": "6",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "16:55",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:35",
+      "info": "6",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "19:00",
+      "info": "A",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:15",
+      "info": "7",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:20",
+      "info": "A, 6",
+      "start": "Jaworznik, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:20",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:20",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:30",
+      "info": "C",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "09:00",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:50",
+      "info": "7",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:40",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:20",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:45",
+      "info": "7",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:45",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:30",
+      "info": "6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "17:00",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:40",
+      "info": "6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "19:05",
+      "info": "A",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:20",
+      "info": "7",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:25",
+      "info": "A, 6",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:22",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:22",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:32",
+      "info": "C",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "09:02",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:52",
+      "info": "7",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:42",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:22",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:47",
+      "info": "7",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:47",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:32",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "17:02",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:42",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "19:07",
+      "info": "A",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:22",
+      "info": "7",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:27",
+      "info": "A, 6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:24",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:24",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:34",
+      "info": "C",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "09:04",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:54",
+      "info": "7",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:44",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:24",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:49",
+      "info": "7",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:49",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:34",
+      "info": "6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "17:04",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:44",
+      "info": "6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "19:09",
+      "info": "A",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:24",
+      "info": "7",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:29",
+      "info": "A, 6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:27",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:27",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:37",
+      "info": "C",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "09:07",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:57",
+      "info": "7",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:47",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:27",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:52",
+      "info": "7",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:52",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:37",
+      "info": "6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "17:07",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:47",
+      "info": "6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "19:12",
+      "info": "A",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:27",
+      "info": "7",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:32",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki III",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:28",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:28",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:38",
+      "info": "C",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "09:08",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "10:58",
+      "info": "7",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:48",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:28",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:53",
+      "info": "7",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:53",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:38",
+      "info": "6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "17:08",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:48",
+      "info": "6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "19:13",
+      "info": "A",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:28",
+      "info": "7",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:33",
+      "info": "A, 6",
+      "start": "Myszków, Kościuszki II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
+    },
+    {
+      "departing": "05:32",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "1"
+    },
+    {
+      "departing": "07:32",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "2"
+    },
+    {
+      "departing": "08:42",
+      "info": "C",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "3"
+    },
+    {
+      "departing": "09:12",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "4"
+    },
+    {
+      "departing": "11:02",
+      "info": "7",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "5"
+    },
+    {
+      "departing": "11:52",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "6"
+    },
+    {
+      "departing": "13:32",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "7"
+    },
+    {
+      "departing": "13:57",
+      "info": "7",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "8"
+    },
+    {
+      "departing": "15:57",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "9"
+    },
+    {
+      "departing": "16:42",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "10"
+    },
+    {
+      "departing": "17:12",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "11"
+    },
+    {
+      "departing": "18:52",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "12"
+    },
+    {
+      "departing": "19:17",
+      "info": "A",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "13"
+    },
+    {
+      "departing": "19:32",
+      "info": "7",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "14"
+    },
+    {
+      "departing": "21:37",
+      "info": "A, 6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "route": "14",
+      "journey": "15"
     }
   ]
 }
