@@ -2,6 +2,12 @@
   "updated": 1714206021404,
   "places": [
     {
+      "name": "Bobolice, I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
       "name": "Bolesławów",
       "description": "",
       "latitude": 50.76643,
@@ -76,8 +82,8 @@
     {
       "name": "Częstochowa, Galeria Jurajska",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80726,
+      "longitude": 19.12769
     },
     {
       "name": "Częstochowa, Hallera",
@@ -88,8 +94,8 @@
     {
       "name": "Częstochowa, I Aleja Najświętszej Maryi Panny",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.81176,
+      "longitude": 19.11927
     },
     {
       "name": "Częstochowa, Koksownia",
@@ -100,8 +106,8 @@
     {
       "name": "Częstochowa, Krakowska",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80107,
+      "longitude": 19.13043
     },
     {
       "name": "Częstochowa, Kręciwilk",
@@ -112,8 +118,8 @@
     {
       "name": "Częstochowa, Mała",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80232,
+      "longitude": 19.12924
     },
     {
       "name": "Częstochowa, Okrzei",
@@ -174,6 +180,12 @@
       "description": "",
       "latitude": 50.72795,
       "longitude": 19.63902
+    },
+    {
+      "name": "Gorzków Stary",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
     },
     {
       "name": "Janów",
@@ -252,6 +264,18 @@
       "description": "",
       "latitude": 50.77438,
       "longitude": 19.43363
+    },
+    {
+      "name": "Ludwinów, I",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
+    },
+    {
+      "name": "Ludwinów, II",
+      "description": "",
+      "latitude": 50.67874,
+      "longitude": 19.4538
     },
     {
       "name": "Lusławice, I Kolonia",
@@ -472,14 +496,14 @@
     {
       "name": "Staromieście",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.67225,
+      "longitude": 19.60396
     },
     {
       "name": "Staromieście, Borowiec I",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.67654,
+      "longitude": 19.61144
     },
     {
       "name": "Staropole, OSP",
@@ -520,14 +544,14 @@
     {
       "name": "Zalesice, Koszary",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.77088,
+      "longitude": 19.48293
     },
     {
       "name": "Zalesice, Wieś",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.77285,
+      "longitude": 19.48703
     },
     {
       "name": "Zarębice, OSP",
