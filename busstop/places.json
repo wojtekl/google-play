@@ -1,5 +1,5 @@
 {
-  "updated": 1714122538622,
+  "updated": 1714206021404,
   "places": [
     {
       "name": "Bolesławów",
@@ -46,14 +46,14 @@
     {
       "name": "Częstochowa, Berger",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80086,
+      "longitude": 19.19205
     },
     {
       "name": "Częstochowa, Bugajska",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.76701,
+      "longitude": 19.16581
     },
     {
       "name": "Częstochowa, C.H. Jagielończycy",
@@ -82,8 +82,8 @@
     {
       "name": "Częstochowa, Hallera",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80755,
+      "longitude": 19.16762
     },
     {
       "name": "Częstochowa, I Aleja Najświętszej Maryi Panny",
@@ -94,8 +94,8 @@
     {
       "name": "Częstochowa, Koksownia",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80434,
+      "longitude": 19.1828
     },
     {
       "name": "Częstochowa, Krakowska",
@@ -106,8 +106,8 @@
     {
       "name": "Częstochowa, Kręciwilk",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.76352,
+      "longitude": 19.1827
     },
     {
       "name": "Częstochowa, Mała",
@@ -118,8 +118,8 @@
     {
       "name": "Częstochowa, Okrzei",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.78121,
+      "longitude": 19.14545
     },
     {
       "name": "Częstochowa, Plac Daszyńskiego",
@@ -130,8 +130,8 @@
     {
       "name": "Częstochowa, Rakowska",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.77329,
+      "longitude": 19.15589
     },
     {
       "name": "Częstochowa, Rondo Mickiewicza",
@@ -154,14 +154,14 @@
     {
       "name": "Częstochowa, Stroma",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.79304,
+      "longitude": 19.12718
     },
     {
       "name": "Częstochowa, Wspólna",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.80799,
+      "longitude": 19.14855
     },
     {
       "name": "Częstochowa, Zawodzie - Szpital",
@@ -406,8 +406,8 @@
     {
       "name": "Siedlec, Piekło",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.70293,
+      "longitude": 19.35944
     },
     {
       "name": "Siedlec, Polna",
@@ -418,8 +418,8 @@
     {
       "name": "Siedlec, k/Janowa",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.69231,
+      "longitude": 19.39093
     },
     {
       "name": "Siedlec, skrz. k/Janowa",
