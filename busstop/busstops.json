@@ -1,5 +1,5 @@
 {
-  "updated": 1714285231963,
+  "updated": 1714286026298,
   "busStops": [
     {
       "departing": "05:25",
@@ -36895,7 +36895,7 @@
     {
       "departing": "06:22",
       "info": "6",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36904,7 +36904,7 @@
     {
       "departing": "07:42",
       "info": "A",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36913,7 +36913,7 @@
     {
       "departing": "10:57",
       "info": "A, 6",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36922,7 +36922,7 @@
     {
       "departing": "11:57",
       "info": "S",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36931,7 +36931,7 @@
     {
       "departing": "14:40",
       "info": "A, 6",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -36940,7 +36940,7 @@
     {
       "departing": "16:42",
       "info": "A",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Bobolice, I",
       "details": "",
       "route": "11",
@@ -38821,7 +38821,7 @@
     {
       "departing": "05:13",
       "info": "A, 6",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38830,7 +38830,7 @@
     {
       "departing": "07:13",
       "info": "A",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38839,7 +38839,7 @@
     {
       "departing": "08:13",
       "info": "6",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38848,7 +38848,7 @@
     {
       "departing": "09:13",
       "info": "A",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38857,7 +38857,7 @@
     {
       "departing": "10:13",
       "info": "S",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38866,7 +38866,7 @@
     {
       "departing": "13:13",
       "info": "A, 6",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
@@ -38875,7 +38875,7 @@
     {
       "departing": "16:13",
       "info": "A",
-      "start": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "start": "Żarki, Żwirki i Wigury (Pl. Ks. Gietyngiera)",
       "destination": "Myszków, Plac Dworcowy II",
       "details": "",
       "route": "12",
