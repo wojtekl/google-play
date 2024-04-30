@@ -33,7 +33,7 @@ class ActivityWczytaj : AppCompatActivity() {
     }
 
     private fun wczytajListe(uri: Uri, ustawienia: Ustawienia) {
-        if (Build.VERSION_CODES.M <= Build.VERSION.SDK_INT && !Permissions.requestPermission(
+        /*if (Build.VERSION_CODES.M <= Build.VERSION.SDK_INT && !Permissions.requestPermission(
                 this,
                 Manifest.permission.READ_EXTERNAL_STORAGE,
                 Manifest.permission_group.STORAGE,
@@ -41,9 +41,9 @@ class ActivityWczytaj : AppCompatActivity() {
             )
         ) {
             return
-        }
+        }*/
         val wiadomosc = UkrytaWiadomosc(this)
-        if (!wiadomosc.odczytaj(uri, 3331)) {
+        if (!wiadomosc.odczytaj(uri, 29309)) {
             finish()
             return
         }

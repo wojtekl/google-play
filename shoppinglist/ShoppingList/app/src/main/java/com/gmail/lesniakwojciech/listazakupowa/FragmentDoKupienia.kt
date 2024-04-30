@@ -2,15 +2,28 @@ package com.gmail.lesniakwojciech.listazakupowa
 
 import android.content.Context
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
-import android.view.*
+import android.view.ActionMode
+import android.view.LayoutInflater
+import android.view.Menu
+import android.view.MenuInflater
+import android.view.MenuItem
+import android.view.View
+import android.view.ViewGroup
 import androidx.core.content.res.ResourcesCompat
 import androidx.fragment.app.DialogFragment
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.gmail.lesniakwojciech.commons.*
+import com.gmail.lesniakwojciech.commons.ActivityKomunikat
+import com.gmail.lesniakwojciech.commons.AsyncTaskRzadanie
 import com.gmail.lesniakwojciech.commons.AsyncTaskRzadanie.Response
+import com.gmail.lesniakwojciech.commons.OnItemClickListener
+import com.gmail.lesniakwojciech.commons.Permissions
+import com.gmail.lesniakwojciech.commons.UkrytaWiadomosc
+import com.gmail.lesniakwojciech.commons.Wiadomosci
+import com.gmail.lesniakwojciech.commons.Zetony
 import com.gmail.lesniakwojciech.listazakupowa.DialogFragmentProdukt.DialogListener
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
@@ -100,6 +113,7 @@ class FragmentDoKupienia : Fragment(), DialogListener {
                             mode.finish()
                             true
                         }
+
                         R.id.fdcUaktualnij -> {
                             DialogFragmentProdukt.newInstance(
                                 this@FragmentDoKupienia,
@@ -110,6 +124,7 @@ class FragmentDoKupienia : Fragment(), DialogListener {
                             mode.finish()
                             true
                         }
+
                         R.id.fdcUsun -> {
                             adapterListaZakupow.moveItem(
                                 position,
@@ -119,6 +134,7 @@ class FragmentDoKupienia : Fragment(), DialogListener {
                             mode.finish()
                             true
                         }
+
                         else -> false
                     }
                 }
@@ -176,25 +192,32 @@ class FragmentDoKupienia : Fragment(), DialogListener {
                 wyslijListeSMSem()
                 true
             }
+
             R.id.fdkoWyslijListe -> {
                 wyslijListe(context!!)
                 true
             }
+
             R.id.fdkoWyczysc -> {
                 adapterListaZakupow.moveAll(RepositoryListaZakupow.Lista.PRODUKTY)
                 ustawKoszt()
                 true
             }
+
             else -> super.onOptionsItemSelected(mi)
         }
     }
 
     private fun wyslijListeSMSem() {
-        val intent = Wiadomosci.tekst(
-            requireContext().packageManager,
-            adapterListaZakupow.repository.doWyslania(getString(R.string.do_kupienia))
-        )
-        if (null != intent) {
+        if (adapterListaZakupow.repository.doWyslania(getString(R.string.do_kupienia))
+                .isNotBlank()
+        ) {
+            val intent = Intent(Intent.ACTION_SENDTO)
+                .setData(Uri.parse("smsto:"))
+                .putExtra(
+                    "sms_body",
+                    adapterListaZakupow.repository.doWyslania(getString(R.string.do_kupienia))
+                )
             startActivity(intent)
         }
     }
@@ -202,7 +225,7 @@ class FragmentDoKupienia : Fragment(), DialogListener {
     private fun wyslijListe(context: Context) {
         Wiadomosci.obraz(
             context, UkrytaWiadomosc(context, adapterListaZakupow.getDatasetJSON())
-                .przygotuj(R.raw.ic_launcher, R.string.nazwa_pliku)
+                .przygotuj(R.raw.qr_code, R.string.nazwa_pliku)
         )
     }
 
