@@ -46,7 +46,7 @@
             app:title="@string/departure_title"
             app:summary="@string/departure_summary"
             android:max="99"
-            app:defaultValue="30"
+            app:defaultValue="45"
             app:showSeekBarValue="true" />
 
     </PreferenceCategory>

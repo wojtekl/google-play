@@ -3,7 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">BusStop</string>
-    <string name="nav_header_subtitle" translatable="false">v1.0.2</string>
+    <string name="nav_header_subtitle" translatable="false">v1.1.0</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
@@ -33,9 +33,10 @@
 
     <string name="updating">Updating schedule, please wait…</string>
     <string name="minutes" translatable="false">min.</string>
+    <string name="via">via</string>
     <string name="route">Route</string>
     <string name="filter">Filter</string>
-    <string name="description">A - Monday - Friday\nS - School Days\n6 - Saturdays\nC - Weekends and holidays</string>
+    <string name="description">A - Monday - Friday\nS - School Days\n6 - Saturdays\n7 - Sundays\nC - Weekends and holidays</string>
     <string name="see_journey">Go to Map to see journey details</string>
     <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>
 
