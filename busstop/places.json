@@ -1,11 +1,11 @@
 {
-  "updated": 1714567829433,
+  "updated": 1714637506064,
   "places": [
     {
       "name": "Bobolice, I",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.61103,
+      "longitude": 19.49804
     },
     {
       "name": "Bolesławów",
@@ -666,6 +666,30 @@
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
+    },
+    {
+      "name": "Żarki, Myszkowska/Połomia/",
+      "description": "",
+      "latitude": 50.60716,
+      "longitude": 19.35611
+    },
+    {
+      "name": "Żarki, Olesiów",
+      "description": "",
+      "latitude": 50.61661,
+      "longitude": 19.36022
+    },
+    {
+      "name": "Żarki, ul. Leśniowska ( parking )",
+      "description": "",
+      "latitude": 50.63124,
+      "longitude": 19.3757
+    },
+    {
+      "name": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "description": "",
+      "latitude": 50.62474,
+      "longitude": 19.36434
     },
     {
       "name": "Żuraw, Centrum",

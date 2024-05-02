@@ -1,5 +1,5 @@
 {
-  "updated": 1714567829433,
+  "updated": 1714637506064,
   "busStops": [
       {
           "departing": "05:25",
@@ -45054,6 +45054,1293 @@
           "details": "",
           "route": "14",
           "journey": "15"
+      },
+      {
+        "departing": "08:35",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:05",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:35",
+        "info": "S",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:15",
+        "info": "S",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "12:50",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:35",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:38",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:08",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:38",
+        "info": "S",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:18",
+        "info": "S",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "12:53",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:38",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:39",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:09",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:39",
+        "info": "S",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:19",
+        "info": "S",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "12:54",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:39",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:42",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:12",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:42",
+        "info": "S",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:22",
+        "info": "S",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "12:57",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:42",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:43",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:13",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:43",
+        "info": "S",
+        "start": "Żarki, Olesiów",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:23",
+        "info": "S",
+        "start": "Żarki, Olesiów",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "12:58",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:43",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:44",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:14",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:44",
+        "info": "S",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:24",
+        "info": "S",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "12:59",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:44",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:46",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:16",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:46",
+        "info": "S",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:26",
+        "info": "S",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "13:01",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:46",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:47",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:17",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:47",
+        "info": "S",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:27",
+        "info": "S",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "13:02",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:47",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:50",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:20",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:50",
+        "info": "S",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:30",
+        "info": "S",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "13:05",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:50",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:53",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:23",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:53",
+        "info": "S",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:33",
+        "info": "S",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "13:08",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:53",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+    {
+        "departing": "08:56",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "1"
+      },
+      {
+        "departing": "09:26",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "2"
+      },
+      {
+        "departing": "09:56",
+        "info": "S",
+        "start": "Zawada",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "3"
+      },
+      {
+        "departing": "11:36",
+        "info": "S",
+        "start": "Zawada",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "4"
+      },
+      {
+        "departing": "13:11",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "5"
+      },
+      {
+        "departing": "13:56",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Zawada",
+        "details": "",
+        "route": "15",
+        "journey": "6"
+      },
+      {
+        "departing": "07:29",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:10",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:40",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:45",
+        "info": "S",
+        "start": "Zawada",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:44",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:30",
+        "info": "S",
+        "start": "Zawada",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:29",
+        "info": "A",
+        "start": "Zawada",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:32",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:13",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:43",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:48",
+        "info": "S",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:47",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:33",
+        "info": "S",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:32",
+        "info": "A",
+        "start": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:35",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:16",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:46",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:51",
+        "info": "S",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:50",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:36",
+        "info": "S",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:35",
+        "info": "A",
+        "start": "Żarki, ul. Moniuszki",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:38",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:19",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:49",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:54",
+        "info": "S",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:53",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:39",
+        "info": "S",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:38",
+        "info": "A",
+        "start": "Żarki, ul. Częstochowska",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:39",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:20",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:50",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:55",
+        "info": "S",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:54",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:40",
+        "info": "S",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:39",
+        "info": "A",
+        "start": "Żarki, ul. Żwirki I Wigury",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:41",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:22",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:52",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:57",
+        "info": "S",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:56",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:42",
+        "info": "S",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:41",
+        "info": "A",
+        "start": "Żarki, ul. Piaski",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:42",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:23",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:53",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:58",
+        "info": "S",
+        "start": "Żarki, Olesiów",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:57",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:43",
+        "info": "S",
+        "start": "Żarki, Olesiów",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:42",
+        "info": "A",
+        "start": "Żarki, Olesiów",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:43",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:24",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:54",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "10:59",
+        "info": "S",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "11:58",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:44",
+        "info": "S",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:43",
+        "info": "A",
+        "start": "Żarki, Myszkowska/Połomia/",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:46",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:27",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:57",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "11:02",
+        "info": "S",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "12:01",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:47",
+        "info": "S",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:46",
+        "info": "A",
+        "start": "Myszków, Kościuszki III",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:47",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:28",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "09:58",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "11:03",
+        "info": "S",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "12:02",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:48",
+        "info": "S",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:47",
+        "info": "A",
+        "start": "Myszków, Kościuszki II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
+      },
+    {
+        "departing": "07:50",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "1"
+      },
+      {
+        "departing": "08:31",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "2"
+      },
+      {
+        "departing": "10:01",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "3"
+      },
+      {
+        "departing": "11:06",
+        "info": "S",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "4"
+      },
+      {
+        "departing": "12:05",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "5"
+      },
+      {
+        "departing": "12:51",
+        "info": "S",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "6"
+      },
+      {
+        "departing": "14:50",
+        "info": "A",
+        "start": "Myszków, Plac Dworcowy II",
+        "destination": "Myszków, Plac Dworcowy II",
+        "details": "",
+        "route": "16",
+        "journey": "7"
       }
   ]
 }
