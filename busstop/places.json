@@ -1,5 +1,5 @@
 {
-  "updated": 1714637506064,
+  "updated": 1714936928039,
   "places": [
     {
       "name": "Bobolice, I",
@@ -176,6 +176,24 @@
       "longitude": 19.13465
     },
     {
+      "name": "Dąbrowno, I",
+      "description": "",
+      "latitude": 50.66807,
+      "longitude": 19.53059
+    },
+    {
+      "name": "Dąbrowno, II",
+      "description": "",
+      "latitude": 50.66697,
+      "longitude": 19.53988
+    },
+    {
+      "name": "Dąbrowno, III",
+      "description": "",
+      "latitude": 50.67157,
+      "longitude": 19.54189
+    },
+    {
       "name": "Drochlin, Wieś",
       "description": "",
       "latitude": 50.72795,
@@ -212,6 +230,30 @@
       "longitude": 19.42494
     },
     {
+      "name": "Jaworznik, I",
+      "description": "",
+      "latitude": 50.60857,
+      "longitude": 19.39887
+    },
+    {
+      "name": "Jaworznik, II",
+      "description": "",
+      "latitude": 50.60785,
+      "longitude": 19.4091
+    },
+    {
+      "name": "Jaworznik, II",
+      "description": "",
+      "latitude": 50.60346,
+      "longitude": 19.41616
+    },
+    {
+      "name": "Jaworznik, IV",
+      "description": "",
+      "latitude": 50.59778,
+      "longitude": 19.42584
+    },
+    {
       "name": "Julianka",
       "description": "",
       "latitude": 50.76354,
@@ -234,6 +276,12 @@
       "description": "",
       "latitude": 50.79715,
       "longitude": 19.36692
+    },
+    {
+      "name": "Kotowice, Zamkowa",
+      "description": "",
+      "latitude": 50.59653,
+      "longitude": 19.4514
     },
     {
       "name": "Krasawa",
@@ -344,10 +392,34 @@
       "longitude": 19.32858
     },
     {
+      "name": "Mirów, I",
+      "description": "",
+      "latitude": 50.615,
+      "longitude": 19.46803
+    },
+    {
       "name": "Myszków, Plac Dworcowy II",
       "description": "",
       "latitude": 50.57495,
       "longitude": 19.32938
+    },
+    {
+      "name": "Mzurów, I",
+      "description": "",
+      "latitude": 50.65231,
+      "longitude": 19.50583
+    },
+    {
+      "name": "Mzurów, II",
+      "description": "",
+      "latitude": 50.65846,
+      "longitude": 19.50028
+    },
+    {
+      "name": "Mzurów, III",
+      "description": "",
+      "latitude": 50.66445,
+      "longitude": 19.50886
     },
     {
       "name": "Olsztyn, Odrzykoń",
@@ -608,6 +680,12 @@
       "longitude": 0.0
     },
     {
+      "name": "Zawada",
+      "description": "",
+      "latitude": 50.65619,
+      "longitude": 19.37669
+    },
+    {
       "name": "Zrębice, Ciecierzyn",
       "description": "",
       "latitude": 50.74239,
@@ -654,6 +732,12 @@
       "description": "",
       "latitude": 50.71461,
       "longitude": 19.43578
+    },
+    {
+      "name": "Łutowiec",
+      "description": "",
+      "latitude": 50.62746,
+      "longitude": 19.44859
     },
     {
       "name": "Ślęzany, Bysów",
