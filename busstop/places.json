@@ -1,5 +1,5 @@
 {
-  "updated": 1714936928039,
+  "updated": 1714990333463,
   "places": [
     {
       "name": "Bobolice, I",
@@ -422,6 +422,18 @@
       "longitude": 19.50886
     },
     {
+      "name": "Niegowa, II",
+      "description": "",
+      "latitude": 50.64144,
+      "longitude": 19.4824
+    },
+    {
+      "name": "Niegowa, III",
+      "description": "",
+      "latitude": 50.64018,
+      "longitude": 19.49276
+    },
+    {
       "name": "Olsztyn, Odrzykoń",
       "description": "",
       "latitude": 50.76006,
@@ -474,6 +486,12 @@
       "description": "",
       "latitude": 50.75237,
       "longitude": 19.56864
+    },
+    {
+      "name": "Postaszowice, II",
+      "description": "",
+      "latitude": 50.65908,
+      "longitude": 19.47872
     },
     {
       "name": "Przymiłowice, Kasztanowa",
@@ -750,6 +768,12 @@
       "description": "",
       "latitude": 0.0,
       "longitude": 0.0
+    },
+    {
+      "name": "Żarki, ul. Moniuszki",
+      "description": "",
+      "latitude": 50.6326,
+      "longitude": 19.36207
     },
     {
       "name": "Żarki, Myszkowska/Połomia/",
