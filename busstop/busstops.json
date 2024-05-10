@@ -1,5 +1,5 @@
 {
-    "updated": 1715360441020,
+    "updated": 1715365033328,
     "busStops": [
         {
             "departing": "05:25",
@@ -59823,6 +59823,5136 @@
             "details": "",
             "route": "20",
             "journey": "9"
+        },
+        {
+            "departing": "06:40",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:10",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:15",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "14:45",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:30",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:30",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:20",
+            "info": "A",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:30",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:40",
+            "info": "A, C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:43",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:13",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:18",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "14:48",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:33",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:33",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:23",
+            "info": "A",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:33",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:43",
+            "info": "A, C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:45",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:15",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:20",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "14:50",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:35",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:35",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:25",
+            "info": "A",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:35",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:45",
+            "info": "A, C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:47",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:17",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:22",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "14:52",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:37",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:37",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:27",
+            "info": "A",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:37",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:47",
+            "info": "A, C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:49",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:19",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:24",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "14:54",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:39",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:39",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:29",
+            "info": "A",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:39",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:49",
+            "info": "A, C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:51",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:21",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:26",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "14:56",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:41",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:41",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:31",
+            "info": "A",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:41",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:51",
+            "info": "A, C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:53",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:23",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:28",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "14:58",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:43",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:43",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:33",
+            "info": "A",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:43",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:53",
+            "info": "A, C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:55",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:25",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:30",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:00",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:45",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:45",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:35",
+            "info": "A",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:45",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:55",
+            "info": "A, C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:58",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:28",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:33",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:03",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:48",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:48",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:38",
+            "info": "A",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:48",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:58",
+            "info": "A, C",
+            "start": "Rędziny, Wolności",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "06:59",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:29",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:34",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:04",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:49",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:49",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:39",
+            "info": "A",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:49",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "22:59",
+            "info": "A, C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:00",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:30",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:35",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:05",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:50",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:50",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:40",
+            "info": "A",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:50",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:00",
+            "info": "A, C",
+            "start": "Rędziny, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:02",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:32",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:37",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:07",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:52",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:52",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:42",
+            "info": "A",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:52",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:02",
+            "info": "A, C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:04",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:34",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:39",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:09",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:54",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:54",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:44",
+            "info": "A",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:54",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:04",
+            "info": "A, C",
+            "start": "Rudniki, Kościół",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:07",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:37",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:42",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:12",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:57",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:57",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:47",
+            "info": "A",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:57",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:07",
+            "info": "A, C",
+            "start": "Michałów Rudnicki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:09",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:39",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:44",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:14",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "15:59",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "17:59",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:49",
+            "info": "A",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "19:59",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:09",
+            "info": "A, C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:11",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:41",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:46",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:16",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:01",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:01",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:51",
+            "info": "A",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:01",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:11",
+            "info": "A, C",
+            "start": "Chorzenice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:12",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:42",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:47",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:17",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:02",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:02",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:52",
+            "info": "A",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:02",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:12",
+            "info": "A, C",
+            "start": "Witkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:14",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:44",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:49",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:19",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:04",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:04",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:54",
+            "info": "A",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:04",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:14",
+            "info": "A, C",
+            "start": "Nieznanice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:17",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:47",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:52",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:22",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:07",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:07",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:57",
+            "info": "A",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:07",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:17",
+            "info": "A, C",
+            "start": "Zdrowa, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:19",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:49",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:54",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:24",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:09",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:09",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "19:59",
+            "info": "A",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:09",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:19",
+            "info": "A, C",
+            "start": "Zdrowa, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:21",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:51",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:56",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:26",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:11",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:11",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:01",
+            "info": "A",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:11",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:21",
+            "info": "A, C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:22",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:52",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:57",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:27",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:12",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:12",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:02",
+            "info": "A",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:12",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:22",
+            "info": "A, C",
+            "start": "Kłomnice, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:24",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:54",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "11:59",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:29",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:14",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:14",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:04",
+            "info": "A",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:14",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:24",
+            "info": "A, C",
+            "start": "Bartkowice",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:27",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:57",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "12:02",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:32",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:17",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:17",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:07",
+            "info": "A",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:17",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:27",
+            "info": "A, C",
+            "start": "Pacierzów",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:29",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "09:59",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "12:04",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:34",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:19",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:19",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:09",
+            "info": "A",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:19",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:29",
+            "info": "A, C",
+            "start": "Konary",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:30",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "10:00",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "12:05",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:35",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:20",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:20",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:10",
+            "info": "A",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:20",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:30",
+            "info": "A, C",
+            "start": "Konary, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:31",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "10:01",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "12:06",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:36",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:21",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:21",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:11",
+            "info": "A",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:21",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:31",
+            "info": "A, C",
+            "start": "Zawada",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:32",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "10:02",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "12:07",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:37",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:22",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:22",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:12",
+            "info": "A",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:22",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:32",
+            "info": "A, C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:33",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "10:03",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "12:08",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:38",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:23",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:23",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:13",
+            "info": "A",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:23",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:33",
+            "info": "A, C",
+            "start": "Lipicze, II",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "07:34",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "1"
+        },
+        {
+            "departing": "10:04",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "2"
+        },
+        {
+            "departing": "12:09",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "3"
+        },
+        {
+            "departing": "15:39",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "4"
+        },
+        {
+            "departing": "16:24",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "5"
+        },
+        {
+            "departing": "18:24",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "6"
+        },
+        {
+            "departing": "20:14",
+            "info": "A",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "7"
+        },
+        {
+            "departing": "20:24",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "8"
+        },
+        {
+            "departing": "23:34",
+            "info": "A, C",
+            "start": "Lipicze, I",
+            "destination": "Lipicze, I",
+            "details": "Rędziny; Kłomnice",
+            "route": "21",
+            "journey": "9"
+        },
+        {
+            "departing": "04:15",
+            "info": "A, C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:35",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:10",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:15",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:40",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:25",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:15",
+            "info": "A",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:30",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:15",
+            "info": "A",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:30",
+            "info": "C",
+            "start": "Lipicze, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:16",
+            "info": "A, C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:36",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:11",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:16",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:41",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:26",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:16",
+            "info": "A",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:31",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:16",
+            "info": "A",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:31",
+            "info": "C",
+            "start": "Lipicze, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:19",
+            "info": "A, C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:39",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:14",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:19",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:44",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:29",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:19",
+            "info": "A",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:34",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:19",
+            "info": "A",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:34",
+            "info": "C",
+            "start": "Zawada, k/Kłomnic",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:21",
+            "info": "A, C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:41",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:16",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:21",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:46",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:31",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:21",
+            "info": "A",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:36",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:21",
+            "info": "A",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:36",
+            "info": "C",
+            "start": "Zawada",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:23",
+            "info": "A, C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:43",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:18",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:23",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:48",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:33",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:23",
+            "info": "A",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:38",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:23",
+            "info": "A",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:38",
+            "info": "C",
+            "start": "Konary, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:24",
+            "info": "A, C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:44",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:19",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:24",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:49",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:34",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:24",
+            "info": "A",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:39",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:24",
+            "info": "A",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:39",
+            "info": "C",
+            "start": "Konary",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:26",
+            "info": "A, C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:46",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:21",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:26",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:51",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:36",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:26",
+            "info": "A",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:41",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:26",
+            "info": "A",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:41",
+            "info": "C",
+            "start": "Pacierzów",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:29",
+            "info": "A, C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:49",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:24",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:29",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:54",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:39",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:29",
+            "info": "A",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:44",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:29",
+            "info": "A",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:44",
+            "info": "C",
+            "start": "Bartkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:31",
+            "info": "A, C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:51",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:26",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:31",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:56",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:41",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:31",
+            "info": "A",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:46",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:31",
+            "info": "A",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:46",
+            "info": "C",
+            "start": "Kłomnice, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:32",
+            "info": "A, C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:52",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:27",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:32",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:57",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:42",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:32",
+            "info": "A",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:47",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:32",
+            "info": "A",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:47",
+            "info": "C",
+            "start": "Kłomnice, Zdrowska",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:34",
+            "info": "A, C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:54",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:29",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:34",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "13:59",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:44",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:34",
+            "info": "A",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:49",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:34",
+            "info": "A",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:49",
+            "info": "C",
+            "start": "Zdrowa, II",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:36",
+            "info": "A, C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:56",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:31",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:36",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:01",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:46",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:36",
+            "info": "A",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:51",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:36",
+            "info": "A",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:51",
+            "info": "C",
+            "start": "Zdrowa, I",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:39",
+            "info": "A, C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "07:59",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:34",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:39",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:04",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:49",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:39",
+            "info": "A",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:54",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:39",
+            "info": "A",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:54",
+            "info": "C",
+            "start": "Nieznanice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:41",
+            "info": "A, C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:01",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:36",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:41",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:06",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:51",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:41",
+            "info": "A",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:56",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:41",
+            "info": "A",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:56",
+            "info": "C",
+            "start": "Witkowice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:42",
+            "info": "A, C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:02",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:37",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:42",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:07",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:52",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:42",
+            "info": "A",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:57",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:42",
+            "info": "A",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:57",
+            "info": "C",
+            "start": "Chorzenice",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:44",
+            "info": "A, C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:04",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:39",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:44",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:09",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:54",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:44",
+            "info": "A",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "18:59",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:44",
+            "info": "A",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "20:59",
+            "info": "C",
+            "start": "Chorzenice, Mostki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:46",
+            "info": "A, C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:06",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:41",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:46",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:11",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:56",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:46",
+            "info": "A",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:01",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:46",
+            "info": "A",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:01",
+            "info": "C",
+            "start": "Michałów Rudnicki",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:49",
+            "info": "A, C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:09",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:44",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:49",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:14",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "16:59",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:49",
+            "info": "A",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:04",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:49",
+            "info": "A",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:04",
+            "info": "C",
+            "start": "Rudniki, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:51",
+            "info": "A, C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:11",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:46",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:51",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:16",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:01",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:51",
+            "info": "A",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:06",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:51",
+            "info": "A",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:06",
+            "info": "C",
+            "start": "Rędziny, Osiedle",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:53",
+            "info": "A, C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:13",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:48",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:53",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:18",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:03",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:53",
+            "info": "A",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:08",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:53",
+            "info": "A",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:08",
+            "info": "C",
+            "start": "Rędziny, Kościół",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:54",
+            "info": "A, C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:14",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:49",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:54",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:19",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:04",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:54",
+            "info": "A",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:09",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:54",
+            "info": "A",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:09",
+            "info": "C",
+            "start": "Rędziny, Urząd Gminy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:55",
+            "info": "A, C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:15",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:50",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:55",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:20",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:05",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:55",
+            "info": "A",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:10",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:55",
+            "info": "A",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:10",
+            "info": "C",
+            "start": "Rędziny, Wolności",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "04:58",
+            "info": "A, C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:18",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:53",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "12:58",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:23",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:08",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "18:58",
+            "info": "A",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:13",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "20:58",
+            "info": "A",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:13",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Górne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "05:00",
+            "info": "A, C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:20",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:55",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "13:00",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:25",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:10",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "19:00",
+            "info": "A",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:15",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "21:00",
+            "info": "A",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:15",
+            "info": "C",
+            "start": "Częstochowa, Wyczerpy Dolne",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "05:02",
+            "info": "A, C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:22",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:57",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "13:02",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:27",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:12",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "19:02",
+            "info": "A",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:17",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "21:02",
+            "info": "A",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:17",
+            "info": "C",
+            "start": "Częstochowa, Dickensa",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "05:04",
+            "info": "A, C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:24",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "10:59",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "13:04",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:29",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:14",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "19:04",
+            "info": "A",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:19",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "21:04",
+            "info": "A",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:19",
+            "info": "C",
+            "start": "Częstochowa, Cmentarna",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "05:06",
+            "info": "A, C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:26",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "11:01",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "13:06",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:31",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:16",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "19:06",
+            "info": "A",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:21",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "21:06",
+            "info": "A",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:21",
+            "info": "C",
+            "start": "Częstochowa, Rondo Trzech Krzyży",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "05:08",
+            "info": "A, C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:28",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "11:03",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "13:08",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:33",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:18",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "19:08",
+            "info": "A",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:23",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "21:08",
+            "info": "A",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:23",
+            "info": "C",
+            "start": "Częstochowa, Aleja Jana Pawła II – Uniwersytet",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "05:10",
+            "info": "A, C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:30",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "11:05",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "13:10",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:35",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:20",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "19:10",
+            "info": "A",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:25",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "21:10",
+            "info": "A",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:25",
+            "info": "C",
+            "start": "Częstochowa, II Aleja NMP",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
+        },
+        {
+            "departing": "05:13",
+            "info": "A, C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "1"
+        },
+        {
+            "departing": "08:33",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "2"
+        },
+        {
+            "departing": "11:08",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "3"
+        },
+        {
+            "departing": "13:13",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "4"
+        },
+        {
+            "departing": "14:38",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "5"
+        },
+        {
+            "departing": "17:23",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "6"
+        },
+        {
+            "departing": "19:13",
+            "info": "A",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "7"
+        },
+        {
+            "departing": "19:28",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "8"
+        },
+        {
+            "departing": "21:13",
+            "info": "A",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "9"
+        },
+        {
+            "departing": "21:28",
+            "info": "C",
+            "start": "Częstochowa, Dworzec Autobusowy",
+            "destination": "Częstochowa, Dworzec Autobusowy",
+            "details": "",
+            "route": "22",
+            "journey": "10"
         }
     ]
 }
