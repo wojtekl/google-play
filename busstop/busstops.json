@@ -1,5 +1,5 @@
 {
-    "updated": 1715337556690,
+    "updated": 1715338415047,
     "busStops": [
         {
             "departing": "05:25",
@@ -47632,7 +47632,7 @@
         {
             "departing": "06:44",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47641,7 +47641,7 @@
         {
             "departing": "08:59",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47650,7 +47650,7 @@
         {
             "departing": "11:09",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47659,7 +47659,7 @@
         {
             "departing": "11:19",
             "info": "C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47668,7 +47668,7 @@
         {
             "departing": "13:29",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47677,7 +47677,7 @@
         {
             "departing": "14:49",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47686,7 +47686,7 @@
         {
             "departing": "15:54",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47695,7 +47695,7 @@
         {
             "departing": "16:59",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47704,7 +47704,7 @@
         {
             "departing": "17:09",
             "info": "C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47713,7 +47713,7 @@
         {
             "departing": "17:44",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47722,7 +47722,7 @@
         {
             "departing": "19:29",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47731,7 +47731,7 @@
         {
             "departing": "21:36",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47740,7 +47740,7 @@
         {
             "departing": "22:49",
             "info": "C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47983,7 +47983,7 @@
         {
             "departing": "06:48",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -47992,7 +47992,7 @@
         {
             "departing": "09:03",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48001,7 +48001,7 @@
         {
             "departing": "11:13",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48010,7 +48010,7 @@
         {
             "departing": "11:23",
             "info": "C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48019,7 +48019,7 @@
         {
             "departing": "13:33",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48028,7 +48028,7 @@
         {
             "departing": "14:53",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48037,7 +48037,7 @@
         {
             "departing": "15:58",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48046,7 +48046,7 @@
         {
             "departing": "17:03",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48055,7 +48055,7 @@
         {
             "departing": "17:13",
             "info": "C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48064,7 +48064,7 @@
         {
             "departing": "17:48",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48073,7 +48073,7 @@
         {
             "departing": "19:33",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48082,7 +48082,7 @@
         {
             "departing": "21:40",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48091,7 +48091,7 @@
         {
             "departing": "22:53",
             "info": "C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48802,7 +48802,7 @@
         {
             "departing": "07:00",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48811,7 +48811,7 @@
         {
             "departing": "09:15",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48820,7 +48820,7 @@
         {
             "departing": "11:25",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48829,7 +48829,7 @@
         {
             "departing": "11:35",
             "info": "C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48838,7 +48838,7 @@
         {
             "departing": "13:45",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48847,7 +48847,7 @@
         {
             "departing": "15:05",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48856,7 +48856,7 @@
         {
             "departing": "16:10",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48865,7 +48865,7 @@
         {
             "departing": "17:15",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48874,7 +48874,7 @@
         {
             "departing": "17:25",
             "info": "C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48883,7 +48883,7 @@
         {
             "departing": "18:00",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48892,7 +48892,7 @@
         {
             "departing": "19:45",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48901,7 +48901,7 @@
         {
             "departing": "21:52",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -48910,7 +48910,7 @@
         {
             "departing": "23:05",
             "info": "C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49738,7 +49738,7 @@
         {
             "departing": "07:12",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49747,7 +49747,7 @@
         {
             "departing": "09:27",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49756,7 +49756,7 @@
         {
             "departing": "11:37",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49765,7 +49765,7 @@
         {
             "departing": "11:47",
             "info": "C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49774,7 +49774,7 @@
         {
             "departing": "13:57",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49783,7 +49783,7 @@
         {
             "departing": "15:17",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49792,7 +49792,7 @@
         {
             "departing": "16:22",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49801,7 +49801,7 @@
         {
             "departing": "17:27",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49810,7 +49810,7 @@
         {
             "departing": "17:37",
             "info": "C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49819,7 +49819,7 @@
         {
             "departing": "18:12",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49828,7 +49828,7 @@
         {
             "departing": "19:57",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49837,7 +49837,7 @@
         {
             "departing": "22:04",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -49846,7 +49846,7 @@
         {
             "departing": "23:17",
             "info": "C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Dąbrowa Zielona, II",
             "details": "Mstów; Przyrów",
             "route": "17",
@@ -51799,7 +51799,7 @@
         {
             "departing": "04:39",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51808,7 +51808,7 @@
         {
             "departing": "05:39",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51817,7 +51817,7 @@
         {
             "departing": "06:34",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51826,7 +51826,7 @@
         {
             "departing": "07:45",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51835,7 +51835,7 @@
         {
             "departing": "08:54",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51844,7 +51844,7 @@
         {
             "departing": "10:09",
             "info": "C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51853,7 +51853,7 @@
         {
             "departing": "11:34",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51862,7 +51862,7 @@
         {
             "departing": "12:29",
             "info": "C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51871,7 +51871,7 @@
         {
             "departing": "12:39",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51880,7 +51880,7 @@
         {
             "departing": "14:34",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51889,7 +51889,7 @@
         {
             "departing": "15:54",
             "info": "C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51898,7 +51898,7 @@
         {
             "departing": "16:34",
             "info": "A",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51907,7 +51907,7 @@
         {
             "departing": "18:19",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -51916,7 +51916,7 @@
         {
             "departing": "20:34",
             "info": "A, C",
-            "start": "Milioinów, Knieja",
+            "start": "Milionów, Knieja",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52807,7 +52807,7 @@
         {
             "departing": "04:52",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52816,7 +52816,7 @@
         {
             "departing": "05:52",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52825,7 +52825,7 @@
         {
             "departing": "06:47",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52834,7 +52834,7 @@
         {
             "departing": "07:58",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52843,7 +52843,7 @@
         {
             "departing": "09:07",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52852,7 +52852,7 @@
         {
             "departing": "10:22",
             "info": "C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52861,7 +52861,7 @@
         {
             "departing": "11:47",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52870,7 +52870,7 @@
         {
             "departing": "12:42",
             "info": "C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52879,7 +52879,7 @@
         {
             "departing": "12:52",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52888,7 +52888,7 @@
         {
             "departing": "14:47",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52897,7 +52897,7 @@
         {
             "departing": "16:07",
             "info": "C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52906,7 +52906,7 @@
         {
             "departing": "16:47",
             "info": "A",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52915,7 +52915,7 @@
         {
             "departing": "18:32",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -52924,7 +52924,7 @@
         {
             "departing": "20:47",
             "info": "A, C",
-            "start": "Mokrzesz, Czestochowska",
+            "start": "Mokrzesz, Częstochowska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53689,7 +53689,7 @@
         {
             "departing": "05:03",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53698,7 +53698,7 @@
         {
             "departing": "06:03",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53707,7 +53707,7 @@
         {
             "departing": "06:58",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53716,7 +53716,7 @@
         {
             "departing": "08:09",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53725,7 +53725,7 @@
         {
             "departing": "09:18",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53734,7 +53734,7 @@
         {
             "departing": "10:33",
             "info": "C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53743,7 +53743,7 @@
         {
             "departing": "11:58",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53752,7 +53752,7 @@
         {
             "departing": "12:53",
             "info": "C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53761,7 +53761,7 @@
         {
             "departing": "13:03",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53770,7 +53770,7 @@
         {
             "departing": "14:58",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53779,7 +53779,7 @@
         {
             "departing": "16:18",
             "info": "C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53788,7 +53788,7 @@
         {
             "departing": "16:58",
             "info": "A",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53797,7 +53797,7 @@
         {
             "departing": "18:43",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -53806,7 +53806,7 @@
         {
             "departing": "20:58",
             "info": "A, C",
-            "start": "Wnacerzów, Sadowa",
+            "start": "Wancerzów, Sadowa",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54067,7 +54067,7 @@
         {
             "departing": "05:07",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54076,7 +54076,7 @@
         {
             "departing": "06:07",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54085,7 +54085,7 @@
         {
             "departing": "07:02",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54094,7 +54094,7 @@
         {
             "departing": "08:13",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54103,7 +54103,7 @@
         {
             "departing": "09:22",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54112,7 +54112,7 @@
         {
             "departing": "10:37",
             "info": "C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54121,7 +54121,7 @@
         {
             "departing": "12:02",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54130,7 +54130,7 @@
         {
             "departing": "12:57",
             "info": "C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54139,7 +54139,7 @@
         {
             "departing": "13:07",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54148,7 +54148,7 @@
         {
             "departing": "15:02",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54157,7 +54157,7 @@
         {
             "departing": "16:22",
             "info": "C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54166,7 +54166,7 @@
         {
             "departing": "17:02",
             "info": "A",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54175,7 +54175,7 @@
         {
             "departing": "18:47",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
@@ -54184,7 +54184,7 @@
         {
             "departing": "21:02",
             "info": "A, C",
-            "start": "Jasków, Rędzińska",
+            "start": "Jaskrów, Rędzińska",
             "destination": "Częstochowa, Dworzec Autobusowy",
             "details": "",
             "route": "18",
