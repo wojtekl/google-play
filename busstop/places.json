@@ -1,6 +1,19 @@
+
 {
-  "updated": 1715408430115,
+  "updated": 1715416977912,
   "places": [
+    {
+      "name": "Aleksandrówka",
+      "description": "",
+      "latitude": 0.001,
+      "longitude": 0.0
+    },
+    {
+      "name": "Bartkowice",
+      "description": "",
+      "latitude": 0.002,
+      "longitude": 0.0
+    },
     {
       "name": "Bobolice, I",
       "description": "",
@@ -38,6 +51,18 @@
       "longitude": 19.62386
     },
     {
+      "name": "Chorzenice",
+      "description": "",
+      "latitude": 0.003,
+      "longitude": 0.0
+    },
+    {
+      "name": "Chorzenice, Mostki",
+      "description": "",
+      "latitude": 0.004,
+      "longitude": 0.0
+    },
+    {
       "name": "Czepurka",
       "description": "",
       "latitude": 50.74956,
@@ -48,6 +73,24 @@
       "description": "",
       "latitude": 50.75303,
       "longitude": 19.38987
+    },
+    {
+      "name": "Częstochowa, Aleja Jana Pawła II - Uniwersytet",
+      "description": "",
+      "latitude": 0.005,
+      "longitude": 0.0
+    },
+    {
+      "name": "Częstochowa, Aleja Kościuszki",
+      "description": "",
+      "latitude": 0.006,
+      "longitude": 0.0
+    },
+    {
+      "name": "Częstochowa, Batalionów Chłopskich",
+      "description": "",
+      "latitude": 0.007,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Berger",
@@ -66,6 +109,18 @@
       "description": "",
       "latitude": 50.78325,
       "longitude": 19.14341
+    },
+    {
+      "name": "Częstochowa, Cmentarna",
+      "description": "",
+      "latitude": 0.008,
+      "longitude": 0.0
+    },
+    {
+      "name": "Częstochowa, Dickensa",
+      "description": "",
+      "latitude": 0.009,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Dworzec Autobusowy",
@@ -96,6 +151,12 @@
       "description": "",
       "latitude": 50.81176,
       "longitude": 19.11927
+    },
+    {
+      "name": "Częstochowa, II Aleja NMP",
+      "description": "",
+      "latitude": 0.010,
+      "longitude": 0.0
     },
     {
       "name": "Częstochowa, Koksownia",
@@ -146,6 +207,12 @@
       "longitude": 19.11772
     },
     {
+      "name": "Częstochowa, Rondo Trzech Krzyży",
+      "description": "",
+      "latitude": 0.011,
+      "longitude": 0.0
+    },
+    {
       "name": "Częstochowa, Rynek Narutowicza",
       "description": "",
       "latitude": 50.81226,
@@ -170,10 +237,34 @@
       "longitude": 19.14855
     },
     {
+      "name": "Częstochowa, Wyczerpy Dolne",
+      "description": "",
+      "latitude": 0.012,
+      "longitude": 0.0
+    },
+    {
+      "name": "Częstochowa, Wyczerpy Górne",
+      "description": "",
+      "latitude": 0.013,
+      "longitude": 0.0
+    },
+    {
       "name": "Częstochowa, Zawodzie - Szpital",
       "description": "",
       "latitude": 50.81188,
       "longitude": 19.13465
+    },
+    {
+      "name": "Dąbrowa Zielona, II",
+      "description": "",
+      "latitude": 0.014,
+      "longitude": 0.0
+    },
+    {
+      "name": "Dąbrowa Zielona, III",
+      "description": "",
+      "latitude": 0.015,
+      "longitude": 0.0
     },
     {
       "name": "Dąbrowno, I",
@@ -202,7 +293,7 @@
     {
       "name": "Gorzków Nowy, I",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.016,
       "longitude": 0.0
     },
     {
@@ -230,6 +321,36 @@
       "longitude": 19.42494
     },
     {
+      "name": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+      "description": "",
+      "latitude": 0.017,
+      "longitude": 0.0
+    },
+    {
+      "name": "Jaskrów, Częstochowska",
+      "description": "",
+      "latitude": 0.018,
+      "longitude": 0.0
+    },
+    {
+      "name": "Jaskrów, Rędzińska",
+      "description": "",
+      "latitude": 0.019,
+      "longitude": 0.0
+    },
+    {
+      "name": "Jaskrów, Starowiejska",
+      "description": "",
+      "latitude": 0.020,
+      "longitude": 0.0
+    },
+    {
+      "name": "Jaskrów, Wille",
+      "description": "",
+      "latitude": 0.021,
+      "longitude": 0.0
+    },
+    {
       "name": "Jaworznik, I",
       "description": "",
       "latitude": 50.60857,
@@ -254,10 +375,22 @@
       "longitude": 19.42584
     },
     {
+      "name": "Jaźwiny",
+      "description": "",
+      "latitude": 0.022,
+      "longitude": 0.0
+    },
+    {
       "name": "Julianka",
       "description": "",
       "latitude": 50.76354,
       "longitude": 19.47364
+    },
+    {
+      "name": "Knieja",
+      "description": "",
+      "latitude": 0.023,
+      "longitude": 0.0
     },
     {
       "name": "Kobyłczyce, Krzyżówki",
@@ -278,6 +411,24 @@
       "longitude": 19.36692
     },
     {
+      "name": "Konary",
+      "description": "",
+      "latitude": 0.024,
+      "longitude": 0.0
+    },
+    {
+      "name": "Konary, I",
+      "description": "",
+      "latitude": 0.025,
+      "longitude": 0.0
+    },
+    {
+      "name": "Konary, II",
+      "description": "",
+      "latitude": 0.026,
+      "longitude": 0.0
+    },
+    {
       "name": "Kotowice, Zamkowa",
       "description": "",
       "latitude": 50.59653,
@@ -292,7 +443,25 @@
     {
       "name": "Krasawa, Zapasieka",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.027,
+      "longitude": 0.0
+    },
+    {
+      "name": "Kłomnice, I",
+      "description": "",
+      "latitude": 0.028,
+      "longitude": 0.0
+    },
+    {
+      "name": "Kłomnice, II",
+      "description": "",
+      "latitude": 0.029,
+      "longitude": 0.0
+    },
+    {
+      "name": "Kłomnice, Zdrowska",
+      "description": "",
+      "latitude": 0.030,
       "longitude": 0.0
     },
     {
@@ -318,6 +487,18 @@
       "description": "",
       "latitude": 50.68505,
       "longitude": 19.56837
+    },
+    {
+      "name": "Lipicze, I",
+      "description": "",
+      "latitude": 0.031,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lipicze, II",
+      "description": "",
+      "latitude": 0.032,
+      "longitude": 0.0
     },
     {
       "name": "Lipnik",
@@ -346,7 +527,7 @@
     {
       "name": "Lusławice, II Szkoła",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.033,
       "longitude": 0.0
     },
     {
@@ -392,10 +573,82 @@
       "longitude": 19.32858
     },
     {
+      "name": "Michałów Rudnicki",
+      "description": "",
+      "latitude": 0.034,
+      "longitude": 0.0
+    },
+    {
+      "name": "Milionów, Knieja",
+      "description": "",
+      "latitude": 0.035,
+      "longitude": 0.0
+    },
+    {
       "name": "Mirów, I",
       "description": "",
       "latitude": 50.615,
       "longitude": 19.46803
+    },
+    {
+      "name": "Moczydło, I",
+      "description": "",
+      "latitude": 0.036,
+      "longitude": 0.0
+    },
+    {
+      "name": "Moczydło, II",
+      "description": "",
+      "latitude": 0.037,
+      "longitude": 0.0
+    },
+    {
+      "name": "Mokrzesz, Częstochowska",
+      "description": "",
+      "latitude": 0.038,
+      "longitude": 0.0
+    },
+    {
+      "name": "Mokrzesz, Kościelna",
+      "description": "",
+      "latitude": 0.039,
+      "longitude": 0.0
+    },
+    {
+      "name": "Mokrzesz, Równoległa",
+      "description": "",
+      "latitude": 0.040,
+      "longitude": 0.0
+    },
+    {
+      "name": "Mstów, Kościół",
+      "description": "",
+      "latitude": 0.041,
+      "longitude": 0.0
+    },
+    {
+      "name": "Mstów, Ośrodek Zdrowia",
+      "description": "",
+      "latitude": 0.041,
+      "longitude": 0.0
+    },
+    {
+      "name": "Mstów, Plac Mickiewicza",
+      "description": "",
+      "latitude": 0.042,
+      "longitude": 0.0
+    },
+    {
+      "name": "Myszków, Kościuszki II",
+      "description": "",
+      "latitude": 0.043,
+      "longitude": 0.0
+    },
+    {
+      "name": "Myszków, Kościuszki, III",
+      "description": "",
+      "latitude": 0.044,
+      "longitude": 0.0
     },
     {
       "name": "Myszków, Plac Dworcowy II",
@@ -434,6 +687,18 @@
       "longitude": 19.49276
     },
     {
+      "name": "Nieznanice",
+      "description": "",
+      "latitude": 0.045,
+      "longitude": 0.0
+    },
+    {
+      "name": "Ogorzelnik, III",
+      "description": "",
+      "latitude": 0.046,
+      "longitude": 0.0
+    },
+    {
       "name": "Olsztyn, Odrzykoń",
       "description": "",
       "latitude": 50.76006,
@@ -454,19 +719,25 @@
     {
       "name": "Pabianice, Brus",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.047,
       "longitude": 0.0
     },
     {
       "name": "Pabianice, Centrum",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.048,
       "longitude": 0.0
     },
     {
       "name": "Pabianice, Górka",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.049,
+      "longitude": 0.0
+    },
+    {
+      "name": "Pacierzów",
+      "description": "",
+      "latitude": 0.050,
       "longitude": 0.0
     },
     {
@@ -474,6 +745,12 @@
       "description": "",
       "latitude": 50.73369,
       "longitude": 19.39715
+    },
+    {
+      "name": "Pniaki Mokrzeskie",
+      "description": "",
+      "latitude": 0.051,
+      "longitude": 0.0
     },
     {
       "name": "Podlesie",
@@ -514,7 +791,7 @@
     {
       "name": "Przyrów, Bloki",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.052,
       "longitude": 0.0
     },
     {
@@ -524,10 +801,52 @@
       "longitude": 19.52365
     },
     {
+      "name": "Przyrów, Piaski",
+      "description": "",
+      "latitude": 0.053,
+      "longitude": 0.0
+    },
+    {
       "name": "Przyrów, Rynek",
       "description": "",
       "latitude": 50.80174,
       "longitude": 19.5272
+    },
+    {
+      "name": "Przyrów, Szkoła",
+      "description": "",
+      "latitude": 0.054,
+      "longitude": 0.0
+    },
+    {
+      "name": "Rudniki, Kościół",
+      "description": "",
+      "latitude": 0.055,
+      "longitude": 0.0
+    },
+    {
+      "name": "Rędziny, Kościół",
+      "description": "",
+      "latitude": 0.056,
+      "longitude": 0.0
+    },
+    {
+      "name": "Rędziny, Osiedle",
+      "description": "",
+      "latitude": 0.057,
+      "longitude": 0.0
+    },
+    {
+      "name": "Rędziny, Urząd Gminy",
+      "description": "",
+      "latitude": 0.058,
+      "longitude": 0.0
+    },
+    {
+      "name": "Rędziny, Wolności",
+      "description": "",
+      "latitude": 0.059,
+      "longitude": 0.0
     },
     {
       "name": "Siedlec, Krzyże",
@@ -544,7 +863,7 @@
     {
       "name": "Siedlec, Polna",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.060,
       "longitude": 0.0
     },
     {
@@ -556,19 +875,19 @@
     {
       "name": "Siedlec, skrz. k/Janowa",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.061,
       "longitude": 0.0
     },
     {
       "name": "Sieraków, I",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.062,
       "longitude": 0.0
     },
     {
       "name": "Sieraków, II",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.063,
       "longitude": 0.0
     },
     {
@@ -582,6 +901,12 @@
       "description": "",
       "latitude": 50.73713,
       "longitude": 19.36661
+    },
+    {
+      "name": "Smyków",
+      "description": "",
+      "latitude": 0.064,
+      "longitude": 0.0
     },
     {
       "name": "Srocko",
@@ -638,15 +963,33 @@
       "longitude": 19.4348
     },
     {
+      "name": "Wancerzów, Brzozowa",
+      "description": "",
+      "latitude": 0.065,
+      "longitude": 0.0
+    },
+    {
+      "name": "Wancerzów, Kościół",
+      "description": "",
+      "latitude": 0.066,
+      "longitude": 0.0
+    },
+    {
+      "name": "Wancerzów, Sadowa",
+      "description": "",
+      "latitude": 0.067,
+      "longitude": 0.0
+    },
+    {
       "name": "Wiercica, I",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.068,
       "longitude": 0.0
     },
     {
       "name": "Wiercica, IV",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.069,
       "longitude": 0.0
     },
     {
@@ -654,6 +997,18 @@
       "description": "",
       "latitude": 50.77806,
       "longitude": 19.51522
+    },
+    {
+      "name": "Witkowice",
+      "description": "",
+      "latitude": 0.070,
+      "longitude": 0.0
+    },
+    {
+      "name": "Wola Mokrzeska",
+      "description": "",
+      "latitude": 0.071,
+      "longitude": 0.0
     },
     {
       "name": "Zagórze",
@@ -688,13 +1043,13 @@
     {
       "name": "Zarębice, PGR (górka)",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.072,
       "longitude": 0.0
     },
     {
       "name": "Zarębice, Wieś",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.073,
       "longitude": 0.0
     },
     {
@@ -702,6 +1057,42 @@
       "description": "",
       "latitude": 50.65619,
       "longitude": 19.37669
+    },
+    {
+      "name": "Zawada, Częstochowska",
+      "description": "",
+      "latitude": 0.074,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zawada, Górna",
+      "description": "",
+      "latitude": 0.075,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zawada, Główna",
+      "description": "",
+      "latitude": 0.076,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zawada, k/Kłomnic",
+      "description": "",
+      "latitude": 0.077,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zdrowa, I",
+      "description": "",
+      "latitude": 0.078,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zdrowa, II",
+      "description": "",
+      "latitude": 0.079,
+      "longitude": 0.0
     },
     {
       "name": "Zrębice, Ciecierzyn",
@@ -766,14 +1157,20 @@
     {
       "name": "Śmiertny Dąb",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.080,
       "longitude": 0.0
     },
     {
-      "name": "Żarki, ul. Moniuszki",
+      "name": "Święta Anna, I",
       "description": "",
-      "latitude": 50.6326,
-      "longitude": 19.36207
+      "latitude": 0.081,
+      "longitude": 0.0
+    },
+    {
+      "name": "Święta Anna, II",
+      "description": "",
+      "latitude": 0.082,
+      "longitude": 0.0
     },
     {
       "name": "Żarki, Myszkowska/Połomia/",
@@ -788,10 +1185,40 @@
       "longitude": 19.36022
     },
     {
+      "name": "Żarki, ul. Częstochowska",
+      "description": "",
+      "latitude": 0.083,
+      "longitude": 0.0
+    },
+    {
       "name": "Żarki, ul. Leśniowska ( parking )",
       "description": "",
       "latitude": 50.63124,
       "longitude": 19.3757
+    },
+    {
+      "name": "Żarki, ul. Moniuszki",
+      "description": "",
+      "latitude": 50.6326,
+      "longitude": 19.36207
+    },
+    {
+      "name": "Żarki, ul. Piaski",
+      "description": "",
+      "latitude": 0.084,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żarki, ul. Wierzbowa",
+      "description": "",
+      "latitude": 0.085,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żarki, ul. Żwirki I Wigury",
+      "description": "",
+      "latitude": 0.086,
+      "longitude": 0.0
     },
     {
       "name": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
@@ -808,7 +1235,7 @@
     {
       "name": "Żuraw, I",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.087,
       "longitude": 0.0
     },
     {
