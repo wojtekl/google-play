@@ -1,5 +1,5 @@
 {
-  "updated": 1715406064487,
+  "updated": 1715408430115,
   "busStops": [
     {
       "departing": "05:25",
@@ -55939,7 +55939,7 @@
     {
       "departing": "06:48",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -55948,7 +55948,7 @@
     {
       "departing": "07:53",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -55957,7 +55957,7 @@
     {
       "departing": "09:58",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -55966,7 +55966,7 @@
     {
       "departing": "11:43",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -55975,7 +55975,7 @@
     {
       "departing": "13:33",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -55984,7 +55984,7 @@
     {
       "departing": "14:58",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -55993,7 +55993,7 @@
     {
       "departing": "15:38",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -56002,7 +56002,7 @@
     {
       "departing": "16:43",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -56011,7 +56011,7 @@
     {
       "departing": "18:33",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Pacierzów",
       "details": "Rędziny; Kłomnice",
       "route": "19",
@@ -59260,7 +59260,7 @@
     {
       "departing": "06:12",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59269,7 +59269,7 @@
     {
       "departing": "07:17",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59278,7 +59278,7 @@
     {
       "departing": "08:17",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59287,7 +59287,7 @@
     {
       "departing": "09:27",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59296,7 +59296,7 @@
     {
       "departing": "11:12",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59305,7 +59305,7 @@
     {
       "departing": "12:57",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59314,7 +59314,7 @@
     {
       "departing": "15:07",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59323,7 +59323,7 @@
     {
       "departing": "16:12",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -59332,7 +59332,7 @@
     {
       "departing": "18:07",
       "info": "A",
-      "start": "Częstochowa Wyczerpy Dolne",
+      "start": "Częstochowa, Wyczerpy Dolne",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "20",
@@ -68728,7 +68728,7 @@
     {
       "departing": "06:42",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68737,7 +68737,7 @@
     {
       "departing": "07:22",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68746,7 +68746,7 @@
     {
       "departing": "08:22",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68755,7 +68755,7 @@
     {
       "departing": "09:22",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68764,7 +68764,7 @@
     {
       "departing": "11:22",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68773,7 +68773,7 @@
     {
       "departing": "13:12",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68782,7 +68782,7 @@
     {
       "departing": "15:17",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68791,7 +68791,7 @@
     {
       "departing": "16:17",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
@@ -68800,7 +68800,7 @@
     {
       "departing": "17:12",
       "info": "A",
-      "start": "Częstochowa, II Aleja NMP",
+      "start": "Częstochowa, Aleja Kościuszki",
       "destination": "Częstochowa, Dworzec Autobusowy",
       "details": "",
       "route": "24",
