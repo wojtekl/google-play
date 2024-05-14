@@ -1,6 +1,6 @@
 
 {
-  "updated": 1715416977912,
+  "updated": 1715689879609,
   "places": [
     {
       "name": "Aleksandrówka",
@@ -323,32 +323,32 @@
     {
       "name": "Jaroszów, Skrzyżowanie Zawada/Żarki",
       "description": "",
-      "latitude": 0.017,
+      "latitude": 0.17,
       "longitude": 0.0
     },
     {
       "name": "Jaskrów, Częstochowska",
       "description": "",
-      "latitude": 0.018,
-      "longitude": 0.0
+      "latitude": 50.83926,
+      "longitude": 19.23052
     },
     {
       "name": "Jaskrów, Rędzińska",
       "description": "",
-      "latitude": 0.019,
-      "longitude": 0.0
+      "latitude": 50.83908,
+      "longitude": 19.23815
     },
     {
       "name": "Jaskrów, Starowiejska",
       "description": "",
-      "latitude": 0.020,
-      "longitude": 0.0
+      "latitude": 50.83836,
+      "longitude": 19.24571
     },
     {
       "name": "Jaskrów, Wille",
       "description": "",
-      "latitude": 0.021,
-      "longitude": 0.0
+      "latitude": 50.83758,
+      "longitude": 19.21821
     },
     {
       "name": "Jaworznik, I",
@@ -605,20 +605,20 @@
     {
       "name": "Mokrzesz, Częstochowska",
       "description": "",
-      "latitude": 0.38,
-      "longitude": 0.0
+      "latitude": 50.81047,
+      "longitude": 19.36784
     },
     {
       "name": "Mokrzesz, Kościelna",
       "description": "",
-      "latitude": 0.39,
-      "longitude": 0.0
+      "latitude": 50.81193,
+      "longitude": 19.38131
     },
     {
       "name": "Mokrzesz, Równoległa",
       "description": "",
-      "latitude": 0.40,
-      "longitude": 0.0
+      "latitude": 50.81224,
+      "longitude": 19.39261
     },
     {
       "name": "Mstów, Kościół",
@@ -635,8 +635,8 @@
     {
       "name": "Mstów, Plac Mickiewicza",
       "description": "",
-      "latitude": 0.42,
-      "longitude": 0.0
+      "latitude": 50.82918,
+      "longitude": 19.28639
     },
     {
       "name": "Myszków, Kościuszki II",
@@ -839,8 +839,8 @@
     {
       "name": "Rędziny, Urząd Gminy",
       "description": "",
-      "latitude": 0.58,
-      "longitude": 0.0
+      "latitude": 50.85508,
+      "longitude": 19.20523
     },
     {
       "name": "Rędziny, Wolności",
@@ -965,8 +965,8 @@
     {
       "name": "Wancerzów, Brzozowa",
       "description": "",
-      "latitude": 0.65,
-      "longitude": 0.0
+      "latitude": 50.83755,
+      "longitude": 19.26776
     },
     {
       "name": "Wancerzów, Kościół",
@@ -977,8 +977,8 @@
     {
       "name": "Wancerzów, Sadowa",
       "description": "",
-      "latitude": 0.67,
-      "longitude": 0.0
+      "latitude": 50.83725,
+      "longitude": 19.27716
     },
     {
       "name": "Wiercica, I",
@@ -1061,20 +1061,20 @@
     {
       "name": "Zawada, Częstochowska",
       "description": "",
-      "latitude": 0.074,
-      "longitude": 0.0
+      "latitude": 50.8082,
+      "longitude": 19.35056
     },
     {
       "name": "Zawada, Górna",
       "description": "",
-      "latitude": 0.075,
-      "longitude": 0.0
+      "latitude": 50.81022,
+      "longitude": 19.33746
     },
     {
       "name": "Zawada, Główna",
       "description": "",
-      "latitude": 0.076,
-      "longitude": 0.0
+      "latitude": 50.81302,
+      "longitude": 19.32517
     },
     {
       "name": "Zawada, k/Kłomnic",
