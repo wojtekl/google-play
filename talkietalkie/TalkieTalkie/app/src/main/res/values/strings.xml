@@ -3,7 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title" translatable="false">TalkieTalkie</string>
-    <string name="nav_header_subtitle" translatable="false">v0.1.2</string>
+    <string name="nav_header_subtitle" translatable="false">v0.1.4</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
@@ -24,6 +24,7 @@
     <string name="attachment_summary_on">Your device will be controlling connection</string>
     <string name="attachment_summary_off">Your device will be client</string>
 
+    <string name="speaking">Speaking</string>
     <string name="hold_button">Hold this button to talk</string>
     <string name="not_connected">No device connected, go to \'Devices in range\' tab</string>
     <string name="not_discovered">No device discovered, make sure the WiFi is on and TalkieTalkie opened on the other device</string>
