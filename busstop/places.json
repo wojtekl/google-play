@@ -53,13 +53,13 @@
     {
       "name": "Chorzenice",
       "description": "",
-      "latitude": 0.003,
+      "latitude": 0.03,
       "longitude": 0.0
     },
     {
       "name": "Chorzenice, Mostki",
       "description": "",
-      "latitude": 0.004,
+      "latitude": 0.04,
       "longitude": 0.0
     },
     {
@@ -77,19 +77,19 @@
     {
       "name": "Częstochowa, Aleja Jana Pawła II - Uniwersytet",
       "description": "",
-      "latitude": 0.005,
+      "latitude": 0.05,
       "longitude": 0.0
     },
     {
       "name": "Częstochowa, Aleja Kościuszki",
       "description": "",
-      "latitude": 0.006,
+      "latitude": 0.06,
       "longitude": 0.0
     },
     {
       "name": "Częstochowa, Batalionów Chłopskich",
       "description": "",
-      "latitude": 0.007,
+      "latitude": 0.07,
       "longitude": 0.0
     },
     {
@@ -113,13 +113,13 @@
     {
       "name": "Częstochowa, Cmentarna",
       "description": "",
-      "latitude": 0.008,
+      "latitude": 0.08,
       "longitude": 0.0
     },
     {
       "name": "Częstochowa, Dickensa",
       "description": "",
-      "latitude": 0.009,
+      "latitude": 0.09,
       "longitude": 0.0
     },
     {
@@ -131,7 +131,7 @@
     {
       "name": "Częstochowa, Estakada",
       "description": "",
-      "latitude": 0.0,
+      "latitude": 0.01,
       "longitude": 0.0
     },
     {
@@ -155,7 +155,7 @@
     {
       "name": "Częstochowa, II Aleja NMP",
       "description": "",
-      "latitude": 0.010,
+      "latitude": 0.10,
       "longitude": 0.0
     },
     {
@@ -209,7 +209,7 @@
     {
       "name": "Częstochowa, Rondo Trzech Krzyży",
       "description": "",
-      "latitude": 0.011,
+      "latitude": 0.11,
       "longitude": 0.0
     },
     {
@@ -239,13 +239,13 @@
     {
       "name": "Częstochowa, Wyczerpy Dolne",
       "description": "",
-      "latitude": 0.012,
+      "latitude": 0.12,
       "longitude": 0.0
     },
     {
       "name": "Częstochowa, Wyczerpy Górne",
       "description": "",
-      "latitude": 0.013,
+      "latitude": 0.13,
       "longitude": 0.0
     },
     {
@@ -257,13 +257,13 @@
     {
       "name": "Dąbrowa Zielona, II",
       "description": "",
-      "latitude": 0.014,
+      "latitude": 0.14,
       "longitude": 0.0
     },
     {
       "name": "Dąbrowa Zielona, III",
       "description": "",
-      "latitude": 0.015,
+      "latitude": 0.15,
       "longitude": 0.0
     },
     {
@@ -293,7 +293,7 @@
     {
       "name": "Gorzków Nowy, I",
       "description": "",
-      "latitude": 0.016,
+      "latitude": 0.16,
       "longitude": 0.0
     },
     {
@@ -323,8 +323,8 @@
     {
       "name": "Jaroszów, Skrzyżowanie Zawada/Żarki",
       "description": "",
-      "latitude": 0.17,
-      "longitude": 0.0
+      "latitude": 50.65516,
+      "longitude": 19.36323
     },
     {
       "name": "Jaskrów, Częstochowska",
@@ -413,19 +413,19 @@
     {
       "name": "Konary",
       "description": "",
-      "latitude": 0.024,
+      "latitude": 0.24,
       "longitude": 0.0
     },
     {
       "name": "Konary, I",
       "description": "",
-      "latitude": 0.025,
+      "latitude": 0.25,
       "longitude": 0.0
     },
     {
       "name": "Konary, II",
       "description": "",
-      "latitude": 0.026,
+      "latitude": 0.26,
       "longitude": 0.0
     },
     {
@@ -443,25 +443,25 @@
     {
       "name": "Krasawa, Zapasieka",
       "description": "",
-      "latitude": 0.027,
+      "latitude": 0.27,
       "longitude": 0.0
     },
     {
       "name": "Kłomnice, I",
       "description": "",
-      "latitude": 0.028,
+      "latitude": 0.28,
       "longitude": 0.0
     },
     {
       "name": "Kłomnice, II",
       "description": "",
-      "latitude": 0.029,
+      "latitude": 0.29,
       "longitude": 0.0
     },
     {
       "name": "Kłomnice, Zdrowska",
       "description": "",
-      "latitude": 0.030,
+      "latitude": 0.30,
       "longitude": 0.0
     },
     {
@@ -491,13 +491,13 @@
     {
       "name": "Lipicze, I",
       "description": "",
-      "latitude": 0.031,
+      "latitude": 0.31,
       "longitude": 0.0
     },
     {
       "name": "Lipicze, II",
       "description": "",
-      "latitude": 0.032,
+      "latitude": 0.32,
       "longitude": 0.0
     },
     {
@@ -593,14 +593,14 @@
     {
       "name": "Moczydło, I",
       "description": "",
-      "latitude": 0.36,
-      "longitude": 0.0
+      "latitude": 50.63686,
+      "longitude": 19.45031
     },
     {
       "name": "Moczydło, II",
       "description": "",
-      "latitude": 0.37,
-      "longitude": 0.0
+      "latitude": 50.64401,
+      "longitude": 19.45342
     },
     {
       "name": "Mokrzesz, Częstochowska",
@@ -641,14 +641,14 @@
     {
       "name": "Myszków, Kościuszki II",
       "description": "",
-      "latitude": 0.43,
-      "longitude": 0.0
+      "latitude": 50.58373,
+      "longitude": 19.34246
     },
     {
       "name": "Myszków, Kościuszki, III",
       "description": "",
-      "latitude": 0.44,
-      "longitude": 0.0
+      "latitude": 50.58941,
+      "longitude": 19.35087
     },
     {
       "name": "Myszków, Plac Dworcowy II",
@@ -695,8 +695,8 @@
     {
       "name": "Ogorzelnik, III",
       "description": "",
-      "latitude": 0.46,
-      "longitude": 0.0
+      "latitude": 50.62246,
+      "longitude": 19.51023
     },
     {
       "name": "Olsztyn, Odrzykoń",
@@ -719,7 +719,7 @@
     {
       "name": "Pabianice, Brus",
       "description": "",
-      "latitude": 0.047,
+      "latitude": 0.47,
       "longitude": 0.0
     },
     {
@@ -863,7 +863,7 @@
     {
       "name": "Siedlec, Polna",
       "description": "",
-      "latitude": 0.060,
+      "latitude": 0.60,
       "longitude": 0.0
     },
     {
@@ -875,19 +875,19 @@
     {
       "name": "Siedlec, skrz. k/Janowa",
       "description": "",
-      "latitude": 0.061,
+      "latitude": 0.61,
       "longitude": 0.0
     },
     {
       "name": "Sieraków, I",
       "description": "",
-      "latitude": 0.062,
+      "latitude": 0.62,
       "longitude": 0.0
     },
     {
       "name": "Sieraków, II",
       "description": "",
-      "latitude": 0.063,
+      "latitude": 0.63,
       "longitude": 0.0
     },
     {
@@ -1043,13 +1043,13 @@
     {
       "name": "Zarębice, PGR (górka)",
       "description": "",
-      "latitude": 0.072,
+      "latitude": 0.72,
       "longitude": 0.0
     },
     {
       "name": "Zarębice, Wieś",
       "description": "",
-      "latitude": 0.073,
+      "latitude": 0.73,
       "longitude": 0.0
     },
     {
@@ -1079,19 +1079,19 @@
     {
       "name": "Zawada, k/Kłomnic",
       "description": "",
-      "latitude": 0.077,
+      "latitude": 0.77,
       "longitude": 0.0
     },
     {
       "name": "Zdrowa, I",
       "description": "",
-      "latitude": 0.078,
+      "latitude": 0.78,
       "longitude": 0.0
     },
     {
       "name": "Zdrowa, II",
       "description": "",
-      "latitude": 0.079,
+      "latitude": 0.79,
       "longitude": 0.0
     },
     {
@@ -1157,19 +1157,19 @@
     {
       "name": "Śmiertny Dąb",
       "description": "",
-      "latitude": 0.080,
+      "latitude": 0.80,
       "longitude": 0.0
     },
     {
       "name": "Święta Anna, I",
       "description": "",
-      "latitude": 0.081,
+      "latitude": 0.81,
       "longitude": 0.0
     },
     {
       "name": "Święta Anna, II",
       "description": "",
-      "latitude": 0.082,
+      "latitude": 0.82,
       "longitude": 0.0
     },
     {
@@ -1187,8 +1187,8 @@
     {
       "name": "Żarki, ul. Częstochowska",
       "description": "",
-      "latitude": 0.083,
-      "longitude": 0.0
+      "latitude": 50.62874,
+      "longitude": 19.35456
     },
     {
       "name": "Żarki, ul. Leśniowska ( parking )",
@@ -1205,19 +1205,19 @@
     {
       "name": "Żarki, ul. Piaski",
       "description": "",
-      "latitude": 0.084,
+      "latitude": 0.84,
       "longitude": 0.0
     },
     {
       "name": "Żarki, ul. Wierzbowa",
       "description": "",
-      "latitude": 0.085,
+      "latitude": 0.85,
       "longitude": 0.0
     },
     {
       "name": "Żarki, ul. Żwirki I Wigury",
       "description": "",
-      "latitude": 0.086,
+      "latitude": 0.86,
       "longitude": 0.0
     },
     {
@@ -1235,7 +1235,7 @@
     {
       "name": "Żuraw, I",
       "description": "",
-      "latitude": 0.087,
+      "latitude": 0.87,
       "longitude": 0.0
     },
     {
