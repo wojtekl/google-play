@@ -1,6 +1,6 @@
 
 {
-  "updated": 1715689879609,
+  "updated": 1716205708307,
   "places": [
     {
       "name": "Aleksandrówka",
@@ -77,14 +77,14 @@
     {
       "name": "Częstochowa, Aleja Jana Pawła II - Uniwersytet",
       "description": "",
-      "latitude": 0.05,
-      "longitude": 0.0
+      "latitude": 50.81737,
+      "longitude": 19.11962
     },
     {
       "name": "Częstochowa, Aleja Kościuszki",
       "description": "",
-      "latitude": 0.06,
-      "longitude": 0.0
+      "latitude": 50.81272,
+      "longitude": 19.11833
     },
     {
       "name": "Częstochowa, Batalionów Chłopskich",
@@ -113,8 +113,8 @@
     {
       "name": "Częstochowa, Cmentarna",
       "description": "",
-      "latitude": 0.08,
-      "longitude": 0.0
+      "latitude": 50.82449,
+      "longitude": 19.13444
     },
     {
       "name": "Częstochowa, Dickensa",
@@ -209,8 +209,8 @@
     {
       "name": "Częstochowa, Rondo Trzech Krzyży",
       "description": "",
-      "latitude": 0.11,
-      "longitude": 0.0
+      "latitude": 50.81825,
+      "longitude": 19.12988
     },
     {
       "name": "Częstochowa, Rynek Narutowicza",
@@ -239,14 +239,14 @@
     {
       "name": "Częstochowa, Wyczerpy Dolne",
       "description": "",
-      "latitude": 0.12,
-      "longitude": 0.0
+      "latitude": 50.8401,
+      "longitude": 19.16111
     },
     {
       "name": "Częstochowa, Wyczerpy Górne",
       "description": "",
-      "latitude": 0.13,
-      "longitude": 0.0
+      "latitude": 50.84109,
+      "longitude": 19.17595
     },
     {
       "name": "Częstochowa, Zawodzie - Szpital",
@@ -461,8 +461,8 @@
     {
       "name": "Kłomnice, Zdrowska",
       "description": "",
-      "latitude": 0.30,
-      "longitude": 0.0
+      "latitude": 50.92565,
+      "longitude": 19.34887
     },
     {
       "name": "Lelów, Rynek",
@@ -527,7 +527,7 @@
     {
       "name": "Lusławice, II Szkoła",
       "description": "",
-      "latitude": 0.033,
+      "latitude": 0.33,
       "longitude": 0.0
     },
     {
@@ -881,14 +881,14 @@
     {
       "name": "Sieraków, I",
       "description": "",
-      "latitude": 0.62,
-      "longitude": 0.0
+      "latitude": 50.74778,
+      "longitude": 19.49059
     },
     {
       "name": "Sieraków, II",
       "description": "",
-      "latitude": 0.63,
-      "longitude": 0.0
+      "latitude": 50.74811,
+      "longitude": 19.50706
     },
     {
       "name": "Skowronów",
@@ -983,14 +983,14 @@
     {
       "name": "Wiercica, I",
       "description": "",
-      "latitude": 0.68,
-      "longitude": 0.0
+      "latitude": 50.77794,
+      "longitude": 19.52628
     },
     {
       "name": "Wiercica, IV",
       "description": "",
-      "latitude": 0.69,
-      "longitude": 0.0
+      "latitude": 50.77817,
+      "longitude": 19.49564
     },
     {
       "name": "Wiercica, OSP",
@@ -1043,14 +1043,14 @@
     {
       "name": "Zarębice, PGR (górka)",
       "description": "",
-      "latitude": 0.72,
-      "longitude": 0.0
+      "latitude": 50.78726,
+      "longitude": 19.56813
     },
     {
       "name": "Zarębice, Wieś",
       "description": "",
-      "latitude": 0.73,
-      "longitude": 0.0
+      "latitude": 50.78972,
+      "longitude": 19.55847
     },
     {
       "name": "Zawada",
@@ -1157,8 +1157,8 @@
     {
       "name": "Śmiertny Dąb",
       "description": "",
-      "latitude": 0.80,
-      "longitude": 0.0
+      "latitude": 50.75234,
+      "longitude": 19.45981
     },
     {
       "name": "Święta Anna, I",
@@ -1235,8 +1235,8 @@
     {
       "name": "Żuraw, I",
       "description": "",
-      "latitude": 0.87,
-      "longitude": 0.0
+      "latitude": 50.78014,
+      "longitude": 19.41808
     },
     {
       "name": "Żuraw, II",
