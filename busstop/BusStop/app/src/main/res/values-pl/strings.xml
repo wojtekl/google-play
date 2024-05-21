@@ -10,6 +10,7 @@
     <string name="menu_home">Odjazdy</string>
     <string name="menu_gallery">Oznaczenia</string>
     <string name="menu_map">Mapa</string>
+    <string name="menu_share">Udostępnij</string>
     <string name="menu_slideshow">Polityka prywatności</string>
     <string name="menu_apps">Inne aplikacje</string>
 
@@ -31,8 +32,9 @@
     <string name="via">przez</string>
     <string name="route">Trasa</string>
     <string name="filter">Filtruj</string>
-    <string name="description">A - Poniedziałek - Piątek\nS - Dni nauki szkolnej\n6 - Soboty\n7 - Niedziele\nC - Soboty, Niedziele i święta</string>
+    <string name="description">A, D - Poniedziałek - Piątek\nS - Dni nauki szkolnej\n6 - Soboty\n7 - Niedziele\nC - Soboty, Niedziele i święta</string>
     <string name="see_journey">Przejdź do Mapy by zobaczyć trasę</string>
+    <string name="share">Zeskanuj poniższy kod telefonem</string>
 
     <string name="privacy_policy_title">Polityka prywatności</string>
 </resources>

@@ -3,12 +3,16 @@ package gmail.lesniakwojciech.gooffline
 import android.app.TimePickerDialog
 import android.content.ComponentName
 import android.content.Context
+import android.content.Intent
 import android.content.pm.PackageManager
+import android.net.Uri
 import android.os.Bundle
 import android.os.Parcel
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -44,7 +48,6 @@ import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.lifecycleScope
-import com.google.android.gms.ads.MobileAds
 import gmail.lesniakwojciech.gooffline.model.DayProgram
 import gmail.lesniakwojciech.gooffline.receiver.AlarmReceiver
 import gmail.lesniakwojciech.gooffline.receiver.BootReceiver
@@ -54,6 +57,7 @@ import gmail.lesniakwojciech.gooffline.ui.theme.GoOfflineTheme
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.launch
+import org.intellij.lang.annotations.JdkConstants.HorizontalAlignment
 
 class MainActivity : ComponentActivity() {
 
@@ -111,7 +115,7 @@ class MainActivity : ComponentActivity() {
 
         dayNames.forEach {
             val program = mainViewModel.schedule.value?.get(it)
-            if (program != null && program.enabled) {
+            if (program != null) {
                 AlarmReceiver.scheduleAlarm(this, it, program, true)
                 AlarmReceiver.scheduleAlarm(this, it, program, false)
             }
@@ -202,8 +206,11 @@ class MainActivity : ComponentActivity() {
         val schedule by list.observeAsState()
         Column {
             Text(
-                text = name, modifier = modifier
+                text = name, modifier = Modifier
+                    .padding(all = 8.dp)
+                    .fillMaxWidth()
             )
+            Spacer(modifier = Modifier.width(8.dp))
             DisplayHeader()
             LazyColumn {
                 items(
@@ -212,13 +219,27 @@ class MainActivity : ComponentActivity() {
                     DisplayRow(program.first, program.second)
                 }
             }
-            Link(
-                modifier = Modifier
-                    .padding(all = 8.dp)
-                    .fillMaxWidth(),
-                text = getString(R.string.privacy_policy_title),
-                url = getString(R.string.privacy_policy_url)
-            )
+            Spacer(modifier = Modifier.width(8.dp))
+            Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.Center, modifier = Modifier.fillMaxWidth()) {
+                Link(
+                    modifier = Modifier
+                        .padding(all = 8.dp),
+                    text = getString(R.string.privacy_policy_title),
+                    url = getString(R.string.privacy_policy_url)
+                )
+                Text(
+                    text = getString(R.string.other_apps_title),
+                    modifier = Modifier.padding(all = 8.dp).clickable {
+                        startActivity(
+                            Intent(
+                                Intent.ACTION_VIEW, Uri.parse(getString(R.string.apps_url))
+                            )
+                        )
+                    },
+                    color = MaterialTheme.colorScheme.tertiary,
+                    textDecoration = TextDecoration.Underline
+                )
+            }
         }
     }
 

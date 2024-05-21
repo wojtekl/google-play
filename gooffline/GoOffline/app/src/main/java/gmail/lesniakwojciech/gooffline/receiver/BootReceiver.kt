@@ -42,7 +42,7 @@ class BootReceiver : BroadcastReceiver() {
 
                     dayNames.forEach {
                         val program = schedule[it]
-                        if (program != null && program.enabled) {
+                        if (program != null) {
                             AlarmReceiver.scheduleAlarm(context, it, program, true)
                             AlarmReceiver.scheduleAlarm(context, it, program, false)
                         }

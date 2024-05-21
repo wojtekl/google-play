@@ -91,7 +91,7 @@ class AlarmReceiver : BroadcastReceiver() {
             }
             alarmManager.cancel(alarmIntent)
 
-            if (false == program.enabled) {
+            if ((false == program.enabled) and (true == startTime)) {
                 return
             }
 

@@ -11,8 +11,8 @@ android {
         applicationId = "github.wleap.gooffline.admob"
         minSdk = 24
         targetSdk = 34
-        versionCode = 5
-        versionName = "1.0.3"
+        versionCode = 6
+        versionName = "1.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -52,31 +52,31 @@ android {
 
 dependencies {
 
-    implementation("androidx.core:core-ktx:1.12.0")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
+    implementation("androidx.core:core-ktx:1.13.1")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.0")
     implementation("androidx.lifecycle:lifecycle-extensions:2.2.0")
-    implementation("androidx.lifecycle:lifecycle-process:2.7.0")
-    annotationProcessor("androidx.lifecycle:lifecycle-compiler:2.7.0")
-    implementation("androidx.activity:activity-compose:1.8.2")
+    implementation("androidx.lifecycle:lifecycle-process:2.8.0")
+    annotationProcessor("androidx.lifecycle:lifecycle-compiler:2.8.0")
+    implementation("androidx.activity:activity-compose:1.9.0")
     implementation(platform("androidx.compose:compose-bom:2023.08.00"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-graphics")
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3")
-    implementation("com.google.android.gms:play-services-ads:23.0.0")
+    implementation("com.google.android.gms:play-services-ads:23.1.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("androidx.datastore:datastore-preferences:1.0.0")
+    implementation("androidx.datastore:datastore-preferences:1.1.1")
 
     // optional - RxJava2 support
-    implementation("androidx.datastore:datastore-preferences-rxjava2:1.0.0")
+    implementation("androidx.datastore:datastore-preferences-rxjava2:1.1.1")
 
     // optional - RxJava3 support
-    implementation("androidx.datastore:datastore-preferences-rxjava3:1.0.0")
-    implementation("androidx.datastore:datastore-preferences-core:1.0.0")
+    implementation("androidx.datastore:datastore-preferences-rxjava3:1.1.1")
+    implementation("androidx.datastore:datastore-preferences-core:1.1.1")
     // Optional - Integration with LiveData
     implementation("androidx.compose.runtime:runtime-livedata")
-    implementation("androidx.databinding:databinding-runtime:8.3.1")
-    implementation("com.google.android.material:material:1.4.0")
+    implementation("androidx.databinding:databinding-runtime:8.4.1")
+    implementation("com.google.android.material:material:1.12.0")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
