@@ -24,8 +24,8 @@
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
-        android:id="@+id/nav_apps"
-        android:name="gmail.lesniakwojciech.talkietalkie.ui.apps.AppsFragment"
-        android:label="@string/menu_apps"
-        tools:layout="@layout/fragment_apps" />
+        android:id="@+id/nav_share"
+        android:name="gmail.lesniakwojciech.talkietalkie.ui.share.ShareFragment"
+        android:label="@string/menu_share"
+        tools:layout="@layout/fragment_share" />
 </navigation>

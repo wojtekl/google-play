@@ -8,7 +8,7 @@
     <string name="menu_home">Połączone urządzenia</string>
     <string name="menu_gallery">Urządzenia w zasięgu</string>
     <string name="menu_slideshow">Polityka prywatności</string>
-    <string name="menu_apps">Inne aplikacje</string>
+    <string name="menu_share">Udostępnij</string>
 
     <string name="title_activity_settings">Ustawienia</string>
     <string name="messages_header">Twoje urządzenie</string>
@@ -21,6 +21,8 @@
     <string name="hold_button">Trzymaj przycisk mikrofonu aby mówić</string>
     <string name="not_connected">Brak połączonych urządzeń, przejdź do zakładki \"Urządzenia w zasięgu\"</string>
     <string name="not_discovered">Nie znaleziono urządzeń, upewnij się że WiFi jest włączone oraz TalkieTalkie jest uruchomione na innym urządzeniu</string>
+    <string name="share">Zeskanuj poniższy kod telefonem</string>
+    <string name="title_other_apps">Inne aplikacje</string>
 
     <string name="title_activity_fullscreen">Brak usług lub uprawnień</string>
     <string name="dummy_content">Aby korzystać z tej aplikacji upewnij się że:\n- WiFi jest włączone i wyszukiwanie urządzeń w pobliżu dozwolone,\n- lokalizacja jest włączona i dostęp przyznany,\n- nagrywanie dźwięku dozwolone\n\npotem otwórz tę aplikację ponownie</string>

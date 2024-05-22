@@ -3,14 +3,14 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title" translatable="false">TalkieTalkie</string>
-    <string name="nav_header_subtitle" translatable="false">v0.1.5</string>
+    <string name="nav_header_subtitle" translatable="false">v0.2.0</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Connected Devices</string>
     <string name="menu_gallery">Devices in range</string>
     <string name="menu_slideshow">Privacy Policy</string>
-    <string name="menu_apps">Other Apps</string>
+    <string name="menu_share">Share</string>
 
     <string name="title_activity_settings">Settings</string>
     <!-- Preference Titles -->
@@ -28,6 +28,8 @@
     <string name="hold_button">Hold microphone button to talk</string>
     <string name="not_connected">No device connected, go to \'Devices in range\' tab</string>
     <string name="not_discovered">No device discovered, make sure the WiFi is on and TalkieTalkie opened on the other device</string>
+    <string name="share">Scan the code below using the other phone</string>
+    <string name="title_other_apps">Other Apps</string>
     <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>
 
     <string name="title_activity_fullscreen">Missing services or permissions</string>
