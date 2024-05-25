@@ -3,6 +3,7 @@
     <string name="navigation_drawer_open">Pokaż menu</string>
     <string name="navigation_drawer_close">Schowaj menu</string>
     <string name="nav_header_desc">Menu</string>
+    <string name="action_refresh">Odśwież</string>
     <string name="action_settings">Ustawienia</string>
 
     <string name="menu_home">Połączone urządzenia</string>
