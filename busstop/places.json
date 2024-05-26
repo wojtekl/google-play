@@ -1,6 +1,6 @@
 
 {
-  "updated": 1716653984528,
+  "updated": 1716737775606,
   "places": [
     {
       "name": "Aleksandrówka",
@@ -447,6 +447,12 @@
       "longitude": 0.0
     },
     {
+      "name": "Kroczyce, Nr 1 (1 Maja)",
+      "description": "",
+      "latitude": 50.5613,
+      "longitude": 19.57032
+    },
+    {
       "name": "Kłomnice, I",
       "description": "",
       "latitude": 0.28,
@@ -487,6 +493,12 @@
       "description": "",
       "latitude": 50.68505,
       "longitude": 19.56837
+    },
+    {
+      "name": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "description": "",
+      "latitude": 50.54270,
+      "longitude": 19.56756
     },
     {
       "name": "Lipicze, I",
@@ -771,6 +783,24 @@
       "longitude": 19.47872
     },
     {
+      "name": "Pradła, Nr 1 (kościół)",
+      "description": "",
+      "latitude": 50.57244,
+      "longitude": 19.64484
+    },
+    {
+      "name": "Pradła, Nr 3 (Wyzwolenia 58)",
+      "description": "",
+      "latitude": 50.57262,
+      "longitude": 19.6493
+    },
+    {
+      "name": "Pradła, Nr 5 (Wyzwolenia 120)",
+      "description": "",
+      "latitude": 50.57938,
+      "longitude": 19.6524
+    },
+    {
       "name": "Przymiłowice, Kasztanowa",
       "description": "",
       "latitude": 50.74728,
@@ -945,6 +975,18 @@
       "longitude": 19.53124
     },
     {
+      "name": "Szczekociny, Jana Pawła II Koło Przedszkola",
+      "description": "",
+      "latitude": 50.62396,
+      "longitude": 19.82095
+    },
+    {
+      "name": "Szczekociny, M. Konopnickiej Dw. PKS",
+      "description": "",
+      "latitude": 50.62621,
+      "longitude": 19.81651
+    },
+    {
       "name": "Trzebniów, I",
       "description": "",
       "latitude": 50.65995,
@@ -1081,6 +1123,36 @@
       "description": "",
       "latitude": 0.77,
       "longitude": 0.0
+    },
+    {
+      "name": "Zawada Pilicka, Amazonka",
+      "description": "",
+      "latitude": 50.59649,
+      "longitude": 19.71182
+    },
+    {
+      "name": "Zawada Pilicka, Irządze Pstrąg",
+      "description": "",
+      "latitude": 50.59159,
+      "longitude": 19.69164
+    },
+    {
+      "name": "Zawada Pilicka, Krztynia (naprzeciw posesji 66)",
+      "description": "",
+      "latitude": 50.59447,
+      "longitude": 19.70167
+    },
+    {
+      "name": "Zawada Pilicka, skrzyżowanie",
+      "description": "",
+      "latitude": 50.60624,
+      "longitude": 19.7283
+    },
+    {
+      "name": "Zawiercie, Sikorskiego I (PKP)",
+      "description": "",
+      "latitude": 50.4807,
+      "longitude": 19.42414
     },
     {
       "name": "Zdrowa, I",
