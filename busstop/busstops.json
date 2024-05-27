@@ -1,5 +1,5 @@
 {
-  "updated": 1716737775606,
+  "updated": 1716796891219,
   "busStops": [
     {
       "departing": "05:25",
@@ -79704,6 +79704,4848 @@
       "details": "",
       "route": "26",
       "journey": "17"
+    },
+    {
+      "departing": "06:12",
+      "info": "D, C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:22",
+      "info": "D, C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:12",
+      "info": "D, C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:14",
+      "info": "D, C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:24",
+      "info": "D, C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:14",
+      "info": "D, C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:16",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:26",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:16",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:18",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:28",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:18",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:19",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:29",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:19",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:20",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:30",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:20",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:23",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:33",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:23",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:25",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:35",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:25",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:26",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:36",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:26",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:29",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:39",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:29",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:30",
+      "info": "D, C",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:40",
+      "info": "D, C",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:30",
+      "info": "D, C",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:32",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:42",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:32",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:33",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 2 (pętla)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:43",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 2 (pętla)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:33",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 2 (pętla)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:35",
+      "info": "D, C",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:45",
+      "info": "D, C",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:35",
+      "info": "D, C",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:36",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:46",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:36",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:37",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:47",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:37",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:38",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:48",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:38",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:42",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:52",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:42",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:45",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:55",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:45",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:47",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:57",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:47",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:49",
+      "info": "D, C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "14:59",
+      "info": "D, C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:49",
+      "info": "D, C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:52",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "15:02",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:52",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:54",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "15:04",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:54",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "06:57",
+      "info": "D, C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "15:07",
+      "info": "D, C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "22:57",
+      "info": "D, C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "07:00",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "15:10",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "23:00",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "07:01",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "15:11",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "23:01",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "07:02",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "1"
+    },
+    {
+      "departing": "15:12",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "6"
+    },
+    {
+      "departing": "23:02",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "9"
+    },
+    {
+      "departing": "08:12",
+      "info": "S",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:12",
+      "info": "F",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:12",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:12",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:22",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:12",
+      "info": "D, C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:14",
+      "info": "S",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:14",
+      "info": "F",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:14",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:14",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:24",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:14",
+      "info": "D, C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:16",
+      "info": "S",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:16",
+      "info": "F",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:16",
+      "info": "C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:16",
+      "info": "D",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:26",
+      "info": "D",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:16",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:18",
+      "info": "S",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:18",
+      "info": "F",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:18",
+      "info": "C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:18",
+      "info": "D",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:28",
+      "info": "D",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:18",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:19",
+      "info": "S",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:19",
+      "info": "F",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:19",
+      "info": "C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:19",
+      "info": "D",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:29",
+      "info": "D",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:19",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:20",
+      "info": "S",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:20",
+      "info": "F",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:20",
+      "info": "C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:20",
+      "info": "D",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:30",
+      "info": "D",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:20",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:23",
+      "info": "S",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:23",
+      "info": "F",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:23",
+      "info": "C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:23",
+      "info": "D",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:33",
+      "info": "D",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:23",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:25",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:25",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:25",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:25",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:35",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:25",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:26",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:26",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:26",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:26",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:36",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:26",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:29",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:29",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:29",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:29",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:39",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:29",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:30",
+      "info": "S",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:30",
+      "info": "F",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:30",
+      "info": "C",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:30",
+      "info": "D",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:40",
+      "info": "D",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:30",
+      "info": "D, C",
+      "start": "Zawiercie, Skalna I",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:32",
+      "info": "S",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:32",
+      "info": "F",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:32",
+      "info": "C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:32",
+      "info": "D",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:42",
+      "info": "D",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:32",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:34",
+      "info": "S",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:34",
+      "info": "F",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:34",
+      "info": "C",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:34",
+      "info": "D",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:44",
+      "info": "D",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:34",
+      "info": "D, C",
+      "start": "Lgota Murowana, Słoneczna",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:35",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:35",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:35",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:35",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:45",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:35",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 4 Spacerowa",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:36",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:36",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:36",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:36",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:46",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:36",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 3 remiza",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:37",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:37",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:37",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:37",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:47",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:37",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 1 Kalinowa 8",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:41",
+      "info": "S",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:41",
+      "info": "F",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:41",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:41",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:51",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:41",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:44",
+      "info": "S",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:44",
+      "info": "F",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:44",
+      "info": "C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:44",
+      "info": "D",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:54",
+      "info": "D",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:44",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:46",
+      "info": "S",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:46",
+      "info": "F",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:46",
+      "info": "C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:46",
+      "info": "D",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:56",
+      "info": "D",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:46",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:48",
+      "info": "S",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:48",
+      "info": "F",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:48",
+      "info": "C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:48",
+      "info": "D",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "16:58",
+      "info": "D",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:48",
+      "info": "D, C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:51",
+      "info": "S",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:51",
+      "info": "F",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:51",
+      "info": "C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:51",
+      "info": "D",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "17:01",
+      "info": "D",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:51",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:53",
+      "info": "S",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:53",
+      "info": "F",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:53",
+      "info": "C",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:53",
+      "info": "D",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "17:03",
+      "info": "D",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:53",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 3 (DK78)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:56",
+      "info": "S",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:56",
+      "info": "F",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:56",
+      "info": "C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:56",
+      "info": "D",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "17:06",
+      "info": "D",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:56",
+      "info": "D, C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "08:59",
+      "info": "S",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "09:59",
+      "info": "F",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "10:59",
+      "info": "C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "11:59",
+      "info": "D",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "17:09",
+      "info": "D",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "18:59",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "09:00",
+      "info": "S",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "10:00",
+      "info": "F",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "11:00",
+      "info": "C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "12:00",
+      "info": "D",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "17:10",
+      "info": "D",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "19:00",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "09:01",
+      "info": "S",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "2"
+    },
+    {
+      "departing": "10:01",
+      "info": "F",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "3"
+    },
+    {
+      "departing": "11:01",
+      "info": "C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "4"
+    },
+    {
+      "departing": "12:01",
+      "info": "D",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "5"
+    },
+    {
+      "departing": "17:11",
+      "info": "D",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "7"
+    },
+    {
+      "departing": "19:01",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Siedliszowice, Nr 3 (górna wieś)",
+      "details": "Kroczyce; Pradła",
+      "route": "27",
+      "journey": "8"
+    },
+    {
+      "departing": "04:40",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "06:50",
+      "info": "S",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:25",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:25",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "04:41",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "06:51",
+      "info": "S",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:26",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:26",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "04:42",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "06:52",
+      "info": "S",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:27",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:27",
+      "info": "D, C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "04:45",
+      "info": "D, C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "06:55",
+      "info": "S",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:30",
+      "info": "D, C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:30",
+      "info": "D, C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "04:50",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:00",
+      "info": "S",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:35",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:35",
+      "info": "D, C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "04:53",
+      "info": "D, C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:03",
+      "info": "S",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:38",
+      "info": "D, C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:38",
+      "info": "D, C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "04:55",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:05",
+      "info": "S",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:40",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:40",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "04:57",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:07",
+      "info": "S",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:42",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:42",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:00",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:10",
+      "info": "S",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:45",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:45",
+      "info": "D, C",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:04",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:14",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:49",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:49",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:05",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:15",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:50",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:50",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:06",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:16",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:51",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:51",
+      "info": "D, C",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:09",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:19",
+      "info": "S",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:54",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:54",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:10",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 2 (pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:20",
+      "info": "S",
+      "start": "Piaseczno, Nr 2 (pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:55",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 2 (pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:55",
+      "info": "D, C",
+      "start": "Piaseczno, Nr 2 (pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:12",
+      "info": "D, C",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:22",
+      "info": "S",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:57",
+      "info": "D, C",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:57",
+      "info": "D, C",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:13",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:23",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "12:58",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "20:58",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:16",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:26",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:01",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:01",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:17",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:27",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:02",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:02",
+      "info": "D, C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:19",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:29",
+      "info": "S",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:04",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:04",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:20",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:30",
+      "info": "S",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:05",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:05",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:21",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:31",
+      "info": "S",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:06",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:06",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:22",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:32",
+      "info": "S",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:07",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:07",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:23",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:33",
+      "info": "S",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:08",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:08",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:24",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:34",
+      "info": "S",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:09",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:09",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:25",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:35",
+      "info": "S",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:10",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:10",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:27",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:37",
+      "info": "S",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:12",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:12",
+      "info": "D, C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:30",
+      "info": "D, C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:40",
+      "info": "S",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:15",
+      "info": "D, C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:15",
+      "info": "D, C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "05:32",
+      "info": "D, C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "1"
+    },
+    {
+      "departing": "07:42",
+      "info": "S",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "2"
+    },
+    {
+      "departing": "13:17",
+      "info": "D, C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "7"
+    },
+    {
+      "departing": "21:17",
+      "info": "D, C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "11"
+    },
+    {
+      "departing": "07:40",
+      "info": "F",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:25",
+      "info": "C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:25",
+      "info": "S",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:25",
+      "info": "F",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:25",
+      "info": "D",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:25",
+      "info": "C",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:15",
+      "info": "D",
+      "start": "Siedliszowice, Nr 3 (górna wieś)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "07:41",
+      "info": "F",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:26",
+      "info": "C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:26",
+      "info": "S",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:26",
+      "info": "F",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:26",
+      "info": "D",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:26",
+      "info": "C",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:16",
+      "info": "D",
+      "start": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "07:42",
+      "info": "F",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:27",
+      "info": "C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:27",
+      "info": "S",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:27",
+      "info": "F",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:27",
+      "info": "D",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:27",
+      "info": "C",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:17",
+      "info": "D",
+      "start": "Siedliszowice, Nr 1 (posesja 75)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "07:45",
+      "info": "F",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:30",
+      "info": "C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:30",
+      "info": "S",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:30",
+      "info": "F",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:30",
+      "info": "D",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:30",
+      "info": "C",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:20",
+      "info": "D",
+      "start": "Pradła, Nr 1 (kościół)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "07:50",
+      "info": "F",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:35",
+      "info": "C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:35",
+      "info": "S",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:35",
+      "info": "F",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:35",
+      "info": "D",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:35",
+      "info": "C",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:25",
+      "info": "D",
+      "start": "Gołuchowice, Nr 1 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "07:53",
+      "info": "F",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:38",
+      "info": "C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:38",
+      "info": "S",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:38",
+      "info": "F",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:38",
+      "info": "D",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:38",
+      "info": "C",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:28",
+      "info": "D",
+      "start": "Siemięrzyce, Wrzoski",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "07:55",
+      "info": "F",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:40",
+      "info": "C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:40",
+      "info": "S",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:40",
+      "info": "F",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:40",
+      "info": "D",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:40",
+      "info": "C",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:30",
+      "info": "D",
+      "start": "Kroczyce, Nr 7 (Marianka)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "07:57",
+      "info": "F",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:42",
+      "info": "C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:42",
+      "info": "S",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:42",
+      "info": "F",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:42",
+      "info": "D",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:42",
+      "info": "C",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:32",
+      "info": "D",
+      "start": "Kroczyce, Nr 6 (Topolowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:00",
+      "info": "F",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:45",
+      "info": "C",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:45",
+      "info": "S",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:45",
+      "info": "F",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:45",
+      "info": "D",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:45",
+      "info": "C",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:35",
+      "info": "D",
+      "start": "Kroczyce, Nr 2 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:04",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:49",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:49",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:49",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:49",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:49",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:39",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:05",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:50",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:50",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:50",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:50",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:50",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:40",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 3 (remiza)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:06",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:51",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:51",
+      "info": "S",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:51",
+      "info": "F",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:51",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:51",
+      "info": "C",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:41",
+      "info": "D",
+      "start": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:09",
+      "info": "F",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:54",
+      "info": "C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:54",
+      "info": "S",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:54",
+      "info": "F",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:54",
+      "info": "D",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:54",
+      "info": "C",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:44",
+      "info": "D",
+      "start": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:11",
+      "info": "F",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:56",
+      "info": "C",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:56",
+      "info": "S",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:56",
+      "info": "F",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:56",
+      "info": "D",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:56",
+      "info": "C",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:46",
+      "info": "D",
+      "start": "Zawiercie, Skalna II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:12",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "08:57",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "09:57",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "10:57",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "15:57",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "16:57",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:47",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:15",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:00",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:00",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:00",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:00",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:00",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:50",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:16",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:01",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:01",
+      "info": "S",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:01",
+      "info": "F",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:01",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:01",
+      "info": "C",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:51",
+      "info": "D",
+      "start": "Zawiercie, Skarżycka I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:18",
+      "info": "F",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:03",
+      "info": "C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:03",
+      "info": "S",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:03",
+      "info": "F",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:03",
+      "info": "D",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:03",
+      "info": "C",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:53",
+      "info": "D",
+      "start": "Zawiercie, Blanowice Pętla",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:19",
+      "info": "F",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:04",
+      "info": "C",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:04",
+      "info": "S",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:04",
+      "info": "F",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:04",
+      "info": "D",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:04",
+      "info": "C",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:54",
+      "info": "D",
+      "start": "Zawiercie, Blanowska VII",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:20",
+      "info": "F",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:05",
+      "info": "C",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:05",
+      "info": "S",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:05",
+      "info": "F",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:05",
+      "info": "D",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:05",
+      "info": "C",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:55",
+      "info": "D",
+      "start": "Zawiercie, Blanowska VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:21",
+      "info": "F",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:06",
+      "info": "C",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:06",
+      "info": "S",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:06",
+      "info": "F",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:06",
+      "info": "D",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:06",
+      "info": "C",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:56",
+      "info": "D",
+      "start": "Zawiercie, Blanowska V",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:22",
+      "info": "F",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:07",
+      "info": "C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:07",
+      "info": "S",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:07",
+      "info": "F",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:07",
+      "info": "D",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:07",
+      "info": "C",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:57",
+      "info": "D",
+      "start": "Zawiercie, Blanowska IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:23",
+      "info": "F",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:08",
+      "info": "C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:08",
+      "info": "S",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:08",
+      "info": "F",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:08",
+      "info": "D",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:08",
+      "info": "C",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:58",
+      "info": "D",
+      "start": "Zawiercie, Blanowska III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:24",
+      "info": "F",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:09",
+      "info": "C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:09",
+      "info": "S",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:09",
+      "info": "F",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:09",
+      "info": "D",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:09",
+      "info": "C",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "17:59",
+      "info": "D",
+      "start": "Zawiercie, Blanowska II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:26",
+      "info": "F",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:11",
+      "info": "C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:11",
+      "info": "S",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:11",
+      "info": "F",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:11",
+      "info": "D",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:11",
+      "info": "C",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "18:01",
+      "info": "D",
+      "start": "Zawiercie, Blanowska I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:29",
+      "info": "F",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:14",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:14",
+      "info": "S",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:14",
+      "info": "F",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:14",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:14",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "18:04",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
+    },
+    {
+      "departing": "08:31",
+      "info": "F",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "3"
+    },
+    {
+      "departing": "09:16",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "4"
+    },
+    {
+      "departing": "10:16",
+      "info": "S",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "5"
+    },
+    {
+      "departing": "11:16",
+      "info": "F",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "6"
+    },
+    {
+      "departing": "16:16",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "8"
+    },
+    {
+      "departing": "17:16",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "9"
+    },
+    {
+      "departing": "18:06",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "",
+      "route": "28",
+      "journey": "10"
     }
   ]
 }
