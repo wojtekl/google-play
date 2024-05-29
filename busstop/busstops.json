@@ -1,5 +1,5 @@
 {
-  "updated": 1716796891219,
+  "updated": 1716967015697,
   "busStops": [
     {
       "departing": "05:25",
@@ -84546,6 +84546,3183 @@
       "details": "",
       "route": "28",
       "journey": "10"
+    },
+    {
+      "departing": "09:40",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:30",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:20",
+      "info": "S",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:30",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:10",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:42",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:32",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:22",
+      "info": "S",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:32",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:12",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:44",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:34",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:24",
+      "info": "S",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:34",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:14",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:46",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:36",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:26",
+      "info": "S",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:36",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:16",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:48",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:38",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:28",
+      "info": "S",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:38",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:18",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:50",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:40",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:30",
+      "info": "S",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:40",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:20",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:52",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:42",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:32",
+      "info": "S",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:42",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:22",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:54",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:44",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:34",
+      "info": "S",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:44",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:24",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "09:57",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:47",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:37",
+      "info": "S",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:47",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:27",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:00",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:50",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:40",
+      "info": "S",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:50",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:30",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:02",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:52",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:42",
+      "info": "S",
+      "start": "Włodowice, Młyn",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:52",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:32",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:04",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:54",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:44",
+      "info": "S",
+      "start": "Rzędkowice, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:54",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:34",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:06",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:56",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:46",
+      "info": "S",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:56",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:36",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:08",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "11:58",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:48",
+      "info": "S",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "15:58",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:38",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:10",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:00",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:50",
+      "info": "S",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:00",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:40",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:13",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:03",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:53",
+      "info": "S",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:03",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:43",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:15",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:05",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:55",
+      "info": "S",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:05",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:45",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:16",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:06",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:56",
+      "info": "S",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:06",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:46",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:17",
+      "info": "D",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:07",
+      "info": "D",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:57",
+      "info": "S",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:07",
+      "info": "D",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:47",
+      "info": "D",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:18",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:08",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "14:58",
+      "info": "S",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:08",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:48",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:21",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:11",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "15:01",
+      "info": "S",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:11",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:51",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:24",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:14",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "15:04",
+      "info": "S",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:14",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:54",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:26",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:16",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "15:06",
+      "info": "S",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:16",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:56",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:27",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:17",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "15:07",
+      "info": "S",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:17",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:57",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+  {
+      "departing": "10:28",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "4"
+    },
+    {
+      "departing": "12:18",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "6"
+    },
+    {
+      "departing": "15:08",
+      "info": "S",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "16:18",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "10"
+    },
+    {
+      "departing": "17:58",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "11"
+    },
+    {
+      "departing": "06:10",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:00",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:20",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:30",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:20",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:20",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:12",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:02",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:22",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:32",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:22",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:22",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:14",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:04",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:24",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:34",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:24",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:24",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:16",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:06",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:26",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:36",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:26",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:26",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:18",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:08",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:28",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:38",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:28",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:28",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:20",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:10",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:30",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:40",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:30",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:30",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:22",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:12",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:32",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:42",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:32",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:32",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:24",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:14",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:34",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:44",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:34",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:34",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:27",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:17",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:37",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:47",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:37",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:37",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:30",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:20",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:40",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:50",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:40",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:40",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:31",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:21",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:41",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:51",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:41",
+      "info": "D",
+      "start": "Włodowice, Remiza",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:41",
+      "info": "D",
+      "start": "Włodowice, Remiza",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:32",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:22",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:42",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:52",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:42",
+      "info": "D",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:42",
+      "info": "D",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:34",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:24",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:44",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:54",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:44",
+      "info": "D",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:44",
+      "info": "D",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:36",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:26",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:46",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:56",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:46",
+      "info": "D",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:46",
+      "info": "D",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:38",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:28",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:48",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "14:58",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:48",
+      "info": "D",
+      "start": "Kotowice",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:48",
+      "info": "D",
+      "start": "Kotowice",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:40",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:30",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:50",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:00",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:50",
+      "info": "D",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:50",
+      "info": "D",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:42",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:32",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:52",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:02",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:52",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:52",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:43",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:33",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:53",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:03",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:53",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:53",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:44",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:34",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:54",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:04",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:54",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:54",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:46",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:36",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:56",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:06",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:56",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:56",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:48",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:38",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "11:58",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:08",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "19:58",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "22:58",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:50",
+      "info": "C",
+      "start": "Hucisko II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:40",
+      "info": "C",
+      "start": "Hucisko II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:00",
+      "info": "C",
+      "start": "Hucisko II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:10",
+      "info": "C",
+      "start": "Hucisko II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:00",
+      "info": "D",
+      "start": "Hucisko II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:00",
+      "info": "D",
+      "start": "Hucisko II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:51",
+      "info": "C",
+      "start": "Hucisko I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:41",
+      "info": "C",
+      "start": "Hucisko I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:01",
+      "info": "C",
+      "start": "Hucisko I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:11",
+      "info": "C",
+      "start": "Hucisko I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:01",
+      "info": "D",
+      "start": "Hucisko I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:01",
+      "info": "D",
+      "start": "Hucisko I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:53",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:43",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:03",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:13",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:03",
+      "info": "D",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:03",
+      "info": "D",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:55",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:45",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:05",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:15",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:05",
+      "info": "D",
+      "start": "Hucisko, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:05",
+      "info": "D",
+      "start": "Hucisko, I",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:56",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:46",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:06",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:16",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:06",
+      "info": "D",
+      "start": "Hucisko, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:06",
+      "info": "D",
+      "start": "Hucisko, II",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "06:58",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:48",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:08",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:18",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:08",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:08",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:00",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:50",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:10",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:20",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:10",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:10",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:01",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:51",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:11",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:21",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:11",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:11",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:02",
+      "info": "C",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:52",
+      "info": "C",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:12",
+      "info": "C",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:22",
+      "info": "C",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:12",
+      "info": "D",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:12",
+      "info": "D",
+      "start": "Kroczyce, Nr 4 (Żarecka parking)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:03",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:53",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:13",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:23",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:13",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:13",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:06",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:56",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:16",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:26",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:16",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:16",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:09",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "09:59",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:19",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:29",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:19",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:19",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:13",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "10:03",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:23",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:33",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:23",
+      "info": "D",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:23",
+      "info": "D",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:14",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "10:04",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:24",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:34",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:24",
+      "info": "D",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:24",
+      "info": "D",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:18",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "10:08",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:28",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:38",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:28",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:28",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:19",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "10:09",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:29",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:39",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:29",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:29",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
+    },
+  {
+      "departing": "07:20",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "2"
+    },
+    {
+      "departing": "10:10",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "3"
+    },
+    {
+      "departing": "12:30",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "5"
+    },
+    {
+      "departing": "15:40",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "8"
+    },
+    {
+      "departing": "20:30",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "12"
+    },
+    {
+      "departing": "23:30",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "details": "Kroczyce",
+      "route": "29",
+      "journey": "13"
     }
   ]
 }
