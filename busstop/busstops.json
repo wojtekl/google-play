@@ -1,5 +1,5 @@
 {
-  "updated": 1716967015697,
+  "updated": 1717043528198,
   "busStops": [
     {
       "departing": "05:25",
@@ -84592,7 +84592,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:42",
       "info": "D",
       "start": "Zawiercie, Kościuszki",
@@ -84637,7 +84637,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:44",
       "info": "D",
       "start": "Zawiercie, 11 Listopada I",
@@ -84682,7 +84682,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:46",
       "info": "D",
       "start": "Zawiercie, 11 Listopada II",
@@ -84727,7 +84727,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:48",
       "info": "D",
       "start": "Zawiercie, Oświatowa III",
@@ -84772,7 +84772,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:50",
       "info": "D",
       "start": "Zawiercie, Oświatowa II",
@@ -84817,7 +84817,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:52",
       "info": "D",
       "start": "Rudniki, skrzyżowanie",
@@ -84862,7 +84862,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:54",
       "info": "D",
       "start": "Rudniki, zajazd",
@@ -84907,7 +84907,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "09:57",
       "info": "D",
       "start": "Kopaniny, I",
@@ -84952,7 +84952,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:00",
       "info": "D",
       "start": "Włodowice, ul. Rynek",
@@ -84997,7 +84997,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:02",
       "info": "D",
       "start": "Włodowice, Młyn",
@@ -85042,7 +85042,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:04",
       "info": "D",
       "start": "Rzędkowice, I",
@@ -85087,7 +85087,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:06",
       "info": "D",
       "start": "Rzędkowice, II",
@@ -85132,7 +85132,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:08",
       "info": "D",
       "start": "Rzędkowice, III",
@@ -85177,7 +85177,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:10",
       "info": "D",
       "start": "Rzędkowice, IV",
@@ -85222,7 +85222,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:13",
       "info": "D",
       "start": "Podlesice, Nr 2 (DW792)",
@@ -85267,7 +85267,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:15",
       "info": "D",
       "start": "Lgotka, Nr 1 (skrzyżowanie)",
@@ -85312,7 +85312,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:16",
       "info": "D",
       "start": "Kroczyce, Nr 5 (Żarecka 11)",
@@ -85357,7 +85357,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:17",
       "info": "D",
       "start": "Kroczyce, Nr 4 (Żarecka parking)",
@@ -85402,7 +85402,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:18",
       "info": "D",
       "start": "Kroczyce, Nr 1 (1 Maja)",
@@ -85447,7 +85447,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:21",
       "info": "D",
       "start": "Kroczyce, Nr 8 (Urząd Gminy)",
@@ -85492,7 +85492,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:24",
       "info": "D",
       "start": "Kostkowice, Nr 1",
@@ -85537,7 +85537,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:26",
       "info": "D",
       "start": "Dzibice, Nr 1 (posesja 25)",
@@ -85582,7 +85582,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:27",
       "info": "D",
       "start": "Dzibice, Nr 2 (posesja 70)",
@@ -85627,7 +85627,7 @@
       "route": "29",
       "journey": "11"
     },
-  {
+    {
       "departing": "10:28",
       "info": "D",
       "start": "Dzibice, Nr 3 (posesja 103, pętla)",
@@ -85726,7 +85726,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:12",
       "info": "C",
       "start": "Zawiercie, Kościuszki",
@@ -85780,7 +85780,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:14",
       "info": "C",
       "start": "Zawiercie, 11 Listopada I",
@@ -85834,7 +85834,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:16",
       "info": "C",
       "start": "Zawiercie, 11 Listopada II",
@@ -85888,7 +85888,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:18",
       "info": "C",
       "start": "Zawiercie, Oświatowa III",
@@ -85942,7 +85942,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:20",
       "info": "C",
       "start": "Zawiercie, Oświatowa II",
@@ -85996,7 +85996,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:22",
       "info": "C",
       "start": "Rudniki, skrzyżowanie",
@@ -86050,7 +86050,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:24",
       "info": "C",
       "start": "Rudniki, zajazd",
@@ -86104,7 +86104,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:27",
       "info": "C",
       "start": "Kopaniny, I",
@@ -86158,7 +86158,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:30",
       "info": "C",
       "start": "Włodowice, ul. Rynek",
@@ -86212,7 +86212,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:31",
       "info": "C",
       "start": "Włodowice, Remiza",
@@ -86266,7 +86266,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:32",
       "info": "C",
       "start": "Włodowice, Agronomówka",
@@ -86320,7 +86320,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:34",
       "info": "C",
       "start": "Włodowice, ul. Żarecka",
@@ -86374,7 +86374,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:36",
       "info": "C",
       "start": "Góra Włodowska, ul. Żarecka",
@@ -86428,7 +86428,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:38",
       "info": "C",
       "start": "Kotowice",
@@ -86482,7 +86482,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:40",
       "info": "C",
       "start": "Wygoda, Skrzyżowanie",
@@ -86536,7 +86536,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:42",
       "info": "C",
       "start": "Rzędkowice, IV",
@@ -86590,7 +86590,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:43",
       "info": "C",
       "start": "Rzędkowice, III",
@@ -86644,7 +86644,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:44",
       "info": "C",
       "start": "Rzędkowice, II",
@@ -86698,7 +86698,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:46",
       "info": "C",
       "start": "Rzędkowice, III",
@@ -86752,7 +86752,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:48",
       "info": "C",
       "start": "Rzędkowice, IV",
@@ -86806,7 +86806,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:50",
       "info": "C",
       "start": "Hucisko II",
@@ -86860,7 +86860,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:51",
       "info": "C",
       "start": "Hucisko I",
@@ -86914,7 +86914,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:53",
       "info": "C",
       "start": "Zdów, ul. Topolowa",
@@ -86968,7 +86968,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:55",
       "info": "C",
       "start": "Hucisko, I",
@@ -87022,7 +87022,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:56",
       "info": "C",
       "start": "Hucisko, II",
@@ -87076,7 +87076,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "06:58",
       "info": "C",
       "start": "Podlesice, Nr 2 (DW792)",
@@ -87130,7 +87130,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:00",
       "info": "C",
       "start": "Lgotka, Nr 1 (skrzyżowanie)",
@@ -87184,7 +87184,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:01",
       "info": "C",
       "start": "Kroczyce, Nr 5 (Żarecka 11)",
@@ -87238,7 +87238,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:02",
       "info": "C",
       "start": "Kroczyce, Nr 4 (Żarecka parking)",
@@ -87292,7 +87292,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:03",
       "info": "C",
       "start": "Kroczyce, Nr 1 (1 Maja)",
@@ -87346,7 +87346,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:06",
       "info": "C",
       "start": "Kroczyce, Nr 8 (Urząd Gminy)",
@@ -87400,7 +87400,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:09",
       "info": "C",
       "start": "Kostkowice, Nr 1",
@@ -87454,7 +87454,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:13",
       "info": "C",
       "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
@@ -87508,7 +87508,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:14",
       "info": "C",
       "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
@@ -87562,7 +87562,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:18",
       "info": "C",
       "start": "Dzibice, Nr 1 (posesja 25)",
@@ -87616,7 +87616,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:19",
       "info": "C",
       "start": "Dzibice, Nr 2 (posesja 70)",
@@ -87670,7 +87670,7 @@
       "route": "29",
       "journey": "13"
     },
-  {
+    {
       "departing": "07:20",
       "info": "C",
       "start": "Dzibice, Nr 3 (posesja 103, pętla)",
@@ -87723,6 +87723,2886 @@
       "details": "Kroczyce",
       "route": "29",
       "journey": "13"
+    },
+    {
+      "departing": "04:20",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "06:55",
+      "info": "F",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:30",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:30",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:30",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:00",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:21",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "06:56",
+      "info": "F",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:31",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:31",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:31",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:01",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:23",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "06:58",
+      "info": "F",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:33",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:33",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:33",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:03",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:25",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:00",
+      "info": "F",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:35",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:35",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:35",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:05",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:28",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:03",
+      "info": "F",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:38",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:38",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:38",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:08",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:30",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:05",
+      "info": "F",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:40",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:40",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:40",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:10",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:31",
+      "info": "D",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:06",
+      "info": "F",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:41",
+      "info": "D",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:41",
+      "info": "D",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:41",
+      "info": "D",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:11",
+      "info": "D",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:32",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:07",
+      "info": "F",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:42",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:42",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:42",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:12",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:33",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:08",
+      "info": "F",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:43",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:43",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:43",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:13",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:35",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:10",
+      "info": "F",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:45",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:45",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:45",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:15",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:38",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:13",
+      "info": "F",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:48",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:48",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:48",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:18",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:40",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:15",
+      "info": "F",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:50",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:50",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:50",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:20",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:42",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:17",
+      "info": "F",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:52",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:52",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:52",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:22",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:44",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:19",
+      "info": "F",
+      "start": "Rzędkowice, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:54",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:54",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:54",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:24",
+      "info": "D",
+      "start": "Rzędkowice, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:46",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:21",
+      "info": "F",
+      "start": "Włodowice, Młyn",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:56",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:56",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:56",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:26",
+      "info": "D",
+      "start": "Włodowice, Młyn",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:48",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:23",
+      "info": "F",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "10:58",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "12:58",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "16:58",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:28",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:51",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:26",
+      "info": "F",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:01",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:01",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:01",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:31",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:54",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:29",
+      "info": "F",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:04",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:04",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:04",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:34",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:56",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:31",
+      "info": "F",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:06",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:06",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:06",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:36",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:58",
+      "info": "D",
+      "start": "Oświatowa, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:33",
+      "info": "F",
+      "start": "Oświatowa, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:08",
+      "info": "D",
+      "start": "Oświatowa, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:08",
+      "info": "D",
+      "start": "Oświatowa, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:08",
+      "info": "D",
+      "start": "Oświatowa, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:38",
+      "info": "D",
+      "start": "Oświatowa, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "05:00",
+      "info": "D",
+      "start": "Oświatowa, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:35",
+      "info": "F",
+      "start": "Oświatowa, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:10",
+      "info": "D",
+      "start": "Oświatowa, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:10",
+      "info": "D",
+      "start": "Oświatowa, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:10",
+      "info": "D",
+      "start": "Oświatowa, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:40",
+      "info": "D",
+      "start": "Oświatowa, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "05:02",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:37",
+      "info": "F",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:12",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:12",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:12",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:42",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "05:04",
+      "info": "D",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:39",
+      "info": "F",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:14",
+      "info": "D",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:14",
+      "info": "D",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:14",
+      "info": "D",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:44",
+      "info": "D",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "05:06",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:41",
+      "info": "F",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:16",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:16",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:16",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:46",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "05:08",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "1"
+    },
+    {
+      "departing": "07:43",
+      "info": "F",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "4"
+    },
+    {
+      "departing": "11:18",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "7"
+    },
+    {
+      "departing": "13:18",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "8"
+    },
+    {
+      "departing": "17:18",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "10"
+    },
+    {
+      "departing": "18:48",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "11"
+    },
+    {
+      "departing": "04:20",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:40",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:10",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:30",
+      "info": "C",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:30",
+      "info": "D",
+      "start": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:21",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:41",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:11",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:31",
+      "info": "C",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:31",
+      "info": "D",
+      "start": "Dzibice, Nr 2 (posesja 70)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:23",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:43",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:13",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:33",
+      "info": "C",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:33",
+      "info": "D",
+      "start": "Dzibice, Nr 1 (posesja 25)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:27",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:47",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:17",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:37",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:37",
+      "info": "D",
+      "start": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:28",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:48",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:18",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:38",
+      "info": "C",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:38",
+      "info": "D",
+      "start": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:32",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:52",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:22",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:42",
+      "info": "C",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:42",
+      "info": "D",
+      "start": "Kostkowice, Nr 1",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:35",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:55",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:25",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:45",
+      "info": "C",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:45",
+      "info": "D",
+      "start": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:37",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:57",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:27",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:47",
+      "info": "C",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:47",
+      "info": "D",
+      "start": "Kroczyce, Nr 1 (1 Maja)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:38",
+      "info": "C",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:58",
+      "info": "C",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:28",
+      "info": "C",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:48",
+      "info": "C",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:48",
+      "info": "D",
+      "start": "Kroczyce, Nr 3 (Żarecka 2a)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:39",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "07:59",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:29",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:49",
+      "info": "C",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:49",
+      "info": "D",
+      "start": "Kroczyce, Nr 5 (Żarecka 11)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:40",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:00",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:30",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:50",
+      "info": "C",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:50",
+      "info": "D",
+      "start": "Lgotka, Nr 1 (skrzyżowanie)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:42",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:02",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:32",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:52",
+      "info": "C",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:52",
+      "info": "D",
+      "start": "Podlesice, Nr 2 (DW792)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:47",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:07",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:37",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:57",
+      "info": "C",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:57",
+      "info": "D",
+      "start": "Zdów, ul. Topolowa",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:49",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:09",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:39",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "12:59",
+      "info": "C",
+      "start": "Hucisko, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "20:59",
+      "info": "D",
+      "start": "Hucisko, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:50",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:10",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:40",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:00",
+      "info": "C",
+      "start": "Hucisko, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:00",
+      "info": "D",
+      "start": "Hucisko, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:56",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:16",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:46",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:06",
+      "info": "C",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:06",
+      "info": "D",
+      "start": "Rzędkowice, II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:57",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:17",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:47",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:07",
+      "info": "C",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:07",
+      "info": "D",
+      "start": "Rzędkowice, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "04:58",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:18",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:48",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:08",
+      "info": "C",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:08",
+      "info": "D",
+      "start": "Rzędkowice, IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:00",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:20",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:50",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:10",
+      "info": "C",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:10",
+      "info": "D",
+      "start": "Wygoda, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:02",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:22",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:52",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:12",
+      "info": "C",
+      "start": "Kotowice",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:12",
+      "info": "D",
+      "start": "Kotowice",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:04",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:24",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:54",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:14",
+      "info": "C",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:14",
+      "info": "D",
+      "start": "Góra Włodowska, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:06",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:26",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:56",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:16",
+      "info": "C",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:16",
+      "info": "D",
+      "start": "Włodowice, ul. Żarecka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:08",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:28",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:58",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:18",
+      "info": "C",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:18",
+      "info": "D",
+      "start": "Włodowice, Agronomówka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:09",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:29",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "10:59",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:19",
+      "info": "C",
+      "start": "Włodowice, Remiza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:19",
+      "info": "D",
+      "start": "Włodowice, Remiza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:10",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:30",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:00",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:20",
+      "info": "C",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:20",
+      "info": "D",
+      "start": "Włodowice, ul. Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:13",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:33",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:03",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:23",
+      "info": "C",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:23",
+      "info": "D",
+      "start": "Kopaniny, I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:16",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:36",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:06",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:26",
+      "info": "C",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:26",
+      "info": "D",
+      "start": "Rudniki, zajazd",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:18",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:38",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:08",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:28",
+      "info": "C",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:28",
+      "info": "D",
+      "start": "Rudniki, skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:20",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:40",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:10",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:30",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:30",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:22",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:42",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:12",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:32",
+      "info": "C",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:32",
+      "info": "D",
+      "start": "Zawiercie, Oświatowa III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:24",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:44",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:14",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:34",
+      "info": "C",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:34",
+      "info": "D",
+      "start": "Zawiercie, 11 Listopada II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:26",
+      "info": "C",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:46",
+      "info": "C",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:16",
+      "info": "C",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:36",
+      "info": "C",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:36",
+      "info": "D",
+      "start": "Zawiercie, Stary Rynek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:28",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:48",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:18",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:38",
+      "info": "C",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:38",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:30",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "2"
+    },
+    {
+      "departing": "08:50",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "5"
+    },
+    {
+      "departing": "11:20",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "6"
+    },
+    {
+      "departing": "13:40",
+      "info": "C",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "9"
+    },
+    {
+      "departing": "21:40",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Kroczyce",
+      "route": "30",
+      "journey": "12"
     }
   ]
 }
