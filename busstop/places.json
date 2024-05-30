@@ -1,6 +1,6 @@
 
 {
-  "updated": 1717043528198,
+  "updated": 1717081802422,
   "places": [
     {
       "name": "Aleksandrówka",
@@ -291,6 +291,24 @@
       "longitude": 19.63902
     },
     {
+      "name": "Dzibice, Nr 1 (posesja 25)",
+      "description": "",
+      "latitude": 50.59979,
+      "longitude": 19.58575
+    },
+    {
+      "name": "Dzibice, Nr 2 (posesja 70)",
+      "description": "",
+      "latitude": 50.60741,
+      "longitude": 19.58698
+    },
+    {
+      "name": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "description": "",
+      "latitude": 50.61633,
+      "longitude": 19.58701
+    },
+    {
       "name": "Gorzków Nowy, I",
       "description": "",
       "latitude": 0.16,
@@ -429,10 +447,22 @@
       "longitude": 0.0
     },
     {
+      "name": "Kostkowice, Nr 1",
+      "description": "",
+      "latitude": 50.58486,
+      "longitude": 19.57436
+    },
+    {
       "name": "Kotowice, Zamkowa",
       "description": "",
       "latitude": 50.59653,
       "longitude": 19.4514
+    },
+    {
+      "name": "Kopaniny, I",
+      "description": "",
+      "latitude": 50.53657,
+      "longitude": 19.42918
     },
     {
       "name": "Krasawa",
@@ -451,6 +481,24 @@
       "description": "",
       "latitude": 50.5613,
       "longitude": 19.57032
+    },
+    {
+      "name": "Kroczyce, Nr 4 (Żarecka parking)",
+      "description": "",
+      "latitude": 50.56205,
+      "longitude": 19.56863
+    },
+    {
+      "name": "Kroczyce, Nr 5 (Żarecka 11)",
+      "description": "",
+      "latitude": 50.56298,
+      "longitude": 19.5588
+    },
+    {
+      "name": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "description": "",
+      "latitude": 50.56843,
+      "longitude": 19.56422
     },
     {
       "name": "Kłomnice, I",
@@ -499,6 +547,12 @@
       "description": "",
       "latitude": 50.54270,
       "longitude": 19.56756
+    },
+    {
+      "name": "Lgotka, Nr 1 (skrzyżowanie)",
+      "description": "",
+      "latitude": 50.56371,
+      "longitude": 19.54763
     },
     {
       "name": "Lipicze, I",
@@ -765,6 +819,12 @@
       "longitude": 19.42912
     },
     {
+      "name": "Podlesice, Nr 2 (DW792)",
+      "description": "",
+      "latitude": 50.56691,
+      "longitude": 19.53589
+    },
+    {
       "name": "Podlesie",
       "description": "",
       "latitude": 50.7543,
@@ -877,6 +937,42 @@
       "description": "",
       "latitude": 0.59,
       "longitude": 0.0
+    },
+    {
+      "name": "Rudniki, skrzyżowanie",
+      "description": "",
+      "latitude": 50.52192,
+      "longitude": 19.4228
+    },
+    {
+      "name": "Rudniki, zajazd",
+      "description": "",
+      "latitude": 50.51704,
+      "longitude": 19.41994
+    },
+    {
+      "name": "Rzędkowice, I",
+      "description": "",
+      "latitude": 50.5627,
+      "longitude": 19.47457
+    },
+    {
+      "name": "Rzędkowice, II",
+      "description": "",
+      "latitude": 50.56633,
+      "longitude": 19.48107
+    },
+    {
+      "name": "Rzędkowice, III",
+      "description": "",
+      "latitude": 50.57319,
+      "longitude": 19.48109
+    },
+    {
+      "name": "Rzędkowice, IV",
+      "description": "",
+      "latitude": 50.57863,
+      "longitude": 19.48804
     },
     {
       "name": "Siedlec, Krzyże",
@@ -1047,6 +1143,18 @@
       "longitude": 19.30862
     },
     {
+      "name": "Włodowice, Młyn",
+      "description": "",
+      "latitude": 50.55842,
+      "longitude": 19.45717
+    },
+    {
+      "name": "Włodowice, ul. Rynek",
+      "description": "",
+      "latitude": 50.5522,
+      "longitude": 19.45033
+    },
+    {
       "name": "Wola Mokrzeska",
       "description": "",
       "latitude": 50.82631,
@@ -1147,6 +1255,12 @@
       "description": "",
       "latitude": 50.60624,
       "longitude": 19.7283
+    },
+    {
+      "name": "Zawiercie, Oświatowa II",
+      "description": "",
+      "latitude": 50.50807,
+      "longitude": 19.41471
     },
     {
       "name": "Zawiercie, Sikorskiego I (PKP)",
