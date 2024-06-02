@@ -321,10 +321,16 @@
       "longitude": 19.58701
     },
     {
+      "name": "Gołuchowice, Nr 1 (remiza)",
+      "description": "",
+      "latitude": 50.57544,
+      "longitude": 19.61594
+    },
+    {
       "name": "Gołuchowice, Nr 3 (DK78)",
       "description": "",
-      "latitude": 50.56897,
-      "longitude": 19.61808
+      "latitude": 50.5693,
+      "longitude": 19.6208
     },
     {
       "name": "Gorzków Nowy, I",
@@ -525,6 +531,18 @@
       "longitude": 19.5588
     },
     {
+      "name": "Kroczyce, Nr 6 (Topolowa)",
+      "description": "",
+      "latitude": 50.5674,
+      "longitude": 19.58049
+    },
+    {
+      "name": "Kroczyce, Nr 7 (Marianka)",
+      "description": "",
+      "latitude": 50.5759,
+      "longitude": 19.58504
+    },
+    {
       "name": "Kroczyce, Nr 8 (Urząd Gminy)",
       "description": "",
       "latitude": 50.56843,
@@ -583,6 +601,24 @@
       "description": "",
       "latitude": 50.53408,
       "longitude": 19.56687
+    },
+    {
+      "name": "Lgota Murowana, Nr 3 (remiza)",
+      "description": "",
+      "latitude": 50.54165,
+      "longitude": 19.56572
+    },
+    {
+      "name": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "description": "",
+      "latitude": 50.54164,
+      "longitude": 19.56025
+    },
+    {
+      "name": "Lgota Murowana, Słoneczna",
+      "description": "",
+      "latitude": 50.54127,
+      "longitude": 19.55235
     },
     {
       "name": "Lgotka, Nr 1 (skrzyżowanie)",
@@ -843,6 +879,18 @@
       "longitude": 19.40025
     },
     {
+      "name": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "description": "",
+      "latitude": 50.53398,
+      "longitude": 19.53069
+    },
+    {
+      "name": "Piaseczno, Nr 2 (pętla)",
+      "description": "",
+      "latitude": 50.5375,
+      "longitude": 19.53192
+    },
+    {
       "name": "Piasek",
       "description": "",
       "latitude": 50.73369,
@@ -1041,10 +1089,34 @@
       "longitude": 0.0
     },
     {
+      "name": "Siedliszowice, Nr 1 (posesja 75)",
+      "description": "",
+      "latitude": 50.55793,
+      "longitude": 19.65967
+    },
+    {
+      "name": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "description": "",
+      "latitude": 50.55385,
+      "longitude": 19.67088
+    },
+    {
+      "name": "Siedliszowice, Nr 3 (górna wieś)",
+      "description": "",
+      "latitude": 50.54963,
+      "longitude": 19.67917
+    },
+    {
       "name": "Siemięrzyce, Nr 1 (DK78)",
       "description": "",
       "latitude": 50.567,
       "longitude": 19.60278
+    },
+    {
+      "name": "Siemięrzyce, Wrzoski",
+      "description": "",
+      "latitude": 50.58327,
+      "longitude": 19.58997
     },
     {
       "name": "Sieraków, I",
