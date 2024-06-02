@@ -2,10 +2,10 @@
   "updated": 0,
   "clients": [
     {
-      "name": "",
-      "schedule": "",
-      "announcement": "",
-      "contact": ""
+      "name": "Parafia św. Jana Chrzciciela w Złotym Potoku",
+      "schedule": "https://parafia-zlotypotok.pl/intencje-mszalne/#site-content",
+      "announcement": "https://parafia-zlotypotok.pl/ogloszenia-duszpasterskie/#:~:text=Og%C5%82oszenia%20duszpasterskie",
+      "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content"
     }
   ]
 }
