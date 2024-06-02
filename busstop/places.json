@@ -27,6 +27,18 @@
       "longitude": 19.57962
     },
     {
+      "name": "Bonowice, 1",
+      "description": "",
+      "latitude": 50.62188,
+      "longitude": 19.78963
+    },
+    {
+      "name": "Bonowice, 2",
+      "description": "",
+      "latitude": 50.61804,
+      "longitude": 19.77274
+    },
+    {
       "name": "Brzyszów, Olsztyńska",
       "description": "",
       "latitude": 50.79731,
@@ -309,6 +321,12 @@
       "longitude": 19.58701
     },
     {
+      "name": "Gołuchowice, Nr 3 (DK78)",
+      "description": "",
+      "latitude": 50.56897,
+      "longitude": 19.61808
+    },
+    {
       "name": "Gorzków Nowy, I",
       "description": "",
       "latitude": 0.16,
@@ -325,6 +343,18 @@
       "description": "",
       "latitude": 50.68006,
       "longitude": 19.49154
+    },
+    {
+      "name": "Grabiec, 1",
+      "description": "",
+      "latitude": 50.61575,
+      "longitude": 19.75947
+    },
+    {
+      "name": "Grabiec, 2",
+      "description": "",
+      "latitude": 50.61473,
+      "longitude": 19.74577
     },
     {
       "name": "Janów",
@@ -547,6 +577,12 @@
       "description": "",
       "latitude": 50.54270,
       "longitude": 19.56756
+    },
+    {
+      "name": "Lgota Murowana, Nr 2 (Kalinowa 40)",
+      "description": "",
+      "latitude": 50.53408,
+      "longitude": 19.56687
     },
     {
       "name": "Lgotka, Nr 1 (skrzyżowanie)",
@@ -1005,6 +1041,12 @@
       "longitude": 0.0
     },
     {
+      "name": "Siemięrzyce, Nr 1 (DK78)",
+      "description": "",
+      "latitude": 50.567,
+      "longitude": 19.60278
+    },
+    {
       "name": "Sieraków, I",
       "description": "",
       "latitude": 50.74778,
@@ -1081,6 +1123,12 @@
       "description": "",
       "latitude": 50.62621,
       "longitude": 19.81651
+    },
+    {
+      "name": "Szczekociny, Nowa",
+      "description": "",
+      "latitude": 50.62325,
+      "longitude": 19.80559
     },
     {
       "name": "Trzebniów, I",
