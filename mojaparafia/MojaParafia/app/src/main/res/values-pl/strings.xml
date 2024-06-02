@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MojaParafia</string>
+    <string name="navigation_drawer_open">Otwórz nawigację</string>
+    <string name="navigation_drawer_close">Zamknij nawigację</string>
+    <string name="nav_header_desc">Nawigacja</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="menu_home">Intencje</string>
+    <string name="menu_gallery">Ogłoszenia</string>
+    <string name="menu_slideshow">Kontakt</string>
+</resources>

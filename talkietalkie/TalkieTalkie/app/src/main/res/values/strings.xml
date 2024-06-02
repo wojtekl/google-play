@@ -3,7 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title" translatable="false">TalkieTalkie</string>
-    <string name="nav_header_subtitle" translatable="false">v0.3.0</string>
+    <string name="nav_header_subtitle" translatable="false">v0.5.1</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_refresh">Refresh</string>
     <string name="action_settings">Settings</string>
@@ -27,8 +27,10 @@
 
     <string name="speaking">Speaking</string>
     <string name="hold_button">Hold microphone button to talk</string>
+    <string name="disconnect">X Disconnect</string>
     <string name="not_connected">No device connected, go to \'Devices in range\' tab</string>
     <string name="not_discovered">No device discovered, make sure the WiFi is on and TalkieTalkie opened on the other device</string>
+    <string name="refreshing_devices_list">Refreshing devices list..</string>
     <string name="share">Scan the code below using the other phone</string>
     <string name="title_other_apps">Other Apps</string>
     <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>

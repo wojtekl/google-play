@@ -13,8 +13,8 @@ android {
         applicationId = "github.wleap.busstop"
         minSdk = 24
         targetSdk = 34
-        versionCode = 15
-        versionName = "1.2.1"
+        versionCode = 17
+        versionName = "1.3.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">MojaParafia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">MojaParafia</string>
+    <string name="nav_header_subtitle" translatable="false">v0.1.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Intentions</string>
+    <string name="menu_gallery">Anouncements</string>
+    <string name="menu_slideshow">Contact</string>
+
+    <string name="ad_app_id" translatable="false">ca-app-pub-4377490341302105~8441537076</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/1705636128</string>
+</resources>

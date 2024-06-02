@@ -20,8 +20,10 @@
 
     <string name="speaking">Mówisz</string>
     <string name="hold_button">Trzymaj przycisk mikrofonu aby mówić</string>
+    <string name="disconnect">X Rozłącz</string>
     <string name="not_connected">Brak połączonych urządzeń, przejdź do zakładki \"Urządzenia w zasięgu\"</string>
     <string name="not_discovered">Nie znaleziono urządzeń, upewnij się że WiFi jest włączone oraz TalkieTalkie jest uruchomione na innym urządzeniu</string>
+    <string name="refreshing_devices_list">Odświeżam listę urządzeń..</string>
     <string name="share">Zeskanuj poniższy kod telefonem</string>
     <string name="title_other_apps">Inne aplikacje</string>
 
