@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "el.wojtek"
+    namespace = "github.wleap.myparish"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "el.wojtek"
+        applicationId = "github.wleap.myparish"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
