@@ -3,9 +3,23 @@
     <string name="app_name">MojaParafia</string>
     <string name="navigation_drawer_open">Otwórz nawigację</string>
     <string name="navigation_drawer_close">Zamknij nawigację</string>
+    <string name="nav_header_title">MojaParafia</string>
     <string name="nav_header_desc">Nawigacja</string>
     <string name="action_settings">Ustawienia</string>
     <string name="menu_home">Intencje</string>
     <string name="menu_gallery">Ogłoszenia</string>
     <string name="menu_slideshow">Kontakt</string>
+    <string name="menu_share">Udostępnij</string>
+    <string name="menu_privacy">Prywatność</string>
+    <string name="updating">Aktualizuję..</string>
+    <string name="client">Parafia</string>
+    <string name="filter">Filtruj</string>
+    <string name="share">Zeskanuj poniższy kod telefonem</string>
+    <string name="see_more">Zobacz więcej</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="sync_header">Synchronizacja</string>
+    <string name="personal_header">Osobiste</string>
+    <string name="client_title">Parafia</string>
+    <string name="updated_title">Ostatnio zaktualizowano</string>
+    <string name="select_client">Wybierz swoją parafię z poniższej listy</string>
 </resources>
