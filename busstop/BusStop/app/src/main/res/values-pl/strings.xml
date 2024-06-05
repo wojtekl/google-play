@@ -11,7 +11,7 @@
     <string name="menu_gallery">Oznaczenia</string>
     <string name="menu_map">Mapa</string>
     <string name="menu_share">Udostępnij</string>
-    <string name="menu_slideshow">Polityka prywatności</string>
+    <string name="menu_slideshow">Prywatność</string>
     <string name="menu_apps">Inne aplikacje</string>
 
     <string name="title_activity_settings">Ustawienia</string>
@@ -28,13 +28,18 @@
     <string name="attachment_summary_off">Wszystkie kursy będą pokazane</string>
     <string name="departure_summary">Czas do odjazdu będzie wyświetlany przed</string>
 
-    <string name="updating">Aktualizuję rozkład jazdy, proszę czekaj…</string>
+    <string name="updating">Aktualizuję rozkład jazdy, proszę czekaj..</string>
     <string name="via">przez</string>
     <string name="route">Trasa</string>
     <string name="filter">Filtruj</string>
-    <string name="description">A, D - Poniedziałek - Piątek\nS - Dni nauki szkolnej\n6 - Soboty\n7 - Niedziele\nC - Soboty, Niedziele i święta</string>
+    <string name="description">A, D - Poniedziałek - Piątek\nS - Dni nauki szkolnej\n6 - Soboty\n7 - Niedziele\nC - Soboty, Niedziele i święta\nF - Wakacje</string>
     <string name="see_journey">Przejdź do Mapy by zobaczyć trasę</string>
     <string name="share">Zeskanuj poniższy kod telefonem</string>
+    <string-array name="share_options">
+        <item>Sklep Play</item>
+        <item>Plik APK</item>
+    </string-array>
+    <string name="see_more">Zobacz więcej</string>
 
     <string name="privacy_policy_title">Polityka prywatności</string>
 </resources>

@@ -31,7 +31,7 @@
     <string name="privacy_policy_title">Privacy Policy</string>
     <string name="privacy_policy_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/gooffline/privacy-policy</string>
 
-    <string name="other_apps_title">Other Apps</string>
+    <string name="see_more">See more</string>
     <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>
 
     <string name="ad_app_id" translatable="false">ca-app-pub-4377490341302105~8441537076</string>

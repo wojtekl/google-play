@@ -228,7 +228,7 @@ class MainActivity : ComponentActivity() {
                     url = getString(R.string.privacy_policy_url)
                 )
                 Text(
-                    text = getString(R.string.other_apps_title),
+                    text = getString(R.string.see_more),
                     modifier = Modifier.padding(all = 8.dp).clickable {
                         startActivity(
                             Intent(

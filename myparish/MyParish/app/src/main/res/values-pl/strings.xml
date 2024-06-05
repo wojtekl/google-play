@@ -15,6 +15,10 @@
     <string name="client">Parafia</string>
     <string name="filter">Filtruj</string>
     <string name="share">Zeskanuj poniższy kod telefonem</string>
+    <string-array name="share_options">
+        <item>Sklep Play</item>
+        <item>Plik APK</item>
+    </string-array>
     <string name="see_more">Zobacz więcej</string>
     <string name="title_activity_settings">Ustawienia</string>
     <string name="sync_header">Synchronizacja</string>

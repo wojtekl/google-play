@@ -3,7 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">BusStop</string>
-    <string name="nav_header_subtitle" translatable="false">v1.3.1</string>
+    <string name="nav_header_subtitle" translatable="false">v1.4.1</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
@@ -11,7 +11,7 @@
     <string name="menu_gallery">Description</string>
     <string name="menu_map">Map</string>
     <string name="menu_share">Share</string>
-    <string name="menu_slideshow">Privacy Policy</string>
+    <string name="menu_slideshow">Privacy</string>
     <string name="menu_apps">Other Apps</string>
 
     <string name="title_activity_settings">Settings</string>
@@ -32,14 +32,19 @@
     <string name="attachment_summary_off">All journeys will be shown</string>
     <string name="departure_summary">Time to departure will be displayed before</string>
 
-    <string name="updating">Updating schedule, please wait…</string>
+    <string name="updating">Updating schedule, please wait..</string>
     <string name="minutes" translatable="false">min.</string>
     <string name="via">via</string>
     <string name="route">Route</string>
     <string name="filter">Filter</string>
-    <string name="description">A, D - Monday - Friday\nS - School Days\n6 - Saturdays\n7 - Sundays\nC - Weekends and holidays</string>
+    <string name="description">A, D - Monday - Friday\nS - School Days\n6 - Saturdays\n7 - Sundays\nC - Weekends and holidays\nF - Vacation</string>
     <string name="see_journey">Go to Map to see journey details</string>
     <string name="share">Scan the code below using the other phone</string>
+    <string-array name="share_options">
+        <item>Google Play</item>
+        <item>APK file</item>
+    </string-array>
+    <string name="see_more">See more</string>
     <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>
 
     <string name="privacy_policy_title">Privacy Policy</string>
