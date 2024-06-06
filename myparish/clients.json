@@ -1,11 +1,53 @@
 {
-  "updated": 1717400702748,
+  "updated": 1717673158723,
   "clients": [
     {
       "name": "Parafia św. Jana Chrzciciela w Złotym Potoku",
       "schedule": "https://parafia-zlotypotok.pl/intencje-mszalne/#site-content",
       "announcement": "https://parafia-zlotypotok.pl/ogloszenia-duszpasterskie/#:~:text=Og%C5%82oszenia%20duszpasterskie",
       "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content"
+    },
+    {
+      "name": "Parafia pw. Niepokalanego Poczęcia NMP w Lasocicach",
+      "schedule": "https://www.facebook.com/parafialasocice/#:~:text=Intencje%20mszalne",
+      "announcement": "https://www.facebook.com/parafialasocice/#:~:text=OGŁOSZENIA%20PARAFIALNE",
+      "contact": "https://www.facebook.com/parafialasocice/about"
+    },
+    {
+      "name": "Parafia Żyraków",
+      "schedule": "https://www.parafiazyrakow.pl/aktualnosci/intencje-mszalne.html",
+      "announcement": "https://www.parafiazyrakow.pl/aktualnosci/ogloszenia-1.html",
+      "contact": "https://www.parafiazyrakow.pl/kontakt.html"
+    },
+    {
+      "name": "Parafia św. Klemensa w Wieliczce",
+      "schedule": "https://www.wieliczkaklemens.pl/category/intencje/?latest",
+      "announcement": "https://www.wieliczkaklemens.pl/category/ogloszenia-parafialne/?latest",
+      "contact": "https://wieliczkaklemens.pl/kontakt/"
+    },
+    {
+      "name": "Parafia pw. św. Teresy",
+      "schedule": "https://teresasiedlce.pl/aktualnosci/intencje-mszalne/",
+      "announcement": "https://teresasiedlce.pl/aktualnosci/ogloszenia-duszpasterskie/",
+      "contact": "https://teresasiedlce.pl/kontakt/"
+    },
+    {
+      "name": "Parafia św. Maksymiliana Marii Kolbego w Lesznie",
+      "schedule": "https://www.swmaksymilian.leszno.pl/ogloszenia.html/#:~:text=Intencje%20mszalne",
+      "announcement": "https://www.swmaksymilian.leszno.pl/ogloszenia.html",
+      "contact": "https://www.swmaksymilian.leszno.pl/kontakt.html"
+    },
+    {
+      "name": "Parafia św. Antoniego w Wałczu",
+      "schedule": "https://walcz.kapucyni.pl/nowa/index.php/ogloszenia/intencje-mszalne",
+      "announcement": "https://walcz.kapucyni.pl/nowa/index.php/ogloszenia/ogloszenia-duszpasterskie",
+      "contact": "https://walcz.kapucyni.pl/nowa/index.php/contact"
+    },
+    {
+      "name": "Parafia Rzymskokatolicka pw. Podwyższenia Krzyża Świętego w Hajnówce",
+      "schedule": "http://www.farahajnowka.pl/page/view/43",
+      "announcement": "http://www.farahajnowka.pl/ogloszenia",
+      "contact": "http://www.farahajnowka.pl/page/kontakt"
     }
   ]
 }
