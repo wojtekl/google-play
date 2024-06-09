@@ -15,6 +15,12 @@
       "longitude": 19.37417
     },
     {
+      "name": "Biskupice, Owczarnia",
+      "description": "",
+      "latitude": 50.47138,
+      "longitude": 19.62974
+    },
+    {
       "name": "Bobolice, I",
       "description": "",
       "latitude": 50.61103,
@@ -321,6 +327,24 @@
       "longitude": 19.58701
     },
     {
+      "name": "Giebło, Częstochowska",
+      "description": "",
+      "latitude": 50.47984,
+      "longitude": 19.60879
+    },
+    {
+      "name": "Giebło, Dworek",
+      "description": "",
+      "latitude": 50.48047,
+      "longitude": 19.60356
+    },
+    {
+      "name": "Giebło, Zakościele",
+      "description": "",
+      "latitude": 50.48731,
+      "longitude": 19.59506
+    },
+    {
       "name": "Gołuchowice, Nr 1 (remiza)",
       "description": "",
       "latitude": 50.57544,
@@ -361,6 +385,18 @@
       "description": "",
       "latitude": 50.61473,
       "longitude": 19.74577
+    },
+    {
+      "name": "Gulzów, III",
+      "description": "",
+      "latitude": 50.47823,
+      "longitude": 19.62687
+    },
+    {
+      "name": "Gulzów, Młodzieży",
+      "description": "",
+      "latitude": 50.4832,
+      "longitude": 19.62441
     },
     {
       "name": "Janów",
@@ -439,6 +475,30 @@
       "description": "",
       "latitude": 50.76354,
       "longitude": 19.47364
+    },
+    {
+      "name": "Kiełkowice, Jutrzyna",
+      "description": "",
+      "latitude": 50.47123,
+      "longitude": 19.56984
+    },
+    {
+      "name": "Kiełkowice, Karlińska",
+      "description": "",
+      "latitude": 50.4861,
+      "longitude": 19.57376
+    },
+    {
+      "name": "Kiełkowice, Stara Wieś",
+      "description": "",
+      "latitude": 50.4955,
+      "longitude": 19.57075
+    },
+    {
+      "name": "Kiełkowice, Wilcza",
+      "description": "",
+      "latitude": 50.47739,
+      "longitude": 19.57001
     },
     {
       "name": "Knieja",
@@ -739,6 +799,12 @@
       "description": "",
       "latitude": 50.64401,
       "longitude": 19.45342
+    },
+    {
+      "name": "Mokrus, Leśna",
+      "description": "",
+      "latitude": 50.49436,
+      "longitude": 19.60368
     },
     {
       "name": "Mokrzesz, Częstochowska",
