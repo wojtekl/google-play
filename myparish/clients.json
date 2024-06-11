@@ -1,5 +1,5 @@
 {
-  "updated": 1717760097598,
+  "updated": 1718095063300,
   "clients": [
     {
       "name": "Parafia św. Jana Chrzciciela w Złotym Potoku",
@@ -66,6 +66,126 @@
       "schedule": "http://www.farahajnowka.pl/page/view/43/#text-news",
       "announcement": "http://www.farahajnowka.pl/ogloszenia/#text-news",
       "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news"
+    },
+    {
+      "name": "Parafia św. Antoniego w Toruniu",
+      "schedule": "http://antoni-torun.pl/category/intencje-mszalne/#main-content",
+      "announcement": "http://antoni-torun.pl/ogloszenia-duszpasterskie/#main-content",
+      "contact": "http://antoni-torun.pl/kontakt/#main-content"
+    },
+    {
+      "name": "Parafia Trzycatek",
+      "schedule": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/intencje-mszalne/#main",
+      "announcement": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/ogloszenia-parafialne/#main",
+      "contact": "https://www.parafia-trzycatek.pl/#:~:text=Kontakt"
+    },
+    {
+      "name": "Parafia pw. św. Zygmunta w Łosicach",
+      "schedule": "https://zygmuntlosice.pl/intencje",
+      "announcement": "https://zygmuntlosice.pl/ogloszenia-duszpasterskie",
+      "contact": "https://zygmuntlosice.pl/kontakt"
+    },
+    {
+      "name": "Parafia pw. św. Jana Chrzciciela w Czerniejewie",
+      "schedule": "https://parafia-czerniejewo.pl/intencje-mszalne/#sp-component",
+      "announcement": "https://parafia-czerniejewo.pl/#sp-component",
+      "contact": "https://parafia-czerniejewo.pl/kontakt/#:~:text=Kontakt"
+    },
+    {
+      "name": "Parafia p.w. Wniebowzięcia NMP w Kłodawie",
+      "schedule": "https://www.klodawaparafia.org/intencje.php",
+      "announcement": "https://www.klodawaparafia.org/ogloszenia.php",
+      "contact": "https://www.klodawaparafia.org/index.php#:~:text=KONTAKT%20Z%20NAMI"
+    },
+    {
+      "name": "Parafia NSPJ w Piaśnikach",
+      "schedule": "https://www.wsercujezusa.pl/intencje,i101.html#stand",
+      "announcement": "https://www.wsercujezusa.pl/ogloszenia,i100.html#stand",
+      "contact": "https://www.wsercujezusa.pl/kontakt,i10.html"
+    },
+    {
+      "name": "Parafia Korabka",
+      "schedule": "https://www.korabka.pl/biuletyn/intencje/#main-content",
+      "announcement": "https://www.korabka.pl/biuletyn/ogloszenia/#main-content",
+      "contact": "https://www.korabka.pl/o-parafii/informacje-ogolne/#main-content"
+    },
+    {
+      "name": "Parafia Św. Franciszka Ksawerego w Krasnymstawie",
+      "schedule": "http://franciszek-ksawery.org/intencje-mszalne/#content",
+      "announcement": "http://franciszek-ksawery.org/ogloszenia-parafialne/",
+      "contact": "http://franciszek-ksawery.org/kontakt/"
+    },
+    {
+      "name": "Parafia św. Leonarda w Tyszowcach",
+      "schedule": "http://parafia.tyszowce.pl/intencje-mszalne/#content",
+      "announcement": "http://parafia.tyszowce.pl/ogloszenia-parafialne/#content",
+      "contact": "http://parafia.tyszowce.pl/duszpasterstwo/#content"
+    },
+    {
+      "name": "Parafia pw. NMP Wniebowziętej w Czerlejnie",
+      "schedule": "https://www.czerlejno.archpoznan.pl/aktualnosci/intencje-mszalne/#main",
+      "announcement": "https://www.czerlejno.archpoznan.pl/aktualnosci/ogloszenia-parafialne/#main",
+      "contact": "https://www.czerlejno.archpoznan.pl/kontakt/#main"
+    },
+    {
+      "name": "Parafia św. Rafała Kalinowskiego - Łódź - Wiskitno",
+      "schedule": "https://parafiawiskitno.pl/intencje/",
+      "announcement": "https://parafiawiskitno.pl/ogloszenia/",
+      "contact": "https://parafiawiskitno.pl/kontakt/"
+    },
+    {
+      "name": "Parafia pw. Ducha Świętego w Kościanie",
+      "schedule": "https://www.duchswiety.net/1430-2/#content-area",
+      "announcement": "https://www.duchswiety.net/ogloszenia/#content-area",
+      "contact": "https://www.duchswiety.net/kontakt/#content-area"
+    },
+    {
+      "name": "Parafia Niwiska",
+      "schedule": "https://parafianiwiska.pl/intencje",
+      "announcement": "https://parafianiwiska.pl/ogloszenia_duszpasterskie",
+      "contact": "https://parafianiwiska.pl/kontakt"
+    },
+    {
+      "name": "Parafia Wniebowzięcia NMP - Salezjanie Debrzno",
+      "schedule": "https://debrzno-salezjanie.pl/intencje#main",
+      "announcement": "https://debrzno-salezjanie.pl/#Ogloszenia",
+      "contact": "https://debrzno-salezjanie.pl/#Kontakt"
+    },
+    {
+      "name": "Parafia pw. św. Wojciecha Biskupa i Męczennika w Kielnie",
+      "schedule": "http://www.parafiakielno.pl/intencje-mszalne/#services_view",
+      "announcement": "http://www.parafiakielno.pl/ogloszenia/#announcements",
+      "contact": "http://www.parafiakielno.pl/kontakt/#contact_view"
+    },
+    {
+      "name": "Parafia pw. św. Jadwigi Królowej w Gorlicach",
+      "schedule": "http://jadwiga.gorlice.pl/index.php/intencje-mszalne",
+      "announcement": "http://jadwiga.gorlice.pl/index.php/ogloszenia-parafialne",
+      "contact": "http://jadwiga.gorlice.pl/index.php/informacje-parafialne/kontakt"
+    },
+    {
+      "name": "Parafia św. Antoniego w Żurominie",
+      "schedule": "https://www.parafiazuromin.pl/intencje/#content",
+      "announcement": "https://www.parafiazuromin.pl/ogloszenia",
+      "contact": "https://www.parafiazuromin.pl/"
+    },
+    {
+      "name": "Parafia św. Józefa w Ciechanowie- Fara",
+      "schedule": "https://faraciechanow.pl/category/ogloszenia-i-intencje/intencje/",
+      "announcement": "https://faraciechanow.pl/category/ogloszenia-i-intencje/ogloszenia/",
+      "contact": "https://faraciechanow.pl/kancelaria/"
+    },
+    {
+      "name": "Parafia Bartąg",
+      "schedule": "http://parafiabartag.pl/int/#main",
+      "announcement": "http://parafiabartag.pl/ogl/#main",
+      "contact": "http://parafiabartag.pl/kontakt/#main"
+    },
+    {
+      "name": "Parafia św. Maksymiliana w Krakowie Opatkowicach",
+      "schedule": "https://parafiaopatkowice.pl/intencje.php#o_nas_wiecej",
+      "announcement": "https://parafiaopatkowice.pl/ogloszenia.php#o_nas_wiecej",
+      "contact": "https://parafiaopatkowice.pl/contact.php#kontakt"
     }
   ]
 }
