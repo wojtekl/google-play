@@ -1,5 +1,5 @@
 {
-  "updated": 1718095063300,
+  "updated": 1718278980563,
   "clients": [
     {
       "name": "Parafia św. Jana Chrzciciela w Złotym Potoku",
@@ -186,6 +186,30 @@
       "schedule": "https://parafiaopatkowice.pl/intencje.php#o_nas_wiecej",
       "announcement": "https://parafiaopatkowice.pl/ogloszenia.php#o_nas_wiecej",
       "contact": "https://parafiaopatkowice.pl/contact.php#kontakt"
+    },
+    {
+      "name": "Parafia pw. MB Częstochowskiej w Tereszpolu",
+      "schedule": "https://tereszpol.zamojskolubaczowska.pl/intencje-mszalne/#content",
+      "announcement": "https://tereszpol.zamojskolubaczowska.pl/ogloszenia-duszpasterskie/#content",
+      "contact": "https://tereszpol.zamojskolubaczowska.pl/kontakt/#content"
+    },
+    {
+      "name": "Parafia Podwyższenia Krzyża Św",
+      "schedule": "http://parafiawysockowielkie.pl/index.php/intencje-mszalne/#content",
+      "announcement": "http://parafiawysockowielkie.pl/index.php/ogloszenia-parafialne/#content",
+      "contact": "http://parafiawysockowielkie.pl/index.php/kontakt/#content"
+    },
+    {
+      "name": "Parafia pw. św. Jadwigi i Jerzego w Kłecku",
+      "schedule": "https://parafiaklecko.pl/intencje-mszalne/#inner-wrap",
+      "announcement": "https://parafiaklecko.pl/ogloszenia-parafialne/#inner-wrap",
+      "contact": "https://parafiaklecko.pl/contact/#inner-wrap"
+    },
+    {
+      "name": "Parafia św. Barbary w Staszowie",
+      "schedule": "https://swbarbarastaszow.pl/intencje-mszalne",
+      "announcement": "https://swbarbarastaszow.pl/ogloszenia-parafialne",
+      "contact": "https://swbarbarastaszow.pl/kontakt"
     }
   ]
 }
