@@ -1,215 +1,215 @@
 {
-  "updated": 1718278980563,
+  "updated": 1718640868301,
   "clients": [
     {
-      "name": "Parafia św. Jana Chrzciciela w Złotym Potoku",
-      "schedule": "https://parafia-zlotypotok.pl/intencje-mszalne/#site-content",
-      "announcement": "https://parafia-zlotypotok.pl/ogloszenia-duszpasterskie/#:~:text=Og%C5%82oszenia%20duszpasterskie",
-      "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content"
-    },
-    {
-      "name": "Parafia pw. Niepokalanego Poczęcia NMP w Lasocicach",
-      "schedule": "https://lsolasocice.pl.tl/INTENCJE.htm#main",
-      "announcement": "https://lsolasocice.pl.tl/OG%26%23321%3BOSZENIA.htm#main",
-      "contact": "https://lsolasocice.pl.tl/KONTAKT.htm#main"
-    },
-    {
-      "name": "Parafia Żyraków",
-      "schedule": "https://www.parafiazyrakow.pl/aktualnosci/intencje-mszalne.html#tresc-article",
-      "announcement": "https://www.parafiazyrakow.pl/aktualnosci/ogloszenia-1.html#tresc-article",
-      "contact": "https://www.parafiazyrakow.pl/kontakt.html#start"
-    },
-    {
-      "name": "Parafia św. Klemensa w Wieliczce",
-      "schedule": "https://www.wieliczkaklemens.pl/category/intencje/?latest#content_skip_link_anchor",
-      "announcement": "https://www.wieliczkaklemens.pl/category/ogloszenia-parafialne/?latest#:~:text=OGŁOSZENIA%20PARAFIALNE",
-      "contact": "https://wieliczkaklemens.pl/kontakt/#content_skip_link_anchor"
-    },
-    {
-      "name": "Parafia pw. św. Teresy",
-      "schedule": "https://teresasiedlce.pl/aktualnosci/intencje-mszalne/#:~:text=Intencje%20mszalne",
-      "announcement": "https://teresasiedlce.pl/aktualnosci/ogloszenia-duszpasterskie/#:~:text=Ogłoszenia%20duszpasterskie",
-      "contact": "https://teresasiedlce.pl/kontakt/#:~:text=Kancelaria%20Parafialna"
-    },
-    {
-      "name": "Parafia św. Maksymiliana Marii Kolbego w Lesznie",
-      "schedule": "https://www.swmaksymilian.leszno.pl/ogloszenia.html/#:~:text=Intencje%20mszalne",
-      "announcement": "https://www.swmaksymilian.leszno.pl/ogloszenia.html#:~:text=ogłoszenia%20duszpasterskie",
-      "contact": "https://www.swmaksymilian.leszno.pl/kontakt.html"
-    },
-    {
-      "name": "Parafia św. Antoniego w Wałczu",
-      "schedule": "https://walcz.kapucyni.pl/nowa/index.php/ogloszenia/intencje-mszalne/#k2Container",
-      "announcement": "https://walcz.kapucyni.pl/nowa/index.php/ogloszenia/ogloszenia-duszpasterskie/#k2Container",
-      "contact": "https://walcz.kapucyni.pl/nowa/index.php/contact/#k2Container"
-    },
-    {
-      "name": "Parafia św. Apostołów Szymona i Judy Tadeusza w Żarkach",
-      "schedule": "http://www.parafiazarki.pl/index.php/intencje#main",
-      "announcement": "http://www.parafiazarki.pl/index.php/ogloszenia-duszpasterskie#main",
-      "contact": "http://www.parafiazarki.pl/index.php/kancelaria#main"
-    },
-    {
-      "name": "Parafia św.Stanisława Biskupa w Rosku",
-      "schedule": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=4#pn-maincontent",
-      "announcement": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=5#pn-maincontent",
-      "contact": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=6#pn-maincontent"
-    },
-    {
-      "name": "Parafia św. Katarzyny w Klonówce",
-      "schedule": "http://parafia.klonowka.pl/ogloszenia-parafialne/#:~:text=Intencje%20Mszalne",
-      "announcement": "http://parafia.klonowka.pl/ogloszenia-parafialne/#site-content",
-      "contact": "http://parafia.klonowka.pl/#:~:text=Biuro%20parafialne"
-    },
-    {
-      "name": "Parafia Rzymskokatolicka pw. Podwyższenia Krzyża Świętego w Hajnówce",
-      "schedule": "http://www.farahajnowka.pl/page/view/43/#text-news",
-      "announcement": "http://www.farahajnowka.pl/ogloszenia/#text-news",
-      "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news"
-    },
-    {
-      "name": "Parafia św. Antoniego w Toruniu",
-      "schedule": "http://antoni-torun.pl/category/intencje-mszalne/#main-content",
-      "announcement": "http://antoni-torun.pl/ogloszenia-duszpasterskie/#main-content",
-      "contact": "http://antoni-torun.pl/kontakt/#main-content"
-    },
-    {
-      "name": "Parafia Trzycatek",
-      "schedule": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/intencje-mszalne/#main",
-      "announcement": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/ogloszenia-parafialne/#main",
-      "contact": "https://www.parafia-trzycatek.pl/#:~:text=Kontakt"
-    },
-    {
-      "name": "Parafia pw. św. Zygmunta w Łosicach",
-      "schedule": "https://zygmuntlosice.pl/intencje",
-      "announcement": "https://zygmuntlosice.pl/ogloszenia-duszpasterskie",
-      "contact": "https://zygmuntlosice.pl/kontakt"
-    },
-    {
-      "name": "Parafia pw. św. Jana Chrzciciela w Czerniejewie",
-      "schedule": "https://parafia-czerniejewo.pl/intencje-mszalne/#sp-component",
-      "announcement": "https://parafia-czerniejewo.pl/#sp-component",
-      "contact": "https://parafia-czerniejewo.pl/kontakt/#:~:text=Kontakt"
-    },
-    {
-      "name": "Parafia p.w. Wniebowzięcia NMP w Kłodawie",
-      "schedule": "https://www.klodawaparafia.org/intencje.php",
-      "announcement": "https://www.klodawaparafia.org/ogloszenia.php",
-      "contact": "https://www.klodawaparafia.org/index.php#:~:text=KONTAKT%20Z%20NAMI"
-    },
-    {
-      "name": "Parafia NSPJ w Piaśnikach",
-      "schedule": "https://www.wsercujezusa.pl/intencje,i101.html#stand",
-      "announcement": "https://www.wsercujezusa.pl/ogloszenia,i100.html#stand",
-      "contact": "https://www.wsercujezusa.pl/kontakt,i10.html"
-    },
-    {
-      "name": "Parafia Korabka",
-      "schedule": "https://www.korabka.pl/biuletyn/intencje/#main-content",
-      "announcement": "https://www.korabka.pl/biuletyn/ogloszenia/#main-content",
-      "contact": "https://www.korabka.pl/o-parafii/informacje-ogolne/#main-content"
-    },
-    {
-      "name": "Parafia Św. Franciszka Ksawerego w Krasnymstawie",
-      "schedule": "http://franciszek-ksawery.org/intencje-mszalne/#content",
-      "announcement": "http://franciszek-ksawery.org/ogloszenia-parafialne/",
-      "contact": "http://franciszek-ksawery.org/kontakt/"
-    },
-    {
-      "name": "Parafia św. Leonarda w Tyszowcach",
-      "schedule": "http://parafia.tyszowce.pl/intencje-mszalne/#content",
-      "announcement": "http://parafia.tyszowce.pl/ogloszenia-parafialne/#content",
-      "contact": "http://parafia.tyszowce.pl/duszpasterstwo/#content"
-    },
-    {
-      "name": "Parafia pw. NMP Wniebowziętej w Czerlejnie",
-      "schedule": "https://www.czerlejno.archpoznan.pl/aktualnosci/intencje-mszalne/#main",
-      "announcement": "https://www.czerlejno.archpoznan.pl/aktualnosci/ogloszenia-parafialne/#main",
-      "contact": "https://www.czerlejno.archpoznan.pl/kontakt/#main"
-    },
-    {
-      "name": "Parafia św. Rafała Kalinowskiego - Łódź - Wiskitno",
-      "schedule": "https://parafiawiskitno.pl/intencje/",
-      "announcement": "https://parafiawiskitno.pl/ogloszenia/",
-      "contact": "https://parafiawiskitno.pl/kontakt/"
-    },
-    {
-      "name": "Parafia pw. Ducha Świętego w Kościanie",
-      "schedule": "https://www.duchswiety.net/1430-2/#content-area",
-      "announcement": "https://www.duchswiety.net/ogloszenia/#content-area",
-      "contact": "https://www.duchswiety.net/kontakt/#content-area"
-    },
-    {
-      "name": "Parafia Niwiska",
-      "schedule": "https://parafianiwiska.pl/intencje",
-      "announcement": "https://parafianiwiska.pl/ogloszenia_duszpasterskie",
-      "contact": "https://parafianiwiska.pl/kontakt"
-    },
-    {
-      "name": "Parafia Wniebowzięcia NMP - Salezjanie Debrzno",
-      "schedule": "https://debrzno-salezjanie.pl/intencje#main",
-      "announcement": "https://debrzno-salezjanie.pl/#Ogloszenia",
-      "contact": "https://debrzno-salezjanie.pl/#Kontakt"
-    },
-    {
-      "name": "Parafia pw. św. Wojciecha Biskupa i Męczennika w Kielnie",
-      "schedule": "http://www.parafiakielno.pl/intencje-mszalne/#services_view",
-      "announcement": "http://www.parafiakielno.pl/ogloszenia/#announcements",
-      "contact": "http://www.parafiakielno.pl/kontakt/#contact_view"
-    },
-    {
-      "name": "Parafia pw. św. Jadwigi Królowej w Gorlicach",
-      "schedule": "http://jadwiga.gorlice.pl/index.php/intencje-mszalne",
-      "announcement": "http://jadwiga.gorlice.pl/index.php/ogloszenia-parafialne",
-      "contact": "http://jadwiga.gorlice.pl/index.php/informacje-parafialne/kontakt"
-    },
-    {
-      "name": "Parafia św. Antoniego w Żurominie",
-      "schedule": "https://www.parafiazuromin.pl/intencje/#content",
-      "announcement": "https://www.parafiazuromin.pl/ogloszenia",
-      "contact": "https://www.parafiazuromin.pl/"
-    },
-    {
-      "name": "Parafia św. Józefa w Ciechanowie- Fara",
-      "schedule": "https://faraciechanow.pl/category/ogloszenia-i-intencje/intencje/",
-      "announcement": "https://faraciechanow.pl/category/ogloszenia-i-intencje/ogloszenia/",
-      "contact": "https://faraciechanow.pl/kancelaria/"
-    },
-    {
-      "name": "Parafia Bartąg",
+      "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
       "schedule": "http://parafiabartag.pl/int/#main",
       "announcement": "http://parafiabartag.pl/ogl/#main",
       "contact": "http://parafiabartag.pl/kontakt/#main"
     },
     {
-      "name": "Parafia św. Maksymiliana w Krakowie Opatkowicach",
-      "schedule": "https://parafiaopatkowice.pl/intencje.php#o_nas_wiecej",
-      "announcement": "https://parafiaopatkowice.pl/ogloszenia.php#o_nas_wiecej",
-      "contact": "https://parafiaopatkowice.pl/contact.php#kontakt"
+      "name": "Ciechanów: Parafia św. Józefa - Fara",
+      "schedule": "https://faraciechanow.pl/category/ogloszenia-i-intencje/intencje/",
+      "announcement": "https://faraciechanow.pl/category/ogloszenia-i-intencje/ogloszenia/",
+      "contact": "https://faraciechanow.pl/kancelaria/"
     },
     {
-      "name": "Parafia pw. MB Częstochowskiej w Tereszpolu",
-      "schedule": "https://tereszpol.zamojskolubaczowska.pl/intencje-mszalne/#content",
-      "announcement": "https://tereszpol.zamojskolubaczowska.pl/ogloszenia-duszpasterskie/#content",
-      "contact": "https://tereszpol.zamojskolubaczowska.pl/kontakt/#content"
+      "name": "Czerlejno: Parafia pw. NMP Wniebowziętej",
+      "schedule": "https://www.czerlejno.archpoznan.pl/aktualnosci/intencje-mszalne/#main",
+      "announcement": "https://www.czerlejno.archpoznan.pl/aktualnosci/ogloszenia-parafialne/#main",
+      "contact": "https://www.czerlejno.archpoznan.pl/kontakt/#main"
     },
     {
-      "name": "Parafia Podwyższenia Krzyża Św",
-      "schedule": "http://parafiawysockowielkie.pl/index.php/intencje-mszalne/#content",
-      "announcement": "http://parafiawysockowielkie.pl/index.php/ogloszenia-parafialne/#content",
-      "contact": "http://parafiawysockowielkie.pl/index.php/kontakt/#content"
+      "name": "Czerniejewo: Parafia pw. św. Jana Chrzciciela",
+      "schedule": "https://parafia-czerniejewo.pl/intencje-mszalne/#sp-component",
+      "announcement": "https://parafia-czerniejewo.pl/#sp-component",
+      "contact": "https://parafia-czerniejewo.pl/kontakt/#:~:text=Kontakt"
     },
     {
-      "name": "Parafia pw. św. Jadwigi i Jerzego w Kłecku",
+      "name": "Debrzno: Parafia Wniebowzięcia NMP - Salezjanie",
+      "schedule": "https://debrzno-salezjanie.pl/intencje#main",
+      "announcement": "https://debrzno-salezjanie.pl/#Ogloszenia",
+      "contact": "https://debrzno-salezjanie.pl/#Kontakt"
+    },
+    {
+      "name": "Gorlice: Parafia pw. św. Jadwigi Królowej",
+      "schedule": "http://jadwiga.gorlice.pl/index.php/intencje-mszalne",
+      "announcement": "http://jadwiga.gorlice.pl/index.php/ogloszenia-parafialne",
+      "contact": "http://jadwiga.gorlice.pl/index.php/informacje-parafialne/kontakt"
+    },
+    {
+      "name": "Hajnówka: Parafia Rzymskokatolicka pw. Podwyższenia Krzyża Świętego",
+      "schedule": "http://www.farahajnowka.pl/page/view/43/#text-news",
+      "announcement": "http://www.farahajnowka.pl/ogloszenia/#text-news",
+      "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news"
+    },
+    {
+      "name": "Jaworzynka, Trzycatek: Parafia Matki Bożej Frydeckiej",
+      "schedule": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/intencje-mszalne/#main",
+      "announcement": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/ogloszenia-parafialne/#main",
+      "contact": "https://www.parafia-trzycatek.pl/#:~:text=Kontakt"
+    },
+    {
+      "name": "Kielno: Parafia pw. św. Wojciecha Biskupa i Męczennika",
+      "schedule": "http://www.parafiakielno.pl/intencje-mszalne/#services_view",
+      "announcement": "http://www.parafiakielno.pl/ogloszenia/#announcements",
+      "contact": "http://www.parafiakielno.pl/kontakt/#contact_view"
+    },
+    {
+      "name": "Klonówka: Parafia św. Katarzyny",
+      "schedule": "http://parafia.klonowka.pl/ogloszenia-parafialne/#:~:text=Intencje%20Mszalne",
+      "announcement": "http://parafia.klonowka.pl/ogloszenia-parafialne/#site-content",
+      "contact": "http://parafia.klonowka.pl/#:~:text=Biuro%20parafialne"
+    },
+    {
+      "name": "Kłecko: Parafia pw. św. Jadwigi i Jerzego",
       "schedule": "https://parafiaklecko.pl/intencje-mszalne/#inner-wrap",
       "announcement": "https://parafiaklecko.pl/ogloszenia-parafialne/#inner-wrap",
       "contact": "https://parafiaklecko.pl/contact/#inner-wrap"
     },
     {
-      "name": "Parafia św. Barbary w Staszowie",
+      "name": "Kłodawa: Parafia p.w. Wniebowzięcia NMP",
+      "schedule": "https://www.klodawaparafia.org/intencje.php",
+      "announcement": "https://www.klodawaparafia.org/ogloszenia.php",
+      "contact": "https://www.klodawaparafia.org/index.php#:~:text=KONTAKT%20Z%20NAMI"
+    },
+    {
+      "name": "Kościan: Parafia pw. Ducha Świętego",
+      "schedule": "https://www.duchswiety.net/1430-2/#content-area",
+      "announcement": "https://www.duchswiety.net/ogloszenia/#content-area",
+      "contact": "https://www.duchswiety.net/kontakt/#content-area"
+    },
+    {
+      "name": "Kraków, Opatkowice: Parafia św. Maksymiliana",
+      "schedule": "https://parafiaopatkowice.pl/intencje.php#o_nas_wiecej",
+      "announcement": "https://parafiaopatkowice.pl/ogloszenia.php#o_nas_wiecej",
+      "contact": "https://parafiaopatkowice.pl/contact.php#kontakt"
+    },
+    {
+      "name": "Krasnystaw: Parafia Św. Franciszka Ksawerego",
+      "schedule": "http://franciszek-ksawery.org/intencje-mszalne/#content",
+      "announcement": "http://franciszek-ksawery.org/ogloszenia-parafialne/",
+      "contact": "http://franciszek-ksawery.org/kontakt/"
+    },
+    {
+      "name": "Lasocice: Parafia pw. Niepokalanego Poczęcia NMP",
+      "schedule": "https://lsolasocice.pl.tl/INTENCJE.htm#main",
+      "announcement": "https://lsolasocice.pl.tl/OG%26%23321%3BOSZENIA.htm#main",
+      "contact": "https://lsolasocice.pl.tl/KONTAKT.htm#main"
+    },
+    {
+      "name": "Leszno: Parafia św. Maksymiliana Marii Kolbego",
+      "schedule": "https://www.swmaksymilian.leszno.pl/ogloszenia.html/#:~:text=Intencje%20mszalne",
+      "announcement": "https://www.swmaksymilian.leszno.pl/ogloszenia.html#:~:text=ogłoszenia%20duszpasterskie",
+      "contact": "https://www.swmaksymilian.leszno.pl/kontakt.html"
+    },
+    {
+      "name": "Łosice: Parafia pw. św. Zygmunta",
+      "schedule": "https://zygmuntlosice.pl/intencje",
+      "announcement": "https://zygmuntlosice.pl/ogloszenia-duszpasterskie",
+      "contact": "https://zygmuntlosice.pl/kontakt"
+    },
+    {
+      "name": "Łowicz, Korabka: Parafia Matki Bożej Nieustającej Pomocy",
+      "schedule": "https://www.korabka.pl/biuletyn/intencje/#main-content",
+      "announcement": "https://www.korabka.pl/biuletyn/ogloszenia/#main-content",
+      "contact": "https://www.korabka.pl/o-parafii/informacje-ogolne/#main-content"
+    },
+    {
+      "name": "Łódź, Wiskitno: Parafia św. Rafała Kalinowskiego",
+      "schedule": "https://parafiawiskitno.pl/intencje/",
+      "announcement": "https://parafiawiskitno.pl/ogloszenia/",
+      "contact": "https://parafiawiskitno.pl/kontakt/"
+    },
+    {
+      "name": "Niwiska: Parafia św. Mikołaja",
+      "schedule": "https://parafianiwiska.pl/intencje",
+      "announcement": "https://parafianiwiska.pl/ogloszenia_duszpasterskie",
+      "contact": "https://parafianiwiska.pl/kontakt"
+    },
+    {
+      "name": "Rosko: Parafia św.Stanisława Biskupa",
+      "schedule": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=4#pn-maincontent",
+      "announcement": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=5#pn-maincontent",
+      "contact": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=6#pn-maincontent"
+    },
+    {
+      "name": "Siedlce: Parafia pw. św. Teresy",
+      "schedule": "https://teresasiedlce.pl/aktualnosci/intencje-mszalne/#:~:text=Intencje%20mszalne",
+      "announcement": "https://teresasiedlce.pl/aktualnosci/ogloszenia-duszpasterskie/#:~:text=Ogłoszenia%20duszpasterskie",
+      "contact": "https://teresasiedlce.pl/kontakt/#:~:text=Kancelaria%20Parafialna"
+    },
+    {
+      "name": "Staszów: Parafia św. Barbary",
       "schedule": "https://swbarbarastaszow.pl/intencje-mszalne",
       "announcement": "https://swbarbarastaszow.pl/ogloszenia-parafialne",
       "contact": "https://swbarbarastaszow.pl/kontakt"
+    },
+    {
+      "name": "Świętochłowice, Piaśniki: Parafia NSPJ",
+      "schedule": "https://www.wsercujezusa.pl/intencje,i101.html#stand",
+      "announcement": "https://www.wsercujezusa.pl/ogloszenia,i100.html#stand",
+      "contact": "https://www.wsercujezusa.pl/kontakt,i10.html"
+    },
+    {
+      "name": "Tereszpol: Parafia pw. MB Częstochowskiej",
+      "schedule": "https://tereszpol.zamojskolubaczowska.pl/intencje-mszalne/#content",
+      "announcement": "https://tereszpol.zamojskolubaczowska.pl/ogloszenia-duszpasterskie/#content",
+      "contact": "https://tereszpol.zamojskolubaczowska.pl/kontakt/#content"
+    },
+    {
+      "name": "Toruń: Parafia św. Antoniego",
+      "schedule": "http://antoni-torun.pl/category/intencje-mszalne/#main-content",
+      "announcement": "http://antoni-torun.pl/ogloszenia-duszpasterskie/#main-content",
+      "contact": "http://antoni-torun.pl/kontakt/#main-content"
+    },
+    {
+      "name": "Tyszowce: Parafia św. Leonarda",
+      "schedule": "http://parafia.tyszowce.pl/intencje-mszalne/#content",
+      "announcement": "http://parafia.tyszowce.pl/ogloszenia-parafialne/#content",
+      "contact": "http://parafia.tyszowce.pl/duszpasterstwo/#content"
+    },
+    {
+      "name": "Wałcz: Parafia św. Antoniego",
+      "schedule": "https://walcz.kapucyni.pl/nowa/index.php/ogloszenia/intencje-mszalne/#k2Container",
+      "announcement": "https://walcz.kapucyni.pl/nowa/index.php/ogloszenia/ogloszenia-duszpasterskie/#k2Container",
+      "contact": "https://walcz.kapucyni.pl/nowa/index.php/contact/#k2Container"
+    },
+    {
+      "name": "Wieliczka: Parafia św. Klemensa",
+      "schedule": "https://www.wieliczkaklemens.pl/category/intencje/?latest#content_skip_link_anchor",
+      "announcement": "https://www.wieliczkaklemens.pl/category/ogloszenia-parafialne/?latest#:~:text=OGŁOSZENIA%20PARAFIALNE",
+      "contact": "https://wieliczkaklemens.pl/kontakt/#content_skip_link_anchor"
+    },
+    {
+      "name": "Wysocko Wielkie: Parafia Podwyższenia Krzyża Św",
+      "schedule": "http://parafiawysockowielkie.pl/index.php/intencje-mszalne/#content",
+      "announcement": "http://parafiawysockowielkie.pl/index.php/ogloszenia-parafialne/#content",
+      "contact": "http://parafiawysockowielkie.pl/index.php/kontakt/#content"
+    },
+    {
+      "name": "Złoty Potok: Parafia św. Jana Chrzciciela",
+      "schedule": "https://parafia-zlotypotok.pl/intencje-mszalne/#site-content",
+      "announcement": "https://parafia-zlotypotok.pl/ogloszenia-duszpasterskie/#:~:text=Og%C5%82oszenia%20duszpasterskie",
+      "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content"
+    },
+    {
+      "name": "Żarki: Parafia św. Apostołów Szymona i Judy Tadeusza",
+      "schedule": "http://www.parafiazarki.pl/index.php/intencje#main",
+      "announcement": "http://www.parafiazarki.pl/index.php/ogloszenia-duszpasterskie#main",
+      "contact": "http://www.parafiazarki.pl/index.php/kancelaria#main"
+    },
+    {
+      "name": "Żuromin: Parafia św. Antoniego",
+      "schedule": "https://www.parafiazuromin.pl/intencje/#content",
+      "announcement": "https://www.parafiazuromin.pl/ogloszenia",
+      "contact": "https://www.parafiazuromin.pl/"
+    },
+    {
+      "name": "Żyraków: Parafia Trójcy Przenajświętszej",
+      "schedule": "https://www.parafiazyrakow.pl/aktualnosci/intencje-mszalne.html#tresc-article",
+      "announcement": "https://www.parafiazyrakow.pl/aktualnosci/ogloszenia-1.html#tresc-article",
+      "contact": "https://www.parafiazyrakow.pl/kontakt.html#start"
     }
   ]
 }
