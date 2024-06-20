@@ -1,5 +1,5 @@
 {
-  "updated": 1717393832140,
+  "updated": 1718865846327,
   "busStops": [
     {
       "departing": "05:25",
@@ -90602,6 +90602,4650 @@
       "destination": "Zawiercie, Sikorskiego I (PKP)",
       "details": "Kroczyce",
       "route": "30",
+      "journey": "12"
+    },
+    {
+      "departing": "05:45",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:20",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "07:52",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:30",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "09:55",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:20",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:35",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:45",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:30",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:30",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:47",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:22",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "07:54",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:32",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "09:57",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:22",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:37",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:47",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:32",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:32",
+      "info": "D",
+      "start": "Zawiercie, Kościuszki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:49",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:24",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "07:56",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:34",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "09:59",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:24",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:39",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:49",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:34",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:34",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:51",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:26",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "07:58",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:36",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:01",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:26",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:41",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:51",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:36",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:36",
+      "info": "D",
+      "start": "Zawiercie, Piłsudskiego II Żabki",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:53",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:28",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:00",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:38",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:03",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:28",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:43",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:53",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:38",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:38",
+      "info": "D",
+      "start": "Zawiercie, Leśna II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:55",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:30",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:02",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:40",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:05",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:30",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:45",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:55",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:40",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:40",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:57",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:32",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:04",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:42",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:07",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:32",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:47",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:57",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:42",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:42",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:58",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:33",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:05",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:43",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:08",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:33",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:48",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:58",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:43",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:43",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:59",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:34",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:06",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:44",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:09",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:34",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:49",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "16:59",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:44",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:44",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego V",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:01",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:36",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:08",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:46",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:11",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:36",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:51",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:01",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:46",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:46",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:03",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:38",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:10",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:48",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:13",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:38",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:53",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:03",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:48",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:48",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:05",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:40",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:12",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:50",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:15",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:40",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:55",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:05",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:50",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:50",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:07",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:42",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:14",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:52",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:17",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:42",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:57",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:07",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:52",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:52",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:08",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:43",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:53",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:18",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:43",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:58",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:08",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:53",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:53",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:09",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:44",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:16",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:54",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:19",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:44",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "15:59",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:09",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:54",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:54",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:10",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:45",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:17",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:55",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:20",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:45",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:00",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:10",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:55",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:55",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:11",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:46",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:18",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:56",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:21",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:46",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:01",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:11",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:56",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:56",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:13",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:48",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:20",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:58",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:23",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:48",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:03",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:13",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:58",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:58",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:14",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:49",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:21",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "08:59",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:24",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:49",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:04",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:14",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "18:59",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "20:59",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:16",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:51",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:23",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:01",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:26",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:51",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:06",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:16",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:01",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:01",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:17",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:52",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:24",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:02",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:27",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:52",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:07",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:17",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:02",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:02",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:19",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:54",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:26",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:04",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:29",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:54",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:09",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:19",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:04",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:04",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:21",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:56",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:28",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:06",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:31",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:56",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:11",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:21",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:06",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:06",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:23",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "06:58",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:30",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:08",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:33",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "11:58",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:13",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:23",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:08",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:08",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:27",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "07:02",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:34",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:12",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:37",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "12:02",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:17",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:27",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:12",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:12",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:30",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "07:05",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:37",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:15",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:40",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "12:05",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:20",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:30",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:15",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:15",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:31",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "07:06",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:38",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:16",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:41",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "12:06",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:21",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:31",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:16",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:16",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:33",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "07:08",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:40",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:18",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:43",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "12:08",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:23",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:33",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:18",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:18",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:35",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "07:10",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:42",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:20",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:45",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "12:10",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:25",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:35",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:20",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:20",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "06:37",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "1"
+    },
+    {
+      "departing": "07:12",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "2"
+    },
+    {
+      "departing": "08:44",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "3"
+    },
+    {
+      "departing": "09:22",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "4"
+    },
+    {
+      "departing": "10:47",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "5"
+    },
+    {
+      "departing": "12:12",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "6"
+    },
+    {
+      "departing": "16:27",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "9"
+    },
+    {
+      "departing": "17:37",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "10"
+    },
+    {
+      "departing": "19:22",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "11"
+    },
+    {
+      "departing": "21:22",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Gulzów, Młodzieży",
+      "details": "",
+      "route": "31",
+      "journey": "12"
+    },
+    {
+      "departing": "05:27",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "08:52",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:42",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:32",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "14:48",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "15:47",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:42",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:42",
+      "info": "D",
+      "start": "Gulzów, Młodzieży",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:29",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "08:54",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:44",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:34",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "14:50",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "15:49",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:44",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:44",
+      "info": "D",
+      "start": "Gulzów, III",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:31",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "08:56",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:46",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:36",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "14:52",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "15:51",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:46",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:46",
+      "info": "D",
+      "start": "Biskupice, Owczarnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:33",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "08:58",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:48",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:38",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "14:54",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "15:53",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:48",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:48",
+      "info": "D",
+      "start": "Giebło, Częstochowska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:34",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "08:59",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:49",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:39",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "14:55",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "15:54",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:49",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:49",
+      "info": "D",
+      "start": "Giebło, Dworek",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:37",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:02",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:52",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:42",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "14:58",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "15:57",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:52",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:52",
+      "info": "D",
+      "start": "Mokrus, Leśna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:41",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:06",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:56",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:46",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:02",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:01",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:56",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:56",
+      "info": "D",
+      "start": "Giebło, Zakościele",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:43",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:08",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "09:58",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:48",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:04",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:03",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "17:58",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "19:58",
+      "info": "D",
+      "start": "Kiełkowice, Stara Wieś",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:45",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:10",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:00",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:50",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:06",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:05",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:00",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:00",
+      "info": "D",
+      "start": "Kiełkowice, Karlińska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:47",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:12",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:02",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:52",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:08",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:07",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:02",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:02",
+      "info": "D",
+      "start": "Kiełkowice, Wilcza",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:48",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:13",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:03",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:53",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:09",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:08",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:03",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:03",
+      "info": "D",
+      "start": "Kiełkowice, Jutrzyna",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:50",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:15",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:05",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:55",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:11",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:10",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:05",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:05",
+      "info": "D",
+      "start": "Podzamcze, Skałka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:51",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:16",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:06",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:56",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:12",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:11",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:06",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:06",
+      "info": "D",
+      "start": "Podzamcze, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:52",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:17",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:07",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:57",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:13",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:12",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:07",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:07",
+      "info": "D",
+      "start": "Ogrodzieniec, Kościół",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:54",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:19",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:09",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "12:59",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:15",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:14",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:09",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:09",
+      "info": "D",
+      "start": "Ogrodzieniec, Centrum",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:55",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:20",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:10",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:00",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:16",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:15",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:10",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:10",
+      "info": "D",
+      "start": "Ogrodzieniec, Jurajska",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:56",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:21",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:11",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:01",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:17",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:16",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:11",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:11",
+      "info": "D",
+      "start": "Ogrodzieniec, Cegielnia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:57",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:22",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:12",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:02",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:18",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:17",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:12",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:12",
+      "info": "D",
+      "start": "Ogrodzieniec, Cementownia",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "05:59",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:24",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:14",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:04",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:20",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:19",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:14",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:14",
+      "info": "D",
+      "start": "Fugasówka, Staw",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:01",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:26",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:16",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:06",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:22",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:21",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:16",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:16",
+      "info": "D",
+      "start": "Fugasówka, Skrzyżowanie",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:03",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:28",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:18",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:08",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:24",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:23",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:18",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:18",
+      "info": "D",
+      "start": "Fugasówka, Górka",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:05",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:30",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:20",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:10",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:26",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:25",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:20",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:20",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego VI",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:06",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:31",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:21",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:11",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:27",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:26",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:21",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:21",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego IV",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:07",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:32",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:22",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:12",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:28",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:27",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:22",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:22",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:09",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:34",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:24",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:14",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:30",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:29",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:24",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:24",
+      "info": "D",
+      "start": "Zawiercie, Paderewskiego I",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:11",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:36",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:26",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:16",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:32",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:31",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:26",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:26",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego II",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "12"
+    },
+    {
+      "departing": "06:13",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "2"
+    },
+    {
+      "departing": "09:38",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "5"
+    },
+    {
+      "departing": "10:28",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "6"
+    },
+    {
+      "departing": "13:18",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "8"
+    },
+    {
+      "departing": "15:34",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "9"
+    },
+    {
+      "departing": "16:33",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "10"
+    },
+    {
+      "departing": "18:28",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
+      "journey": "11"
+    },
+    {
+      "departing": "20:28",
+      "info": "D",
+      "start": "Zawiercie, Sikorskiego I (PKP)",
+      "destination": "Zawiercie, Sikorskiego I (PKP)",
+      "details": "Ogrodzieniec",
+      "route": "32",
       "journey": "12"
     }
   ]
