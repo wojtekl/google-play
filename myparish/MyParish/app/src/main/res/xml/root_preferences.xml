@@ -37,6 +37,11 @@
         app:title="@string/personal_header">
 
         <ListPreference
+            app:key="country"
+            app:title="@string/country_title"
+            app:useSimpleSummaryProvider="true"/>
+
+        <ListPreference
             app:key="client"
             app:title="@string/client_title"
             app:useSimpleSummaryProvider="true"/>
