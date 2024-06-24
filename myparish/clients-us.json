@@ -1,11 +1,41 @@
 {
-  "updated": 1719223719314,
+  "updated": 1719226746315,
   "clients": [
+    {
+      "name": "Boston MA: Saint Cecilia Parish",
+      "schedule": "https://www.stceciliaboston.org/weekly-bulletin/",
+      "announcement": "https://www.stceciliaboston.org/mass-information/",
+      "contact": "https://www.stceciliaboston.org/contact-us/"
+    },
     {
       "name": "Chicago IL: Saint Mary of the Lake Catholic Church",
       "schedule": "https://www.saintmarys.org/masstimes.html",
       "announcement": "https://www.saintmarys.org/bulletins.html",
       "contact": "https://www.saintmarys.org/parish-staff.html"
+    },
+    {
+      "name": "Cincinnati OH: St. Cecilia Catholic Parish",
+      "schedule": "https://www.stceciliacincinnati.org/mass-times",
+      "announcement": "https://www.stceciliacincinnati.org/bulletins",
+      "contact": "https://www.stceciliacincinnati.org/contact-us"
+    },
+    {
+      "name": "Dallas TX: St. Cecilia Catholic Parish",
+      "schedule": "https://stceciliadallas.org/mass-times",
+      "announcement": "https://discovermass.com/church/saint-cecilia-dallas-tx/#bulletins",
+      "contact": "https://stceciliadallas.org/contact-us"
+    },
+    {
+      "name": "Evansville IN: St. Boniface Catholic Church",
+      "schedule": "https://www.saintbonifaceparish.org/mass-times",
+      "announcement": "https://www.saintbonifaceparish.org/publications",
+      "contact": "https://www.saintbonifaceparish.org/contact"
+    },
+    {
+      "name": "Germantown WI: St. Boniface Catholic Parish",
+      "schedule": "https://www.stbonifacewi.org/mass-times",
+      "announcement": "https://www.stbonifacewi.org/bulletins-1",
+      "contact": "https://www.stbonifacewi.org/contact-us"
     },
     {
       "name": "Sun City West AZ: Our Lady of Lourdes Catholic Parish",
