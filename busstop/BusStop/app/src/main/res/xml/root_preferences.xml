@@ -26,6 +26,11 @@
         app:title="@string/messages_header">
 
         <ListPreference
+            app:key="area"
+            app:title="@string/area_title"
+            app:useSimpleSummaryProvider="true"/>
+
+        <ListPreference
             app:key="location"
             app:title="@string/reply_title"
             app:useSimpleSummaryProvider="true"/>

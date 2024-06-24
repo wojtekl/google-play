@@ -1,0 +1,17 @@
+{
+  "updated": 1719223719314,
+  "clients": [
+    {
+      "name": "Chicago IL: Saint Mary of the Lake Catholic Church",
+      "schedule": "https://www.saintmarys.org/masstimes.html",
+      "announcement": "https://www.saintmarys.org/bulletins.html",
+      "contact": "https://www.saintmarys.org/parish-staff.html"
+    },
+    {
+      "name": "Sun City West AZ: Our Lady of Lourdes Catholic Parish",
+      "schedule": "https://www.ololscw.org/masstimes",
+      "announcement": "https://www.ololscw.org/event",
+      "contact": "https://www.ololscw.org/directions"
+    }
+  ]
+}

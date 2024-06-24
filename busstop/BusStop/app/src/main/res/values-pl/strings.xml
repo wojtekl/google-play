@@ -20,6 +20,7 @@
     <string name="view_header">Widok</string>
 
     <string name="signature_title">Ostatnio zaktualizowano</string>
+    <string name="area_title">Obszar</string>
     <string name="reply_title">Preferowana lokalizacja</string>
 
     <string name="attachment_title">Ukryj niezaplanowane</string>
@@ -29,6 +30,7 @@
     <string name="departure_summary">Czas do odjazdu będzie wyświetlany przed</string>
 
     <string name="updating">Aktualizuję rozkład jazdy, proszę czekaj..</string>
+    <string name="select_area">Wybierz twój obszar z listy poniżej:</string>
     <string name="via">przez</string>
     <string name="route">Trasa</string>
     <string name="filter">Filtruj</string>
