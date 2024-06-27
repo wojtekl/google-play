@@ -92,6 +92,18 @@
       "contact": "https://www.icgrandprairie.org/contact-us"
     },
     {
+      "name": "Lawrence KS: Immaculate Conception Catholic Parish",
+      "schedule": "https://www.cccparish.org/our-parish/calendar",
+      "announcement": "https://www.cccparish.org/our-parish/bulletin",
+      "contact": "https://www.cccparish.org/our-parish/meet-the-staff"
+    },
+    {
+      "name": "Louisville KY: St. Michael Catholic Parish",
+      "schedule": "https://stmichaelchurch.org/news-events/calendar",
+      "announcement": "https://stmichaelchurch.org/news-events/bulletin",
+      "contact": "https://stmichaelchurch.org/about-us/contact-us"
+    },
+    {
       "name": "San Diego CA: St. Michael Catholic Church",
       "schedule": "https://www.stmichaelsandiego.org/schedule.html",
       "announcement": "https://www.stmichaelsandiego.org/#:~:text=Bulletin",
