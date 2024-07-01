@@ -39,7 +39,7 @@
         <SwitchPreferenceCompat
             app:defaultValue="true"
             app:key="@string/PREFERENCJE_CENY_UDOSTEPNIAJ"
-            app:summary="@string/zdobywaj_zetony"
+            app:summary=""
             app:title="@string/udostepniaj_ceny" />
 
         <Preference

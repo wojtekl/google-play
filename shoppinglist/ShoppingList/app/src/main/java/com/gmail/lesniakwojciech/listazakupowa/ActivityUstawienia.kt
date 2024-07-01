@@ -22,9 +22,7 @@ class ActivityUstawienia : AppCompatActivity() {
             setTheme(R.style.AppThemeNight)
         }
         super.onCreate(savedInstanceState)
-        if (Build.VERSION_CODES.LOLLIPOP <= Build.VERSION.SDK_INT) {
-            Utils.ustawAnimacje(window, Explode(), Explode(), true)
-        }
+        Utils.ustawAnimacje(window, Explode(), Explode(), true)
         setContentView(R.layout.activityustawienia)
         supportFragmentManager
             .beginTransaction()
@@ -55,27 +53,6 @@ class ActivityUstawienia : AppCompatActivity() {
                     true
                 }
 
-            findPreference<Preference>(ustawienia.PREFERENCJE_POKAZ_INSTRUKCJE)!!.onPreferenceClickListener =
-                Preference.OnPreferenceClickListener {
-                    if (Permissions.hasInternet(context, requireView())) {
-                        AsyncTaskRzadanie(object :
-                            AsyncTaskRzadanie.Listener {
-                            override fun onPostExecute(response: Response) {
-                                if (response.isOK(true)) {
-                                    val message = response.message
-                                    if (Patterns.WEB_URL.matcher(message).matches()) {
-                                        val intent = Intent(Intent.ACTION_VIEW, Uri.parse(message))
-                                        if (Permissions.canStart(intent, context.packageManager)) {
-                                            startActivity(intent)
-                                        }
-                                    }
-                                }
-                            }
-                        }).execute(getString(R.string.ADRES_INSTRUKCJA))
-                    }
-                    true
-                }
-
             findPreference<Preference>(ustawienia.PREFERENCJE_WYCZYSC_WSZYSTKO)!!.onPreferenceClickListener =
                 Preference.OnPreferenceClickListener {
                     AlertDialog.Builder(
@@ -92,42 +69,23 @@ class ActivityUstawienia : AppCompatActivity() {
                     true
                 }
 
-            findPreference<Preference>(ustawienia.ZDOBADZ_ZETONY)!!.onPreferenceClickListener =
-                Preference.OnPreferenceClickListener {
-                    if (Permissions.hasInternet(context, requireView())) {
-                        Reklamy.rewardedVideoAd(
-                            requireActivity(),
-                            object : Reklamy.Listener {
-                                override fun onRewarded(amount: Int) {
-                                    (findPreference<EditTextPreference>(ustawienia.ZETONY))!!.text =
-                                        Zetony(context).dodajZetony(
-                                            amount * Zetony.ZETONY_REWARDEDVIDEOAD,
-                                            view
-                                        ).toString()
-                                }
-                            })
-                    }
-                    true
-                }
-
             findPreference<Preference>(ustawienia.PREFERENCJE_PRODUKTY_SPOLECZNOSCI)!!.onPreferenceClickListener =
                 Preference.OnPreferenceClickListener {
-                    if (Permissions.hasInternet(context, requireView()) && Zetony(context)
-                            .sprawdzZetony(Zetony.ZETONY_PRODUKTY_SPOLECZNOSCI, true, view)
+                    if (Permissions.hasInternet(context, requireView())
                     ) {
                         startActivity(Intent(context, ActivitySpolecznosc::class.java))
                     }
                     true
                 }
 
-            findPreference<Preference>(ustawienia.UDOSTEPNIJ_APLIKACJE)!!.onPreferenceClickListener =
+            /*findPreference<Preference>(ustawienia.UDOSTEPNIJ_APLIKACJE)!!.onPreferenceClickListener =
                 Preference.OnPreferenceClickListener {
                     Utils.udostepnijAplikacje(
                         context, getString(R.string.udostepnij_tekst)
                                 + getString(R.string.ADRES_PLAY_APLIKACJA)
                     )
                     true
-                }
+                }*/
 
             findPreference<Preference>(ustawienia.INNE_APLIKACJE)!!.onPreferenceClickListener =
                 Preference.OnPreferenceClickListener {
