@@ -10,10 +10,6 @@
             app:key="@string/PREFERENCJE_SKORKA_CIEMNA"
             app:title="@string/ciemna_skorka" />
 
-        <Preference
-            app:key="@string/PREFERENCJE_POKAZ_INSTRUKCJE"
-            app:title="@string/pokaz_instrukcje" />
-
         <EditTextPreference
             app:defaultValue="@string/APLIKACJA_WERSJA"
             app:enabled="false"
@@ -35,22 +31,6 @@
 
     </PreferenceCategory>
 
-    <PreferenceCategory app:title="@string/zetony">
-
-        <EditTextPreference
-            app:defaultValue="@string/ZETONY_PREMIA"
-            app:enabled="false"
-            app:key="@string/PREFERENCJE_ZETONY"
-            app:title="@string/zetony"
-            app:useSimpleSummaryProvider="true" />
-
-        <Preference
-            app:key="@string/PREFERENCJE_ZDOBADZ_ZETONY"
-            app:summary="@string/zobaczysz_reklame"
-            app:title="@string/zdobadz_zetony" />
-
-    </PreferenceCategory>
-
     <PreferenceCategory
         app:initialExpandedChildrenCount="4"
         app:key="@string/PREFERENCJE_KOMUNIKACJA"
@@ -65,10 +45,6 @@
         <Preference
             app:key="@string/PREFERENCJE_PRODUKTY_SPOLECZNOSCI"
             app:title="@string/produkty_spolecznosci" />
-
-        <Preference
-            app:key="@string/PREFERENCJE_UDOSTEPNIJ_APLIKACJE"
-            app:title="@string/udostepnij_aplikacje" />
 
         <Preference
             app:key="@string/PREFERENCJE_INNE_APLIKACJE"
