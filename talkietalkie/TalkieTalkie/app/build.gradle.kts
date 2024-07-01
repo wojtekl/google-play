@@ -11,8 +11,8 @@ android {
         applicationId = "github.wleap.talkietalkie.admob"
         minSdk = 24
         targetSdk = 34
-        versionCode = 14
-        versionName = "1.0.0"
+        versionCode = 15
+        versionName = "1.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -55,8 +55,8 @@ dependencies {
     implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
     implementation("androidx.preference:preference-ktx:1.2.1")
     testImplementation("junit:junit:4.13.2")
-    androidTestImplementation("androidx.test.ext:junit:1.1.5")
-    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+    androidTestImplementation("androidx.test.ext:junit:1.2.1")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
 
     // region Compose
     val composeBom = platform("androidx.compose:compose-bom:2024.03.00")
@@ -104,7 +104,7 @@ dependencies {
     // endregion
 
     // region Admob
-    implementation("com.google.android.gms:play-services-ads:23.1.0")
+    implementation("com.google.android.gms:play-services-ads:23.2.0")
     // endregion
 
     // region AppOpen
