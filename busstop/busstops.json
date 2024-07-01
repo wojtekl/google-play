@@ -1,5 +1,5 @@
 {
-  "updated": 1719855954540,
+  "updated": 1719856718291,
   "busStops": [
     {
       "departing": "05:25",
@@ -111686,7 +111686,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -111696,7 +111696,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -111706,7 +111706,7 @@
       "info": "D,C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -111716,7 +111716,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -111726,7 +111726,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -111736,7 +111736,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -111746,7 +111746,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -111756,7 +111756,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -111766,7 +111766,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -111776,7 +111776,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -111786,7 +111786,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -111796,7 +111796,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -111806,7 +111806,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -111816,7 +111816,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -111826,7 +111826,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -111836,7 +111836,7 @@
       "info": "D",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -111846,7 +111846,7 @@
       "info": "D",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -111856,7 +111856,7 @@
       "info": "D,C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -111866,7 +111866,7 @@
       "info": "D",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -111876,7 +111876,7 @@
       "info": "D, C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -111886,7 +111886,7 @@
       "info": "D",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -111896,7 +111896,7 @@
       "info": "D, C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -111906,7 +111906,7 @@
       "info": "D",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -111916,7 +111916,7 @@
       "info": "D, C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -111926,7 +111926,7 @@
       "info": "D",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -111936,7 +111936,7 @@
       "info": "D, C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -111946,7 +111946,7 @@
       "info": "D",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -111956,7 +111956,7 @@
       "info": "D, C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -111966,7 +111966,7 @@
       "info": "D, C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -111976,7 +111976,7 @@
       "info": "D, C",
       "start": "Myszków, 8 Marca/Partyzantów",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -111986,7 +111986,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -111996,7 +111996,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -112006,7 +112006,7 @@
       "info": "D,C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -112016,7 +112016,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -112026,7 +112026,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -112036,7 +112036,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -112046,7 +112046,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -112056,7 +112056,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -112066,7 +112066,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -112076,7 +112076,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -112086,7 +112086,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -112096,7 +112096,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -112106,7 +112106,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -112116,7 +112116,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -112126,7 +112126,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -112136,7 +112136,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -112146,7 +112146,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -112156,7 +112156,7 @@
       "info": "D,C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -112166,7 +112166,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -112176,7 +112176,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -112186,7 +112186,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -112196,7 +112196,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -112206,7 +112206,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -112216,7 +112216,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -112226,7 +112226,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -112236,7 +112236,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -112246,7 +112246,7 @@
       "info": "D",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -112256,7 +112256,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -112266,7 +112266,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -112276,7 +112276,7 @@
       "info": "D, C",
       "start": "Myszków, Jedwabna/Waryńskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -112286,7 +112286,7 @@
       "info": "D",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -112296,7 +112296,7 @@
       "info": "D",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -112306,7 +112306,7 @@
       "info": "D,C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -112316,7 +112316,7 @@
       "info": "D",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -112326,7 +112326,7 @@
       "info": "D, C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -112336,7 +112336,7 @@
       "info": "D",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -112346,7 +112346,7 @@
       "info": "D, C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -112356,7 +112356,7 @@
       "info": "D",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -112366,7 +112366,7 @@
       "info": "D, C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -112376,7 +112376,7 @@
       "info": "D",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -112386,7 +112386,7 @@
       "info": "D, C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -112396,7 +112396,7 @@
       "info": "D",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -112406,7 +112406,7 @@
       "info": "D, C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -112416,7 +112416,7 @@
       "info": "D, C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -112426,7 +112426,7 @@
       "info": "D, C",
       "start": "Myszków, Waryńskiego Most",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -112436,7 +112436,7 @@
       "info": "D",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -112446,7 +112446,7 @@
       "info": "D",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -112456,7 +112456,7 @@
       "info": "D,C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -112466,7 +112466,7 @@
       "info": "D",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -112476,7 +112476,7 @@
       "info": "D, C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -112486,7 +112486,7 @@
       "info": "D",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -112496,7 +112496,7 @@
       "info": "D, C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -112506,7 +112506,7 @@
       "info": "D",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -112516,7 +112516,7 @@
       "info": "D, C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -112526,7 +112526,7 @@
       "info": "D",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -112536,7 +112536,7 @@
       "info": "D, C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -112546,7 +112546,7 @@
       "info": "D",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -112556,7 +112556,7 @@
       "info": "D, C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -112566,7 +112566,7 @@
       "info": "D, C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -112576,7 +112576,7 @@
       "info": "D, C",
       "start": "Myszków, Kościuszki Galeria Kupiecka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -112586,7 +112586,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -112596,7 +112596,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -112606,7 +112606,7 @@
       "info": "D,C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -112616,7 +112616,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -112626,7 +112626,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -112636,7 +112636,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -112646,7 +112646,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -112656,7 +112656,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -112666,7 +112666,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -112676,7 +112676,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -112686,7 +112686,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -112696,7 +112696,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -112706,7 +112706,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -112716,7 +112716,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -112726,7 +112726,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -112736,7 +112736,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -112746,7 +112746,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -112756,7 +112756,7 @@
       "info": "D,C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -112766,7 +112766,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -112776,7 +112776,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -112786,7 +112786,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -112796,7 +112796,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -112806,7 +112806,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -112816,7 +112816,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -112826,7 +112826,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -112836,7 +112836,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -112846,7 +112846,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -112856,7 +112856,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -112866,7 +112866,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -112876,7 +112876,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -112886,7 +112886,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -112896,7 +112896,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -112906,7 +112906,7 @@
       "info": "D,C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -112916,7 +112916,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -112926,7 +112926,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -112936,7 +112936,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -112946,7 +112946,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -112956,7 +112956,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -112966,7 +112966,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -112976,7 +112976,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -112986,7 +112986,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -112996,7 +112996,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -113006,7 +113006,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -113016,7 +113016,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -113026,7 +113026,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -113036,7 +113036,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -113046,7 +113046,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -113056,7 +113056,7 @@
       "info": "D,C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -113066,7 +113066,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -113076,7 +113076,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -113086,7 +113086,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -113096,7 +113096,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -113106,7 +113106,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -113116,7 +113116,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -113126,7 +113126,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -113136,7 +113136,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -113146,7 +113146,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -113156,7 +113156,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -113166,7 +113166,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -113176,7 +113176,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -113186,7 +113186,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -113196,7 +113196,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -113206,7 +113206,7 @@
       "info": "D,C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -113216,7 +113216,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -113226,7 +113226,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -113236,7 +113236,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -113246,7 +113246,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -113256,7 +113256,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -113266,7 +113266,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -113276,7 +113276,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -113286,7 +113286,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -113296,7 +113296,7 @@
       "info": "D",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -113306,7 +113306,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -113316,7 +113316,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -113326,7 +113326,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna/Aleja Wolności",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -113336,7 +113336,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -113346,7 +113346,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -113356,7 +113356,7 @@
       "info": "D,C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -113366,7 +113366,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -113376,7 +113376,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -113386,7 +113386,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -113396,7 +113396,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -113406,7 +113406,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -113416,7 +113416,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -113426,7 +113426,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -113436,7 +113436,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -113446,7 +113446,7 @@
       "info": "D",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -113456,7 +113456,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -113466,7 +113466,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -113476,7 +113476,7 @@
       "info": "D, C",
       "start": "Myszków, Leśna Osiedle",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -113486,7 +113486,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -113496,7 +113496,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -113506,7 +113506,7 @@
       "info": "D,C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -113516,7 +113516,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -113526,7 +113526,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -113536,7 +113536,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -113546,7 +113546,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -113556,7 +113556,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -113566,7 +113566,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -113576,7 +113576,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -113586,7 +113586,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -113596,7 +113596,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -113606,7 +113606,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -113616,7 +113616,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -113626,7 +113626,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Leśna",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -113636,7 +113636,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -113646,7 +113646,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -113656,7 +113656,7 @@
       "info": "D,C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -113666,7 +113666,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -113676,7 +113676,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -113686,7 +113686,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -113696,7 +113696,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -113706,7 +113706,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -113716,7 +113716,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -113726,7 +113726,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -113736,7 +113736,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -113746,7 +113746,7 @@
       "info": "D",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -113756,7 +113756,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -113766,7 +113766,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -113776,7 +113776,7 @@
       "info": "D, C",
       "start": "Myszków, Piłsudskiego/Pułaskiego",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -113786,7 +113786,7 @@
       "info": "D",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -113796,7 +113796,7 @@
       "info": "D",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -113806,7 +113806,7 @@
       "info": "D,C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -113816,7 +113816,7 @@
       "info": "D",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -113826,7 +113826,7 @@
       "info": "D, C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -113836,7 +113836,7 @@
       "info": "D",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -113846,7 +113846,7 @@
       "info": "D, C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -113856,7 +113856,7 @@
       "info": "D",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -113866,7 +113866,7 @@
       "info": "D, C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -113876,7 +113876,7 @@
       "info": "D",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -113886,7 +113886,7 @@
       "info": "D, C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -113896,7 +113896,7 @@
       "info": "D",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -113906,7 +113906,7 @@
       "info": "D, C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -113916,7 +113916,7 @@
       "info": "D, C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -113926,7 +113926,7 @@
       "info": "D, C",
       "start": "Myszków, Pułaskiego Rondo",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -113936,7 +113936,7 @@
       "info": "D",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -113946,7 +113946,7 @@
       "info": "D",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -113956,7 +113956,7 @@
       "info": "D,C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -113966,7 +113966,7 @@
       "info": "D",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -113976,7 +113976,7 @@
       "info": "D, C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -113986,7 +113986,7 @@
       "info": "D",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -113996,7 +113996,7 @@
       "info": "D, C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -114006,7 +114006,7 @@
       "info": "D",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -114016,7 +114016,7 @@
       "info": "D, C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -114026,7 +114026,7 @@
       "info": "D",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -114036,7 +114036,7 @@
       "info": "D, C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -114046,7 +114046,7 @@
       "info": "D",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -114056,7 +114056,7 @@
       "info": "D, C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -114066,7 +114066,7 @@
       "info": "D, C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -114076,7 +114076,7 @@
       "info": "D, C",
       "start": "Myszków, PCK Urząd Miasta",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -114086,7 +114086,7 @@
       "info": "D",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -114096,7 +114096,7 @@
       "info": "D",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -114106,7 +114106,7 @@
       "info": "D,C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -114116,7 +114116,7 @@
       "info": "D",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -114126,7 +114126,7 @@
       "info": "D, C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -114136,7 +114136,7 @@
       "info": "D",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -114146,7 +114146,7 @@
       "info": "D, C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -114156,7 +114156,7 @@
       "info": "D",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -114166,7 +114166,7 @@
       "info": "D, C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -114176,7 +114176,7 @@
       "info": "D",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -114186,7 +114186,7 @@
       "info": "D, C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -114196,7 +114196,7 @@
       "info": "D",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -114206,7 +114206,7 @@
       "info": "D, C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -114216,7 +114216,7 @@
       "info": "D, C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -114226,7 +114226,7 @@
       "info": "D, C",
       "start": "Myszków, Plac Dworcowy I",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -114236,7 +114236,7 @@
       "info": "D",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -114246,7 +114246,7 @@
       "info": "D",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -114256,7 +114256,7 @@
       "info": "D,C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -114266,7 +114266,7 @@
       "info": "D",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -114276,7 +114276,7 @@
       "info": "D, C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -114286,7 +114286,7 @@
       "info": "D",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -114296,7 +114296,7 @@
       "info": "D, C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -114306,7 +114306,7 @@
       "info": "D",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -114316,7 +114316,7 @@
       "info": "D, C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -114326,7 +114326,7 @@
       "info": "D",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -114336,7 +114336,7 @@
       "info": "D, C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -114346,7 +114346,7 @@
       "info": "D",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -114356,7 +114356,7 @@
       "info": "D, C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -114366,7 +114366,7 @@
       "info": "D, C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -114376,7 +114376,7 @@
       "info": "D, C",
       "start": "Myszków, 3 Maja MDK",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -114386,7 +114386,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -114396,7 +114396,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -114406,7 +114406,7 @@
       "info": "D,C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -114416,7 +114416,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -114426,7 +114426,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -114436,7 +114436,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -114446,7 +114446,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -114456,7 +114456,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -114466,7 +114466,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -114476,7 +114476,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -114486,7 +114486,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -114496,7 +114496,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -114506,7 +114506,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -114516,7 +114516,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -114526,7 +114526,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego/Hubala",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -114536,7 +114536,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -114546,7 +114546,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -114556,7 +114556,7 @@
       "info": "D,C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -114566,7 +114566,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -114576,7 +114576,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -114586,7 +114586,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -114596,7 +114596,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -114606,7 +114606,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -114616,7 +114616,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -114626,7 +114626,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -114636,7 +114636,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -114646,7 +114646,7 @@
       "info": "D",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -114656,7 +114656,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -114666,7 +114666,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -114676,7 +114676,7 @@
       "info": "D, C",
       "start": "Myszków, Sikorskiego Przychodnia Zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -114686,7 +114686,7 @@
       "info": "D",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -114696,7 +114696,7 @@
       "info": "D",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -114706,7 +114706,7 @@
       "info": "D,C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -114716,7 +114716,7 @@
       "info": "D",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -114726,7 +114726,7 @@
       "info": "D, C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -114736,7 +114736,7 @@
       "info": "D",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -114746,7 +114746,7 @@
       "info": "D, C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -114756,7 +114756,7 @@
       "info": "D",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -114766,7 +114766,7 @@
       "info": "D, C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -114776,7 +114776,7 @@
       "info": "D",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -114786,7 +114786,7 @@
       "info": "D, C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -114796,7 +114796,7 @@
       "info": "D",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -114806,7 +114806,7 @@
       "info": "D, C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -114816,7 +114816,7 @@
       "info": "D, C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -114826,7 +114826,7 @@
       "info": "D, C",
       "start": "Myszków, 1 Maja/Jaworznicka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -114836,7 +114836,7 @@
       "info": "D",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -114846,7 +114846,7 @@
       "info": "D",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -114856,7 +114856,7 @@
       "info": "D,C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -114866,7 +114866,7 @@
       "info": "D",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -114876,7 +114876,7 @@
       "info": "D, C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -114886,7 +114886,7 @@
       "info": "D",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -114896,7 +114896,7 @@
       "info": "D, C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -114906,7 +114906,7 @@
       "info": "D",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -114916,7 +114916,7 @@
       "info": "D, C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -114926,7 +114926,7 @@
       "info": "D",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -114936,7 +114936,7 @@
       "info": "D, C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -114946,7 +114946,7 @@
       "info": "D",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -114956,7 +114956,7 @@
       "info": "D, C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -114966,7 +114966,7 @@
       "info": "D, C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -114976,7 +114976,7 @@
       "info": "D, C",
       "start": "Myszków, Szeroka",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -114986,7 +114986,7 @@
       "info": "D",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -114996,7 +114996,7 @@
       "info": "D",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -115006,7 +115006,7 @@
       "info": "D,C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -115016,7 +115016,7 @@
       "info": "D",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -115026,7 +115026,7 @@
       "info": "D, C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -115036,7 +115036,7 @@
       "info": "D",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -115046,7 +115046,7 @@
       "info": "D, C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -115056,7 +115056,7 @@
       "info": "D",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -115066,7 +115066,7 @@
       "info": "D, C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -115076,7 +115076,7 @@
       "info": "D",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -115086,7 +115086,7 @@
       "info": "D, C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -115096,7 +115096,7 @@
       "info": "D",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -115106,7 +115106,7 @@
       "info": "D, C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -115116,7 +115116,7 @@
       "info": "D, C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -115126,7 +115126,7 @@
       "info": "D, C",
       "start": "Myszków, Millenium Dotyk Jury",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -115136,7 +115136,7 @@
       "info": "D",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -115146,7 +115146,7 @@
       "info": "D",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -115156,7 +115156,7 @@
       "info": "D,C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -115166,7 +115166,7 @@
       "info": "D",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -115176,7 +115176,7 @@
       "info": "D, C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -115186,7 +115186,7 @@
       "info": "D",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -115196,7 +115196,7 @@
       "info": "D, C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -115206,7 +115206,7 @@
       "info": "D",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -115216,7 +115216,7 @@
       "info": "D, C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -115226,7 +115226,7 @@
       "info": "D",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -115236,7 +115236,7 @@
       "info": "D, C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -115246,7 +115246,7 @@
       "info": "D",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -115256,7 +115256,7 @@
       "info": "D, C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -115266,7 +115266,7 @@
       "info": "D, C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -115276,7 +115276,7 @@
       "info": "D, C",
       "start": "Myszków, Zamenhoffa/Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -115286,7 +115286,7 @@
       "info": "D",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -115296,7 +115296,7 @@
       "info": "D",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -115306,7 +115306,7 @@
       "info": "D,C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -115316,7 +115316,7 @@
       "info": "D",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -115326,7 +115326,7 @@
       "info": "D, C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -115336,7 +115336,7 @@
       "info": "D",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -115346,7 +115346,7 @@
       "info": "D, C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -115356,7 +115356,7 @@
       "info": "D",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -115366,7 +115366,7 @@
       "info": "D, C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -115376,7 +115376,7 @@
       "info": "D",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -115386,7 +115386,7 @@
       "info": "D, C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -115396,7 +115396,7 @@
       "info": "D",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -115406,7 +115406,7 @@
       "info": "D, C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -115416,7 +115416,7 @@
       "info": "D, C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -115426,7 +115426,7 @@
       "info": "D, C",
       "start": "Myszków, Stawowa",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -115436,7 +115436,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -115446,7 +115446,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -115456,7 +115456,7 @@
       "info": "D,C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -115466,7 +115466,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -115476,7 +115476,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -115486,7 +115486,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -115496,7 +115496,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -115506,7 +115506,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -115516,7 +115516,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -115526,7 +115526,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -115536,7 +115536,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -115546,7 +115546,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -115556,7 +115556,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -115566,7 +115566,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -115576,7 +115576,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów/1 Maja",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
@@ -115586,7 +115586,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "1"
@@ -115596,7 +115596,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "2"
@@ -115606,7 +115606,7 @@
       "info": "D,C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "3"
@@ -115616,7 +115616,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "4"
@@ -115626,7 +115626,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "5"
@@ -115636,7 +115636,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "6"
@@ -115646,7 +115646,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "7"
@@ -115656,7 +115656,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "8"
@@ -115666,7 +115666,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "9"
@@ -115676,7 +115676,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "10"
@@ -115686,7 +115686,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "11"
@@ -115696,7 +115696,7 @@
       "info": "D",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "12"
@@ -115706,7 +115706,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "13"
@@ -115716,7 +115716,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "14"
@@ -115726,7 +115726,7 @@
       "info": "D, C",
       "start": "Myszków, Partyzantów Przychodnia zdrowia",
       "destination": "Myszków, Partyzantów Przychodnia zdrowia",
-      "details": "",
+      "details": "PCK Urząd Miasta",
       "area": "Miasto Myszków",
       "route": "34",
       "journey": "15"
