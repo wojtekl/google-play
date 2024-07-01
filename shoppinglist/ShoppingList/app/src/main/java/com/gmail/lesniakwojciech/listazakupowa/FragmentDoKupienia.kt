@@ -70,11 +70,6 @@ class FragmentDoKupienia : Fragment(), DialogListener {
                     return when (item.itemId) {
                         R.id.fdcCena -> {
                             if (Permissions.hasInternet(context, view)
-                                && Zetony(context).sprawdzZetony(
-                                    Zetony.ZETONY_CENA_ZOBACZ,
-                                    true,
-                                    view
-                                )
                             ) {
                                 val ustawienia = Ustawienia(context)
                                 WebAPI.pobierzCeny(
@@ -247,7 +242,6 @@ class FragmentDoKupienia : Fragment(), DialogListener {
             ) {
                 WebAPI.udostepnijCeny(ustawienia, model, object : AsyncTaskRzadanie.Listener {
                     override fun onPostExecute(response: Response) {
-                        Zetony(context).dodajZetony(Zetony.ZETONY_CENA_UDOSTEPNIENIE, view)
                     }
                 })
             }
