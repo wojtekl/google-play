@@ -2,10 +2,28 @@
   "updated": 1719226746315,
   "clients": [
     {
+      "name": "Austin TX: St. Austin Catholic Parish",
+      "schedule": "https://www.staustin.org/intentions",
+      "announcement": "https://www.staustin.org/newsbulletins",
+      "contact": "https://www.staustin.org/hours"
+    },
+    {
       "name": "Boston MA: Saint Cecilia Parish",
       "schedule": "https://www.stceciliaboston.org/weekly-bulletin/",
       "announcement": "https://www.stceciliaboston.org/mass-information/",
       "contact": "https://www.stceciliaboston.org/contact-us/"
+    },
+    {
+      "name": "Celestine IN: St. Isidore Catholic Parish",
+      "schedule": "https://www.saintisidoreparish.com/calendars",
+      "announcement": "https://www.saintisidoreparish.com/bulletin",
+      "contact": "https://www.saintisidoreparish.com/mass-times"
+    },
+    {
+      "name": "Cerillos NM: Saint Joseph's Catholic Parish",
+      "schedule": "https://www.sjcerrillos.org/#tabContent_5510783",
+      "announcement": "https://www.sjcerrillos.org/bulletins",
+      "contact": "https://www.sjcerrillos.org/#tabContent_5849935"
     },
     {
       "name": "Chicago IL: Saint Mary of the Lake Catholic Church",
@@ -20,10 +38,34 @@
       "contact": "https://www.stceciliacincinnati.org/contact-us"
     },
     {
+      "name": "Corinth NY: Holly Mother & Child Parish",
+      "schedule": "https://parishes.rcda.org/HolyMotherandChildParish/#popup1",
+      "announcement": "https://parishes.rcda.org/HolyMotherandChildParish/Bulletin.php",
+      "contact": "https://parishes.rcda.org/HolyMotherandChildParish/#:~:text=Contact%20Us"
+    },
+    {
+      "name": "Council Bluffs IA: Corpus Christi Catholic Parish",
+      "schedule": "https://www.corpuschristiparishiowa.org/mass",
+      "announcement": "https://www.corpuschristiparishiowa.org/bulletin",
+      "contact": "https://www.corpuschristiparishiowa.org/contact-us"
+    },
+    {
       "name": "Dallas TX: St. Cecilia Catholic Parish",
       "schedule": "https://stceciliadallas.org/mass-times",
       "announcement": "https://discovermass.com/church/saint-cecilia-dallas-tx/#bulletins",
       "contact": "https://stceciliadallas.org/contact-us"
+    },
+    {
+      "name": "Denver CO: Our Lady of Guadelupe Catholic Parish",
+      "schedule": "https://www.ologdenver.org/calendar",
+      "announcement": "https://www.ologdenver.org/bulletin",
+      "contact": "https://www.ologdenver.org/contact"
+    },
+    {
+      "name": "Effingham IL: Sacred Heart Catholic Parish",
+      "schedule": "https://www.sheff.org/parish/join-us/mass-times",
+      "announcement": "https://www.sheff.org/parish/about/bulletins",
+      "contact": "https://www.sheff.org/parish/contact"
     },
     {
       "name": "Evansville IN: St. Boniface Catholic Church",
@@ -32,10 +74,40 @@
       "contact": "https://www.saintbonifaceparish.org/contact"
     },
     {
+      "name": "Flushing NY: Mary's Nativity - St. Ann Parish",
+      "schedule": "https://marynatstann.org/mass-and-sacraments-folder/mass-times",
+      "announcement": "https://marynatstann.org/bulletins",
+      "contact": "https://marynatstann.org/about/contact"
+    },
+    {
       "name": "Germantown WI: St. Boniface Catholic Parish",
       "schedule": "https://www.stbonifacewi.org/mass-times",
       "announcement": "https://www.stbonifacewi.org/bulletins-1",
       "contact": "https://www.stbonifacewi.org/contact-us"
+    },
+    {
+      "name": "Grande Prairie TX: Immaculate Conception Catholic Parish",
+      "schedule": "https://www.icgrandprairie.org/mass-times",
+      "announcement": "https://www.icgrandprairie.org/bulletins",
+      "contact": "https://www.icgrandprairie.org/contact-us"
+    },
+    {
+      "name": "Lawrence KS: Immaculate Conception Catholic Parish",
+      "schedule": "https://www.cccparish.org/our-parish/calendar",
+      "announcement": "https://www.cccparish.org/our-parish/bulletin",
+      "contact": "https://www.cccparish.org/our-parish/meet-the-staff"
+    },
+    {
+      "name": "Louisville KY: St. Michael Catholic Parish",
+      "schedule": "https://stmichaelchurch.org/news-events/calendar",
+      "announcement": "https://stmichaelchurch.org/news-events/bulletin",
+      "contact": "https://stmichaelchurch.org/about-us/contact-us"
+    },
+    {
+      "name": "San Diego CA: St. Michael Catholic Church",
+      "schedule": "https://www.stmichaelsandiego.org/schedule.html",
+      "announcement": "https://www.stmichaelsandiego.org/#:~:text=Bulletin",
+      "contact": "https://www.stmichaelsandiego.org/#:~:text=Contact%20Us"
     },
     {
       "name": "Sun City West AZ: Our Lady of Lourdes Catholic Parish",
