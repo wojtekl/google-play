@@ -3,7 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title" translatable="false">TalkieTalkie</string>
-    <string name="nav_header_subtitle" translatable="false">v1.0.1</string>
+    <string name="nav_header_subtitle" translatable="false">v1.1.0</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_refresh">Refresh</string>
     <string name="action_settings">Settings</string>
@@ -39,6 +39,8 @@
         <item>Google Play</item>
         <item>APK file</item>
     </string-array>
+    <string name="googleplay_url" translatable="false">https://play.google.com/store/apps/details?id=github.wleap.talkietalkie.admob&amp;pcampaignid=web_share</string>
+    <string name="apkfile_url" translatable="false">https://github.com/wojtekl/google-play/raw/main/talkietalkie/TalkieTalkie/app/release/app-release.apk</string>
     <string name="see_more">See more</string>
     <string name="title_other_apps">Other Apps</string>
     <string name="apps_url" translatable="false">https://play.google.com/store/apps/dev?id=5731012165048810814</string>

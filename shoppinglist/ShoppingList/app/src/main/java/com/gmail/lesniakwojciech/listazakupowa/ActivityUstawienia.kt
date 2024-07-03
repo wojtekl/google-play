@@ -87,11 +87,11 @@ class ActivityUstawienia : AppCompatActivity() {
                     true
                 }*/
 
-            findPreference<Preference>(ustawienia.INNE_APLIKACJE)!!.onPreferenceClickListener =
+            /*findPreference<Preference>(ustawienia.INNE_APLIKACJE)!!.onPreferenceClickListener =
                 Preference.OnPreferenceClickListener {
                     Utils.inneAplikacje(context)
                     true
-                }
+                }*/
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-  "updated": 1719035207149,
+  "updated": 1720016027012,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -144,6 +144,12 @@
       "schedule": "https://swbarbarastaszow.pl/intencje-mszalne",
       "announcement": "https://swbarbarastaszow.pl/ogloszenia-parafialne",
       "contact": "https://swbarbarastaszow.pl/kontakt"
+    },
+    {
+      "name": "Szczekociny: Parafia Św. Bartłomieja",
+      "schedule": "https://parafiaszczekociny.pl/intencje-mszalne/",
+      "announcement": "https://parafiaszczekociny.pl/ogloszenia/",
+      "contact": "https://parafiaszczekociny.pl/kontakt/"
     },
     {
       "name": "Świętochłowice, Piaśniki: Parafia NSPJ",

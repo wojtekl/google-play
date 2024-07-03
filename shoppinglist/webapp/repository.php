@@ -1,12 +1,12 @@
 <?php
 
-require "dane.php";
+require "_global.php";
 
 class Repository {
   private $sql;
   
-  public function __construct($SQL_DATABASE, $SQL_USER, $SQL_PASSWORD) {
-    $this -> sql = new PDO("mysql:host=mysql.cba.pl;dbname=$SQL_DATABASE", $SQL_USER, $SQL_PASSWORD);
+  public function __construct($SQL_HOST, $SQL_DATABASE, $SQL_USER, $SQL_PASSWORD) {
+    $this -> sql = new PDO("mysql:host=$SQL_HOST;dbname=$SQL_DATABASE", $SQL_USER, $SQL_PASSWORD);
     
     $this -> sql -> setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
   }
@@ -39,6 +39,6 @@ class Repository {
   }
 }
 
-$repository = new Repository($SQL_DATABASE, $SQL_USER, $SQL_PASSWORD);
+$repository = new Repository($SQL_HOST, $SQL_DATABASE, $SQL_USER, $SQL_PASSWORD);
 
 ?>

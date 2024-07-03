@@ -46,10 +46,6 @@
             app:key="@string/PREFERENCJE_PRODUKTY_SPOLECZNOSCI"
             app:title="@string/produkty_spolecznosci" />
 
-        <Preference
-            app:key="@string/PREFERENCJE_INNE_APLIKACJE"
-            app:title="@string/inne_aplikacje" />
-
         <EditTextPreference
             app:dependency="@string/PREFERENCJE_AKTYWUJ_RYZYKOWNE"
             app:key="@string/PREFERENCJE_API_ADRES"
