@@ -12,7 +12,11 @@ const pl = {
   produkt: "Produkt",
   sklep: "Sklep",
   cena: "Cena",
-  dodano: "Dodano"
+  dodano: "Dodano",
+  zainstalujApke: "Zainstaluj Apkę!",
+  zobaczWktorym: "Zobacz w którym markecie najtaniej!",
+  goOffline: "GoOffline",
+  talkieTalkie: "TalkieTalkie"
 }
 
 const en = {
@@ -29,7 +33,11 @@ const en = {
   produkt: "Item",
   sklep: "Store",
   cena: "Price",
-  dodano: "Posted"
+  dodano: "Posted",
+  zainstalujApke: "Get the APP!",
+  zobaczWktorym: "Check the prices!",
+  goOffline: "GoOffline",
+  talkieTalkie: "TalkieTalkie"
 }
 
 let localise = en;
