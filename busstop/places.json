@@ -1,6 +1,55 @@
 {
-  "updated": 1720413090537,
+  "updated": 1720416092243,
   "places": [
+    {
+      "name": "Myszków, 8 Marca/Partyzantów",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56434,
+      "longitude": 19.35062
+    },
+    {
+      "name": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56657,
+      "longitude": 19.34232
+    },
+    {
+      "name": "Myszków, Jedwabna/Waryńskiego",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56731,
+      "longitude": 19.33592
+    },
+    {
+      "name": "Myszków, Partyzantów/1 Maja",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56782,
+      "longitude": 19.36363
+    },
+    {
+      "name": "Myszków, Partyzantów Przychodnia zdrowia",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56412,
+      "longitude": 19.35954
+    },
+    {
+      "name": "Myszków, Stawowa",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57069,
+      "longitude": 19.36467
+    },
+    {
+      "name": "Myszków, Zamenhoffa/Stawowa",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57375,
+      "longitude": 19.36624
+    },
     {
       "name": "Aleksandrówka",
       "description": "",
