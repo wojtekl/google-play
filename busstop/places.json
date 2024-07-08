@@ -1,6 +1,20 @@
 {
-  "updated": 1720418025844,
+  "updated": 1720454496214,
   "places": [
+    {
+      "name": "Myszków, 1 Maja/Jaworznicka",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57219,
+      "longitude": 19.35139
+    },
+    {
+      "name": "Myszków, 3 Maja MDK",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.5774,
+      "longitude": 19.33409
+    },
     {
       "name": "Myszków, 8 Marca/Partyzantów",
       "description": "",
@@ -23,6 +37,41 @@
       "longitude": 19.33592
     },
     {
+      "name": "Myszków, Kopernika",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57274,
+      "longitude": 19.33206
+    },
+    {
+      "name": "Myszków, Kościuszki Galeria Kupiecka",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57383,
+      "longitude": 19.3251
+    },
+    {
+      "name": "Myszków, Leśna/Aleja Wolności",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57726,
+      "longitude": 19.29737
+    },
+    {
+      "name": "Myszków, Leśna Osiedle",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57508,
+      "longitude": 19.30529
+    },
+    {
+      "name": "Myszków, Millenium Dotyk Jury",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57334,
+      "longitude": 19.3578
+    },
+    {
       "name": "Myszków, Partyzantów/1 Maja",
       "description": "",
       "area": "Miasto Myszków",
@@ -37,11 +86,81 @@
       "longitude": 19.35954
     },
     {
+      "name": "Myszków, Piłsudskiego/Leśna",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57298,
+      "longitude": 19.30892
+    },
+    {
+      "name": "Myszków, Piłsudskiego/Pułaskiego",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57246,
+      "longitude": 19.31535
+    },
+    {
+      "name": "Myszków, Plac Dworcowy I",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57453,
+      "longitude": 19.32891
+    },
+    {
+      "name": "Myszków, Pułaskiego Rondo",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57295,
+      "longitude": 19.31924
+    },
+    {
+      "name": "Myszków, Pułaskiego Stacja Benzynowa",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57095,
+      "longitude": 19.31481
+    },
+    {
+      "name": "Myszków, Pułaskiego Starostwo Powiatowe",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57361,
+      "longitude": 19.32099
+    },
+    {
+      "name": "Myszków, Sikorskiego/Hubala",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57856,
+      "longitude": 19.33931
+    },
+    {
+      "name": "Myszków, Sikorskiego Przychodnia Zdrowia",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57449,
+      "longitude": 19.34281
+    },
+    {
       "name": "Myszków, Stawowa",
       "description": "",
       "area": "Miasto Myszków",
       "latitude": 50.57069,
       "longitude": 19.36467
+    },
+    {
+      "name": "Myszków, Szeroka",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.5715,
+      "longitude": 19.35647
+    },
+    {
+      "name": "Myszków, Waryńskiego Most",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56934,
+      "longitude": 19.33448
     },
     {
       "name": "Myszków, Zamenhoffa/Stawowa",
