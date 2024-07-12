@@ -1,5 +1,5 @@
 {
-  "updated": 1720808310386,
+  "updated": 1720808802685,
   "busStops": [
     {
       "departing": "05:25",
@@ -128057,7 +128057,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -128067,7 +128067,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -128077,7 +128077,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -128087,7 +128087,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -128097,7 +128097,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -128107,7 +128107,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -128117,7 +128117,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -128127,7 +128127,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -128137,7 +128137,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -128147,7 +128147,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -128157,7 +128157,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -128167,7 +128167,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -128177,7 +128177,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -128187,7 +128187,7 @@
       "start": "Lubliniec, ul. Sobieckiego (Liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -128197,7 +128197,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -128207,7 +128207,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -128217,7 +128217,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -128227,7 +128227,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -128237,7 +128237,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -128247,7 +128247,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -128257,7 +128257,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -128267,7 +128267,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -128277,7 +128277,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -128287,7 +128287,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -128297,7 +128297,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -128307,7 +128307,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -128317,7 +128317,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -128327,7 +128327,7 @@
       "start": "Lubliniec, Al. Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -128337,7 +128337,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -128347,7 +128347,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -128357,7 +128357,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -128367,7 +128367,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -128377,7 +128377,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -128387,7 +128387,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -128397,7 +128397,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -128407,7 +128407,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -128417,7 +128417,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -128427,7 +128427,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -128437,7 +128437,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -128447,7 +128447,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -128457,7 +128457,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -128467,7 +128467,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -128477,7 +128477,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -128487,7 +128487,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -128497,7 +128497,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -128507,7 +128507,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -128517,7 +128517,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -128527,7 +128527,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -128537,7 +128537,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -128547,7 +128547,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -128557,7 +128557,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -128567,7 +128567,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -128577,7 +128577,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -128587,7 +128587,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -128597,7 +128597,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -128607,7 +128607,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -128617,7 +128617,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -128627,7 +128627,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -128637,7 +128637,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -128647,7 +128647,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -128657,7 +128657,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -128667,7 +128667,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -128677,7 +128677,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -128687,7 +128687,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -128697,7 +128697,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -128707,7 +128707,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -128717,7 +128717,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -128727,7 +128727,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -128737,7 +128737,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -128747,7 +128747,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -128757,7 +128757,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -128767,7 +128767,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -128777,7 +128777,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -128787,7 +128787,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -128797,7 +128797,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -128807,7 +128807,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -128817,7 +128817,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -128827,7 +128827,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -128837,7 +128837,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -128847,7 +128847,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -128857,7 +128857,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -128867,7 +128867,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -128877,7 +128877,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -128887,7 +128887,7 @@
       "start": "Lisowice, ul. Lubliniecka 19 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -128897,7 +128897,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -128907,7 +128907,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -128917,7 +128917,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -128927,7 +128927,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -128937,7 +128937,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -128947,7 +128947,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -128957,7 +128957,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -128967,7 +128967,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -128977,7 +128977,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -128987,7 +128987,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -128997,7 +128997,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129007,7 +129007,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129017,7 +129017,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -129027,7 +129027,7 @@
       "start": "Pawonków, ul. Lubliniecka 17 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -129037,7 +129037,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -129047,7 +129047,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -129057,7 +129057,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -129067,7 +129067,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -129077,7 +129077,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -129087,7 +129087,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -129097,7 +129097,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -129107,7 +129107,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -129117,7 +129117,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -129127,7 +129127,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -129137,7 +129137,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129147,7 +129147,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129157,7 +129157,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -129167,7 +129167,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -129177,7 +129177,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -129187,7 +129187,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -129197,7 +129197,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -129207,7 +129207,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -129217,7 +129217,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -129227,7 +129227,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -129237,7 +129237,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -129247,7 +129247,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -129257,7 +129257,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -129267,7 +129267,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -129277,7 +129277,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129287,7 +129287,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129297,7 +129297,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -129307,7 +129307,7 @@
       "start": "Pawonków, Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -129317,7 +129317,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -129327,7 +129327,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -129337,7 +129337,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -129347,7 +129347,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -129357,7 +129357,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -129367,7 +129367,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -129377,7 +129377,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -129387,7 +129387,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -129397,7 +129397,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -129407,7 +129407,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -129417,7 +129417,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129427,7 +129427,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129437,7 +129437,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -129447,7 +129447,7 @@
       "start": "Pawonków, Cegielnia 13",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -129457,7 +129457,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -129467,7 +129467,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -129477,7 +129477,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -129487,7 +129487,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -129497,7 +129497,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -129507,7 +129507,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -129517,7 +129517,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -129527,7 +129527,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -129537,7 +129537,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -129547,7 +129547,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -129557,7 +129557,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129567,7 +129567,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129577,7 +129577,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -129587,7 +129587,7 @@
       "start": "Gwoździany, Lubliniecka 12",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -129597,7 +129597,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -129607,7 +129607,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -129617,7 +129617,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -129627,7 +129627,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -129637,7 +129637,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -129647,7 +129647,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -129657,7 +129657,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -129667,7 +129667,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -129677,7 +129677,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -129687,7 +129687,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -129697,7 +129697,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129707,7 +129707,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129717,7 +129717,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -129727,7 +129727,7 @@
       "start": "Główczyce, Wystrzyca 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -129737,7 +129737,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -129747,7 +129747,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -129757,7 +129757,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -129767,7 +129767,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -129777,7 +129777,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -129787,7 +129787,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -129797,7 +129797,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -129807,7 +129807,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -129817,7 +129817,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -129827,7 +129827,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -129837,7 +129837,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129847,7 +129847,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129857,7 +129857,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -129867,7 +129867,7 @@
       "start": "Gosławice, 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -129877,7 +129877,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -129887,7 +129887,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -129897,7 +129897,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -129907,7 +129907,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -129917,7 +129917,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -129927,7 +129927,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -129937,7 +129937,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -129947,7 +129947,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -129957,7 +129957,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -129967,7 +129967,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -129977,7 +129977,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -129987,7 +129987,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -129997,7 +129997,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130007,7 +130007,7 @@
       "start": "Dobrodzień, Hadasiki 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130017,7 +130017,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -130027,7 +130027,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -130037,7 +130037,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -130047,7 +130047,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -130057,7 +130057,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -130067,7 +130067,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -130077,7 +130077,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -130087,7 +130087,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -130097,7 +130097,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -130107,7 +130107,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -130117,7 +130117,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -130127,7 +130127,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -130137,7 +130137,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130147,7 +130147,7 @@
       "start": "Dobrodzień, E. Stein 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130157,7 +130157,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -130167,7 +130167,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -130177,7 +130177,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -130187,7 +130187,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -130197,7 +130197,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -130207,7 +130207,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -130217,7 +130217,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -130227,7 +130227,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -130237,7 +130237,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -130247,7 +130247,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -130257,7 +130257,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -130267,7 +130267,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -130277,7 +130277,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130287,7 +130287,7 @@
       "start": "Dobrodzień, Solna 01",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130297,7 +130297,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -130307,7 +130307,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -130317,7 +130317,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -130327,7 +130327,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -130337,7 +130337,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -130347,7 +130347,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -130357,7 +130357,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -130367,7 +130367,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -130377,7 +130377,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -130387,7 +130387,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -130397,7 +130397,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -130407,7 +130407,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -130417,7 +130417,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130427,7 +130427,7 @@
       "start": "Dobrodzień, Hadasiki 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130437,7 +130437,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -130447,7 +130447,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -130457,7 +130457,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -130467,7 +130467,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -130477,7 +130477,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -130487,7 +130487,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -130497,7 +130497,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -130507,7 +130507,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -130517,7 +130517,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -130527,7 +130527,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -130537,7 +130537,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -130547,7 +130547,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -130557,7 +130557,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130567,7 +130567,7 @@
       "start": "Gosławice, 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130577,7 +130577,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -130587,7 +130587,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -130597,7 +130597,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -130607,7 +130607,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -130617,7 +130617,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -130627,7 +130627,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -130637,7 +130637,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -130647,7 +130647,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -130657,7 +130657,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -130667,7 +130667,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -130677,7 +130677,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -130687,7 +130687,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -130697,7 +130697,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130707,7 +130707,7 @@
       "start": "Główczyce, Wystrzyca 02",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130717,7 +130717,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -130727,7 +130727,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -130737,7 +130737,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -130747,7 +130747,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -130757,7 +130757,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -130767,7 +130767,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -130777,7 +130777,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -130787,7 +130787,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -130797,7 +130797,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -130807,7 +130807,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -130817,7 +130817,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -130827,7 +130827,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -130837,7 +130837,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130847,7 +130847,7 @@
       "start": "Gwoździany, ul. Lubliniecka 11",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130857,7 +130857,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -130867,7 +130867,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -130877,7 +130877,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -130887,7 +130887,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -130897,7 +130897,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -130907,7 +130907,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -130917,7 +130917,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -130927,7 +130927,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -130937,7 +130937,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -130947,7 +130947,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -130957,7 +130957,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -130967,7 +130967,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -130977,7 +130977,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -130987,7 +130987,7 @@
       "start": "Pawonków, ul. Cegielnia 14",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -130997,7 +130997,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131007,7 +131007,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131017,7 +131017,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -131027,7 +131027,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -131037,7 +131037,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -131047,7 +131047,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -131057,7 +131057,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -131067,7 +131067,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -131077,7 +131077,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -131087,7 +131087,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -131097,7 +131097,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -131107,7 +131107,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -131117,7 +131117,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -131127,7 +131127,7 @@
       "start": "Pawonków, ul. Zawadzkiego 1",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -131137,7 +131137,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131147,7 +131147,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131157,7 +131157,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -131167,7 +131167,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -131177,7 +131177,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -131187,7 +131187,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -131197,7 +131197,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -131207,7 +131207,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -131217,7 +131217,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -131227,7 +131227,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -131237,7 +131237,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -131247,7 +131247,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -131257,7 +131257,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -131267,7 +131267,7 @@
       "start": "Pawonków, szkoła",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -131277,7 +131277,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131287,7 +131287,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131297,7 +131297,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -131307,7 +131307,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -131317,7 +131317,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -131327,7 +131327,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -131337,7 +131337,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -131347,7 +131347,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -131357,7 +131357,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -131367,7 +131367,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -131377,7 +131377,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -131387,7 +131387,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -131397,7 +131397,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -131407,7 +131407,7 @@
       "start": "Pawonków, Lubliniecka 18 (Lustrzaniec)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -131417,7 +131417,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131427,7 +131427,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131437,7 +131437,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -131447,7 +131447,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -131457,7 +131457,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -131467,7 +131467,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -131477,7 +131477,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -131487,7 +131487,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -131497,7 +131497,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -131507,7 +131507,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -131517,7 +131517,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -131527,7 +131527,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -131537,7 +131537,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -131547,7 +131547,7 @@
       "start": "Lisowice, ul. Lubliniecka 20 (Napłatki)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -131557,7 +131557,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131567,7 +131567,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131577,7 +131577,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -131587,7 +131587,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -131597,7 +131597,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -131607,7 +131607,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -131617,7 +131617,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -131627,7 +131627,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -131637,7 +131637,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -131647,7 +131647,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -131657,7 +131657,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -131667,7 +131667,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -131677,7 +131677,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -131687,7 +131687,7 @@
       "start": "Lisowice, ul. Lubliniecka 22",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -131697,7 +131697,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131707,7 +131707,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131717,7 +131717,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -131727,7 +131727,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -131737,7 +131737,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -131747,7 +131747,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -131757,7 +131757,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -131767,7 +131767,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -131777,7 +131777,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -131787,7 +131787,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -131797,7 +131797,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -131807,7 +131807,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -131817,7 +131817,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -131827,7 +131827,7 @@
       "start": "Lipie Śląskie, 24",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -131837,7 +131837,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131847,7 +131847,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131857,7 +131857,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -131867,7 +131867,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -131877,7 +131877,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -131887,7 +131887,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -131897,7 +131897,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -131907,7 +131907,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -131917,7 +131917,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -131927,7 +131927,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -131937,7 +131937,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -131947,7 +131947,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -131957,7 +131957,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -131967,7 +131967,7 @@
       "start": "Lubliniec, Zachodnia",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -131977,7 +131977,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -131987,7 +131987,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -131997,7 +131997,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -132007,7 +132007,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -132017,7 +132017,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -132027,7 +132027,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -132037,7 +132037,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -132047,7 +132047,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -132057,7 +132057,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -132067,7 +132067,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -132077,7 +132077,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -132087,7 +132087,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -132097,7 +132097,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -132107,7 +132107,7 @@
       "start": "Lubliniec, Solidarności 2",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     },
@@ -132117,7 +132117,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "1"
     },
@@ -132127,7 +132127,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "2"
     },
@@ -132137,7 +132137,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "3"
     },
@@ -132147,7 +132147,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "4"
     },
@@ -132157,7 +132157,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "5"
     },
@@ -132167,7 +132167,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "6"
     },
@@ -132177,7 +132177,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "7"
     },
@@ -132187,7 +132187,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "8"
     },
@@ -132197,7 +132197,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "9"
     },
@@ -132207,7 +132207,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "10"
     },
@@ -132217,7 +132217,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "11"
     },
@@ -132227,7 +132227,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "12"
     },
@@ -132237,7 +132237,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "13"
     },
@@ -132247,7 +132247,7 @@
       "start": "Lubliniec, Sobieskiego (liceum)",
       "destination": "Lubliniec, Sobieskiego (liceum)",
       "details": "Dobrodzień",
-      "area": "Województwo Świętokrzyskie",
+      "area": "Powiat Lubliniecki",
       "route": "39",
       "journey": "14"
     }

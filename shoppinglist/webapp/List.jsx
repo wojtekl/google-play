@@ -20,7 +20,6 @@ class List extends React.Component {
 <div class="container">
   <div class="row mt-3">
     <a href="#app" class="btn btn-primary" onClick={this.props.back}>{localise.powrot}</a>
-    <a href="https://rb.gy/fh4x0i" class="btn btn-primary">{localise.zainstalujApke}</a>
   </div>
   <div class="row mt-3">
     <table class="table table-hover">
