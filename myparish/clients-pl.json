@@ -1,5 +1,5 @@
 {
-  "updated": 1720016027012,
+  "updated": 1721462292324,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -210,6 +210,12 @@
       "schedule": "https://www.parafiazuromin.pl/intencje/#content",
       "announcement": "https://www.parafiazuromin.pl/ogloszenia",
       "contact": "https://www.parafiazuromin.pl/"
+    },
+    {
+      "name": "Żydowo: Parafia św. Stanisława BM",
+      "schedule": "http://www.zydowo.parafia.info.pl/?p=main&what=8#node-",
+      "announcement": "http://www.zydowo.parafia.info.pl/?p=main&what=7#node-",
+      "contact": "http://www.zydowo.parafia.info.pl/?p=main&what=4#node-"
     },
     {
       "name": "Żyraków: Parafia Trójcy Przenajświętszej",
