@@ -1,11 +1,17 @@
 {
-  "updated": 1721462292324,
+  "updated": 1721467182674,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
       "schedule": "http://parafiabartag.pl/int/#main",
       "announcement": "http://parafiabartag.pl/ogl/#main",
       "contact": "http://parafiabartag.pl/kontakt/#main"
+    },
+    {
+      "name": "Bączal Dolny: Parafia Świętego Mikołaja",
+      "schedule": "https://baczaldolny.weebly.com/intencje-mszalne.html#wsite-content",
+      "announcement": "https://baczaldolny.weebly.com/og321oszenia-parafialne.html#wsite-content",
+      "contact": "https://baczaldolny.weebly.com/kontakt.html#wsite-content"
     },
     {
       "name": "Ciechanów: Parafia św. Józefa - Fara",
@@ -44,6 +50,12 @@
       "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news"
     },
     {
+      "name": "Iwkowa: Parafia Podwyższenia Krzyża Św.",
+      "schedule": "https://parafiaiwkowa.pl/?intencje,2",
+      "announcement": "https://parafiaiwkowa.pl/?ogloszenia,3",
+      "contact": "https://parafiaiwkowa.pl/?kontakt,4"
+    },
+    {
       "name": "Jaworzynka, Trzycatek: Parafia Matki Bożej Frydeckiej",
       "schedule": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/intencje-mszalne/#main",
       "announcement": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/ogloszenia-parafialne/#main",
@@ -74,10 +86,22 @@
       "contact": "https://www.klodawaparafia.org/index.php#:~:text=KONTAKT%20Z%20NAMI"
     },
     {
+      "name": "Koperniki: Parafia Świętego Mikołaja",
+      "schedule": "https://parafiakoperniki.pl/intencje",
+      "announcement": "https://parafiakoperniki.pl/ogloszenia_duszpasterskie",
+      "contact": "https://parafiakoperniki.pl/kontakt"
+    },
+    {
       "name": "Kościan: Parafia pw. Ducha Świętego",
       "schedule": "https://www.duchswiety.net/1430-2/#content-area",
       "announcement": "https://www.duchswiety.net/ogloszenia/#content-area",
       "contact": "https://www.duchswiety.net/kontakt/#content-area"
+    },
+    {
+      "name": "Koziegłówki: Parafia Świętego Antoniego",
+      "schedule": "https://kozieglowki.parafialnastrona.pl/intencje-i-nabozenstwa",
+      "announcement": "https://kozieglowki.parafialnastrona.pl/ogloszenia",
+      "contact": "https://kozieglowki.parafialnastrona.pl/kontakt"
     },
     {
       "name": "Kraków, Opatkowice: Parafia św. Maksymiliana",
@@ -128,6 +152,12 @@
       "contact": "https://parafianiwiska.pl/kontakt"
     },
     {
+      "name": "Płock: Parafia św. Józefa",
+      "schedule": "https://jozefplock.pl/intencje-mszalne/#content",
+      "announcement": "https://jozefplock.pl/ogloszenia/#content",
+      "contact": "https://jozefplock.pl/kontakt/#content"
+    },
+    {
       "name": "Rosko: Parafia św.Stanisława Biskupa",
       "schedule": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=4#pn-maincontent",
       "announcement": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=5#pn-maincontent",
@@ -170,6 +200,12 @@
       "contact": "http://antoni-torun.pl/kontakt/#main-content"
     },
     {
+      "name": "Tychy: Parafia św. Maksymiliana",
+      "schedule": "http://www.mkolbe.pl/index.html#content1-22",
+      "announcement": "http://www.mkolbe.pl/index.html#content1-21",
+      "contact": "http://www.mkolbe.pl/index.html#content1-24"
+    },
+    {
       "name": "Tyszowce: Parafia św. Leonarda",
       "schedule": "http://parafia.tyszowce.pl/intencje-mszalne/#content",
       "announcement": "http://parafia.tyszowce.pl/ogloszenia-parafialne/#content",
@@ -192,6 +228,12 @@
       "schedule": "http://parafiawysockowielkie.pl/index.php/intencje-mszalne/#content",
       "announcement": "http://parafiawysockowielkie.pl/index.php/ogloszenia-parafialne/#content",
       "contact": "http://parafiawysockowielkie.pl/index.php/kontakt/#content"
+    },
+    {
+      "name": "Złocieniec: Parafia p.w. Wniebowzięcia NMP",
+      "schedule": "http://www.wniebowziecia.xcr.pl/intencje-mszalne/",
+      "announcement": "http://www.wniebowziecia.xcr.pl/ogloszenia/",
+      "contact": "http://www.wniebowziecia.xcr.pl/kancelaria/"
     },
     {
       "name": "Złoty Potok: Parafia św. Jana Chrzciciela",
