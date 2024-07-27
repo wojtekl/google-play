@@ -13,20 +13,28 @@ import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.FullScreenContentCallback
 import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.MobileAds
+import com.google.android.gms.ads.RequestConfiguration
 import com.google.android.gms.ads.appopen.AppOpenAd
+import com.google.android.ump.ConsentForm
+import com.google.android.ump.ConsentInformation
+import com.google.android.ump.ConsentRequestParameters
+import com.google.android.ump.UserMessagingPlatform
 import java.util.Date
+import java.util.concurrent.atomic.AtomicBoolean
 
 /** Application class that initializes, loads and show ads when activities change states. */
 class MyApplication : Application(), Application.ActivityLifecycleCallbacks, LifecycleObserver {
 
     private var currentActivity: Activity? = null
     private lateinit var appOpenAdManager: AppOpenAdManager
+    private lateinit var consentInformation: ConsentInformation
+    private var isMobileAdsInitializeCalled = AtomicBoolean(false)
 
     override fun onCreate() {
         super.onCreate()
         registerActivityLifecycleCallbacks(this)
 
-        MobileAds.initialize(this) {}
+        requestConsent()
         ProcessLifecycleOwner.get().lifecycle.addObserver(this)
         appOpenAdManager = AppOpenAdManager()
     }
@@ -172,5 +180,39 @@ class MyApplication : Application(), Application.ActivityLifecycleCallbacks, Lif
         private fun isAdAvailable(): Boolean {
             return appOpenAd != null && wasLoadTimeLessThanNHoursAgo(4)
         }
+    }
+
+    private fun requestConsent() {
+        val params = ConsentRequestParameters.Builder().build()
+        consentInformation = UserMessagingPlatform.getConsentInformation(this)
+        consentInformation.requestConsentInfoUpdate(
+            currentActivity,
+            params,
+            ConsentInformation.OnConsentInfoUpdateSuccessListener {
+                UserMessagingPlatform.loadAndShowConsentFormIfRequired(
+                    currentActivity,
+                    ConsentForm.OnConsentFormDismissedListener {
+                        if (consentInformation.canRequestAds()) {
+                            initializeMobileAdsSdk()
+                        }
+                    })
+            },
+            ConsentInformation.OnConsentInfoUpdateFailureListener { })
+        if (consentInformation.canRequestAds()) {
+            initializeMobileAdsSdk()
+        }
+    }
+
+    private fun initializeMobileAdsSdk() {
+        if (isMobileAdsInitializeCalled.getAndSet(true)) {
+            return
+        }
+
+        val requestConfiguration = MobileAds.getRequestConfiguration().toBuilder()
+            .setMaxAdContentRating(RequestConfiguration.MAX_AD_CONTENT_RATING_T)
+            // .setPublisherPrivacyPersonalizationState(RequestConfiguration.PublisherPrivacyPersonalizationState.DISABLED)
+            .build()
+        MobileAds.setRequestConfiguration(requestConfiguration)
+        MobileAds.initialize(this) {}
     }
 }

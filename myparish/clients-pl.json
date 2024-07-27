@@ -1,5 +1,5 @@
 {
-  "updated": 1721648274848,
+  "updated": 1722064821233,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -263,7 +263,10 @@
       "name": "Złoty Potok: Parafia św. Jana Chrzciciela",
       "schedule": "https://parafia-zlotypotok.pl/intencje-mszalne/#site-content",
       "announcement": "https://parafia-zlotypotok.pl/ogloszenia-duszpasterskie/#:~:text=Og%C5%82oszenia%20duszpasterskie",
-      "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content"
+      "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content",
+      "description": "Pn-Sb 17:30,18:00;Nd 7:30,12:00",
+      "latitude": 50.70714,
+      "longitude": 19.43794
     },
     {
       "name": "Żarki: Parafia św. Apostołów Szymona i Judy Tadeusza",
