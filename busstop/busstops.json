@@ -1,5 +1,5 @@
 {
-  "updated": 1720852359581,
+  "updated": 1722095020966,
   "busStops": [
     {
       "departing": "05:25",
@@ -134720,6 +134720,5986 @@
       "area": "Powiat Częstochowski",
       "route": "42",
       "journey": "6"
+    },
+    {
+      "departing": "05:50",
+      "info": "D, 6",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "07:50",
+      "info": "D, 6",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:10",
+      "info": "D",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:30",
+      "info": "D, 6",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:45",
+      "info": "D",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:10",
+      "info": "D, 6",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "12:50",
+      "info": "D, 6",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:30",
+      "info": "D, 6",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:20",
+      "info": "D",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "17:50",
+      "info": "D",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:30",
+      "info": "D",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:10",
+      "info": "D",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "22:50",
+      "info": "D",
+      "start": "Lubliniec, ul. Sobieskiego (Liceum)",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "05:52",
+      "info": "D, 6",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "07:52",
+      "info": "D, 6",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:12",
+      "info": "D",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:32",
+      "info": "D, 6",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:47",
+      "info": "D",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:12",
+      "info": "D, 6",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "12:52",
+      "info": "D, 6",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:32",
+      "info": "D, 6",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:22",
+      "info": "D",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "17:52",
+      "info": "D",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:32",
+      "info": "D",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:12",
+      "info": "D",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "22:52",
+      "info": "D",
+      "start": "Lubliniec, Al. Solidarności 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "05:53",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "07:53",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:13",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:33",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:48",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:13",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "12:53",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:33",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:23",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "17:53",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:33",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:13",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "22:53",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "05:55",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "07:55",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:15",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:35",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:50",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:15",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "12:55",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:35",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:25",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "17:55",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:35",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:15",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "22:55",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "05:56",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "07:56",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:16",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:36",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:51",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:16",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "12:56",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:36",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:26",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "17:56",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:36",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:16",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "22:56",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 19",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "05:57",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "07:57",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:17",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:37",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:52",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:17",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "12:57",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:37",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:27",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "17:57",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:37",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:17",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "22:57",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:00",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:00",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:20",
+      "info": "D",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:40",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:55",
+      "info": "D",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:20",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:00",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:40",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:30",
+      "info": "D",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:00",
+      "info": "D",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:40",
+      "info": "D",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:20",
+      "info": "D",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:00",
+      "info": "D",
+      "start": "Solarnia, ul. Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:01",
+      "info": "D, 6",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:01",
+      "info": "D, 6",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:21",
+      "info": "D",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:41",
+      "info": "D, 6",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:56",
+      "info": "D",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:21",
+      "info": "D, 6",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:01",
+      "info": "D, 6",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:41",
+      "info": "D, 6",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:31",
+      "info": "D",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:01",
+      "info": "D",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:41",
+      "info": "D",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:21",
+      "info": "D",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:01",
+      "info": "D",
+      "start": "Solarnia, Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:04",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:04",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:24",
+      "info": "D",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:44",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "10:59",
+      "info": "D",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:24",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:04",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:44",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:34",
+      "info": "D",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:04",
+      "info": "D",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:44",
+      "info": "D",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:24",
+      "info": "D",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:04",
+      "info": "D",
+      "start": "Kośmidry, ul. Podleśna",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:05",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:05",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:25",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:45",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:00",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:25",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:05",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:45",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:35",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:05",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:45",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:25",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:05",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:06",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:06",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:26",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:46",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:01",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:26",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:06",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:46",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:36",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:06",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:46",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:26",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:06",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:07",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:07",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:27",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:47",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:02",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:27",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:07",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:47",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:37",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:07",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:47",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:27",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:07",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:09",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:09",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:29",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:49",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:04",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:29",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:09",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:49",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:39",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:09",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:49",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:29",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:09",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:10",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:10",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:30",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:50",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:05",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:30",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:10",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:50",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:40",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:10",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:50",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:30",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:10",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:13",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:13",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:33",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:53",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:08",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:33",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:13",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:53",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:43",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:13",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:53",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:33",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:13",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:14",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:14",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:34",
+      "info": "D",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:54",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:09",
+      "info": "D",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:34",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:14",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:54",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:44",
+      "info": "D",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:14",
+      "info": "D",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:54",
+      "info": "D",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:34",
+      "info": "D",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:14",
+      "info": "D",
+      "start": "Łagiewniki Małe, Lubliniecka",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:16",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:16",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:36",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:56",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:11",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:36",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:16",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:56",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:46",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:16",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:56",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:36",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:16",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:19",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:19",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:39",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "09:59",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:14",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:39",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:19",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "14:59",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:49",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:19",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "19:59",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:39",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:19",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:22",
+      "info": "D, 6",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:22",
+      "info": "D, 6",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:42",
+      "info": "D",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "10:02",
+      "info": "D, 6",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:17",
+      "info": "D",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:42",
+      "info": "D, 6",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:22",
+      "info": "D, 6",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "15:02",
+      "info": "D, 6",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:52",
+      "info": "D",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:22",
+      "info": "D",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "20:02",
+      "info": "D",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:42",
+      "info": "D",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:22",
+      "info": "D",
+      "start": "Szydłowice, ul. Lublinieckac 2",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:24",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:24",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:44",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "10:04",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:19",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:44",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:24",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "15:04",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:54",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:24",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "20:04",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:44",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:24",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:27",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:27",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:47",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "10:07",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:22",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:47",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:27",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "15:07",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:57",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:27",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "20:07",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:47",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:27",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:28",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:28",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:48",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "10:08",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:23",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:48",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:28",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "15:08",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "16:58",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:28",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "20:08",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:48",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:28",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "06:30",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "1"
+    },
+    {
+      "departing": "08:30",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "2"
+    },
+    {
+      "departing": "09:50",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "3"
+    },
+    {
+      "departing": "10:10",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "4"
+    },
+    {
+      "departing": "11:25",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "5"
+    },
+    {
+      "departing": "11:50",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "6"
+    },
+    {
+      "departing": "13:30",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "7"
+    },
+    {
+      "departing": "15:10",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "8"
+    },
+    {
+      "departing": "17:00",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "9"
+    },
+    {
+      "departing": "18:30",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "10"
+    },
+    {
+      "departing": "20:10",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "11"
+    },
+    {
+      "departing": "21:50",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "12"
+    },
+    {
+      "departing": "23:30",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Pawonków, szkoła",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "43",
+      "journey": "13"
+    },
+    {
+      "departing": "05:00",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:40",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:40",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "09:55",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:20",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:30",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:00",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:40",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:15",
+      "info": "D, 6",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:05",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:40",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:20",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:00",
+      "info": "D",
+      "start": "Pawonków, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:02",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:42",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:42",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "09:57",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:22",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:32",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:02",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:42",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:17",
+      "info": "D, 6",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:07",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:42",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:22",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:02",
+      "info": "D",
+      "start": "Pawonków, Zawadzkiego 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:03",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:43",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:43",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "09:58",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:23",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:33",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:03",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:43",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:18",
+      "info": "D, 6",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:08",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:43",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:23",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:03",
+      "info": "D",
+      "start": "Pawonków, GOPS",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:06",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:46",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:46",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:01",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:26",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:36",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:06",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:46",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:21",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:11",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:46",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:26",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:06",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 1",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:08",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:48",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:48",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:03",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:28",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:38",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:08",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:48",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:23",
+      "info": "D, 6",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:13",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:48",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:28",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:08",
+      "info": "D",
+      "start": "Skrzydłowice, ul. Lubliniecka 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:11",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:51",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:51",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:06",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:31",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:41",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:11",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:51",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:26",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:16",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:51",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:31",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:11",
+      "info": "D",
+      "start": "Łagiewniki Małe, Przyjaźni",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:14",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:54",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:54",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:09",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:34",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:44",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:14",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:54",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:29",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:19",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:54",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:34",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:14",
+      "info": "D",
+      "start": "Łagiewniki Małe, Dobrodzieńska",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:16",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:56",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:56",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:11",
+      "info": "D",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:36",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:46",
+      "info": "D",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:16",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:56",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:31",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:21",
+      "info": "D",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:56",
+      "info": "D",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:36",
+      "info": "D",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:16",
+      "info": "D",
+      "start": "Łagiewniki Małe, szkoła Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:17",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "06:57",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "08:57",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:12",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:37",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:47",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:17",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "13:57",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:32",
+      "info": "D, 6",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:22",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "18:57",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:37",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:17",
+      "info": "D",
+      "start": "Łagiewniki Małe, Powstańców",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:20",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:00",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:00",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:15",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:40",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:50",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:20",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:00",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:35",
+      "info": "D, 6",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:25",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:00",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:40",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:20",
+      "info": "D",
+      "start": "Koszwice, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:21",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:01",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:01",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:16",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:41",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:51",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:21",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:01",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:36",
+      "info": "D, 6",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:26",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:01",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:41",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:21",
+      "info": "D",
+      "start": "Koszwice, Karczma",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:23",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:03",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:03",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:18",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:43",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:53",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:23",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:03",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:38",
+      "info": "D, 6",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:28",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:03",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:43",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:23",
+      "info": "D",
+      "start": "Kośmidry, ul. Zielona",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:24",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:04",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:04",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:19",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:44",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:54",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:24",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:04",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:39",
+      "info": "D, 6",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:29",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:04",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:44",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:24",
+      "info": "D",
+      "start": "Kośmidry, szkoła",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:25",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:05",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:05",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:20",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:45",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:55",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:25",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:05",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:40",
+      "info": "D, 6",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:30",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:05",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:45",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:25",
+      "info": "D",
+      "start": "Kośmidry, Kuźnica",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:26",
+      "info": "D, 6",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:06",
+      "info": "D, 6",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:06",
+      "info": "D, 6",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:21",
+      "info": "D",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:46",
+      "info": "D, 6",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:56",
+      "info": "D",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:26",
+      "info": "D, 6",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:06",
+      "info": "D, 6",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:41",
+      "info": "D, 6",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:31",
+      "info": "D",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:06",
+      "info": "D",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:46",
+      "info": "D",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:26",
+      "info": "D",
+      "start": "Kośmidry, Podleśna",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:29",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:09",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:09",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:24",
+      "info": "D",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:49",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "11:59",
+      "info": "D",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:29",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:09",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:44",
+      "info": "D, 6",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:34",
+      "info": "D",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:09",
+      "info": "D",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:49",
+      "info": "D",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:29",
+      "info": "D",
+      "start": "Solarnia, ul. Strażacka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:30",
+      "info": "D, 6",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:10",
+      "info": "D, 6",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:10",
+      "info": "D, 6",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:25",
+      "info": "D",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:50",
+      "info": "D, 6",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "12:00",
+      "info": "D",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:30",
+      "info": "D, 6",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:10",
+      "info": "D, 6",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:45",
+      "info": "D, 6",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:35",
+      "info": "D",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:10",
+      "info": "D",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:50",
+      "info": "D",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:30",
+      "info": "D",
+      "start": "Solarnia, Lubliniecka",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:33",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:13",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:13",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:28",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:53",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "12:03",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:33",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:13",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:48",
+      "info": "D, 6",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:38",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:13",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:53",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:33",
+      "info": "D",
+      "start": "Lisowice, Andrzejów",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:34",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:14",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:14",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:29",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:54",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "12:04",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:34",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:14",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:49",
+      "info": "D, 6",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:39",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:14",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:54",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:34",
+      "info": "D",
+      "start": "Lisowice, ul. Lubliniecka 22",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:35",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:15",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:15",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:30",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:55",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "12:05",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:35",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:15",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:50",
+      "info": "D, 6",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:40",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:15",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:55",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:35",
+      "info": "D",
+      "start": "Lipie Śląskie, 24",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:37",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:17",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:17",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:32",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:57",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "12:07",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:37",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:17",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:52",
+      "info": "D, 6",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:42",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:17",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:57",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:37",
+      "info": "D",
+      "start": "Lubliniec, Zachodnia",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:38",
+      "info": "D, 6",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:18",
+      "info": "D, 6",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:18",
+      "info": "D, 6",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:33",
+      "info": "D",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "10:58",
+      "info": "D, 6",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "12:08",
+      "info": "D",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:38",
+      "info": "D, 6",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:18",
+      "info": "D, 6",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:53",
+      "info": "D, 6",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:43",
+      "info": "D",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:18",
+      "info": "D",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "20:58",
+      "info": "D",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:38",
+      "info": "D",
+      "start": "Lubliniec, Solidarności 2",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
+    },
+    {
+      "departing": "05:40",
+      "info": "D, 6",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "1"
+    },
+    {
+      "departing": "07:20",
+      "info": "D, 6",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "2"
+    },
+    {
+      "departing": "09:20",
+      "info": "D, 6",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "3"
+    },
+    {
+      "departing": "10:35",
+      "info": "D",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "4"
+    },
+    {
+      "departing": "11:00",
+      "info": "D, 6",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "5"
+    },
+    {
+      "departing": "12:10",
+      "info": "D",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "6"
+    },
+    {
+      "departing": "12:40",
+      "info": "D, 6",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "7"
+    },
+    {
+      "departing": "14:20",
+      "info": "D, 6",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "8"
+    },
+    {
+      "departing": "15:55",
+      "info": "D, 6",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "9"
+    },
+    {
+      "departing": "17:45",
+      "info": "D",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "10"
+    },
+    {
+      "departing": "19:20",
+      "info": "D",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "11"
+    },
+    {
+      "departing": "21:00",
+      "info": "D",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "12"
+    },
+    {
+      "departing": "22:40",
+      "info": "D",
+      "start": "Lubliniec, Sobieskiego (liceum)",
+      "destination": "Lubliniec, Sobieskiego (liceum)",
+      "details": "",
+      "area": "Powiat Lubliniecki",
+      "route": "44",
+      "journey": "13"
     }
   ]
 }
