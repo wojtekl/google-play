@@ -1,11 +1,14 @@
 {
-  "updated": 1719226746315,
+  "updated": 1722066112641,
   "clients": [
     {
       "name": "Sydney NSW: Catholic Parish of Lower North Shore",
       "schedule": "https://www.lowernorthshoreparish.org.au/#:~:text=Mass%20Schedule",
       "announcement": "https://www.lowernorthshoreparish.org.au/media",
-      "contact": "https://www.lowernorthshoreparish.org.au/contact"
+      "contact": "https://www.lowernorthshoreparish.org.au/contact",
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
     }
   ]
 }
