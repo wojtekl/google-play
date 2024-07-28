@@ -1,5 +1,5 @@
 {
-  "updated": 1722105445629,
+  "updated": 1722166712645,
   "places": [
     {
       "name": "Myszków, 1 Maja/Jaworznicka",
@@ -222,15 +222,15 @@
       "name": "Chorzenice",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.03,
-      "longitude": 0.0
+      "latitude": 50.90771,
+      "longitude": 19.29956
     },
     {
       "name": "Chorzenice, Mostki",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.04,
-      "longitude": 0.0
+      "latitude": 50.90099,
+      "longitude": 19.28733
     },
     {
       "name": "Czepurka",
@@ -264,8 +264,8 @@
       "name": "Częstochowa, Batalionów Chłopskich",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.07,
-      "longitude": 0.0
+      "latitude": 50.83785,
+      "longitude": 19.18843
     },
     {
       "name": "Częstochowa, Berger",
@@ -299,8 +299,8 @@
       "name": "Częstochowa, Dickensa",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.09,
-      "longitude": 0.0
+      "latitude": 50.83393,
+      "longitude": 19.15132
     },
     {
       "name": "Częstochowa, Dworzec Autobusowy",
@@ -313,8 +313,8 @@
       "name": "Częstochowa, Estakada",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.01,
-      "longitude": 0.0
+      "latitude": 50.78480,
+      "longitude": 19.14042
     },
     {
       "name": "Częstochowa, Galeria Jurajska",
@@ -341,8 +341,8 @@
       "name": "Częstochowa, II Aleja NMP",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.10,
-      "longitude": 0.0
+      "latitude": 50.81271,
+      "longitude": 19.11834
     },
     {
       "name": "Częstochowa, Koksownia",
@@ -460,15 +460,15 @@
       "name": "Dąbrowa Zielona, II",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.14,
-      "longitude": 0.0
+      "latitude": 50.84388,
+      "longitude": 19.55671
     },
     {
       "name": "Dąbrowa Zielona, III",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.15,
-      "longitude": 0.0
+      "latitude": 50.83854,
+      "longitude": 19.54823
     },
     {
       "name": "Drochlin, Wieś",
@@ -579,8 +579,8 @@
       "name": "Konary, II",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.26,
-      "longitude": 0.0
+      "latitude": 50.91802,
+      "longitude": 19.40639
     },
     {
       "name": "Krasawa",
