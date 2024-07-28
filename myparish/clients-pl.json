@@ -1,5 +1,5 @@
 {
-  "updated": 1722154467317,
+  "updated": 1722157989688,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -43,8 +43,8 @@
       "announcement": "https://www.czerlejno.archpoznan.pl/aktualnosci/ogloszenia-parafialne/#main",
       "contact": "https://www.czerlejno.archpoznan.pl/kontakt/#main",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.35221,
+      "longitude": 17.21329
     },
     {
       "name": "Czerniejewo: Parafia pw. św. Jana Chrzciciela",
@@ -52,8 +52,8 @@
       "announcement": "https://parafia-czerniejewo.pl/#sp-component",
       "contact": "https://parafia-czerniejewo.pl/kontakt/#:~:text=Kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.42659,
+      "longitude": 17.48923
     },
     {
       "name": "Debrzno: Parafia Wniebowzięcia NMP - Salezjanie",
@@ -61,8 +61,8 @@
       "announcement": "https://debrzno-salezjanie.pl/#Ogloszenia",
       "contact": "https://debrzno-salezjanie.pl/#Kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 53.53663,
+      "longitude": 17.23504
     },
     {
       "name": "Glinojeck: Parafia św. Stanisława BM",
@@ -70,8 +70,8 @@
       "announcement": "https://parafiaglinojeck.pl/#content",
       "contact": "https://parafiaglinojeck.pl/kontakt/#content",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.81861,
+      "longitude": 20.28403
     },
     {
       "name": "Gliwice: Parafia Chrystusa Króla",
@@ -79,8 +79,8 @@
       "announcement": "https://chrystus-krol.pl/ogloszenia/",
       "contact": "https://chrystus-krol.pl/kontakt/",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.30154,
+      "longitude": 18.69362
     },
     {
       "name": "Gorlice: Parafia pw. św. Jadwigi Królowej",
@@ -88,8 +88,8 @@
       "announcement": "http://jadwiga.gorlice.pl/index.php/ogloszenia-parafialne",
       "contact": "http://jadwiga.gorlice.pl/index.php/informacje-parafialne/kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 49.65225,
+      "longitude": 21.16160
     },
     {
       "name": "Hajnówka: Parafia Rzymskokatolicka pw. Podwyższenia Krzyża Świętego",
@@ -97,8 +97,8 @@
       "announcement": "http://www.farahajnowka.pl/ogloszenia/#text-news",
       "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.73886,
+      "longitude": 23.58247
     },
     {
       "name": "Iwkowa: Parafia Podwyższenia Krzyża Św.",
@@ -106,8 +106,8 @@
       "announcement": "https://parafiaiwkowa.pl/?ogloszenia,3",
       "contact": "https://parafiaiwkowa.pl/?kontakt,4",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 49.81958,
+      "longitude": 20.58528
     },
     {
       "name": "Jaworzynka, Trzycatek: Parafia Matki Bożej Frydeckiej",
@@ -115,8 +115,8 @@
       "announcement": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/ogloszenia-parafialne/#main",
       "contact": "https://www.parafia-trzycatek.pl/#:~:text=Kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 49.52496,
+      "longitude": 18.85674
     },
     {
       "name": "Kielno: Parafia pw. św. Wojciecha Biskupa i Męczennika",
@@ -124,8 +124,8 @@
       "announcement": "http://www.parafiakielno.pl/ogloszenia/#announcements",
       "contact": "http://www.parafiakielno.pl/kontakt/#contact_view",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 54.45432,
+      "longitude": 18.34388
     },
     {
       "name": "Kijowiec: Parafia św. Jana Chrzciciela",
@@ -133,8 +133,8 @@
       "announcement": "https://parafiakijowiec.pl/ogloszenia-duszpasterskie",
       "contact": "https://parafiakijowiec.pl/kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.42347,
+      "longitude": 18.31043
     },
     {
       "name": "Klonówka: Parafia św. Katarzyny",
@@ -142,8 +142,8 @@
       "announcement": "http://parafia.klonowka.pl/ogloszenia-parafialne/#site-content",
       "contact": "http://parafia.klonowka.pl/#:~:text=Biuro%20parafialne",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 53.96604,
+      "longitude": 18.64550
     },
     {
       "name": "Kłecko: Parafia pw. św. Jadwigi i Jerzego",
@@ -151,8 +151,8 @@
       "announcement": "https://parafiaklecko.pl/ogloszenia-parafialne/#inner-wrap",
       "contact": "https://parafiaklecko.pl/contact/#inner-wrap",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.63294,
+      "longitude": 17.42978
     },
     {
       "name": "Kłodawa: Parafia p.w. Wniebowzięcia NMP",
@@ -160,8 +160,8 @@
       "announcement": "https://www.klodawaparafia.org/ogloszenia.php",
       "contact": "https://www.klodawaparafia.org/index.php#:~:text=KONTAKT%20Z%20NAMI",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.25407,
+      "longitude": 18.91859
     },
     {
       "name": "Koperniki: Parafia Świętego Mikołaja",
@@ -169,8 +169,8 @@
       "announcement": "https://parafiakoperniki.pl/ogloszenia_duszpasterskie",
       "contact": "https://parafiakoperniki.pl/kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.40890,
+      "longitude": 17.27695
     },
     {
       "name": "Kościan: Parafia pw. Ducha Świętego",
@@ -178,8 +178,8 @@
       "announcement": "https://www.duchswiety.net/ogloszenia/#content-area",
       "contact": "https://www.duchswiety.net/kontakt/#content-area",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 52.08852,
+      "longitude": 16.64931
     },
     {
       "name": "Koziegłówki: Parafia Świętego Antoniego",
@@ -187,8 +187,8 @@
       "announcement": "https://kozieglowki.parafialnastrona.pl/ogloszenia",
       "contact": "https://kozieglowki.parafialnastrona.pl/kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.58653,
+      "longitude": 19.18510
     },
     {
       "name": "Kraków, Opatkowice: Parafia św. Maksymiliana",
@@ -196,8 +196,8 @@
       "announcement": "https://parafiaopatkowice.pl/ogloszenia.php#o_nas_wiecej",
       "contact": "https://parafiaopatkowice.pl/contact.php#kontakt",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 49.98941,
+      "longitude": 19.91145
     },
     {
       "name": "Krasnystaw: Parafia Św. Franciszka Ksawerego",
@@ -205,8 +205,8 @@
       "announcement": "http://franciszek-ksawery.org/ogloszenia-parafialne/",
       "contact": "http://franciszek-ksawery.org/kontakt/",
       "description": "",
-      "latitude": 0.0,
-      "longitude": 0.0
+      "latitude": 50.98258,
+      "longitude": 23.17129
     },
     {
       "name": "Lasocice: Parafia pw. Niepokalanego Poczęcia NMP",
