@@ -1,5 +1,5 @@
 {
-  "updated": 1722166712645,
+  "updated": 1722188462820,
   "places": [
     {
       "name": "Myszków, 1 Maja/Jaworznicka",
@@ -565,15 +565,15 @@
       "name": "Konary",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.24,
-      "longitude": 0.0
+      "latitude": 50.91450,
+      "longitude": 19.40392
     },
     {
       "name": "Konary, I",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.25,
-      "longitude": 0.0
+      "latitude": 50.91735,
+      "longitude": 19.39299
     },
     {
       "name": "Konary, II",
@@ -600,15 +600,15 @@
       "name": "Kłomnice, I",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.28,
-      "longitude": 0.0
+      "latitude": 50.91906,
+      "longitude": 19.34584
     },
     {
       "name": "Kłomnice, II",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.29,
-      "longitude": 0.0
+      "latitude": 50.92226,
+      "longitude": 19.35810
     },
     {
       "name": "Kłomnice, Zdrowska",
@@ -649,15 +649,15 @@
       "name": "Lipicze, I",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.31,
-      "longitude": 0.0
+      "latitude": 50.93608,
+      "longitude": 19.38781
     },
     {
       "name": "Lipicze, II",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.32,
-      "longitude": 0.0
+      "latitude": 50.93657,
+      "longitude": 19.39947
     },
     {
       "name": "Lipnik",
@@ -936,8 +936,8 @@
       "name": "Rędziny, Osiedle",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.57,
-      "longitude": 0.0
+      "latitude": 50.86605,
+      "longitude": 19.22744
     },
     {
       "name": "Rędziny, Urząd Gminy",
@@ -950,8 +950,8 @@
       "name": "Rędziny, Wolności",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.59,
-      "longitude": 0.0
+      "latitude": 50.85244,
+      "longitude": 19.19958
     },
     {
       "name": "Rudniki, Kościół",
@@ -1223,15 +1223,15 @@
       "name": "Zdrowa, I",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.78,
-      "longitude": 0.0
+      "latitude": 50.93692,
+      "longitude": 19.31970
     },
     {
       "name": "Zdrowa, II",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.79,
-      "longitude": 0.0
+      "latitude": 50.92970,
+      "longitude": 19.33887
     },
     {
       "name": "Zrębice, Ciecierzyn",
@@ -1307,15 +1307,15 @@
       "name": "Święta Anna, I",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.81,
-      "longitude": 0.0
+      "latitude": 50.82414,
+      "longitude": 19.52570
     },
     {
       "name": "Święta Anna, II",
       "description": "",
       "area": "Powiat Częstochowski",
-      "latitude": 0.82,
-      "longitude": 0.0
+      "latitude": 50.82563,
+      "longitude": 19.53512
     },
     {
       "name": "Żuraw, Centrum",
