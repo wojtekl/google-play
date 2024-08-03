@@ -1,5 +1,5 @@
 {
-  "updated": 1722163412275,
+  "updated": 1722688326560,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -243,6 +243,15 @@
       "description": "",
       "latitude": 52.12404,
       "longitude": 19.94500
+    },
+    {
+      "name": "Łódź: Parafia pw Najświętszego Sakramentu",
+      "schedule": "http://www.najswietszy-sakrament.pl/?p=main&what=115",
+      "announcement": "http://www.najswietszy-sakrament.pl/?p=main&what=88",
+      "contact": "http://www.najswietszy-sakrament.pl/?p=main&what=12",
+      "description": "",
+      "latitude": 51.81925,
+      "longitude": 19.44077
     },
     {
       "name": "Łódź, Wiskitno: Parafia św. Rafała Kalinowskiego",
