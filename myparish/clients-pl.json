@@ -1,5 +1,5 @@
 {
-  "updated": 1722688326560,
+  "updated": 1722761580728,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -225,6 +225,15 @@
       "description": "",
       "latitude": 51.86658,
       "longitude": 16.58461
+    },
+    {
+      "name": "Lisia Góra: Parafia pw Matki Bożej Różańcowej",
+      "schedule": "https://lisia-gora.diecezja.tarnow.pl/intencje/",
+      "announcement": "https://lisia-gora.diecezja.tarnow.pl/category/ogloszenia-parafialne/",
+      "contact": "https://lisia-gora.diecezja.tarnow.pl/wp-content/uploads/2021/03/3-4-e1616148645826.jpg",
+      "description": "",
+      "latitude": 50.08189,
+      "longitude": 21.02724
     },
     {
       "name": "Łosice: Parafia pw. św. Zygmunta",
