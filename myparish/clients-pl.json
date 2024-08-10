@@ -1,5 +1,5 @@
 {
-  "updated": 1722927760898,
+  "updated": 1723314454642,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -120,6 +120,16 @@
       "description": "",
       "latitude": 49.81958,
       "longitude": 20.58528
+    },
+    {
+      "name": "Janów: Parafia pw Niepokalanego Poczęcia Najświętszej Maryi Panny",
+      "schedule": "https://parafia-janow.pl/index.php/intencje-mszalne/#content",
+      "announcement": "http://parafia-janow.pl/index.php/aktualnosci/ogloszenia-duszpasterskie/#content",
+      "contact": "https://parafia-janow.pl/index.php/kontakt/#content",
+      "others": "",
+      "description": "",
+      "latitude": 50.72130,
+      "longitude": 19.43458
     },
     {
       "name": "Jaworzynka, Trzycatek: Parafia Matki Bożej Frydeckiej",
@@ -312,6 +322,16 @@
       "longitude": 21.63119
     },
     {
+      "name": "Olsztyn: Parafia pw św. Jana Chrzciciela",
+      "schedule": "https://parafiaolsztyn.pl/intencje-mszalne/#main-content",
+      "announcement": "https://parafiaolsztyn.pl/ogloszenia-parafialne/#main-content",
+      "contact": "https://parafiaolsztyn.pl/kontakt/#main-content",
+      "others": "",
+      "description": "",
+      "latitude": 50.75190,
+      "longitude": 19.27124
+    },
+    {
       "name": "Płock: Parafia św. Józefa",
       "schedule": "https://jozefplock.pl/intencje-mszalne/#content",
       "announcement": "https://jozefplock.pl/ogloszenia/#content",
@@ -460,6 +480,16 @@
       "description": "Pn-Sb 17:30,18:00;Nd 7:30,12:00",
       "latitude": 50.70714,
       "longitude": 19.43794
+    },
+    {
+      "name": "Zrębice: Parafia św. Idziego",
+      "schedule": "https://parafia.zrebice.pl/intencje-mszalne/#main",
+      "announcement": "https://parafia.zrebice.pl/ogloszenia-parafialne/#main",
+      "contact": "https://parafia.zrebice.pl/kontakt/#main",
+      "others": "",
+      "description": "",
+      "latitude": 50.72115,
+      "longitude": 19.32936
     },
     {
       "name": "Żarki: Parafia św. Apostołów Szymona i Judy Tadeusza",
