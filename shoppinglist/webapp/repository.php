@@ -1,6 +1,6 @@
 <?php
 
-require "_global.php";
+require "./_global.php";
 
 class Repository {
   private $sql;

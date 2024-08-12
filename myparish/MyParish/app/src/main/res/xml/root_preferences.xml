@@ -20,6 +20,12 @@
             app:useSimpleSummaryProvider="true"
             app:enabled="false" />
 
+        <Preference
+            app:key="refresh"
+            app:title="@string/refresh_title"
+            app:useSimpleSummaryProvider="true"
+            app:enabled="true" />
+
         <!--<SwitchPreferenceCompat
             app:key="sync"
             app:title="@string/sync_title" />

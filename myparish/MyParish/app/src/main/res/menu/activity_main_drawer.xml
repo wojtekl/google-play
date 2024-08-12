@@ -13,9 +13,17 @@
             android:icon="@drawable/sharp_local_library_24"
             android:title="@string/menu_gallery" />
         <item
+            android:id="@+id/nav_magazine"
+            android:icon="@drawable/sharp_local_library_24"
+            android:title="@string/menu_magazine" />
+        <item
             android:id="@+id/nav_map"
             android:icon="@drawable/sharp_map_24"
             android:title="@string/menu_map" />
+        <item
+            android:id="@+id/nav_others"
+            android:icon="@drawable/sharp_map_24"
+            android:title="@string/menu_others" />
         <item
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/sharp_contact_page_24"

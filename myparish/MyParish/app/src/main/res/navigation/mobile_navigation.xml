@@ -18,10 +18,22 @@
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
+        android:id="@+id/nav_magazine"
+        android:name="github.wleap.myparish.ui.magazine.MagazineFragment"
+        android:label="@string/menu_magazine"
+        tools:layout="@layout/fragment_magazine" />
+
+    <fragment
         android:id="@+id/nav_map"
         android:name="github.wleap.myparish.ui.map.MapFragment"
         android:label="@string/menu_map"
         tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/nav_others"
+        android:name="github.wleap.myparish.ui.others.OthersFragment"
+        android:label="@string/menu_others"
+        tools:layout="@layout/fragment_others" />
 
     <fragment
         android:id="@+id/nav_slideshow"

@@ -8,7 +8,9 @@
     <string name="action_settings">Ustawienia</string>
     <string name="menu_home">Intencje</string>
     <string name="menu_gallery">Ogłoszenia</string>
+    <string name="menu_magazine">Prasa</string>
     <string name="menu_map">Mapa</string>
+    <string name="menu_others">Cmentarz</string>
     <string name="menu_slideshow">Kontakt</string>
     <string name="menu_share">Udostępnij</string>
     <string name="menu_privacy">Prywatność</string>
@@ -27,5 +29,6 @@
     <string name="country_title">Państwo</string>
     <string name="client_title">Parafia</string>
     <string name="updated_title">Ostatnio zaktualizowano</string>
+    <string name="refresh_title">Odśwież</string>
     <string name="select_client">Wybierz swoją parafię z poniższej listy</string>
 </resources>
