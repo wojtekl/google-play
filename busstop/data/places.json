@@ -1,0 +1,2070 @@
+{
+  "updated": 1723227105203,
+  "places": [
+    {
+      "name": "Myszków, 1 Maja/Jaworznicka",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57219,
+      "longitude": 19.35139
+    },
+    {
+      "name": "Myszków, 3 Maja MDK",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.5774,
+      "longitude": 19.33409
+    },
+    {
+      "name": "Myszków, 8 Marca/Partyzantów",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56434,
+      "longitude": 19.35062
+    },
+    {
+      "name": "Myszków, Jedwabna Szkoła Podstawowa nr 4",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56657,
+      "longitude": 19.34232
+    },
+    {
+      "name": "Myszków, Jedwabna/Waryńskiego",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56731,
+      "longitude": 19.33592
+    },
+    {
+      "name": "Myszków, Kopernika",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57274,
+      "longitude": 19.33206
+    },
+    {
+      "name": "Myszków, Kościuszki Galeria Kupiecka",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57383,
+      "longitude": 19.3251
+    },
+    {
+      "name": "Myszków, Leśna/Aleja Wolności",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57726,
+      "longitude": 19.29737
+    },
+    {
+      "name": "Myszków, Leśna Osiedle",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57508,
+      "longitude": 19.30529
+    },
+    {
+      "name": "Myszków, Millenium Dotyk Jury",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57334,
+      "longitude": 19.3578
+    },
+    {
+      "name": "Myszków, Partyzantów/1 Maja",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56782,
+      "longitude": 19.36363
+    },
+    {
+      "name": "Myszków, Partyzantów Przychodnia zdrowia",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56412,
+      "longitude": 19.35954
+    },
+    {
+      "name": "Myszków, Piłsudskiego/Leśna",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57298,
+      "longitude": 19.30892
+    },
+    {
+      "name": "Myszków, Piłsudskiego/Pułaskiego",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57246,
+      "longitude": 19.31535
+    },
+    {
+      "name": "Myszków, Plac Dworcowy I",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57453,
+      "longitude": 19.32891
+    },
+    {
+      "name": "Myszków, Pułaskiego Rondo",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57295,
+      "longitude": 19.31924
+    },
+    {
+      "name": "Myszków, Pułaskiego Stacja Benzynowa",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57095,
+      "longitude": 19.31481
+    },
+    {
+      "name": "Myszków, Pułaskiego Starostwo Powiatowe",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57361,
+      "longitude": 19.32099
+    },
+    {
+      "name": "Myszków, Sikorskiego/Hubala",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57856,
+      "longitude": 19.33931
+    },
+    {
+      "name": "Myszków, Sikorskiego Przychodnia Zdrowia",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57449,
+      "longitude": 19.34281
+    },
+    {
+      "name": "Myszków, Stawowa",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57069,
+      "longitude": 19.36467
+    },
+    {
+      "name": "Myszków, Szeroka",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.5715,
+      "longitude": 19.35647
+    },
+    {
+      "name": "Myszków, Waryńskiego Most",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.56934,
+      "longitude": 19.33448
+    },
+    {
+      "name": "Myszków, Zamenhoffa/Stawowa",
+      "description": "",
+      "area": "Miasto Myszków",
+      "latitude": 50.57375,
+      "longitude": 19.36624
+    },
+    {
+      "name": "Aleksandrówka",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80979,
+      "longitude": 19.5276
+    },
+    {
+      "name": "Bartkowice",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.91914,
+      "longitude": 19.37417
+    },
+    {
+      "name": "Bolesławów",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76643,
+      "longitude": 19.57962
+    },
+    {
+      "name": "Brzyszów, Olsztyńska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79731,
+      "longitude": 19.26865
+    },
+    {
+      "name": "Brzyszów, Szkoła",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79712,
+      "longitude": 19.27994
+    },
+    {
+      "name": "Bystrzanowice",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.70494,
+      "longitude": 19.5339
+    },
+    {
+      "name": "Celiny",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74138,
+      "longitude": 19.62386
+    },
+    {
+      "name": "Chorzenice",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.90771,
+      "longitude": 19.29956
+    },
+    {
+      "name": "Chorzenice, Mostki",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.90099,
+      "longitude": 19.28733
+    },
+    {
+      "name": "Czepurka",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74956,
+      "longitude": 19.38943
+    },
+    {
+      "name": "Czepurka, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.75303,
+      "longitude": 19.38987
+    },
+    {
+      "name": "Częstochowa, Aleja Jana Pawła II - Uniwersytet",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81737,
+      "longitude": 19.11962
+    },
+    {
+      "name": "Częstochowa, Aleja Kościuszki",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81272,
+      "longitude": 19.11833
+    },
+    {
+      "name": "Częstochowa, Batalionów Chłopskich",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83785,
+      "longitude": 19.18843
+    },
+    {
+      "name": "Częstochowa, Berger",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80086,
+      "longitude": 19.19205
+    },
+    {
+      "name": "Częstochowa, Bugajska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76701,
+      "longitude": 19.16581
+    },
+    {
+      "name": "Częstochowa, C.H. Jagielończycy",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78325,
+      "longitude": 19.14341
+    },
+    {
+      "name": "Częstochowa, Cmentarna",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82449,
+      "longitude": 19.13444
+    },
+    {
+      "name": "Częstochowa, Dickensa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83393,
+      "longitude": 19.15132
+    },
+    {
+      "name": "Częstochowa, Dworzec Autobusowy",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80573,
+      "longitude": 19.11836
+    },
+    {
+      "name": "Częstochowa, Estakada",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78480,
+      "longitude": 19.14042
+    },
+    {
+      "name": "Częstochowa, Galeria Jurajska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80726,
+      "longitude": 19.12769
+    },
+    {
+      "name": "Częstochowa, Hallera",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80755,
+      "longitude": 19.16762
+    },
+    {
+      "name": "Częstochowa, I Aleja Najświętszej Maryi Panny",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81176,
+      "longitude": 19.11927
+    },
+    {
+      "name": "Częstochowa, II Aleja NMP",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81271,
+      "longitude": 19.11834
+    },
+    {
+      "name": "Częstochowa, Koksownia",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80434,
+      "longitude": 19.1828
+    },
+    {
+      "name": "Częstochowa, Krakowska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80107,
+      "longitude": 19.13043
+    },
+    {
+      "name": "Częstochowa, Kręciwilk",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76352,
+      "longitude": 19.1827
+    },
+    {
+      "name": "Częstochowa, Mała",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80232,
+      "longitude": 19.12924
+    },
+    {
+      "name": "Częstochowa, Okrzei",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78121,
+      "longitude": 19.14545
+    },
+    {
+      "name": "Częstochowa, Plac Daszyńskiego",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81205,
+      "longitude": 19.1272
+    },
+    {
+      "name": "Częstochowa, Rakowska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77329,
+      "longitude": 19.15589
+    },
+    {
+      "name": "Częstochowa, Rondo Mickiewicza",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.8019,
+      "longitude": 19.11772
+    },
+    {
+      "name": "Częstochowa, Rondo Trzech Krzyży",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81825,
+      "longitude": 19.12988
+    },
+    {
+      "name": "Częstochowa, Rynek Narutowicza",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81226,
+      "longitude": 19.13895
+    },
+    {
+      "name": "Częstochowa, Stary Rynek",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.8119,
+      "longitude": 19.12826
+    },
+    {
+      "name": "Częstochowa, Stroma",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79304,
+      "longitude": 19.12718
+    },
+    {
+      "name": "Częstochowa, Wspólna",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80799,
+      "longitude": 19.14855
+    },
+    {
+      "name": "Częstochowa, Wyczerpy Dolne",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.8401,
+      "longitude": 19.16111
+    },
+    {
+      "name": "Częstochowa, Wyczerpy Górne",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.84109,
+      "longitude": 19.17595
+    },
+    {
+      "name": "Częstochowa, Zawodzie - Szpital",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81188,
+      "longitude": 19.13465
+    },
+    {
+      "name": "Dąbrowa Zielona, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.84388,
+      "longitude": 19.55671
+    },
+    {
+      "name": "Dąbrowa Zielona, III",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83854,
+      "longitude": 19.54823
+    },
+    {
+      "name": "Drochlin, Wieś",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.72795,
+      "longitude": 19.63902
+    },
+    {
+      "name": "Janów",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.72192,
+      "longitude": 19.436
+    },
+    {
+      "name": "Janów, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.7239,
+      "longitude": 19.42494
+    },
+    {
+      "name": "Jaskrów, Częstochowska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83926,
+      "longitude": 19.23052
+    },
+    {
+      "name": "Jaskrów, Rędzińska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83908,
+      "longitude": 19.23815
+    },
+    {
+      "name": "Jaskrów, Starowiejska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83836,
+      "longitude": 19.24571
+    },
+    {
+      "name": "Jaskrów, Wille",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83758,
+      "longitude": 19.21821
+    },
+    {
+      "name": "Jaźwiny",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81555,
+      "longitude": 19.40595
+    },
+    {
+      "name": "Julianka",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76354,
+      "longitude": 19.47364
+    },
+    {
+      "name": "Knieja",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82392,
+      "longitude": 19.49141
+    },
+    {
+      "name": "Kobyłczyce, Krzyżówki",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79772,
+      "longitude": 19.37671
+    },
+    {
+      "name": "Kobyłczyce, Okupniki",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.7969,
+      "longitude": 19.35574
+    },
+    {
+      "name": "Kobyłczyce, Remiza",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79715,
+      "longitude": 19.36692
+    },
+    {
+      "name": "Konary",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.91450,
+      "longitude": 19.40392
+    },
+    {
+      "name": "Konary, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.91735,
+      "longitude": 19.39299
+    },
+    {
+      "name": "Konary, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.91802,
+      "longitude": 19.40639
+    },
+    {
+      "name": "Krasawa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.71271,
+      "longitude": 19.33822
+    },
+    {
+      "name": "Krasawa, Zapasieka",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.27,
+      "longitude": 0.0
+    },
+    {
+      "name": "Kłomnice, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.91906,
+      "longitude": 19.34584
+    },
+    {
+      "name": "Kłomnice, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.92226,
+      "longitude": 19.35810
+    },
+    {
+      "name": "Kłomnice, Zdrowska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.92565,
+      "longitude": 19.34887
+    },
+    {
+      "name": "Lelów, Rynek",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.68354,
+      "longitude": 19.62458
+    },
+    {
+      "name": "Lgoczanka, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.69602,
+      "longitude": 19.54949
+    },
+    {
+      "name": "Lgota Błotna, Pod Ślęzanami",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.67894,
+      "longitude": 19.5781
+    },
+    {
+      "name": "Lgota Błotna, Skrzyżowanie",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.68505,
+      "longitude": 19.56837
+    },
+    {
+      "name": "Lipicze, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.93608,
+      "longitude": 19.38781
+    },
+    {
+      "name": "Lipicze, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.93657,
+      "longitude": 19.39947
+    },
+    {
+      "name": "Lipnik",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77438,
+      "longitude": 19.43363
+    },
+    {
+      "name": "Lusławice, I Kolonia",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77345,
+      "longitude": 19.39819
+    },
+    {
+      "name": "Lusławice, II Szkoła",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.33,
+      "longitude": 0.0
+    },
+    {
+      "name": "Lusławice, III Centrum",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76809,
+      "longitude": 19.39647
+    },
+    {
+      "name": "Lusławice, IV Przejazd",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76133,
+      "longitude": 19.39513
+    },
+    {
+      "name": "Małusy Małe, Dworek",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79749,
+      "longitude": 19.30644
+    },
+    {
+      "name": "Małusy Małe, Remiza",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79695,
+      "longitude": 19.29523
+    },
+    {
+      "name": "Małusy Wielkie",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79376,
+      "longitude": 19.3394
+    },
+    {
+      "name": "Małusy Wielkie, Kościół",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79704,
+      "longitude": 19.32079
+    },
+    {
+      "name": "Małusy Wielkie, Szkoła",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79465,
+      "longitude": 19.32858
+    },
+    {
+      "name": "Michałów Rudnicki",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.8909,
+      "longitude": 19.2687
+    },
+    {
+      "name": "Milionów, Knieja",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82743,
+      "longitude": 19.49897
+    },
+    {
+      "name": "Mokrzesz, Częstochowska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81047,
+      "longitude": 19.36784
+    },
+    {
+      "name": "Mokrzesz, Kościelna",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81193,
+      "longitude": 19.38131
+    },
+    {
+      "name": "Mokrzesz, Równoległa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81224,
+      "longitude": 19.39261
+    },
+    {
+      "name": "Mstów, Kościół",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83277,
+      "longitude": 19.28831
+    },
+    {
+      "name": "Mstów, Ośrodek Zdrowia",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82543,
+      "longitude": 19.28959
+    },
+    {
+      "name": "Mstów, Plac Mickiewicza",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82918,
+      "longitude": 19.28639
+    },
+    {
+      "name": "Nieznanice",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.92269,
+      "longitude": 19.31072
+    },
+    {
+      "name": "Olsztyn, Odrzykoń",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76006,
+      "longitude": 19.22475
+    },
+    {
+      "name": "Olsztyn, Rynek",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.75021,
+      "longitude": 19.26852
+    },
+    {
+      "name": "Olsztyn, Żwirki i Wigury",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.75298,
+      "longitude": 19.26006
+    },
+    {
+      "name": "Pabianice, Brus",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.47,
+      "longitude": 0.0
+    },
+    {
+      "name": "Pabianice, Centrum",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.48,
+      "longitude": 0.0
+    },
+    {
+      "name": "Pabianice, Górka",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.49,
+      "longitude": 0.0
+    },
+    {
+      "name": "Pacierzów",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.90662,
+      "longitude": 19.40025
+    },
+    {
+      "name": "Piasek",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.73369,
+      "longitude": 19.39715
+    },
+    {
+      "name": "Pniaki Mokrzeskie",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82029,
+      "longitude": 19.42912
+    },
+    {
+      "name": "Podlesie",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.7543,
+      "longitude": 19.60522
+    },
+    {
+      "name": "Podlesie, Pustkowie",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.75237,
+      "longitude": 19.56864
+    },
+    {
+      "name": "Przymiłowice, Kasztanowa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74728,
+      "longitude": 19.31771
+    },
+    {
+      "name": "Przymiłowice, Kielnicka",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.75296,
+      "longitude": 19.29469
+    },
+    {
+      "name": "Przymiłowice, Remiza",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.75248,
+      "longitude": 19.30833
+    },
+    {
+      "name": "Przyrów, Bloki",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.52,
+      "longitude": 0.0
+    },
+    {
+      "name": "Przyrów, Ośrodek Zdrowia",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79805,
+      "longitude": 19.52365
+    },
+    {
+      "name": "Przyrów, Piaski",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80983,
+      "longitude": 19.52773
+    },
+    {
+      "name": "Przyrów, Rynek",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80174,
+      "longitude": 19.5272
+    },
+    {
+      "name": "Przyrów, Szkoła",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.80547,
+      "longitude": 19.5268
+    },
+    {
+      "name": "Rędziny, Kościół",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.85771,
+      "longitude": 19.21221
+    },
+    {
+      "name": "Rędziny, Osiedle",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.86605,
+      "longitude": 19.22744
+    },
+    {
+      "name": "Rędziny, Urząd Gminy",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.85508,
+      "longitude": 19.20523
+    },
+    {
+      "name": "Rędziny, Wolności",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.85244,
+      "longitude": 19.19958
+    },
+    {
+      "name": "Rudniki, Kościół",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.87658,
+      "longitude": 19.24369
+    },
+    {
+      "name": "Rudniki, skrzyżowanie",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.52192,
+      "longitude": 19.4228
+    },
+    {
+      "name": "Rudniki, zajazd",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.51704,
+      "longitude": 19.41994
+    },
+    {
+      "name": "Siedlec, Krzyże",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.69436,
+      "longitude": 19.38062
+    },
+    {
+      "name": "Siedlec, Piekło",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.70293,
+      "longitude": 19.35944
+    },
+    {
+      "name": "Siedlec, Polna",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.60,
+      "longitude": 0.0
+    },
+    {
+      "name": "Siedlec, k/Janowa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.69231,
+      "longitude": 19.39093
+    },
+    {
+      "name": "Siedlec, skrz. k/Janowa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.61,
+      "longitude": 0.0
+    },
+    {
+      "name": "Sieraków, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74778,
+      "longitude": 19.49059
+    },
+    {
+      "name": "Sieraków, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74811,
+      "longitude": 19.50706
+    },
+    {
+      "name": "Skowronów",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.73628,
+      "longitude": 19.38045
+    },
+    {
+      "name": "Skowronów, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.73713,
+      "longitude": 19.36661
+    },
+    {
+      "name": "Smyków",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82472,
+      "longitude": 19.46962
+    },
+    {
+      "name": "Srocko",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79746,
+      "longitude": 19.24672
+    },
+    {
+      "name": "Srocko, Sklep",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79744,
+      "longitude": 19.25633
+    },
+    {
+      "name": "Stanisławów",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79154,
+      "longitude": 19.54129
+    },
+    {
+      "name": "Staromieście",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.67225,
+      "longitude": 19.60396
+    },
+    {
+      "name": "Staromieście, Borowiec I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.67654,
+      "longitude": 19.61144
+    },
+    {
+      "name": "Staropole, OSP",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.76852,
+      "longitude": 19.53124
+    },
+    {
+      "name": "Wancerzów, Brzozowa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83755,
+      "longitude": 19.26776
+    },
+    {
+      "name": "Wancerzów, Kościół",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.66,
+      "longitude": 0.0
+    },
+    {
+      "name": "Wancerzów, Sadowa",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.83725,
+      "longitude": 19.27716
+    },
+    {
+      "name": "Wiercica, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77794,
+      "longitude": 19.52628
+    },
+    {
+      "name": "Wiercica, IV",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77817,
+      "longitude": 19.49564
+    },
+    {
+      "name": "Wiercica, OSP",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77806,
+      "longitude": 19.51522
+    },
+    {
+      "name": "Witkowice",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.91209,
+      "longitude": 19.30862
+    },
+    {
+      "name": "Wola Mokrzeska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82631,
+      "longitude": 19.45663
+    },
+    {
+      "name": "Zagórze",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77528,
+      "longitude": 19.37418
+    },
+    {
+      "name": "Zagórze, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78344,
+      "longitude": 19.36081
+    },
+    {
+      "name": "Zalesice, Koszary",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77088,
+      "longitude": 19.48293
+    },
+    {
+      "name": "Zalesice, Wieś",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77285,
+      "longitude": 19.48703
+    },
+    {
+      "name": "Zarębice, OSP",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79249,
+      "longitude": 19.5498
+    },
+    {
+      "name": "Zarębice, PGR (górka)",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78726,
+      "longitude": 19.56813
+    },
+    {
+      "name": "Zarębice, Wieś",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78972,
+      "longitude": 19.55847
+    },
+    {
+      "name": "Zawada, Częstochowska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.8082,
+      "longitude": 19.35056
+    },
+    {
+      "name": "Zawada, Górna",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81022,
+      "longitude": 19.33746
+    },
+    {
+      "name": "Zawada, Główna",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.81302,
+      "longitude": 19.32517
+    },
+    {
+      "name": "Zawada, k/Kłomnic",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 0.77,
+      "longitude": 0.0
+    },
+    {
+      "name": "Zdrowa, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.93692,
+      "longitude": 19.31970
+    },
+    {
+      "name": "Zdrowa, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.92970,
+      "longitude": 19.33887
+    },
+    {
+      "name": "Zrębice, Ciecierzyn",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74239,
+      "longitude": 19.32901
+    },
+    {
+      "name": "Zrębice, Główna",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74297,
+      "longitude": 19.33014
+    },
+    {
+      "name": "Zrębice, Leśniczówka",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.74137,
+      "longitude": 19.34496
+    },
+    {
+      "name": "Zrębice, Rędziny",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.73181,
+      "longitude": 19.3318
+    },
+    {
+      "name": "Zrębice, kościół",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.72142,
+      "longitude": 19.32934
+    },
+    {
+      "name": "Zrębice, szkoła",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.72465,
+      "longitude": 19.32947
+    },
+    {
+      "name": "Złoty Potok",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.70914,
+      "longitude": 19.43295
+    },
+    {
+      "name": "Złoty Potok, os. Parkowe",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.71461,
+      "longitude": 19.43578
+    },
+    {
+      "name": "Ślęzany, Bysów",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.67568,
+      "longitude": 19.58874
+    },
+    {
+      "name": "Śmiertny Dąb",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.75234,
+      "longitude": 19.45981
+    },
+    {
+      "name": "Święta Anna, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82414,
+      "longitude": 19.52570
+    },
+    {
+      "name": "Święta Anna, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.82563,
+      "longitude": 19.53512
+    },
+    {
+      "name": "Żuraw, Centrum",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78415,
+      "longitude": 19.40625
+    },
+    {
+      "name": "Żuraw, I",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78014,
+      "longitude": 19.41808
+    },
+    {
+      "name": "Żuraw, II",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.77718,
+      "longitude": 19.3981
+    },
+    {
+      "name": "Żuraw, Kolonia Żurawska",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.79362,
+      "longitude": 19.39253
+    },
+    {
+      "name": "Żuraw, Kościół",
+      "description": "",
+      "area": "Powiat Częstochowski",
+      "latitude": 50.78486,
+      "longitude": 19.39879
+    },
+    {
+      "name": "Bobolice, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.61103,
+      "longitude": 19.49804
+    },
+    {
+      "name": "Dąbrowno, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.66807,
+      "longitude": 19.53059
+    },
+    {
+      "name": "Dąbrowno, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.66697,
+      "longitude": 19.53988
+    },
+    {
+      "name": "Dąbrowno, III",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.67157,
+      "longitude": 19.54189
+    },
+    {
+      "name": "Gorzków Nowy, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 0.16,
+      "longitude": 0.0
+    },
+    {
+      "name": "Gorzków Nowy, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.67847,
+      "longitude": 19.47172
+    },
+    {
+      "name": "Gorzków Stary",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.68006,
+      "longitude": 19.49154
+    },
+    {
+      "name": "Jaroszów, Skrzyżowanie Zawada/Żarki",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.65516,
+      "longitude": 19.36323
+    },
+    {
+      "name": "Jaworznik, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.60857,
+      "longitude": 19.39887
+    },
+    {
+      "name": "Jaworznik, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.60785,
+      "longitude": 19.4091
+    },
+    {
+      "name": "Jaworznik, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.60346,
+      "longitude": 19.41616
+    },
+    {
+      "name": "Jaworznik, IV",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.59778,
+      "longitude": 19.42584
+    },
+    {
+      "name": "Kotowice, Zamkowa",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.59653,
+      "longitude": 19.4514
+    },
+    {
+      "name": "Ludwinów, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.67756,
+      "longitude": 19.44489
+    },
+    {
+      "name": "Ludwinów, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.67874,
+      "longitude": 19.4538
+    },
+    {
+      "name": "Łutowiec",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.62746,
+      "longitude": 19.44859
+    },
+    {
+      "name": "Mirów, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.615,
+      "longitude": 19.46803
+    },
+    {
+      "name": "Moczydło, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.63686,
+      "longitude": 19.45031
+    },
+    {
+      "name": "Moczydło, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.64401,
+      "longitude": 19.45342
+    },
+    {
+      "name": "Myszków, Kościuszki II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.58373,
+      "longitude": 19.34246
+    },
+    {
+      "name": "Myszków, Kościuszki, III",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.58941,
+      "longitude": 19.35087
+    },
+    {
+      "name": "Myszków, Plac Dworcowy II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.57495,
+      "longitude": 19.32938
+    },
+    {
+      "name": "Mzurów, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.65231,
+      "longitude": 19.50583
+    },
+    {
+      "name": "Mzurów, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.65846,
+      "longitude": 19.50028
+    },
+    {
+      "name": "Mzurów, III",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.66445,
+      "longitude": 19.50886
+    },
+    {
+      "name": "Niegowa, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.64144,
+      "longitude": 19.4824
+    },
+    {
+      "name": "Niegowa, III",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.64018,
+      "longitude": 19.49276
+    },
+    {
+      "name": "Ogorzelnik, III",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.62246,
+      "longitude": 19.51023
+    },
+    {
+      "name": "Postaszowice, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.65908,
+      "longitude": 19.47872
+    },
+    {
+      "name": "Trzebniów, I",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.65995,
+      "longitude": 19.43667
+    },
+    {
+      "name": "Trzebniów, II",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.66398,
+      "longitude": 19.43527
+    },
+    {
+      "name": "Trzebniów, III",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.66871,
+      "longitude": 19.4348
+    },
+    {
+      "name": "Zawada",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.65619,
+      "longitude": 19.37669
+    },
+    {
+      "name": "Żarki, Myszkowska/Połomia/",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.60716,
+      "longitude": 19.35611
+    },
+    {
+      "name": "Żarki, Olesiów",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.61661,
+      "longitude": 19.36022
+    },
+    {
+      "name": "Żarki, ul. Częstochowska",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.62874,
+      "longitude": 19.35456
+    },
+    {
+      "name": "Żarki, ul. Leśniowska ( parking )",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.63124,
+      "longitude": 19.3757
+    },
+    {
+      "name": "Żarki, ul. Moniuszki",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.6326,
+      "longitude": 19.36207
+    },
+    {
+      "name": "Żarki, ul. Piaski",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 0.84,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żarki, ul. Wierzbowa",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 0.85,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żarki, ul. Żwirki I Wigury",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 0.86,
+      "longitude": 0.0
+    },
+    {
+      "name": "Żarki, Żwirki I Wigury (Pl. Ks. Gietyngiera)",
+      "description": "",
+      "area": "Powiat Myszkowski",
+      "latitude": 50.62474,
+      "longitude": 19.36434
+    },
+    {
+      "name": "Biskupice, Owczarnia",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.47138,
+      "longitude": 19.62974
+    },
+    {
+      "name": "Bonowice, 1",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.62188,
+      "longitude": 19.78963
+    },
+    {
+      "name": "Bonowice, 2",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.61804,
+      "longitude": 19.77274
+    },
+    {
+      "name": "Dzibice, Nr 1 (posesja 25)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.59979,
+      "longitude": 19.58575
+    },
+    {
+      "name": "Dzibice, Nr 2 (posesja 70)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.60741,
+      "longitude": 19.58698
+    },
+    {
+      "name": "Dzibice, Nr 3 (posesja 103, pętla)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.61633,
+      "longitude": 19.58701
+    },
+    {
+      "name": "Giebło, Częstochowska",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.47984,
+      "longitude": 19.60879
+    },
+    {
+      "name": "Giebło, Dworek",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.48047,
+      "longitude": 19.60356
+    },
+    {
+      "name": "Giebło, Zakościele",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.48731,
+      "longitude": 19.59506
+    },
+    {
+      "name": "Gołuchowice, Nr 1 (remiza)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.57544,
+      "longitude": 19.61594
+    },
+    {
+      "name": "Gołuchowice, Nr 3 (DK78)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.5693,
+      "longitude": 19.6208
+    },
+    {
+      "name": "Grabiec, 1",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.61575,
+      "longitude": 19.75947
+    },
+    {
+      "name": "Grabiec, 2",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.61473,
+      "longitude": 19.74577
+    },
+    {
+      "name": "Gulzów, III",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.47823,
+      "longitude": 19.62687
+    },
+    {
+      "name": "Gulzów, Młodzieży",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.4832,
+      "longitude": 19.62441
+    },
+    {
+      "name": "Kiełkowice, Jutrzyna",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.47123,
+      "longitude": 19.56984
+    },
+    {
+      "name": "Kiełkowice, Karlińska",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.4861,
+      "longitude": 19.57376
+    },
+    {
+      "name": "Kiełkowice, Stara Wieś",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.4955,
+      "longitude": 19.57075
+    },
+    {
+      "name": "Kiełkowice, Wilcza",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.47739,
+      "longitude": 19.57001
+    },
+    {
+      "name": "Kopaniny, I",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.53657,
+      "longitude": 19.42918
+    },
+    {
+      "name": "Kostkowice, Nr 1",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.58486,
+      "longitude": 19.57436
+    },
+    {
+      "name": "Kroczyce, Nr 1 (1 Maja)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.5613,
+      "longitude": 19.57032
+    },
+    {
+      "name": "Kroczyce, Nr 4 (Żarecka parking)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.56205,
+      "longitude": 19.56863
+    },
+    {
+      "name": "Kroczyce, Nr 5 (Żarecka 11)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.56298,
+      "longitude": 19.5588
+    },
+    {
+      "name": "Kroczyce, Nr 6 (Topolowa)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.5674,
+      "longitude": 19.58049
+    },
+    {
+      "name": "Kroczyce, Nr 7 (Marianka)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.5759,
+      "longitude": 19.58504
+    },
+    {
+      "name": "Kroczyce, Nr 8 (Urząd Gminy)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.56843,
+      "longitude": 19.56422
+    },
+    {
+      "name": "Lgota Murowana, Nr 1 (Kalinowa 8)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.54270,
+      "longitude": 19.56756
+    },
+    {
+      "name": "Lgota Murowana, Nr 2 (Kalinowa 40)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.53408,
+      "longitude": 19.56687
+    },
+    {
+      "name": "Lgota Murowana, Nr 3 (remiza)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.54165,
+      "longitude": 19.56572
+    },
+    {
+      "name": "Lgota Murowana, Nr 4 (Spacerowa)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.54164,
+      "longitude": 19.56025
+    },
+    {
+      "name": "Lgota Murowana, Słoneczna",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.54127,
+      "longitude": 19.55235
+    },
+    {
+      "name": "Lgotka, Nr 1 (skrzyżowanie)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.56371,
+      "longitude": 19.54763
+    },
+    {
+      "name": "Mokrus, Leśna",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.49436,
+      "longitude": 19.60368
+    },
+    {
+      "name": "Piaseczno, Nr 1 (skrzyżowanie)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.53398,
+      "longitude": 19.53069
+    },
+    {
+      "name": "Piaseczno, Nr 2 (pętla)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.5375,
+      "longitude": 19.53192
+    },
+    {
+      "name": "Podlesice, Nr 2 (DW792)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.56691,
+      "longitude": 19.53589
+    },
+    {
+      "name": "Pradła, Nr 1 (kościół)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.57244,
+      "longitude": 19.64484
+    },
+    {
+      "name": "Pradła, Nr 3 (Wyzwolenia 58)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.57262,
+      "longitude": 19.6493
+    },
+    {
+      "name": "Pradła, Nr 5 (Wyzwolenia 120)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.57938,
+      "longitude": 19.6524
+    },
+    {
+      "name": "Rzędkowice, I",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.5627,
+      "longitude": 19.47457
+    },
+    {
+      "name": "Rzędkowice, II",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.56633,
+      "longitude": 19.48107
+    },
+    {
+      "name": "Rzędkowice, III",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.57319,
+      "longitude": 19.48109
+    },
+    {
+      "name": "Rzędkowice, IV",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.57863,
+      "longitude": 19.48804
+    },
+    {
+      "name": "Siedliszowice, Nr 1 (posesja 75)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.55793,
+      "longitude": 19.65967
+    },
+    {
+      "name": "Siedliszowice, Nr 2 (skrzyżowanie)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.55385,
+      "longitude": 19.67088
+    },
+    {
+      "name": "Siedliszowice, Nr 3 (górna wieś)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.54963,
+      "longitude": 19.67917
+    },
+    {
+      "name": "Siemięrzyce, Nr 1 (DK78)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.567,
+      "longitude": 19.60278
+    },
+    {
+      "name": "Siemięrzyce, Wrzoski",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.58327,
+      "longitude": 19.58997
+    },
+    {
+      "name": "Szczekociny, Jana Pawła II Koło Przedszkola",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.62396,
+      "longitude": 19.82095
+    },
+    {
+      "name": "Szczekociny, M. Konopnickiej Dw. PKS",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.62621,
+      "longitude": 19.81651
+    },
+    {
+      "name": "Szczekociny, Nowa",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.62325,
+      "longitude": 19.80559
+    },
+    {
+      "name": "Włodowice, Młyn",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.55842,
+      "longitude": 19.45717
+    },
+    {
+      "name": "Włodowice, ul. Rynek",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.5522,
+      "longitude": 19.45033
+    },
+    {
+      "name": "Zawada Pilicka, Amazonka",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.59649,
+      "longitude": 19.71182
+    },
+    {
+      "name": "Zawada Pilicka, Irządze Pstrąg",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.59159,
+      "longitude": 19.69164
+    },
+    {
+      "name": "Zawada Pilicka, Krztynia (naprzeciw posesji 66)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.59447,
+      "longitude": 19.70167
+    },
+    {
+      "name": "Zawada Pilicka, skrzyżowanie",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.60624,
+      "longitude": 19.7283
+    },
+    {
+      "name": "Zawiercie, Oświatowa II",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.50807,
+      "longitude": 19.41471
+    },
+    {
+      "name": "Zawiercie, Sikorskiego I (PKP)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.4807,
+      "longitude": 19.42414
+    }
+  ]
+}
