@@ -10,6 +10,7 @@
     <string name="menu_home">Departures</string>
     <string name="menu_gallery">Description</string>
     <string name="menu_map">Map</string>
+    <string name="menu_tickets">Tickets</string>
     <string name="menu_share">Share</string>
     <string name="menu_slideshow">Privacy</string>
     <string name="menu_apps">Other Apps</string>
@@ -22,6 +23,7 @@
 
     <!-- Messages Preferences -->
     <string name="signature_title">Last updated</string>
+    <string name="refresh_title">Refresh</string>
     <string name="area_title">Area</string>
     <string name="reply_title">Preferred location</string>
 
@@ -53,6 +55,8 @@
 
     <string name="privacy_policy_title">Privacy Policy</string>
     <string name="privacy_policy_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/busstop/privacy-policy</string>
+
+    <string name="tickets_url" translatable="false">https://htmlpreview.github.io/?https://github.com/wojtekl/google-play/blob/main/shoppinglist/webapp/index.html</string>
 
     <string name="ad_app_id" translatable="false">ca-app-pub-4377490341302105~5674485509</string>
     <string name="app_open_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/4956300203</string>

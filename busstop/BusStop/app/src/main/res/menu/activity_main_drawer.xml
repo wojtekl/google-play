@@ -17,6 +17,10 @@
             android:icon="@drawable/sharp_map_24"
             android:title="@string/menu_map" />
         <item
+            android:id="@+id/nav_tickets"
+            android:icon="@drawable/sharp_receipt_long_24"
+            android:title="@string/menu_tickets" />
+        <item
             android:id="@+id/nav_share"
             android:icon="@drawable/sharp_qr_code_2_24"
             android:title="@string/menu_share" />

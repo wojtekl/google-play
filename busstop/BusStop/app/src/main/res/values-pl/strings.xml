@@ -10,6 +10,7 @@
     <string name="menu_home">Odjazdy</string>
     <string name="menu_gallery">Oznaczenia</string>
     <string name="menu_map">Mapa</string>
+    <string name="menu_tickets">Bilety</string>
     <string name="menu_share">Udostępnij</string>
     <string name="menu_slideshow">Prywatność</string>
     <string name="menu_apps">Inne aplikacje</string>
@@ -20,6 +21,7 @@
     <string name="view_header">Widok</string>
 
     <string name="signature_title">Ostatnio zaktualizowano</string>
+    <string name="refresh_title">Odśwież</string>
     <string name="area_title">Obszar</string>
     <string name="reply_title">Preferowana lokalizacja</string>
 
