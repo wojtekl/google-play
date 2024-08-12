@@ -56,7 +56,7 @@
     <string name="privacy_policy_title">Privacy Policy</string>
     <string name="privacy_policy_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/busstop/privacy-policy</string>
 
-    <string name="tickets_url" translatable="false">https://htmlpreview.github.io/?https://github.com/wojtekl/google-play/blob/main/shoppinglist/webapp/index.html</string>
+    <string name="tickets_url" translatable="false">https://htmlpreview.github.io/?https://github.com/wojtekl/google-play/blob/main/busstop/data/tickets.html</string>
 
     <string name="ad_app_id" translatable="false">ca-app-pub-4377490341302105~5674485509</string>
     <string name="app_open_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/4956300203</string>
