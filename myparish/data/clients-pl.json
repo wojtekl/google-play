@@ -1,5 +1,5 @@
 {
-  "updated": 1723314454642,
+  "updated": 1723826248725,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -30,6 +30,16 @@
       "description": "",
       "latitude": 50.22378,
       "longitude": 19.15328
+    },
+    {
+      "name": "Chojnice: Parafia pw MB Fatimskiej",
+      "schedule": "https://fatimachojnice.parafialnastrona.pl/intencje-i-nabozenstwa",
+      "announcement": "https://fatimachojnice.parafialnastrona.pl/ogloszenia",
+      "contact": "https://fatimachojnice.parafialnastrona.pl/kontakt",
+      "others": "https://fatimachojnice.parafialnastrona.pl/obszar-i-statystyka",
+      "description": "",
+      "latitude": 53.69295,
+      "longitude": 17.54721
     },
     {
       "name": "Ciechanów: Parafia św. Józefa - Fara",
@@ -140,6 +150,16 @@
       "description": "",
       "latitude": 49.52496,
       "longitude": 18.85674
+    },
+    {
+      "name": "Kętrzyn: Parafia św. Jerzego",
+      "schedule": "http://bazylika.ketrzyn.pl/1_12_biuletyn.html",
+      "announcement": "http://bazylika.ketrzyn.pl/1_3_aktualnosci.html",
+      "contact": "http://bazylika.ketrzyn.pl/1_2_dane-adresowe.html",
+      "others": "",
+      "description": "",
+      "latitude": 54.07453,
+      "longitude": 21.37323
     },
     {
       "name": "Kielno: Parafia pw. św. Wojciecha Biskupa i Męczennika",
@@ -262,6 +282,16 @@
       "longitude": 16.58461
     },
     {
+      "name": "Lidzbark Warmiński: Parafia św. Piotra i Pawła",
+      "schedule": "https://parafialidzbark.pl/#:~:text=INTENCJE%20MSZALNE",
+      "announcement": "https://parafialidzbark.pl/#:~:text=AKTUALNOŚCI",
+      "contact": "https://parafialidzbark.pl/index.php/kontakt/parafia",
+      "others": "",
+      "description": "",
+      "latitude": 54.12439,
+      "longitude": 20.58005
+    },
+    {
       "name": "Lisia Góra: Parafia pw Matki Bożej Różańcowej",
       "schedule": "https://lisia-gora.diecezja.tarnow.pl/intencje/",
       "announcement": "https://lisia-gora.diecezja.tarnow.pl/category/ogloszenia-parafialne/",
@@ -310,6 +340,26 @@
       "description": "",
       "latitude": 51.70747,
       "longitude": 19.55398
+    },
+    {
+      "name": "Nidzica: Parafia bł. Bolesławy Lament",
+      "schedule": "http://www.parafia.nidzica.pl/intencje-mszalne/#et-boc",
+      "announcement": "http://www.parafia.nidzica.pl/ogloszenia-parafialne/#et-boc",
+      "contact": "http://www.parafia.nidzica.pl/kontakt/#et-boc",
+      "others": "",
+      "description": "",
+      "latitude": 53.37122,
+      "longitude": 20.43338
+    },
+    {
+      "name": "Nidzica: Parafia św. Wojciecha Biskupa i Męczennika",
+      "schedule": "https://wojciechnidzica.pl/intencje",
+      "announcement": "https://wojciechnidzica.pl/ogloszenia_duszpasterskie",
+      "contact": "https://wojciechnidzica.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 53.35966,
+      "longitude": 20.42423
     },
     {
       "name": "Niwiska: Parafia św. Mikołaja",
@@ -370,6 +420,16 @@
       "description": "",
       "latitude": 50.55908,
       "longitude": 21.18148
+    },
+    {
+      "name": "Stawiguda: Parafia św. Jakuba Apostoła Starszego",
+      "schedule": "http://parafiastawiguda.pl/intencje-mszalne/#content",
+      "announcement": "http://parafiastawiguda.pl/ogloszenia-duszpasterskie/#content",
+      "contact": "http://parafiastawiguda.pl/#text-4",
+      "others": "http://parafiastawiguda.pl/cmentarz/#content",
+      "description": "",
+      "latitude": 53.65705,
+      "longitude": 20.39775
     },
     {
       "name": "Szczekociny: Parafia Św. Bartłomieja",
