@@ -1,5 +1,5 @@
 {
-  "updated": 1723538909086,
+  "updated": 1723812472937,
   "busStops": [
     {
       "departing": "05:40",
@@ -10800,6 +10800,5926 @@
       "area": "Powiat Myszkowski",
       "route": "SMY015",
       "journey": "11"
+    },
+    {
+      "departing": "07:25",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:25",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:05",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "12:45",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:35",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:30",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:29",
+      "info": "D",
+      "start": "Myszków, Pułaskiego/Wojska Polskiego",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:29",
+      "info": "D",
+      "start": "Myszków, Pułaskiego/Wojska Polskiego",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:09",
+      "info": "D",
+      "start": "Myszków, Pułaskiego/Wojska Polskiego",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "12:49",
+      "info": "D",
+      "start": "Myszków, Pułaskiego/Wojska Polskiego",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:39",
+      "info": "D",
+      "start": "Myszków, Pułaskiego/Wojska Polskiego",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:34",
+      "info": "D",
+      "start": "Myszków, Pułaskiego/Wojska Polskiego",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:33",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:33",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:13",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "12:53",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:43",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:38",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:34",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:34",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:14",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "12:54",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:44",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:39",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:35",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:35",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:15",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "12:55",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:45",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:40",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:37",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:37",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:17",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "12:57",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:47",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:42",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:38",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:38",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:18",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "12:58",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:48",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:43",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:41",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:41",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:21",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:01",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:51",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:46",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:44",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:44",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:24",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:04",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:54",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:49",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:45",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:45",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:25",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:05",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:55",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:50",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:46",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:46",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:26",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:06",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:56",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:51",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:47",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:47",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:27",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:07",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:57",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:52",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:49",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:49",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:29",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:09",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "14:59",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:54",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:50",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:50",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:30",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:10",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:00",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:55",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:54",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:54",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:34",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:14",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:04",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "16:59",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:57",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:57",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:37",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:17",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:07",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "17:02",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "07:59",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "10:59",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "12:39",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:19",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:09",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "17:04",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Cynków, ul. Śląska",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "6"
+    },
+    {
+      "departing": "06:40",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:00",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:20",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:35",
+      "info": "D",
+      "start": "Cynków, ul. Śląska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "06:44",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:04",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:24",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:39",
+      "info": "D",
+      "start": "Cynków, ul. Wawrzyńca",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "06:49",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:09",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:29",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:44",
+      "info": "D",
+      "start": "Wojsławice, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "06:53",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:13",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:33",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:48",
+      "info": "D",
+      "start": "Koziegłowy, Rynek",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "06:54",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:14",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:34",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:49",
+      "info": "D",
+      "start": "Koziegłowy, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "06:57",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:17",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:37",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:52",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (skrzyżowanie z ul. Polan)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "06:59",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:19",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:39",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:54",
+      "info": "D",
+      "start": "Koziegłówki, ul. Myszkowska (przy drodze 789 Ordon)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:02",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:22",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:42",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:57",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 2",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:03",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:23",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:43",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "15:58",
+      "info": "D",
+      "start": "Miłość, ul. Walentego 14",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:06",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:26",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:46",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:01",
+      "info": "D",
+      "start": "Kuźnica Nowa, ul. Słoneczna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:09",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:29",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:49",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:04",
+      "info": "D",
+      "start": "Lgota Mokrzesz, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:10",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:30",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:50",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:05",
+      "info": "D",
+      "start": "Lgota Górna, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:12",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:32",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:52",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:07",
+      "info": "D",
+      "start": "Lgota Górna, ul. Myszkowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:13",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:33",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:53",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:08",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:14",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:34",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:54",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:09",
+      "info": "D",
+      "start": "Postęp, ul. Myszkowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:19",
+      "info": "D",
+      "start": "Myszków, Pułaskiego Stacja Benzynowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Myszków, Pułaskiego Stacja Benzynowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:39",
+      "info": "D",
+      "start": "Myszków, Pułaskiego Stacja Benzynowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "13:59",
+      "info": "D",
+      "start": "Myszków, Pułaskiego Stacja Benzynowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:14",
+      "info": "D",
+      "start": "Myszków, Pułaskiego Stacja Benzynowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "07:24",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "2"
+    },
+    {
+      "departing": "11:44",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "3"
+    },
+    {
+      "departing": "14:04",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "4"
+    },
+    {
+      "departing": "16:19",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY014",
+      "journey": "5"
+    },
+    {
+      "departing": "06:30",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:12",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:05",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:45",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:15",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:17",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:40",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:33",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:08",
+      "info": "6",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:48",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:18",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:20",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:43",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:34",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:16",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:09",
+      "info": "6",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:49",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:19",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:21",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:44",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:37",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:19",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:12",
+      "info": "6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:52",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:22",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:24",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:47",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:38",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:20",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:13",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:53",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:23",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:25",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:48",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:39",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:21",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:14",
+      "info": "6",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:54",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:24",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:26",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:49",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:44",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:26",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:19",
+      "info": "6",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:59",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:29",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:31",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:54",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:48",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:30",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:23",
+      "info": "6",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:03",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:33",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:35",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:58",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:49",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:31",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:24",
+      "info": "6",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:04",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:34",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:36",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:59",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:55",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:37",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:30",
+      "info": "6",
+      "start": "Ostrów, I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:10",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:40",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:42",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "16:05",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:57",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:39",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:32",
+      "info": "6",
+      "start": "Ostrów, II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:12",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:42",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:44",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "16:07",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "07:01",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:43",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:36",
+      "info": "6",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:16",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:46",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:48",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "16:11",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "07:02",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:44",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:37",
+      "info": "6",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:17",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:47",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:49",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "16:12",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "07:07",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:49",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:42",
+      "info": "6",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:22",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:52",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:54",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "16:17",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "07:10",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "08:52",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "09:45",
+      "info": "6",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "10:25",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "12:55",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "14:57",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "16:20",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Zaborze, ul. Olsztyńska (zalew)",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "05:50",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:10",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:00",
+      "info": "6",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:00",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:35",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:10",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:00",
+      "info": "D",
+      "start": "Zaborze, ul. Olsztyńska (zalew)",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "05:53",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:13",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:03",
+      "info": "6",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:03",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:38",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:13",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:03",
+      "info": "D",
+      "start": "Zaborze, ul. Lipowa",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "05:58",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:18",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:08",
+      "info": "6",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:08",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:43",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:18",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:08",
+      "info": "D",
+      "start": "Przybynów, ul. Szkolna",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "05:59",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:19",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:09",
+      "info": "6",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:09",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:44",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:19",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:09",
+      "info": "D",
+      "start": "Przybynów, ul. Żarecka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:03",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:23",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:13",
+      "info": "6",
+      "start": "Ostrów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:13",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:48",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:23",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:13",
+      "info": "D",
+      "start": "Ostrów, II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:05",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:25",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:15",
+      "info": "6",
+      "start": "Ostrów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:15",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:50",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:25",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:15",
+      "info": "D",
+      "start": "Ostrów, I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:11",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:31",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:21",
+      "info": "6",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:21",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:56",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:31",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:21",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:12",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:32",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:22",
+      "info": "6",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:22",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "10:57",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:32",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:22",
+      "info": "D",
+      "start": "Wysoka Lelowska, ul. Częstochowska I",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:16",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:36",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:26",
+      "info": "6",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:26",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "11:01",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:36",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:26",
+      "info": "D",
+      "start": "Żarki, ul. Częstochowska",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:21",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:41",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:31",
+      "info": "6",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:31",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "11:06",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:41",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:31",
+      "info": "D",
+      "start": "Żarki, Żwirki i Wigury",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:22",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:42",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:32",
+      "info": "6",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:32",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "11:07",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:42",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:32",
+      "info": "D",
+      "start": "Żarki, Olesiów",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:25",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:45",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:35",
+      "info": "6",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:35",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "11:10",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:45",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:35",
+      "info": "D",
+      "start": "Żarki, Myszkowska /Połomia/",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:26",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:46",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:36",
+      "info": "6",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:36",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "11:11",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:46",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:36",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Helenówka",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:29",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:49",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:39",
+      "info": "6",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:39",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "11:14",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:49",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:39",
+      "info": "D",
+      "start": "Myszków, Kościuszki/Sucharskiego",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:30",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "1"
+    },
+    {
+      "departing": "07:50",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "2"
+    },
+    {
+      "departing": "08:40",
+      "info": "6",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "3"
+    },
+    {
+      "departing": "09:40",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "4"
+    },
+    {
+      "departing": "11:15",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "5"
+    },
+    {
+      "departing": "13:50",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "6"
+    },
+    {
+      "departing": "15:40",
+      "info": "D",
+      "start": "Myszków, Plac Dworcowy II",
+      "destination": "Myszków, Plac Dworcowy II",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY016",
+      "journey": "7"
+    },
+    {
+      "departing": "06:10",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:30",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:25",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "11:55",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:45",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:40",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:12",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:32",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:27",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "11:57",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:47",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:42",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:14",
+      "info": "D",
+      "start": "Kuźnica, Folwark",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:34",
+      "info": "D",
+      "start": "Kuźnica, Folwark",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:29",
+      "info": "D",
+      "start": "Kuźnica, Folwark",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "11:59",
+      "info": "D",
+      "start": "Kuźnica, Folwark",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:49",
+      "info": "D",
+      "start": "Kuźnica, Folwark",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:44",
+      "info": "D",
+      "start": "Kuźnica, Folwark",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:16",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:36",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:31",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:01",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:51",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:46",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:17",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:37",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:32",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:02",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:52",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:47",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:20",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:40",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:35",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:05",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:55",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:50",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:22",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:42",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:37",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:07",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:57",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:52",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:25",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:45",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:40",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:10",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:00",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:55",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:25",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:45",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:40",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:10",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:00",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:55",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:27",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:47",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:42",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:12",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:02",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:57",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:28",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:48",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:43",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:13",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:03",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:58",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:29",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:49",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:44",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:14",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:04",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "15:59",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:30",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:50",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:45",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:15",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:05",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:00",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:32",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:52",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:47",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:17",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:07",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:02",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:34",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:54",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "08:49",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "3"
+    },
+    {
+      "departing": "12:19",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "15:09",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:04",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Dębowiec, I",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:35",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:55",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:20",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:25",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:05",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:10",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:05",
+      "info": "D",
+      "start": "Dębowiec, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:37",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:57",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:22",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:27",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:07",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:12",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:07",
+      "info": "D",
+      "start": "Dębowiec, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:39",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "07:59",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:24",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:29",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:09",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:14",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:09",
+      "info": "D",
+      "start": "Choroń, ul. Ludowa",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:40",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:00",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:25",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:30",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:10",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:15",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:10",
+      "info": "D",
+      "start": "Choroń, ul. Browarna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:41",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:01",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:26",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:31",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:11",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:16",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:11",
+      "info": "D",
+      "start": "Choroń, ul. Koziegłowska",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:42",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:02",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:27",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:32",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:12",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:17",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:12",
+      "info": "D",
+      "start": "Choroń, ul. Leśna",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:44",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:04",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:29",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:34",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:14",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:19",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:14",
+      "info": "D",
+      "start": "Poraj, ul. Zielona (p.)",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:45",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:05",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:30",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:35",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:15",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:20",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:15",
+      "info": "D",
+      "start": "Poraj, ul. Zielona",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:48",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:08",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:33",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:38",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:18",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:23",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:18",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Porajska z ul. Wojska Polskiego",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:51",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:11",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:36",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:41",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:21",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:26",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:21",
+      "info": "D",
+      "start": "Jastrząb, skrz. ul. Wojska Polskiego z ul. Stawową",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:54",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:14",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:39",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:44",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:24",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:29",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:24",
+      "info": "D",
+      "start": "Kuźnica Stara, I",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:55",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:15",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:40",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:45",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:25",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:30",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:25",
+      "info": "D",
+      "start": "Kuźnica Stara, II",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "06:57",
+      "info": "D",
+      "start": "Kuźnica Folwark",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:17",
+      "info": "D",
+      "start": "Kuźnica Folwark",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:42",
+      "info": "D",
+      "start": "Kuźnica Folwark",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:47",
+      "info": "D",
+      "start": "Kuźnica Folwark",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:27",
+      "info": "D",
+      "start": "Kuźnica Folwark",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:32",
+      "info": "D",
+      "start": "Kuźnica Folwark",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:27",
+      "info": "D",
+      "start": "Kuźnica Folwark",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "07:00",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:20",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:45",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:50",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:30",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:35",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:30",
+      "info": "D",
+      "start": "Gęzyn, Sklep",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
+    },
+    {
+      "departing": "07:02",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "1"
+    },
+    {
+      "departing": "08:22",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "2"
+    },
+    {
+      "departing": "11:47",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "4"
+    },
+    {
+      "departing": "12:52",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "5"
+    },
+    {
+      "departing": "14:32",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "6"
+    },
+    {
+      "departing": "15:37",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "7"
+    },
+    {
+      "departing": "16:32",
+      "info": "D",
+      "start": "Gęzyn",
+      "destination": "Gęzyn",
+      "details": "",
+      "area": "Powiat Myszkowski",
+      "route": "SMY017",
+      "journey": "8"
     }
   ]
 }
