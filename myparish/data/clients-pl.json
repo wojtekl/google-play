@@ -1,5 +1,5 @@
 {
-  "updated": 1723826248725,
+  "updated": 1724061786086,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -30,6 +30,16 @@
       "description": "",
       "latitude": 50.22378,
       "longitude": 19.15328
+    },
+    {
+      "name": "Bysław: Parafia pw Przemienienia Pańskiego",
+      "schedule": "https://parafiabyslaw.pl/msze-swiete/",
+      "announcement": "https://parafiabyslaw.pl/category/aktualnosci/",
+      "contact": "https://parafiabyslaw.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 53.507056,
+      "longitude": 17.991625
     },
     {
       "name": "Chojnice: Parafia pw MB Fatimskiej",
@@ -102,6 +112,26 @@
       "longitude": 18.69362
     },
     {
+      "name": "Głogówek: Parafia św. Bartłomieja Apostoła",
+      "schedule": "https://parafia.glogovia.pl/aktulanosci/porzadek-nabozenstw.html",
+      "announcement": "https://parafia.glogovia.pl/aktulanosci/porzadek-nabozenstw.html#:~:text=Ogłoszenia",
+      "contact": "https://parafia.glogovia.pl/contacts.html",
+      "others": "https://cmentarz.glogovia.pl/",
+      "description": "",
+      "latitude": 50.352594,
+      "longitude": 17.859644
+    },
+    {
+      "name": "Gorlice: Parafia Narodzenia Najświętszej Maryi Panny",
+      "schedule": "https://bazylikagorlice.pl/category/intencje-mszalne/#Content",
+      "announcement": "https://bazylikagorlice.pl/category/ogloszenia-parafialne/#Content",
+      "contact": "https://bazylikagorlice.pl/kontakt/#Content",
+      "others": "http://mogily.pl/gorlice",
+      "description": "",
+      "latitude": 49.657808,
+      "longitude": 21.158630
+    },
+    {
       "name": "Gorlice: Parafia pw. św. Jadwigi Królowej",
       "schedule": "http://jadwiga.gorlice.pl/index.php/intencje-mszalne",
       "announcement": "http://jadwiga.gorlice.pl/index.php/ogloszenia-parafialne",
@@ -150,6 +180,16 @@
       "description": "",
       "latitude": 49.52496,
       "longitude": 18.85674
+    },
+    {
+      "name": "Katowice, Józefowiec: Parafia św. Józefa Robotnika",
+      "schedule": "https://jozefrobotnik.katowice.pl/aktualnosci/intencje-mszalne-1.html",
+      "announcement": "https://jozefrobotnik.katowice.pl/aktualnosci/ogloszenia-duszpasterskie.html",
+      "contact": "https://jozefrobotnik.katowice.pl/kontakt.html",
+      "others": "https://jozefrobotnik.katowice.pl/cmentarz.html",
+      "description": "",
+      "latitude": 50.280554,
+      "longitude": 19.013657
     },
     {
       "name": "Kętrzyn: Parafia św. Jerzego",
@@ -260,6 +300,16 @@
       "description": "",
       "latitude": 50.98258,
       "longitude": 23.17129
+    },
+    {
+      "name": "Krzanowice: Parafia Św. Wacława",
+      "schedule": "http://www.krzanowice.wiara.org.pl/aktualnosci/intencje-parafialne.html#stand",
+      "announcement": "http://www.krzanowice.wiara.org.pl/aktualnosci/ogloszenia-parafialne-1.html#stand",
+      "contact": "http://www.krzanowice.wiara.org.pl/kontakt.html",
+      "others": "http://www.krzanowice.wiara.org.pl/cmentarz.html",
+      "description": "",
+      "latitude": 50.017669,
+      "longitude": 18.119848
     },
     {
       "name": "Lasocice: Parafia pw. Niepokalanego Poczęcia NMP",
@@ -390,6 +440,16 @@
       "description": "",
       "latitude": 52.53432,
       "longitude": 19.71708
+    },
+    {
+      "name": "Radom: Parafia pw Opieki Najświętszej Maryi Panny",
+      "schedule": "https://katedra.radom.pl/#text-2",
+      "announcement": "https://katedra.radom.pl/ogloszenia/#content-main",
+      "contact": "https://katedra.radom.pl/kontakt/#content-main",
+      "others": "",
+      "description": "",
+      "latitude": 51.397049,
+      "longitude": 21.156302
     },
     {
       "name": "Rosko: Parafia św.Stanisława Biskupa",
