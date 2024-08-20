@@ -1,5 +1,5 @@
 {
-  "updated": 1724061786086,
+  "updated": 1724173767522,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -90,6 +90,26 @@
       "description": "",
       "latitude": 53.53663,
       "longitude": 17.23504
+    },
+    {
+      "name": "Gdańsk, Żabianka: Parafia Matki Bożej Fatimskiej",
+      "schedule": "http://www.fatimska.net.pl/intencje-mszalne-20653/#page_content",
+      "announcement": "http://www.fatimska.net.pl/ogloszenia/#announcements",
+      "contact": "http://www.fatimska.net.pl/kontakt/#contact_view",
+      "others": "",
+      "description": "",
+      "latitude": 54.419908,
+      "longitude": 18.574646
+    },
+    {
+      "name": "Gdynia, Wielki Kack: Parafia św. Wawrzyńca",
+      "schedule": "https://www.parafiawawrzynca.pl/intencje-mszalne/#services_view",
+      "announcement": "https://www.parafiawawrzynca.pl/ogloszenia/#announcements",
+      "contact": "https://www.parafiawawrzynca.pl/kontakt/#contact_view",
+      "others": "http://www.mogily.pl/wielkikack",
+      "description": "",
+      "latitude": 54.468388,
+      "longitude": 18.494019
     },
     {
       "name": "Glinojeck: Parafia św. Stanisława BM",
@@ -252,6 +272,16 @@
       "longitude": 18.91859
     },
     {
+      "name": "Kolbudy: Parafia św. Floriana",
+      "schedule": "https://www.parafiakolbudy.pl/page.php?id=45",
+      "announcement": "https://www.parafiakolbudy.pl/ogloszenia.php",
+      "contact": "https://www.parafiakolbudy.pl/kontakt.php",
+      "others": "",
+      "description": "",
+      "latitude": 54.269666,
+      "longitude": 18.470225
+    },
+    {
       "name": "Koperniki: Parafia Świętego Mikołaja",
       "schedule": "https://parafiakoperniki.pl/intencje",
       "announcement": "https://parafiakoperniki.pl/ogloszenia_duszpasterskie",
@@ -352,6 +382,16 @@
       "longitude": 21.02724
     },
     {
+      "name": "Lublin: Parafia Niepokalanego Serca Maryi i św. Frnaciszka",
+      "schedule": "https://poczekajka.pl/liturgie/porzadek-mszy-sw/#main",
+      "announcement": "https://poczekajka.pl/ogl-duszpasterskie/#main",
+      "contact": "https://poczekajka.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 51.241296,
+      "longitude": 22.507280
+    },
+    {
       "name": "Łosice: Parafia pw. św. Zygmunta",
       "schedule": "https://zygmuntlosice.pl/intencje",
       "announcement": "https://zygmuntlosice.pl/ogloszenia-duszpasterskie",
@@ -392,6 +432,16 @@
       "longitude": 19.55398
     },
     {
+      "name": "Mysłowice: Parafia NSPJ",
+      "schedule": "https://www.nspjmyslowice.pl/index.php/aktualnosci/intencje-mszalne.html#content",
+      "announcement": "https://www.nspjmyslowice.pl/index.php/aktualnosci/ogloszenia-parafialne.html#content",
+      "contact": "https://www.nspjmyslowice.pl/index.php/kontakt.html#content",
+      "others": "http://myslowiceparafialny.artlookgallery.com/grobonet/start.php?id=nekrologi",
+      "description": "",
+      "latitude": 50.242721,
+      "longitude": 19.139197
+    },
+    {
       "name": "Nidzica: Parafia bł. Bolesławy Lament",
       "schedule": "http://www.parafia.nidzica.pl/intencje-mszalne/#et-boc",
       "announcement": "http://www.parafia.nidzica.pl/ogloszenia-parafialne/#et-boc",
@@ -430,6 +480,16 @@
       "description": "",
       "latitude": 50.75190,
       "longitude": 19.27124
+    },
+    {
+      "name": "Płock: Parafia św. Bartłomieja",
+      "schedule": "https://naszafara.pl/intencje/#main",
+      "announcement": "https://naszafara.pl/ogloszenia-parafialne/#main",
+      "contact": "https://naszafara.pl/kontakt-2/#main",
+      "others": "https://naszafara.pl/wskazania-dot-pogrzebu/",
+      "description": "",
+      "latitude": 52.544883,
+      "longitude": 19.683292
     },
     {
       "name": "Płock: Parafia św. Józefa",
@@ -512,6 +572,26 @@
       "longitude": 18.92109
     },
     {
+      "name": "Syców: Parafia pw MB Częstochowskiej",
+      "schedule": "http://www.parafiambcsycow.pl/?intencje-mszalne,3#page",
+      "announcement": "http://www.parafiambcsycow.pl/#page",
+      "contact": "http://www.parafiambcsycow.pl/?kontakt,2#page",
+      "others": "",
+      "description": "",
+      "latitude": 51.318602,
+      "longitude": 17.733484
+    },
+    {
+      "name": "Syców: Parafia św. Apostołów Piotra i Pawła",
+      "schedule": "https://parafia-sycow.pl/intencje-mszalne/",
+      "announcement": "https://parafia-sycow.pl/ogloszenia-parafialne/",
+      "contact": "https://parafia-sycow.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 51.308940,
+      "longitude": 17.719705
+    },
+    {
       "name": "Tereszpol: Parafia pw. MB Częstochowskiej",
       "schedule": "https://tereszpol.zamojskolubaczowska.pl/intencje-mszalne/#content",
       "announcement": "https://tereszpol.zamojskolubaczowska.pl/ogloszenia-duszpasterskie/#content",
@@ -580,6 +660,16 @@
       "description": "",
       "latitude": 51.62239,
       "longitude": 17.85409
+    },
+    {
+      "name": "Zębowice: Parafia Wniebowzięcia NMP",
+      "schedule": "https://www.parafiazebowice.ns48.pl/index.php/z-zycia-parafii/15-intencje-mszalne/#t3-content",
+      "announcement": "https://www.parafiazebowice.ns48.pl/index.php/z-zycia-parafii/14-ogloszenia-parafialne/#t3-content",
+      "contact": "https://www.parafiazebowice.ns48.pl/index.php/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 50.763213,
+      "longitude": 18.342603
     },
     {
       "name": "Złocieniec: Parafia p.w. Wniebowzięcia NMP",
