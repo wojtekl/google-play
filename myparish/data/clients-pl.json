@@ -122,6 +122,16 @@
       "longitude": 17.23504
     },
     {
+      "name": "Gdańsk, Stare Szkoty: Parafia św. Ignacego z Loyoli",
+      "schedule": "http://www.ignacy.diecezja.gda.pl/intencje-mszalne/#services_view",
+      "announcement": "http://www.ignacy.diecezja.gda.pl/ogloszenia/#announcements_view",
+      "contact": "http://www.ignacy.diecezja.gda.pl/kontakt/#contact_view",
+      "others": "http://www.ignacy.diecezja.gda.pl/sakramenty-i-sakramentalia-12606/pogrzeb-12613",
+      "description": "",
+      "latitude": 54.333888,
+      "longitude": 18.634188
+    },
+    {
       "name": "Gdańsk, Żabianka: Parafia Matki Bożej Fatimskiej",
       "schedule": "http://www.fatimska.net.pl/intencje-mszalne-20653/#page_content",
       "announcement": "http://www.fatimska.net.pl/ogloszenia/#announcements",
@@ -130,6 +140,16 @@
       "description": "",
       "latitude": 54.419908,
       "longitude": 18.574646
+    },
+    {
+      "name": "Gdynia, Demptowo: Parafia pw Matki Boskiej Różańcowej",
+      "schedule": "https://mbrozancowa.pl/category/intencje-mszalne/#content",
+      "announcement": "https://mbrozancowa.pl/category/ogloszenia-parafialne/#content",
+      "contact": "https://mbrozancowa.pl/kontakt/#content",
+      "others": "",
+      "description": "",
+      "latitude": 54.533025,
+      "longitude": 18.453426
     },
     {
       "name": "Gdynia, Wielki Kack: Parafia św. Wawrzyńca",
@@ -302,6 +322,16 @@
       "longitude": 18.91859
     },
     {
+      "name": "Kodeń: Sanktuarium Maryjne",
+      "schedule": "https://koden.com.pl/intencje-2/",
+      "announcement": "https://koden.com.pl/biuro-parafialne/ogloszenia/",
+      "contact": "https://koden.com.pl/kontakt/",
+      "others": "https://koden.com.pl/krypty/",
+      "description": "",
+      "latitude": 51.913842,
+      "longitude": 23.607543
+    },
+    {
       "name": "Kolbudy: Parafia św. Floriana",
       "schedule": "https://www.parafiakolbudy.pl/page.php?id=45",
       "announcement": "https://www.parafiakolbudy.pl/ogloszenia.php",
@@ -390,6 +420,16 @@
       "description": "",
       "latitude": 51.86658,
       "longitude": 16.58461
+    },
+    {
+      "name": "Leśna Podlaska: Sanktuarium Matki Bożej Leśniańskiej",
+      "schedule": "https://lesnapodlaska.paulini.pl/intencje-mszalne/#main",
+      "announcement": "https://lesnapodlaska.paulini.pl/ogloszenia/#main",
+      "contact": "https://lesnapodlaska.paulini.pl/kontakt/#main",
+      "others": "",
+      "description": "",
+      "latitude": 52.129214,
+      "longitude": 23.027644
     },
     {
       "name": "Lidzbark Warmiński: Parafia św. Piotra i Pawła",
