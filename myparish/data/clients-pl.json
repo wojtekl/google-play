@@ -1,5 +1,5 @@
 {
-  "updated": 1724173767522,
+  "updated": 1724218414297,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -42,6 +42,16 @@
       "longitude": 17.991625
     },
     {
+      "name": "Chodzież: Parafia pw św. Floriana",
+      "schedule": "https://florianchodziez.pl/index.php/intencje-mszalne/#jm-maincontent",
+      "announcement": "https://florianchodziez.pl/index.php/ogloszenia-parafialne/#jm-maincontent",
+      "contact": "https://florianchodziez.pl/index.php/kontakt/#jm-maincontent",
+      "others": "http://chodziez.artlookgallery.com/grobonet/start.php#search",
+      "description": "",
+      "latitude": 52.992046,
+      "longitude": 16.916319
+    },
+    {
       "name": "Chojnice: Parafia pw MB Fatimskiej",
       "schedule": "https://fatimachojnice.parafialnastrona.pl/intencje-i-nabozenstwa",
       "announcement": "https://fatimachojnice.parafialnastrona.pl/ogloszenia",
@@ -50,6 +60,16 @@
       "description": "",
       "latitude": 53.69295,
       "longitude": 17.54721
+    },
+    {
+      "name": "Chropaczów: Parafia MB Różańcowej",
+      "schedule": "https://www.parafiachropaczow.pl/intencje",
+      "announcement": "https://www.parafiachropaczow.pl/ogloszenia",
+      "contact": "https://www.parafiachropaczow.pl/kontakt/",
+      "others": "http://swietochlowice.artlookgallery.com/grobonet/",
+      "description": "",
+      "latitude": 50.312693,
+      "longitude": 18.910708
     },
     {
       "name": "Ciechanów: Parafia św. Józefa - Fara",
@@ -80,6 +100,16 @@
       "description": "",
       "latitude": 52.42659,
       "longitude": 17.48923
+    },
+    {
+      "name": "Dąbrowa Górnicza, Strzemieszyce Wielkie: Parafia pw Najświętszego Serca Pana Jezusa",
+      "schedule": "https://parafiastrzemieszyce.pl/intencje",
+      "announcement": "https://parafiastrzemieszyce.pl/ogloszenia_duszpasterskie",
+      "contact": "https://parafiastrzemieszyce.pl/kontakt",
+      "others": "https://parafiastrzemieszyce.pl/sakramenty/#sacrament3",
+      "description": "",
+      "latitude": 50.313486,
+      "longitude": 19.280003
     },
     {
       "name": "Debrzno: Parafia Wniebowzięcia NMP - Salezjanie",
@@ -392,6 +422,16 @@
       "longitude": 22.507280
     },
     {
+      "name": "Łańcut: Parafia pw św. Stanisława Biskupa",
+      "schedule": "https://lancut.przemyska.pl/kancelaria/msza-swieta/#main",
+      "announcement": "https://lancut.przemyska.pl/parafia/ogloszenia/#main",
+      "contact": "https://lancut.przemyska.pl/kontakt/#main",
+      "others": "https://lancut.przemyska.pl/kancelaria/pogrzeb/",
+      "description": "",
+      "latitude": 50.070273,
+      "longitude": 22.229757
+    },
+    {
       "name": "Łosice: Parafia pw. św. Zygmunta",
       "schedule": "https://zygmuntlosice.pl/intencje",
       "announcement": "https://zygmuntlosice.pl/ogloszenia-duszpasterskie",
@@ -502,6 +542,16 @@
       "longitude": 19.71708
     },
     {
+      "name": "Płońsk: Parafia pw św. Michała Archanioła",
+      "schedule": "https://michalplonsk.pl/intencje/#content",
+      "announcement": "https://michalplonsk.pl/category/ogloszenia-parafialne/",
+      "contact": "https://michalplonsk.pl/kontakt/",
+      "others": "https://michalplonsk.pl/cmentarz/#content",
+      "description": "",
+      "latitude": 52.622166,
+      "longitude": 20.374054
+    },
+    {
       "name": "Radom: Parafia pw Opieki Najświętszej Maryi Panny",
       "schedule": "https://katedra.radom.pl/#text-2",
       "announcement": "https://katedra.radom.pl/ogloszenia/#content-main",
@@ -520,6 +570,16 @@
       "description": "",
       "latitude": 52.87416,
       "longitude": 16.31426
+    },
+    {
+      "name": "Sianowo: Sanktuarium Matki Bożej Sianowskiej - Królowej Kaszub",
+      "schedule": "https://sanktuariumsianowo.pl/#:~:text=Msze",
+      "announcement": "https://sanktuariumsianowo.pl/",
+      "contact": "https://sanktuariumsianowo.pl/#:~:text=Kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 54.387966,
+      "longitude": 18.089764
     },
     {
       "name": "Siedlce: Parafia pw. św. Teresy",
@@ -552,26 +612,6 @@
       "longitude": 20.39775
     },
     {
-      "name": "Szczekociny: Parafia Św. Bartłomieja",
-      "schedule": "https://parafiaszczekociny.pl/intencje-mszalne/",
-      "announcement": "https://parafiaszczekociny.pl/ogloszenia/",
-      "contact": "https://parafiaszczekociny.pl/kontakt/",
-      "others": "",
-      "description": "",
-      "latitude": 50.62584,
-      "longitude": 19.82025
-    },
-    {
-      "name": "Świętochłowice, Piaśniki: Parafia NSPJ",
-      "schedule": "https://www.wsercujezusa.pl/intencje,i101.html#stand",
-      "announcement": "https://www.wsercujezusa.pl/ogloszenia,i100.html#stand",
-      "contact": "https://www.wsercujezusa.pl/kontakt,i10.html",
-      "others": "",
-      "description": "",
-      "latitude": 50.30558,
-      "longitude": 18.92109
-    },
-    {
       "name": "Syców: Parafia pw MB Częstochowskiej",
       "schedule": "http://www.parafiambcsycow.pl/?intencje-mszalne,3#page",
       "announcement": "http://www.parafiambcsycow.pl/#page",
@@ -590,6 +630,46 @@
       "description": "",
       "latitude": 51.308940,
       "longitude": 17.719705
+    },
+    {
+      "name": "Szczekociny: Parafia Św. Bartłomieja",
+      "schedule": "https://parafiaszczekociny.pl/intencje-mszalne/",
+      "announcement": "https://parafiaszczekociny.pl/ogloszenia/",
+      "contact": "https://parafiaszczekociny.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 50.62584,
+      "longitude": 19.82025
+    },
+    {
+      "name": "Świętochłowice: Parafia św. Apostołów Piotra i Pawła",
+      "schedule": "https://www.parafia-swietochlowice.pl/intencje.html",
+      "announcement": "https://www.parafia-swietochlowice.pl/ogloszenia.html",
+      "contact": "https://www.parafia-swietochlowice.pl/publikacja,40,dane_kontaktowe_parafii.html",
+      "others": "https://www.parafia-swietochlowice.pl/publikacja,141,pogrzeby_w_najblizszym_czasie.html",
+      "description": "",
+      "latitude": 50.291120,
+      "longitude": 18.917811
+    },
+    {
+      "name": "Świętochłowice, Piaśniki: Parafia NSPJ",
+      "schedule": "https://www.wsercujezusa.pl/intencje,i101.html#stand",
+      "announcement": "https://www.wsercujezusa.pl/ogloszenia,i100.html#stand",
+      "contact": "https://www.wsercujezusa.pl/kontakt,i10.html",
+      "others": "",
+      "description": "",
+      "latitude": 50.30558,
+      "longitude": 18.92109
+    },
+    {
+      "name": "Świętochłowice, Zgoda: Parafia św. Józefa Robotnika",
+      "schedule": "http://www.parafiazgoda.pl/aktualnosci/intencje.html#tresc-article",
+      "announcement": "http://www.parafiazgoda.pl/aktualnosci/ogloszenia-.html#tresc-article",
+      "contact": "http://www.parafiazgoda.pl/kontakt.html",
+      "others": "http://www.parafiazgoda.pl/cmentarz.html",
+      "description": "",
+      "latitude": 50.283637,
+      "longitude": 18.924245
     },
     {
       "name": "Tereszpol: Parafia pw. MB Częstochowskiej",
