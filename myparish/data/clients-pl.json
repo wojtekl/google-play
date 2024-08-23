@@ -1,5 +1,5 @@
 {
-  "updated": 1724218414297,
+  "updated": 1724414490067,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -20,6 +20,16 @@
       "description": "",
       "latitude": 49.76747,
       "longitude": 21.36734
+    },
+    {
+      "name": "Bełżyce: Parafia pw Nawrócenia św. Pawła",
+      "schedule": "https://parafia.belzyce.pl/?page=intencje",
+      "announcement": "https://parafia.belzyce.pl/?page=ogloszenia-2",
+      "contact": "https://parafia.belzyce.pl/?page=kontakt",
+      "others": "https://parafia.belzyce.pl/?page=pytania",
+      "description": "",
+      "latitude": 51.174514,
+      "longitude": 22.277870
     },
     {
       "name": "Brzęczkowice: Parafia Matki Boskiej Bolesnej",
@@ -162,6 +172,16 @@
       "longitude": 18.494019
     },
     {
+      "name": "Glinianka: Parafia św. Wawrzyńca",
+      "schedule": "https://www.parafiaglinianka.pl/",
+      "announcement": "https://www.parafiaglinianka.pl/category/ogloszenia/",
+      "contact": "https://www.parafiaglinianka.pl/kontakt/",
+      "others": "https://www.parafiaglinianka.pl/regulamin-cmentarza-parafii-sw-wawrzynca-w-gliniance/",
+      "description": "",
+      "latitude": 52.131310,
+      "longitude": 21.418042
+    },
+    {
       "name": "Glinojeck: Parafia św. Stanisława BM",
       "schedule": "https://parafiaglinojeck.pl/intencje-mszalne/#content",
       "announcement": "https://parafiaglinojeck.pl/#content",
@@ -250,6 +270,16 @@
       "description": "",
       "latitude": 49.52496,
       "longitude": 18.85674
+    },
+    {
+      "name": "Jędrzejów: Parafia Trójcy Świętej",
+      "schedule": "https://www.swietatrojca.org/aktualnosci/ogloszenia-parafialne",
+      "announcement": "https://www.swietatrojca.org/aktualnosci/porzadek-mszy-sw",
+      "contact": "https://www.swietatrojca.org/kancelaria/kontakt",
+      "others": "https://www.swietatrojca.org/kancelaria/wazne-dokumenty",
+      "description": "",
+      "latitude": 50.641996,
+      "longitude": 20.305891
     },
     {
       "name": "Katowice, Józefowiec: Parafia św. Józefa Robotnika",
@@ -512,6 +542,16 @@
       "longitude": 19.55398
     },
     {
+      "name": "Łuków: Parafia św. Brata Alberta",
+      "schedule": "https://albertlukow.pl/intencje",
+      "announcement": "https://albertlukow.pl/ogloszenia_duszpasterskie",
+      "contact": "https://albertlukow.pl/kontakt",
+      "others": "https://albertlukow.pl/sakramenty#sacrament3",
+      "description": "",
+      "latitude": 51.916939,
+      "longitude": 22.369409
+    },
+    {
       "name": "Mysłowice: Parafia NSPJ",
       "schedule": "https://www.nspjmyslowice.pl/index.php/aktualnosci/intencje-mszalne.html#content",
       "announcement": "https://www.nspjmyslowice.pl/index.php/aktualnosci/ogloszenia-parafialne.html#content",
@@ -552,6 +592,16 @@
       "longitude": 21.63119
     },
     {
+      "name": "Nowy Targ: Parafia NSPJ",
+      "schedule": "https://parafianowytarg.pl/aktualnosci-archiwum/intencje-mszalne/",
+      "announcement": "https://parafianowytarg.pl/ogloszenia-parafii/",
+      "contact": "https://parafianowytarg.pl/kontakt/",
+      "others": "https://parafianowytarg.pl/sakramenty/pogrzeb/",
+      "description": "",
+      "latitude": 49.478163,
+      "longitude": 20.030281
+    },
+    {
       "name": "Olsztyn: Parafia pw św. Jana Chrzciciela",
       "schedule": "https://parafiaolsztyn.pl/intencje-mszalne/#main-content",
       "announcement": "https://parafiaolsztyn.pl/ogloszenia-parafialne/#main-content",
@@ -560,6 +610,36 @@
       "description": "",
       "latitude": 50.75190,
       "longitude": 19.27124
+    },
+    {
+      "name": "Ostrów Mazowiecka: Parafia Chrystusa Dobrego Pasterza",
+      "schedule": "https://pasterz.kylos.pl/blog/2024/08/17/intencje-maszalne-23-29-pazdziernika-2023/",
+      "announcement": "https://pasterz.kylos.pl/blog/2024/08/18/ogloszenia-22-10-2023/",
+      "contact": "https://pasterz.kylos.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 52.795803,
+      "longitude": 21.881196
+    },
+    {
+      "name": "Ostrów Mazowiecka: Parafia Wniebowzięcia NMP",
+      "schedule": "https://parafiawniebowziecia.pl/",
+      "announcement": "https://parafiawniebowziecia.pl/ogloszenia/",
+      "contact": "https://parafiawniebowziecia.pl/kontakt/",
+      "others": "https://parafiawniebowziecia.pl/pogrzeb/",
+      "description": "",
+      "latitude": 52.805763,
+      "longitude": 21.898225
+    },
+    {
+      "name": "Pajęczno: Parafia pw Narodzenia Pańskiego",
+      "schedule": "https://narodzeniepajeczno.pl/intencje-mszy-sw/",
+      "announcement": "https://narodzeniepajeczno.pl/ogloszenia-duszpasterskie/",
+      "contact": "https://narodzeniepajeczno.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 51.144659,
+      "longitude": 18.984498
     },
     {
       "name": "Płock: Parafia św. Bartłomieja",
@@ -592,6 +672,16 @@
       "longitude": 20.374054
     },
     {
+      "name": "Pszczyna: Parafia Wszystkich świętych",
+      "schedule": "https://wszystkichswietych.info/index.php?id=intencje-mszalne",
+      "announcement": "https://wszystkichswietych.info/index.php?id=ogloszenia",
+      "contact": "https://wszystkichswietych.info/index.php?id=dane-kontaktowe&lang=pl",
+      "others": "",
+      "description": "",
+      "latitude": 49.978648,
+      "longitude": 18.942128
+    },
+    {
       "name": "Radom: Parafia pw Opieki Najświętszej Maryi Panny",
       "schedule": "https://katedra.radom.pl/#text-2",
       "announcement": "https://katedra.radom.pl/ogloszenia/#content-main",
@@ -600,6 +690,56 @@
       "description": "",
       "latitude": 51.397049,
       "longitude": 21.156302
+    },
+    {
+      "name": "Ropczyce: Parafia pw Przemienienia Pańskiego",
+      "schedule": "http://www.ropczycefara.parafia.info.pl/?p=main&what=3",
+      "announcement": "http://www.ropczycefara.parafia.info.pl/?p=main&what=44",
+      "contact": "http://www.ropczycefara.parafia.info.pl/?p=main&what=14",
+      "others": "https://goo.gl/maps/vAqzst8RiA62",
+      "description": "",
+      "latitude": 50.053701,
+      "longitude": 21.610915
+    },
+    {
+      "name": "Ropczyce: Parafia św. Barbary",
+      "schedule": "http://swbarbara.r-ce.pl/intencje/",
+      "announcement": "http://swbarbara.r-ce.pl/ogloszenia/",
+      "contact": "http://swbarbara.r-ce.pl/",
+      "others": "",
+      "description": "",
+      "latitude": 50.061364,
+      "longitude": 21.603490
+    },
+    {
+      "name": "Ryki: Parafia Najświętszego Zbawiciela",
+      "schedule": "https://parafia-ryki.pl/",
+      "announcement": "https://parafia-ryki.pl/ogloszenia",
+      "contact": "https://parafia-ryki.pl/kontakt",
+      "others": "https://parafia-ryki.pl/cmentarz",
+      "description": "",
+      "latitude": 51.627019,
+      "longitude": 21.928789
+    },
+    {
+      "name": "Rzeszów: Parafia św. Michała Archanioła",
+      "schedule": "https://michal.rzeszow.pl/intencje-mszy-swietych/",
+      "announcement": "https://michal.rzeszow.pl/ogloszenia-parafialne/",
+      "contact": "https://michal.rzeszow.pl/parafia/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 50.027057,
+      "longitude": 22.025874
+    },
+    {
+      "name": "Rzeszów, Słocina: Parafia św. Rocha",
+      "schedule": "https://roch.rzeszow.pl/category/intencje/",
+      "announcement": "https://roch.rzeszow.pl/category/ogloszenia/",
+      "contact": "https://roch.rzeszow.pl/kontakt/",
+      "others": "https://roch.rzeszow.pl/blog-2/cmentarz/",
+      "description": "",
+      "latitude": 50.027438,
+      "longitude": 22.044757
     },
     {
       "name": "Rosko: Parafia św.Stanisława Biskupa",
@@ -630,6 +770,16 @@
       "description": "",
       "latitude": 52.15635,
       "longitude": 22.25335
+    },
+    {
+      "name": "Starogard Gdański: Parafia św. Wojciecha",
+      "schedule": "http://wojciechstarogard.pl/36-Kalendarz_Liturgiczny",
+      "announcement": "http://wojciechstarogard.pl/32-Ogloszenia_parafialne",
+      "contact": "http://wojciechstarogard.pl/3-Kontakt",
+      "others": "http://wojciechstarogard.pl/37-Sakramenty",
+      "description": "",
+      "latitude": 53.961462,
+      "longitude": 18.533289
     },
     {
       "name": "Staszów: Parafia św. Barbary",
@@ -780,6 +930,16 @@
       "description": "",
       "latitude": 51.62239,
       "longitude": 17.85409
+    },
+    {
+      "name": "Zakrzów: Parafia św. Anny",
+      "schedule": "https://zakrzowparafia.pl/#/intencje",
+      "announcement": "https://zakrzowparafia.pl/#/home",
+      "contact": "https://zakrzowparafia.pl/#/home/#:~:text=KANCELARIA",
+      "others": "https://zakrzowparafia.pl/#/page/9-pogrzeb-katolicki",
+      "description": "",
+      "latitude": 49.821286,
+      "longitude": 19.656545
     },
     {
       "name": "Zębowice: Parafia Wniebowzięcia NMP",
