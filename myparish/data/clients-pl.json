@@ -1,5 +1,5 @@
 {
-  "updated": 1724414490067,
+  "updated": 1724694815015,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -142,6 +142,16 @@
       "longitude": 18.634188
     },
     {
+      "name": "Gdańsk, Ujeścisko: Parafia św. Ojca Pio",
+      "schedule": "http://www.parafiapio.pl/msze-sw-i-nabozenstwa-21561",
+      "announcement": "http://www.parafiapio.pl/ogloszenia",
+      "contact": "http://www.parafiapio.pl/kontakt",
+      "others": "http://www.parafiapio.pl/wirtualny-spacer-21617",
+      "description": "",
+      "latitude": 54.327772,
+      "longitude": 18.590715
+    },
+    {
       "name": "Gdańsk, Żabianka: Parafia Matki Bożej Fatimskiej",
       "schedule": "http://www.fatimska.net.pl/intencje-mszalne-20653/#page_content",
       "announcement": "http://www.fatimska.net.pl/ogloszenia/#announcements",
@@ -150,6 +160,26 @@
       "description": "",
       "latitude": 54.419908,
       "longitude": 18.574646
+    },
+    {
+      "name": "Gdynia: Parafia pw Trójcy Świętej",
+      "schedule": "https://www.parafia.gdynia.pl/intencje-mszalne",
+      "announcement": "https://www.parafia.gdynia.pl/ogloszenia",
+      "contact": "https://www.parafia.gdynia.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 54.471509,
+      "longitude": 18.458914
+    },
+    {
+      "name": "Gdynia: Parafia św. Andrzeja Boboli",
+      "schedule": "https://bobola.gdynia.pl/intencje-mszalne/aktualne-intencje/?p=229",
+      "announcement": "https://bobola.gdynia.pl/intencje-mszalne/aktualne-intencje/?p=125",
+      "contact": "https://bobola.gdynia.pl/kancelaria-parafialna/",
+      "others": "",
+      "description": "",
+      "latitude": 54.552647,
+      "longitude": 18.508540
     },
     {
       "name": "Gdynia, Demptowo: Parafia pw Matki Boskiej Różańcowej",
@@ -692,6 +722,16 @@
       "longitude": 21.156302
     },
     {
+      "name": "Reda: Parafia pw Wniebowzięcia NMP i św. Katarzyny Aleksandryjskiej",
+      "schedule": "https://reda.diecezja.gda.pl/Intencje.html",
+      "announcement": "https://reda.diecezja.gda.pl/Ogloszenia.html",
+      "contact": "https://reda.diecezja.gda.pl/Kontakt.html",
+      "others": "",
+      "description": "",
+      "latitude": 54.603729,
+      "longitude": 18.349397
+    },
+    {
       "name": "Ropczyce: Parafia pw Przemienienia Pańskiego",
       "schedule": "http://www.ropczycefara.parafia.info.pl/?p=main&what=3",
       "announcement": "http://www.ropczycefara.parafia.info.pl/?p=main&what=44",
@@ -710,6 +750,16 @@
       "description": "",
       "latitude": 50.061364,
       "longitude": 21.603490
+    },
+    {
+      "name": "Ruda Śląska: Parafia św. Piusa X",
+      "schedule": "http://www.piusx-rsl.pl/category/intencje-mszalne/",
+      "announcement": "http://www.piusx-rsl.pl/category/ogloszenia/",
+      "contact": "http://www.piusx-rsl.pl/contact/",
+      "others": "http://www.piusx-rsl.pl/pogrzeb/",
+      "description": "",
+      "latitude": 50.304157,
+      "longitude": 18.857421
     },
     {
       "name": "Ryki: Parafia Najświętszego Zbawiciela",
@@ -800,6 +850,16 @@
       "description": "",
       "latitude": 53.65705,
       "longitude": 20.39775
+    },
+    {
+      "name": "Straszyn: Parafia św. Jacka",
+      "schedule": "http://www.parafiastraszyn.pl/intencje-mszalne",
+      "announcement": "http://www.parafiastraszyn.pl/ogloszenia",
+      "contact": "http://www.parafiastraszyn.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 54.275491,
+      "longitude": 18.576188
     },
     {
       "name": "Syców: Parafia pw MB Częstochowskiej",
@@ -930,6 +990,16 @@
       "description": "",
       "latitude": 51.62239,
       "longitude": 17.85409
+    },
+    {
+      "name": "Zabrze: Parafia św. Wojciecha",
+      "schedule": "https://www.swwojciech-zabrze.pl/intencje-mszalne",
+      "announcement": "https://www.swwojciech-zabrze.pl/ogloszenia-parafialne",
+      "contact": "https://www.swwojciech-zabrze.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 50.323839,
+      "longitude": 18.776246
     },
     {
       "name": "Zakrzów: Parafia św. Anny",
