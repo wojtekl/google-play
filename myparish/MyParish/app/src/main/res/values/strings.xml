@@ -33,7 +33,7 @@
 
     <string name="privacy_policy_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/myparish/privacy-policy</string>
 
-    <string name="magazine_url" translatable="false">https://www.niedziela.pl/</string>
+    <string name="magazine_url" translatable="false">https://htmlpreview.github.io/?https://github.com/wojtekl/google-play/blob/main/myparish/data/magazine.html</string>
 
     <string name="title_activity_settings">Settings</string>
 
