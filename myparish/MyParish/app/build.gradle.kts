@@ -13,8 +13,8 @@ android {
         applicationId = "github.wleap.myparish"
         minSdk = 24
         targetSdk = 34
-        versionCode = 9
-        versionName = "1.1.0"
+        versionCode = 10
+        versionName = "1.1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -137,7 +137,7 @@ dependencies {
     // endregion
 
     // region Admob
-    implementation("com.google.android.gms:play-services-ads:23.2.0")
+    implementation("com.google.android.gms:play-services-ads:23.3.0")
     implementation("com.google.android.ump:user-messaging-platform:3.0.0")
     // endregion
 
