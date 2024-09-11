@@ -3,7 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">MyParish</string>
-    <string name="nav_header_subtitle" translatable="false">v1.1.3</string>
+    <string name="nav_header_subtitle" translatable="false">v1.1.4</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
