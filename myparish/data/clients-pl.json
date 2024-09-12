@@ -1,5 +1,5 @@
 {
-  "updated": 1724694815015,
+  "updated": 1726138107737,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -442,6 +442,16 @@
       "longitude": 19.91145
     },
     {
+      "name": "Kraków, os. Kalinowe: Parafia św. Józefa",
+      "schedule": "https://parafia.kalinowe.pl/category/intencje-mszy-swietych/#primary",
+      "announcement": "https://parafia.kalinowe.pl/category/ogloszenia-duszpasterskie/#primary",
+      "contact": "https://parafia.kalinowe.pl/dane-adresowe/#primary",
+      "others": "https://parafia.kalinowe.pl/pogrzeby/#primary",
+      "description": "",
+      "latitude": 50.089296,
+      "longitude": 20.013203
+    },
+    {
       "name": "Krasnystaw: Parafia Św. Franciszka Ksawerego",
       "schedule": "http://franciszek-ksawery.org/intencje-mszalne/#content",
       "announcement": "http://franciszek-ksawery.org/ogloszenia-parafialne/",
@@ -630,6 +640,16 @@
       "description": "",
       "latitude": 49.478163,
       "longitude": 20.030281
+    },
+    {
+      "name": "Odrzykoń: Parafia św. Katarzyny i Matki Bożej Różańcowej",
+      "schedule": "http://www.odrzykon.przemysl.opoka.org.pl/menu.php?action=intencje&oper=start#:~:text=intencje%20mszalne",
+      "announcement": "http://www.odrzykon.przemysl.opoka.org.pl/menu.php?action=ogl_parafialne&oper=start#:~:text=ogłoszenia%20parafialne",
+      "contact": "http://www.odrzykon.przemysl.opoka.org.pl/menu.php?action=kontakt#:~:text=kontakt",
+      "others": "http://www.odrzykon.przemysl.opoka.org.pl/menu.php?action=organizacje&oper=show&&id_o=26",
+      "description": "",
+      "latitude": 49.739912,
+      "longitude": 21.743322
     },
     {
       "name": "Olsztyn: Parafia pw św. Jana Chrzciciela",
