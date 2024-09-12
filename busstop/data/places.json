@@ -1,5 +1,5 @@
 {
-  "updated": 1723538909086,
+  "updated": 1726058815757,
   "places": [
     {
       "name": "Myszków, 1 Maja/Jaworznicka",
@@ -1689,6 +1689,34 @@
       "longitude": 19.58701
     },
     {
+      "name": "Dobrogoszczyce, Nr 1 (posesja 41, pętla)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.615351,
+      "longitude": 19.560597
+    },
+    {
+      "name": "Dobrogoszczyce, Nr 2 (posesja 3)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.609464,
+      "longitude": 19.557357
+    },
+    {
+      "name": "Dzwonowice, Nr 1",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.489194,
+      "longitude": 19.657524
+    },
+    {
+      "name": "Dzwonowice, Nr 2",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.497200,
+      "longitude": 19.657491
+    },
+    {
       "name": "Giebło, Częstochowska",
       "description": "",
       "area": "Powiat Zawierciański",
@@ -1885,6 +1913,13 @@
       "longitude": 19.60368
     },
     {
+      "name": "Morsko, ul. Włodowska",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.541603,
+      "longitude": 19.501175
+    },
+    {
       "name": "Piaseczno, Nr 1 (skrzyżowanie)",
       "description": "",
       "area": "Powiat Zawierciański",
@@ -1897,6 +1932,20 @@
       "area": "Powiat Zawierciański",
       "latitude": 50.5375,
       "longitude": 19.53192
+    },
+    {
+      "name": "Pilica, Engliszówka",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.481526,
+      "longitude": 19.660222
+    },
+    {
+      "name": "Pilica, Rynek - Plac Mickiewicza",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.468546,
+      "longitude": 19.657585
     },
     {
       "name": "Podlesice, Nr 2 (DW792)",
@@ -2018,6 +2067,13 @@
       "longitude": 19.45717
     },
     {
+      "name": "Włodowice, Szkoła",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.549994,
+      "longitude": 19.455199
+    },
+    {
       "name": "Włodowice, ul. Rynek",
       "description": "",
       "area": "Powiat Zawierciański",
@@ -2065,6 +2121,34 @@
       "area": "Powiat Zawierciański",
       "latitude": 50.4807,
       "longitude": 19.42414
+    },
+    {
+      "name": "Zdów, kol. Młyny",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.599408,
+      "longitude": 19.546172
+    },
+    {
+      "name": "Zdów, ul. Piaskowa",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.606262,
+      "longitude": 19.530669
+    },
+    {
+      "name": "Zdów, ul. Topolowa",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.604005,
+      "longitude": 19.526991
+    },
+    {
+      "name": "Żarnowiec, I (Rynek)",
+      "description": "",
+      "area": "Powiat Zawierciański",
+      "latitude": 50.484180,
+      "longitude": 19.862957
     }
   ]
 }
