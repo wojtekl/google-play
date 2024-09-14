@@ -1,5 +1,5 @@
 {
-  "updated": 1726138107737,
+  "updated": 1726304963368,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -990,6 +990,26 @@
       "description": "",
       "latitude": 53.27103,
       "longitude": 16.47068
+    },
+    {
+      "name": "Warszawa, Bródno: Parafia św. Włodzimierza",
+      "schedule": "https://wlodzimierz.waw.pl/category/intencje-mszalne/",
+      "announcement": "https://wlodzimierz.waw.pl/category/ogloszenia-parafialne/",
+      "contact": "https://wlodzimierz.waw.pl/kontakt-i-kancelaria/",
+      "others": "https://wlodzimierz.waw.pl/wirtualny-spacer/",
+      "description": "",
+      "latitude": 52.292974,
+      "longitude": 21.028452
+    },
+    {
+      "name": "Warszawa, Bródno: Sanktuarium Matki Bożej Różańcowej",
+      "schedule": "https://rozancowa.waw.pl/porzadek-mszy-sw/",
+      "announcement": "https://rozancowa.waw.pl/ogloszenia/",
+      "contact": "https://rozancowa.waw.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 52.286770,
+      "longitude": 21.023691
     },
     {
       "name": "Wieliczka: Parafia św. Klemensa",
