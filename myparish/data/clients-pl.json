@@ -1,5 +1,5 @@
 {
-  "updated": 1726304963368,
+  "updated": 1726338522988,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -312,6 +312,16 @@
       "longitude": 20.305891
     },
     {
+      "name": "Katowice: Parafia Wniebowzięcia NMP",
+      "schedule": "https://graniczna.katowice.pl/intencje-mszalne-7/",
+      "announcement": "https://graniczna.katowice.pl/ogloszenia-parafialne-9/",
+      "contact": "https://graniczna.katowice.pl/#:~:text=dane%20kontaktowe",
+      "others": "",
+      "description": "",
+      "latitude": 50.254523,
+      "longitude": 19.034556
+    },
+    {
       "name": "Katowice, Józefowiec: Parafia św. Józefa Robotnika",
       "schedule": "https://jozefrobotnik.katowice.pl/aktualnosci/intencje-mszalne-1.html",
       "announcement": "https://jozefrobotnik.katowice.pl/aktualnosci/ogloszenia-duszpasterskie.html",
@@ -320,6 +330,16 @@
       "description": "",
       "latitude": 50.280554,
       "longitude": 19.013657
+    },
+    {
+      "name": "Katowice, Panewniki: Parafia św. Ludwika Króla i Wniebowzięcia NMP",
+      "schedule": "https://parafia.panewniki.pl/kategoria/intencje-mszalne/",
+      "announcement": "https://parafia.panewniki.pl/kategoria/ogloszenia-parafialne/",
+      "contact": "https://parafia.panewniki.pl/kontakt/",
+      "others": "https://jozefrobotnik.katowice.pl/cmentarz.html",
+      "description": "https://parafia.panewniki.pl/o-nas/galeria/wirtualny-spacer/",
+      "latitude": 50.226903,
+      "longitude": 18.962620
     },
     {
       "name": "Kętrzyn: Parafia św. Jerzego",
@@ -842,6 +862,16 @@
       "longitude": 22.25335
     },
     {
+      "name": "Sieradz: Parafia NSJ",
+      "schedule": "https://www.nsj-sieradz.pl/index.php/intencje2",
+      "announcement": "https://www.nsj-sieradz.pl/index.php/aktualnosci2/template-settings",
+      "contact": "https://www.nsj-sieradz.pl/index.php/kontakt",
+      "others": "https://goo.gl/maps/bXw2TgfZfh8kw9ik6",
+      "description": "",
+      "latitude": 51.590056,
+      "longitude": 18.718198
+    },
+    {
       "name": "Starogard Gdański: Parafia św. Wojciecha",
       "schedule": "http://wojciechstarogard.pl/36-Kalendarz_Liturgiczny",
       "announcement": "http://wojciechstarogard.pl/32-Ogloszenia_parafialne",
@@ -940,6 +970,66 @@
       "description": "",
       "latitude": 50.283637,
       "longitude": 18.924245
+    },
+    {
+      "name": "Tczew: Parafia NMP Matki Kościoła",
+      "schedule": "http://www.nmp-tczew.pelplin.opoka.org.pl/index.php/msze-swiete",
+      "announcement": "http://www.nmp-tczew.pelplin.opoka.org.pl/index.php/ogloszenia",
+      "contact": "http://www.nmp-tczew.pelplin.opoka.org.pl/index.php/kontakt",
+      "others": "http://www.nmp-tczew.pelplin.opoka.org.pl/index.php/galeria",
+      "description": "",
+      "latitude": 54.090351,
+      "longitude": 18.768833
+    },
+    {
+      "name": "Tczew: Parafia pw św. Maksymiliana Marii Kolbego",
+      "schedule": "http://www.kolbetczew.pl/#:~:text=nabożeństwa",
+      "announcement": "http://www.kolbetczew.pl/ogloszenia.pdf",
+      "contact": "http://www.kolbetczew.pl/#:~:text=kancelaria%20parafialna",
+      "others": "",
+      "description": "",
+      "latitude": 54.102357,
+      "longitude": 18.803404
+    },
+    {
+      "name": "Tczew: Parafia Podwyższenia Krzyża Świętego",
+      "schedule": "https://faratczew.pl/?page_id=3351",
+      "announcement": "https://faratczew.pl/?page_id=3452",
+      "contact": "https://faratczew.pl/?page_id=632",
+      "others": "",
+      "description": "",
+      "latitude": 54.088021,
+      "longitude": 18.799799
+    },
+    {
+      "name": "Tczew: Parafia pw Jezusa Chrystusa Króla Wszechświata",
+      "schedule": "https://sites.google.com/view/parafia-jchkw-tczew/og%C5%82oszenia/#:~:text=intencje%20mszalne",
+      "announcement": "https://sites.google.com/view/parafia-jchkw-tczew/og%C5%82oszenia",
+      "contact": "https://sites.google.com/view/parafia-jchkw-tczew/kontakt",
+      "others": "https://sites.google.com/view/parafia-jchkw-tczew/galeria",
+      "description": "",
+      "latitude": 54.099265,
+      "longitude": 18.770185
+    },
+    {
+      "name": "Tczew: Parafia św. Franciszka z Asyżu",
+      "schedule": "https://parafiaswfranciszka.elsite.eu/index.php/msze-swiete",
+      "announcement": "https://parafiaswfranciszka.elsite.eu/index.php/news",
+      "contact": "https://parafiaswfranciszka.elsite.eu/index.php/kontakt",
+      "others": "https://parafiaswfranciszka.elsite.eu/index.php/galeria",
+      "description": "",
+      "latitude": 54.070318,
+      "longitude": 18.766282
+    },
+    {
+      "name": "Tczew: Parafia św. Józefa",
+      "schedule": "http://swjozeftczew.pl/msze-i-nabozenstwa/",
+      "announcement": "http://swjozeftczew.pl/category/ogloszenia/",
+      "contact": "http://swjozeftczew.pl/informacje-o-parafii/",
+      "others": "http://swjozeftczew.pl/sakramenty-i-sakramentalia/pogrzeb-katolicki/",
+      "description": "",
+      "latitude": 54.093864,
+      "longitude": 18.789381
     },
     {
       "name": "Tereszpol: Parafia pw. MB Częstochowskiej",
