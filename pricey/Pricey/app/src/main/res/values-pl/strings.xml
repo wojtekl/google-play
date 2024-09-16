@@ -12,6 +12,10 @@
     <string name="menu_privacy">Prywatność</string>
 
 
+    <string name="updating">Aktualizuję listę produktów, proszę czekaj..</string>
+    <string name="select_product">Wybeirz product na zakładce \"Produkty\"</string>
+
+
     <string name="action_settings">Ustawienia</string>
 
     <string name="title_activity_settings">Ustawienia</string>
@@ -20,6 +24,7 @@
     <string name="personal_header">Osobiste</string>
 
     <string name="updated_title">Ostatnio zaktualizowano</string>
+    <string name="refresh_title">Odśwież</string>
 
     <string name="id_title">Identyfikator</string>
     <string name="country_title">Kraj</string>
