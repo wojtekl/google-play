@@ -63,7 +63,7 @@
 
     <string name="privacy_policy_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/pricey/privacy-policy</string>
 
-    <string name="middlepart_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/shoppinglist/adres.txt</string>
+    <string name="middlepart_url" translatable="false">https://raw.githubusercontent.com/wojtekl/google-play/main/pricey/data/adres.txt</string>
 
     <string name="ad_app_id" translatable="false">ca-app-pub-4377490341302105~4150224597</string>
     <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/3011514674</string>

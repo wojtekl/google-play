@@ -1,5 +1,5 @@
 {
-  "updated": 1726338522988,
+  "updated": 1726646219174,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -272,6 +272,16 @@
       "longitude": 23.58247
     },
     {
+      "name": "Humniska: Parafia pw Niepokalanego Poczęcia NMP",
+      "schedule": "https://parafia-humniska.pl/intencje-mszalne/",
+      "announcement": "https://parafia-humniska.pl/ogloszenia/",
+      "contact": "https://parafia-humniska.pl/kontakt/",
+      "others": "https://worldcam.live/pl/webcam/humniska#",
+      "description": "",
+      "latitude": 49.685184,
+      "longitude": 22.030005
+    },
+    {
       "name": "Iwkowa: Parafia Podwyższenia Krzyża Św.",
       "schedule": "https://parafiaiwkowa.pl/?intencje,2",
       "announcement": "https://parafiaiwkowa.pl/?ogloszenia,3",
@@ -470,6 +480,16 @@
       "description": "",
       "latitude": 50.089296,
       "longitude": 20.013203
+    },
+    {
+      "name": "Kraków, Rakowice: Parafia Najświętszego Imienia Maryi",
+      "schedule": "https://rakowice.pijarzy.pl/index.html#:~:text=ogłoszenia%20duszpasterskie",
+      "announcement": "https://rakowice.pijarzy.pl/index.html#:~:text=intencje%20mszalne",
+      "contact": "https://rakowice.pijarzy.pl/kontakt.html",
+      "others": "https://rakowice.pijarzy.pl/galeria.html",
+      "description": "",
+      "latitude": 50.083642,
+      "longitude": 19.975607
     },
     {
       "name": "Krasnystaw: Parafia Św. Franciszka Ksawerego",

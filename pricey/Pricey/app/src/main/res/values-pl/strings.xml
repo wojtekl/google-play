@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Centuś</string>
+    <string name="app_name">Pricey</string>
     <string name="navigation_drawer_open">Otwórz nawigację</string>
     <string name="navigation_drawer_close">Zamknij nawigację</string>
-    <string name="nav_header_title">Centuś</string>
+    <string name="nav_header_title">Pricey</string>
     <string name="nav_header_desc">Nawigacja</string>
 
     <string name="menu_home">Produkty</string>
