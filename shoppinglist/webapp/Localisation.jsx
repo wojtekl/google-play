@@ -16,7 +16,8 @@ const pl = {
   zainstalujApke: "Zainstaluj Apkę!",
   zobaczWktorym: "Zobacz w którym markecie najtaniej!",
   goOffline: "GoOffline",
-  talkieTalkie: "TalkieTalkie"
+  talkieTalkie: "TalkieTalkie",
+  pricey: "Pricey"
 }
 
 const en = {
@@ -37,7 +38,8 @@ const en = {
   zainstalujApke: "Get the APP!",
   zobaczWktorym: "Check the prices!",
   goOffline: "GoOffline",
-  talkieTalkie: "TalkieTalkie"
+  talkieTalkie: "TalkieTalkie",
+  pricey: "Pricey"
 }
 
 let localise = en;
