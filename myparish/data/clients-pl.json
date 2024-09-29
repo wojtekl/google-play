@@ -1,5 +1,5 @@
 {
-  "updated": 1726646219174,
+  "updated": 1727601711343,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -360,6 +360,16 @@
       "description": "",
       "latitude": 54.07453,
       "longitude": 21.37323
+    },
+    {
+      "name": "Kielce: Parafia pw św. Jadwigi Królowej",
+      "schedule": "https://jadwiga-kielce.pl/o-parafii/msze-swiete-i-nabozenstwa/",
+      "announcement": "https://jadwiga-kielce.pl/ogloszenia/",
+      "contact": "https://jadwiga-kielce.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 50.889501,
+      "longitude": 20.655845
     },
     {
       "name": "Kielno: Parafia pw. św. Wojciecha Biskupa i Męczennika",
