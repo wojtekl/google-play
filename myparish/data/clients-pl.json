@@ -1,5 +1,5 @@
 {
-  "updated": 1727601711343,
+  "updated": 1727603531235,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -1140,6 +1140,16 @@
       "description": "",
       "latitude": 49.98368,
       "longitude": 20.06023
+    },
+    {
+      "name": "Włocławek: Parafia św. Jana Chrzciciela",
+      "schedule": "http://www.swjanchrzciciel.wloclawek.pl/index.php/intencje-mszalne",
+      "announcement": "http://www.swjanchrzciciel.wloclawek.pl/index.php/ogloszenia-parafialne",
+      "contact": "http://www.swjanchrzciciel.wloclawek.pl/index.php/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 52.661026,
+      "longitude": 19.072845
     },
     {
       "name": "Wysocko Wielkie: Parafia Podwyższenia Krzyża Św",
