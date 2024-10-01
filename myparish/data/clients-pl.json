@@ -642,6 +642,46 @@
       "longitude": 22.369409
     },
     {
+      "name": "Mielec: Parafia pw Ducha Świętego",
+      "schedule": "https://www.duch.mielec.pl/msze-i-nabozenstwa/",
+      "announcement": "https://www.duch.mielec.pl/category/ogloszenia/",
+      "contact": "https://www.duch.mielec.pl/dane-kontatkowe/",
+      "others": "",
+      "description": "",
+      "latitude": 50.294991,
+      "longitude": 21.420312
+    },
+    {
+      "name": "Mielec: Parafia pw Matki Bożej Nieustającej Pomocy",
+      "schedule": "https://mbnp.mielec.pl/nabozenstwa/msze-swiete/",
+      "announcement": "https://mbnp.mielec.pl/multimedia/",
+      "contact": "https://mbnp.mielec.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 50.292743,
+      "longitude": 21.443156
+    },
+    {
+      "name": "Mielec: Parafia pw św. Mateusza",
+      "schedule": "https://www.bazylikamielec.pl/#:~:text=intencje%20mszalne",
+      "announcement": "https://www.bazylikamielec.pl/#:~:text=ogłoszenia%20duszpasterskie",
+      "contact": "https://www.bazylikamielec.pl/kontakt.html",
+      "others": "",
+      "description": "",
+      "latitude": 50.284868,
+      "longitude": 21.420953
+    },
+    {
+      "name": "Mielec: Parafia pw Trójcy Przenajświętszej",
+      "schedule": "https://www.ptp.mielec.pl/blog/kategoria/intencje-mszy-swietych",
+      "announcement": "https://www.ptp.mielec.pl/blog/kategoria/ogloszenia-duszpasterskie",
+      "contact": "https://www.ptp.mielec.pl/kontakt/kosciol-parafialny,2",
+      "others": "",
+      "description": "",
+      "latitude": 50.285524,
+      "longitude": 21.470616
+    },
+    {
       "name": "Mysłowice: Parafia NSPJ",
       "schedule": "https://www.nspjmyslowice.pl/index.php/aktualnosci/intencje-mszalne.html#content",
       "announcement": "https://www.nspjmyslowice.pl/index.php/aktualnosci/ogloszenia-parafialne.html#content",
