@@ -42,6 +42,14 @@ class App extends React.Component {
   }
   
   render() {
-    return this.state.source
+    let self = this;
+      let kraj = new URLSearchParams(new URL(window.location).search).get("lang");
+      if (null == kraj) kraj = navigator.language;
+      if (kraj.startsWith("pl")) kraj = "pl";
+      axios.post(this.props.source + "?lang=" + kraj, { lang: 'test' }).then(function (response) {
+        console.log(response)
+        self.props.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.props.replace} back={self.props.back} />);
+      })
+    //return this.state.source
   }
 }
