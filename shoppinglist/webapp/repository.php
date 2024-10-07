@@ -37,6 +37,10 @@ class Repository {
   public function getCenyAll($kraj) {
     return $this -> execute("SELECT `s`.`PRODUKT`, `s`.`SKLEP`, `s`.`CENA`, `s`.`DODANO` FROM `CENA` `s` JOIN (SELECT `d`.`PRODUKT`, `d`.`SKLEP`, `d`.`CENA`, MAX(`d`.`DODANO`) AS `DODANO` FROM `CENA` `d` JOIN (SELECT `PRODUKT`, `SKLEP`, MIN(`CENA`) AS `CENA` FROM `CENA` WHERE `KRAJ` = '$kraj' AND `DODANO` > CURRENT_TIMESTAMP - INTERVAL 2 DAY GROUP BY `PRODUKT`) `c` ON `c`.`PRODUKT` = `d`.`PRODUKT` AND `c`.`CENA` = `d`.`CENA` GROUP BY `PRODUKT`, `CENA`) `cd` ON `cd`.`PRODUKT` = `s`.`PRODUKT` AND `cd`.`CENA` = `s`.`CENA` AND `cd`.`DODANO` = `s`.`DODANO` UNION SELECT `PRODUKT`, `SKLEP`, `CENA`, MAX(`DODANO`) AS `DODANO` FROM `CENA` WHERE `KRAJ` = '$kraj' GROUP BY `PRODUKT` HAVING `DODANO` < CURRENT_TIMESTAMP - INTERVAL 2 DAY ORDER BY `PRODUKT`;");
   }
+
+  public function getUpdate($timestamp, $kraj) {
+    return $this -> execute("SELECT `PRODUKT`, `SKLEP`, `CENA`, UNIX_TIMESTAMP(`DODANO`) * 1000 AS `DODANO` FROM `CENA` WHERE `KRAJ` = '$kraj' AND `DODANO` >= FROM_UNIXTIME('$timestamp' / 1000);");
+  }
 }
 
 $repository = new Repository($SQL_HOST, $SQL_DATABASE, $SQL_USER, $SQL_PASSWORD);

@@ -1,8 +1,11 @@
 <?php
 
+header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Headers: Content-Type");
+
 require "repository.php";
 
-$kraj = "en-GB";
+$kraj = "pl";
 $httpAcceptLanguage = explode(",", $_SERVER["HTTP_ACCEPT_LANGUAGE"]);
 if (isset($httpAcceptLanguage[0])) {
   $kraj = $httpAcceptLanguage[0];
@@ -13,6 +16,8 @@ if(isset($_GET["lang"])) {
 }
 
 $identyfikator = $_GET["identyfikator"];
+
+$timestamp= $_GET["timestamp"];
 
 switch ($_SERVER["REQUEST_METHOD"]) {
   case "POST":
@@ -42,8 +47,8 @@ function get() {
 
 function post() {
   header("Content-Type: application/json");
-  global $kraj, $identyfikator, $repository;
-  $result = $repository -> getCenyAll($kraj);
+  global $kraj, $identyfikator, $timestamp, $repository;
+  $result = $timestamp != "" ? $repository -> getUpdate($timestamp, $kraj) : $repository -> getCenyAll($kraj);
   $list = "[";
   foreach ($result as $row) {
     $list .= "{\"produkt\": \"${row["PRODUKT"]}\", \"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\"},";

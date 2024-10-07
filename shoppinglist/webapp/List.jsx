@@ -5,24 +5,25 @@ class List extends React.Component {
     this.state = {
       list: this.props.list,
       back: this.props.back,
-      selected: null
+      selected: null,
     }
   }
   
   handleClick = () => {
     let self = this;
     axios.get("http://zakupy.ugu.pl/produkt?nazwa=" + this.state.selected).then(function (response) {
-      console.log(response)
-      self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.back} />);
+      self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.back} item={self.state.selected} />);
     })
   }
   render() {
     return (
 <div class="container">
   <div class="row mt-3">
-    <a href="#app" class="btn btn-primary" onClick={this.props.back}>{localise.powrot}</a>
+  <div class="col-sm-1"><a href="#app" class="btn btn-secondary" onClick={this.props.back}>{localise.powrot}</a></div>
+    <div class="col-sm-1"><a href="#app" class="btn btn-success" data-toggle="modal" data-target="#exampleModal">{!this.props.item ? "Dodaj produkt" : "Dodaj cenę"}</a></div>
   </div>
   <div class="row mt-3">
+    {!!this.props.item && <div>{this.props.item}</div>}
     <table class="table table-hover">
       <thead class="thead-dark">
         <tr>
@@ -44,11 +45,12 @@ class List extends React.Component {
       </tbody>
     </table>
   </div>
+  <Modal item={this.props.item} />
 </div>
     );
   }
   
   back = () => {
-    this.props.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={this.state.list} expandable={true} replace={this.props.replace} back={this.state.back} />);
+    this.props.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={this.state.list} expandable={true} replace={this.props.replace} back={this.state.back} item={null} />);
   }
 }
