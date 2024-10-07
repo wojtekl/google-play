@@ -4,31 +4,7 @@ class App extends React.Component {
     
     this.state = {
       source: (
-<div>
-  <div class="jumbotron">
-    <div class="container">
-      <h1 class="display-5">Dowiedz się, w którym sklepie kupisz najtaniej!</h1>
-      <p>Dołącz do grupy na facebooku i dowiedz się jak zainstalować apkę, jak zgłaszać ceny oraz przede wszystkim jak przeglądać ceny zgłoszone przez innych. Nie zapomnij też polecić apki znajomym, im nas (zgłaszających) więcej tym bardziej aktualne informacje o cenach mamy, a przede wszystkim tym lepiej możesz zaplanować swoje zakupy by wydać jak najmniej :))</p>
-      <p>
-        <a class="btn btn-primary btn-lg mr-3" href="https://rb.gy/fh4x0i" role="button">Zainstaluj apkę!</a>
-        <a class="btn btn-primary btn-lg mr-3" href="https://www.facebook.com/groups/1122279075778345" role="button">Dołącz do grupy!</a>
-      </p>
-    </div>
-  </div>
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/shoppinglist/ShoppingList/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.listaZakupow} description={localise.zobaczWktorym} source="produkty" replace={this.replace} back={this.back} />
-    </div>
-    <div class="col-sm">
-      <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/gooffline/GoOffline/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.goOffline} description="Wyłączanie sieci GSM" source="https://play.google.com/store/apps/details?id=github.wleap.gooffline.admob" replace={this.replace} back={this.back} />
-    </div>
-    <div class="col-sm">
-      <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/talkietalkie/TalkieTalkie/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.talkieTalkie} description="WiFiDirect WalkieTalkie" source="https://play.google.com/store/apps/details?id=github.wleap.talkietalkie.admob" replace={this.replace} back={this.back} />
-    </div>
-  </div>
-</div>
-</div>
+<List properties={["produkt", "sklep", "cena", "dodano"]} list={} expandable={true} replace={this.replace} back={this.back} />
       )
     }
   }
@@ -48,8 +24,8 @@ class App extends React.Component {
       if (kraj.startsWith("pl")) kraj = "pl";
       axios.post("http://zakupy.ugu.pl/produkty" + "?lang=pl", { lang: 'test' }).then(function (response) {
         console.log(response)
-        return (<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.replace} back={self.back} />);
+        self.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.replace} back={self.back} />);
       })
-    //return this.state.source
+    return this.state.source
   }
 }
