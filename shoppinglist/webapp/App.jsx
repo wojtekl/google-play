@@ -18,7 +18,7 @@ class App extends React.Component {
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/shoppinglist/ShoppingList/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.listaZakupow} description={localise.zobaczWktorym} source="zakupy.ugu.pl/produkty" replace={this.replace} back={this.back} />
+      <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/shoppinglist/ShoppingList/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.listaZakupow} description={localise.zobaczWktorym} source="produkty" replace={this.replace} back={this.back} />
     </div>
     <div class="col-sm">
       <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/gooffline/GoOffline/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.goOffline} description="Wyłączanie sieci GSM" source="https://play.google.com/store/apps/details?id=github.wleap.gooffline.admob" replace={this.replace} back={this.back} />
@@ -42,15 +42,6 @@ class App extends React.Component {
   }
   
   render() {
-    let self = this;
-      let kraj = new URLSearchParams(new URL(window.location).search).get("lang");
-      if (null == kraj) kraj = navigator.language;
-      if (kraj.startsWith("pl")) kraj = "pl";
-      axios.post("http://zakupy.ugu.pl/produkty" + "?lang=pl", { lang: 'test' }).then(function (response) {
-        console.log(response)
-        return (<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.props.replace} back={self.props.back} />)
-        //self.props.replace();
-      })
-    //return this.state.source
+    return this.state.source
   }
 }
