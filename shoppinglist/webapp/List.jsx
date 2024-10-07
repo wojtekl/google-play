@@ -13,7 +13,7 @@ class List extends React.Component {
     let self = this;
     axios.get("http://zakupy.ugu.pl/produkt?nazwa=" + this.state.selected).then(function (response) {
       console.log(response)
-      //self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.back} />);
+      self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.back} />);
     })
   }
   render() {
