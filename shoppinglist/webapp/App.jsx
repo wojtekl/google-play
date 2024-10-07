@@ -18,7 +18,7 @@ class App extends React.Component {
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/shoppinglist/ShoppingList/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.listaZakupow} description={localise.zobaczWktorym} source="http://zakupy.ugu.pl/produkty" replace={this.replace} back={this.back} />
+      <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/shoppinglist/ShoppingList/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.listaZakupow} description={localise.zobaczWktorym} source="zakupy.ugu.pl/produkty" replace={this.replace} back={this.back} />
     </div>
     <div class="col-sm">
       <Card image="https://raw.githubusercontent.com/wojtekl/google-play/main/gooffline/GoOffline/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" title={localise.goOffline} description="Wyłączanie sieci GSM" source="https://play.google.com/store/apps/details?id=github.wleap.gooffline.admob" replace={this.replace} back={this.back} />
