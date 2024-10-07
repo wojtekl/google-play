@@ -4,7 +4,7 @@ class App extends React.Component {
 
     this.state = {
       source: (
-        <List properties={["produkt", "sklep", "cena", "dodano"]} list={[]} expandable={true} replace={this.replace} back={this.back} />
+        <div>Loading products...</div>
       )
     }
   }
