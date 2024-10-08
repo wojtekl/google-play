@@ -12,7 +12,7 @@ class Modal extends React.Component {
       let kraj = new URLSearchParams(new URL(window.location).search).get("lang");
       if (null == kraj) kraj = navigator.language;
       if (kraj.startsWith("pl")) kraj = "pl";
-      axios.post('/produkt?', $('form.dane').serialize(), { headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }).then(function (response) { })
+      axios.post('http:/zakupy.ugu.pl/produkt?', $('form.dane').serialize(), { headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }).then(function (response) { })
       $('form.dane').trigger('reset')
   }
   render() {
