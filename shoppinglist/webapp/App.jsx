@@ -4,7 +4,10 @@ class App extends React.Component {
 
     this.state = {
       source: (
-        <div>Loading products...</div>
+        <div><button class="btn btn-primary" type="button" disabled>
+          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+        {localise.loading}
+      </button></div>
       )
     }
   }
@@ -19,10 +22,7 @@ class App extends React.Component {
 
   componentWillMount() {
     let self = this;
-    let kraj = new URLSearchParams(new URL(window.location).search).get("lang");
-    if (null == kraj) kraj = navigator.language;
-    if (kraj.startsWith("pl")) kraj = "pl";
-    axios.post("http://zakupy.ugu.pl/produkty" + "?lang=pl", { lang: 'test' }).then(function (response) {
+    axios.post(`http://zakupy.ugu.pl/produkty?lang=${lang}`, { lang: lang }).then(function (response) {
       self.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.replace} back={self.back} />);
     })
   }

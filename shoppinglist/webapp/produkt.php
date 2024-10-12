@@ -5,10 +5,14 @@ header("Access-Control-Allow-Headers: Content-Type");
 
 require "repository.php";
 
-$kraj = "en-GB";
+$kraj = "pl";
 $httpAcceptLanguage = explode(",", $_SERVER["HTTP_ACCEPT_LANGUAGE"]);
 if (isset($httpAcceptLanguage[0])) {
-  $kraj = $httpAcceptLanguage[0];
+  $kraj = strtolower(substr($httpAcceptLanguage[0], 3));
+}
+
+if(isset($_GET["lang"])) {
+  $kraj = $_GET["lang"];
 }
 
 $identyfikator = $_POST["identyfikator"];

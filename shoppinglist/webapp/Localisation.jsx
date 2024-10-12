@@ -1,52 +1,46 @@
 const pl = {
-  listaZakupow: "Lista zakupów",
-  aplikacjaListaZakupow: "Aplikacja Lista zakupów",
-  kalendarz: "Kalendarz",
-  aplikacjaKalendarz: "Aplikacja Kalendarz",
-  launcher: "Launcher",
-  launcherDlaAndroida: "Launcher dla Androida",
-  puste: "Puste",
-  zobacz: "Zobacz",
-  powrot: "Powrót",
-  wiecej: "Więcej",
+  loading: "Wczytuję...",
   produkt: "Produkt",
   sklep: "Sklep",
   cena: "Cena",
   dodano: "Dodano",
-  zainstalujApke: "Zainstaluj Apkę!",
-  zobaczWktorym: "Zobacz w którym markecie najtaniej!",
-  goOffline: "GoOffline",
-  talkieTalkie: "TalkieTalkie",
-  pricey: "Pricey"
+  pricey: "Pricey",
+  getTheApp: "Zainstaluj Apkę!",
+  newProduct: "Nowy produkt",
+  updatePrice: "Aktualizuj cenę",
+  back: "Powrót",
+  name: "Nazwa",
+  store: "Sklep",
+  price: "Cena",
+  more: "Więcej",
+  cancel: "Zaniechaj",
+  save: "Zachowaj",
 }
 
 const en = {
-  listaZakupow: "Shopping List",
-  aplikacjaListaZakupow: "Shopping List app",
-  kalendarz: "Calendar",
-  aplikacjaKalendarz: "Calendar app",
-  launcher: "Launcher",
-  launcherDlaAndroida: "Launcher for Android",
-  puste: "Empty",
-  zobacz: "Go",
-  powrot: "Back",
-  wiecej: "More",
+  loading: "Loading...",
   produkt: "Item",
   sklep: "Store",
   cena: "Price",
   dodano: "Posted",
-  zainstalujApke: "Get the APP!",
-  zobaczWktorym: "Check the prices!",
-  goOffline: "GoOffline",
-  talkieTalkie: "TalkieTalkie",
-  pricey: "Pricey"
+  pricey: "Pricey",
+  getTheApp: "Get the APP!",
+  newProduct: "New Product",
+  updatePrice: "Update Price",
+  back: "Back",
+  name: "Name",
+  store: "Store",
+  price: "Price",
+  more: "More",
+  cancel: "Cancel",
+  save: "Save",
 }
 
 let localise = en;
 
 let lang = new URLSearchParams(new URL(window.location).search).get("lang");
-if (null == lang) lang = navigator.language;
+if (null == lang) lang = navigator.language.substring(3).toLocaleLowerCase();
 
-if ('pl' === lang || 'pl-PL' === lang) {
+if ('pl' === lang) {
   localise = pl;
 }
