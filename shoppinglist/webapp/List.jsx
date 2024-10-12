@@ -11,7 +11,7 @@ class List extends React.Component {
 
   handleClick = () => {
     let self = this;
-    axios.get(`/produkt?lang=${lang}&nazwa=${this.state.selected}`).then(function (response) {
+    axios.get(`http://zakupy.ugu.pl/produkt?lang=${lang}&nazwa=${this.state.selected}`).then(function (response) {
       self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.back} item={self.state.selected} />);
     })
   }
