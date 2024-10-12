@@ -7,7 +7,7 @@ class App extends React.Component {
         <div><button class="btn btn-primary" type="button" disabled>
           <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
         {localise.loading}
-      </button><p>Nie widzisz cen? Kliknij <a href="http://zakupy.ugu.pl/#app" referrerpolicy="noreferrer" rel="noreferrer">tutaj</a></p></div>
+      </button><p>Nie widzisz cen? Kliknij <a href="http://zakupy.ugu.pl/#app" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p></div>
       )
     }
   }
@@ -22,7 +22,7 @@ class App extends React.Component {
 
   componentWillMount() {
     let self = this;
-    axios.post(`http://zakupy.ugu.pl/produkty?lang=${lang}`, { lang: lang }).then(function (response) {
+    axios.post(`produkty?lang=${lang}`, { lang: lang }).then(function (response) {
       self.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.replace} back={self.back} />);
     })
   }
