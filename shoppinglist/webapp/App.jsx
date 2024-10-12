@@ -7,7 +7,7 @@ class App extends React.Component {
         <div><button class="btn btn-primary" type="button" disabled>
           <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
         {localise.loading}
-      </button></div>
+      </button><p>Nie widzisz cen? Kliknij <a href="http://rawcdn.githack.com/wojtekl/google-play/3f16147e64cf834b70f8b0a70cd3aad5e7e6feaa/shoppinglist/webapp/index.html?fbclid=IwY2xjawF3G6hleHRuA2FlbQIxMAABHbb0eyYlxn8PpEibaMxaZVk4fJ1FzbIqmv0-CkhqapnjRZQC1BYz7dHjwQ_aem_9zypv7gNAgvdFcQ80ntgLg">tutaj</a></p></div>
       )
     }
   }
