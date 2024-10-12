@@ -8,7 +8,6 @@ class App extends React.Component {
           <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
         {localise.loading}
       </button>
-          <base href="http://rb.gy/8ue0x0" >
           <script type="text/javascript">
             
           </script>
