@@ -7,11 +7,7 @@ class App extends React.Component {
         <div><button class="btn btn-primary" type="button" disabled>
           <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
         {localise.loading}
-      </button>
-          <script type="text/javascript">
-            
-          </script>
-          <p>Nie widzisz cen? Kliknij <a href="#app" onclick="red();" referrerpolicy="noreferrer" rel="noreferrer">tutaj</a></p></div>
+      </button><p>Nie widzisz cen? Kliknij <a href="http://zakupy.ugu.pl/#app" referrerpolicy="noreferrer" rel="noreferrer">tutaj</a></p></div>
       )
     }
   }
