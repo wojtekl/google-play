@@ -11,7 +11,7 @@ class App extends React.Component {
           <script type="text/javascript">
             
           </script>
-          <p>Nie widzisz cen? Kliknij <a href="#app" onclick="red();">tutaj</a></p></div>
+          <p>Nie widzisz cen? Kliknij <a href="#app" onclick="red();" referrerpolicy="noreferrer" rel="noreferrer">tutaj</a></p></div>
       )
     }
   }
