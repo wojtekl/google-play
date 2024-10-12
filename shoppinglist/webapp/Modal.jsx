@@ -48,7 +48,7 @@ class Modal extends React.Component {
               </form>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">{localise.cancel}}</button>
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">{localise.cancel}</button>
               <button type="button" class="btn btn-primary" data-dismiss="modal" onClick={this.handleClick}>{localise.save}</button>
             </div>
           </div>

@@ -19,12 +19,19 @@ class List extends React.Component {
     return (
       <div class="container">
         <div class="row mt-3">
-          <div class="col-sm-1"><a href="#app" class="btn btn-secondary" onClick={this.props.back}>{localise.powrot}</a></div>
-          <div class="col-sm-1"><a href="#app" class="btn btn-success" data-toggle="modal" data-target="#exampleModal">{!this.props.item ? localise.newProduct : localise.updatePrice}</a></div>
+          <ul class="nav nav-pills">
+            <li class="nav-item">
+              <a class="nav-link active" href="#app" data-toggle="modal" data-target="#exampleModal">{!this.props.item ? localise.newProduct : localise.updatePrice}</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://rb.gy/sqezhd">{localise.getTheApp}</a>
+            </li>
+          </ul>
         </div>
         <div class="row mt-3">
           {!!this.props.item && <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
+              <li class="breadcrumb-item"><a href="#app" onClick={this.props.back}>{localise.back}</a></li>
               <li class="breadcrumb-item active" aria-current="page">{this.props.item}</li>
             </ol>
           </nav>}
@@ -41,7 +48,7 @@ class List extends React.Component {
               {this.props.list.map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
                   {this.props.properties.map(property => {
-                    return <td>{row[property]}</td>
+                    return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}</td>
                   })}
                   {this.props.expandable && <td><span class="badge badge-secondary" onClick={this.handleClick}>...</span></td>}
                 </tr>)
