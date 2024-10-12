@@ -18,7 +18,7 @@ class Modal extends React.Component {
         <div class="modal-dialog modal-dialog-centered modal-sm">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLabel">{!this.props.item ? localise.newProduct : this.props.item}</h5>
+              <h5 class="modal-title" id="exampleModalLabel">{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
