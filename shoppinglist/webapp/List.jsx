@@ -37,7 +37,7 @@ class List extends React.Component {
             </li>
           </ul>
           {!this.props.item && <form class="form-inline">
-    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" onKeyUp={this.handleFilter} />
+    <input class="form-control mr-sm-2" type="search" placeholder={localise.szukaj} aria-label="Search" onKeyUp={this.handleFilter} />
   </form>}
         </div>
         <div class="row mt-3">
