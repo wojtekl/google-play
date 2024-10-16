@@ -15,6 +15,7 @@ const pl = {
   more: "Więcej",
   cancel: "Zaniechaj",
   save: "Zachowaj",
+  support: "Wesprzyj :)",
 }
 
 const en = {
@@ -34,6 +35,7 @@ const en = {
   more: "More",
   cancel: "Cancel",
   save: "Save",
+  support: "Donate :)",
 }
 
 let localise = en;
