@@ -18,7 +18,7 @@ class List extends React.Component {
   }
 
   handleFilter = (event) => {
-    this.setState({ filtered: this.state.list.filter(i => i.produkt.includes(event.target.value)) });
+    this.setState({ filtered: this.state.list.filter(i => i.produkt.toLowerCase().includes(event.target.value.toLowerCase())) });
   }
   
   render() {
