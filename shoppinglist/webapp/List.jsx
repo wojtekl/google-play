@@ -18,8 +18,7 @@ class List extends React.Component {
   }
 
   handleFilter = (event) => {
-    console.log(event.target.value, this.state.filtered);
-    this.setState({ filtered: this.state.filtered.filter(i => i.produkt.includes(event.target.value)) });
+    this.setState({ filtered: this.state.list.filter(i => i.produkt.includes(event.target.value)) });
   }
   
   render() {
@@ -37,10 +36,10 @@ class List extends React.Component {
               <a class="nav-link" href="https://buycoffee.to/wleap">{localise.support}</a>
             </li>
           </ul>
-          <form class="form-inline">
+          {!this.props.item && <form class="form-inline">
     <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" onKeyUp={this.handleFilter} />
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-  </form>
+  </form>}
         </div>
         <div class="row mt-3">
           {!!this.props.item && <nav aria-label="breadcrumb">
