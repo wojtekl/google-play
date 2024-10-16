@@ -57,7 +57,7 @@ class List extends React.Component {
                   {this.props.properties.map(property => {
                     return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}</td>
                   })}
-                  {this.props.expandable && <td><span class="badge badge-secondary" onClick={this.handleClick}>...</span></td>}
+                  {this.props.expandable && <td><span class="badge badge-secondary" onClick={this.handleClick}>-></span></td>}
                 </tr>)
               })}
             </tbody>
