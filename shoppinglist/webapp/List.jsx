@@ -6,6 +6,7 @@ class List extends React.Component {
       list: this.props.list,
       back: this.props.back,
       selected: null,
+      filtered: this.props.list,
     }
   }
 
@@ -15,6 +16,12 @@ class List extends React.Component {
       self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.back} item={self.state.selected} />);
     })
   }
+
+  handleFilter = (value) => {
+    alert(value);
+    this.setState({ filtered: this.state.filtered.filter(i => i.produkt.include(value)) };
+  }
+  
   render() {
     return (
       <div class="container">
@@ -31,7 +38,7 @@ class List extends React.Component {
             </li>
           </ul>
           <form class="form-inline">
-    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
+    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" onKeyUp={value => handleFilter(value);} />
     <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
   </form>
         </div>
@@ -52,7 +59,7 @@ class List extends React.Component {
               </tr>
             </thead>
             <tbody>
-              {this.props.list.map(row => {
+              {this.state.filtered.map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
                   {this.props.properties.map(property => {
                     return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}</td>
