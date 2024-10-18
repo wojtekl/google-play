@@ -13,7 +13,7 @@ class List extends React.Component {
   handleClick = () => {
     let self = this;
     axios.get(`http://zakupy.ugu.pl/produkt?lang=${lang}&nazwa=${this.state.selected}`).then(function (response) {
-      self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.back} item={self.state.selected} />);
+      self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.props.back} item={self.state.selected} />);
     })
   }
 
@@ -57,7 +57,7 @@ class List extends React.Component {
               </tr>
             </thead>
             <tbody>
-              {this.state.filtered.map(row => {
+              {(!this.props.item ? this.props.list : this.state.filtered).map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
                   {this.props.properties.map(property => {
                     return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}</td>
