@@ -13,7 +13,7 @@ class List extends React.Component {
   handleClick = () => {
     let self = this;
     axios.get(`http://zakupy.ugu.pl/produkt?lang=${lang}&nazwa=${this.state.selected}`).then(function (response) {
-      self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.props.back} item={self.state.selected} />);
+      self.props.replace(<List properties={["sklep", "cena", "dodano"]} list={response.data} replace={self.props.replace} back={self.props.back} selected={self.state.selected} />);
     })
   }
 
@@ -27,7 +27,7 @@ class List extends React.Component {
         <div class="row mt-3">
           <ul class="nav nav-pills">
             <li class="nav-item">
-              <a class="nav-link active" href="#app" data-toggle="modal" data-target="#exampleModal">{!this.props.item ? localise.newProduct : localise.updatePrice}</a>
+              <a class="nav-link active" href="#app" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://rb.gy/sqezhd">{localise.getTheApp}</a>
@@ -36,15 +36,15 @@ class List extends React.Component {
               <a class="nav-link" href="https://buycoffee.to/wleap">{localise.support}</a>
             </li>
           </ul>
-          {!this.props.item && <form class="form-inline">
+          {!this.props.selected && <form class="form-inline">
     <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
   </form>}
         </div>
         <div class="row mt-3">
-          {!!this.props.item && <nav aria-label="breadcrumb">
+          {!!this.props.selected && <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="#app" onClick={this.props.back}>{localise.back}</a></li>
-              <li class="breadcrumb-item active" aria-current="page">{this.props.item}</li>
+              <li class="breadcrumb-item active" aria-current="page">{this.props.selected}</li>
             </ol>
           </nav>}
           <table class="table table-hover">
@@ -57,7 +57,7 @@ class List extends React.Component {
               </tr>
             </thead>
             <tbody>
-              {(!this.props.item ? this.props.list : this.state.filtered).map(row => {
+              {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
                   {this.props.properties.map(property => {
                     return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}</td>
@@ -68,7 +68,7 @@ class List extends React.Component {
             </tbody>
           </table>
         </div>
-        <Modal item={this.props.item} />
+        <Modal item={this.props.selected} />
       </div>
     );
   }
