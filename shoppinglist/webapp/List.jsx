@@ -72,8 +72,4 @@ class List extends React.Component {
       </div>
     );
   }
-
-  back = () => {
-    this.state.back()
-  }
 }
