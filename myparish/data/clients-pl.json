@@ -1,5 +1,5 @@
 {
-  "updated": 1729598267859,
+  "updated": 1729600017420,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -30,6 +30,16 @@
       "description": "",
       "latitude": 51.174514,
       "longitude": 22.277870
+    },
+    {
+      "name": "Białystok: Parafia św. Kazimierza Królewicza",
+      "schedule": "https://kazimierz.archibial.pl/n/nabozenstwa.php",
+      "announcement": "https://kazimierz.archibial.pl/n/ogloszenia.php",
+      "contact": "https://kazimierz.archibial.pl/n/index.php#:~:text=kontakt",
+      "others": "https://kazimierz.archibial.pl/n/instytucje.php",
+      "description": "",
+      "latitude": 53.149811,
+      "longitude": 23.122541
     },
     {
       "name": "Brzęczkowice: Parafia Matki Boskiej Bolesnej",
@@ -472,6 +482,16 @@
       "longitude": 19.18510
     },
     {
+      "name": "Kraków, Nowa Huta: Parafia Matki Bożej Królowej Polski",
+      "schedule": "https://www.arkapana.pl/index.php/parafia/msze-swiete-i-nabozenstwa.html",
+      "announcement": "https://www.arkapana.pl/index.php/aktualnosci/ogloszenia-parafialne.html",
+      "contact": "https://www.arkapana.pl/index.php/kontakt.html",
+      "others": "https://www.arkapana.pl/index.php/kosciol/nadzieja-cafe-rest.html",
+      "description": "",
+      "latitude": 50.084990,
+      "longitude": 20.029321
+    },
+    {
       "name": "Kraków, Opatkowice: Parafia św. Maksymiliana",
       "schedule": "https://parafiaopatkowice.pl/intencje.php#o_nas_wiecej",
       "announcement": "https://parafiaopatkowice.pl/ogloszenia.php#o_nas_wiecej",
@@ -640,6 +660,16 @@
       "description": "",
       "latitude": 51.916939,
       "longitude": 22.369409
+    },
+    {
+      "name": "Maruszyna: Parafia Przemienienia Pańskiego",
+      "schedule": "http://www.maruszyna.parafia.info.pl/index.php?p=showart&id=61&ak=1&what=79",
+      "announcement": "http://www.maruszyna.parafia.info.pl/index.php?p=showart&id=60&ak=1&what=79",
+      "contact": "http://www.maruszyna.parafia.info.pl/?p=main&what=32",
+      "others": "http://www.maruszyna.parafia.info.pl/?p=main&what=77",
+      "description": "",
+      "latitude": 49.418396,
+      "longitude": 19.958001
     },
     {
       "name": "Mielec: Parafia pw Ducha Świętego",
