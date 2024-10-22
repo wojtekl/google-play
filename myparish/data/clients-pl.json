@@ -1,5 +1,5 @@
 {
-  "updated": 1727782020649,
+  "updated": 1729598267859,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -682,6 +682,16 @@
       "longitude": 21.470616
     },
     {
+      "name": "Modzerowo: Parafia św. Stanisława Biskupa",
+      "schedule": "http://parafiamodzerowo.pl/#:~:text=porządek",
+      "announcement": "http://parafiamodzerowo.pl/kategoria/ogloszenia/",
+      "contact": "http://parafiamodzerowo.pl/#:~:text=kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 52.346943,
+      "longitude": 18.768194
+    },
+    {
       "name": "Mysłowice: Parafia NSPJ",
       "schedule": "https://www.nspjmyslowice.pl/index.php/aktualnosci/intencje-mszalne.html#content",
       "announcement": "https://www.nspjmyslowice.pl/index.php/aktualnosci/ogloszenia-parafialne.html#content",
@@ -802,6 +812,16 @@
       "longitude": 19.71708
     },
     {
+      "name": "Połaniec: Parafia św. Marcina Biskupa",
+      "schedule": "https://marcinpolaniec.pl/#nabozenstwa",
+      "announcement": "https://marcinpolaniec.pl/ogloszenia-parafialne/",
+      "contact": "https://marcinpolaniec.pl/kontakt/",
+      "others": "https://polaniec.grobonet.com/",
+      "description": "",
+      "latitude": 50.436607,
+      "longitude": 21.281333
+    },
+    {
       "name": "Płońsk: Parafia pw św. Michała Archanioła",
       "schedule": "https://michalplonsk.pl/intencje/#content",
       "announcement": "https://michalplonsk.pl/category/ogloszenia-parafialne/",
@@ -870,6 +890,16 @@
       "description": "",
       "latitude": 50.304157,
       "longitude": 18.857421
+    },
+    {
+      "name": "Rumia: Parafia pw Podwyższenia Krzyża Świętego",
+      "schedule": "https://www.rumiakrzyz.pl/intencje-mszalne-2",
+      "announcement": "https://www.rumiakrzyz.pl/#:~:text=ogłoszenia%20duszpasterskie",
+      "contact": "https://www.rumiakrzyz.pl/#:~:text=kontakt",
+      "others": "https://www.rumiakrzyz.pl/cmentarz/",
+      "description": "",
+      "latitude": 54.581243,
+      "longitude": 18.403288
     },
     {
       "name": "Ryki: Parafia Najświętszego Zbawiciela",
@@ -1190,6 +1220,16 @@
       "description": "",
       "latitude": 52.661026,
       "longitude": 19.072845
+    },
+    {
+      "name": "Włocławek: Parafia Wniebowzięcia NMP",
+      "schedule": "https://katedrawloclawek.pl/intencje.php",
+      "announcement": "https://katedrawloclawek.pl/aktualnosci.php",
+      "contact": "https://katedrawloclawek.pl/index.php",
+      "others": "",
+      "description": "",
+      "latitude": 52.661060,
+      "longitude": 19.067837
     },
     {
       "name": "Wysocko Wielkie: Parafia Podwyższenia Krzyża Św",
