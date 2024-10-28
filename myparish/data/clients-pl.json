@@ -1,5 +1,5 @@
 {
-  "updated": 1729600017420,
+  "updated": 1730098046020,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -270,6 +270,16 @@
       "description": "",
       "latitude": 49.65225,
       "longitude": 21.16160
+    },
+    {
+      "name": "Górna Grupa: Parafia św. Teresy od Dzieciątka Jezus",
+      "schedule": "https://parafia-gg.werbisci.pl/#:~:text=porządek",
+      "announcement": "https://parafia-gg.werbisci.pl/",
+      "contact": "https://parafia-gg.werbisci.pl/#:~:text=kancelaria",
+      "others": "",
+      "description": "",
+      "latitude": 53.486510,
+      "longitude": 18.669068
     },
     {
       "name": "Hajnówka: Parafia Rzymskokatolicka pw. Podwyższenia Krzyża Świętego",
@@ -590,6 +600,16 @@
       "description": "",
       "latitude": 50.08189,
       "longitude": 21.02724
+    },
+    {
+      "name": "Lubin: Parafia pw Matki Bożej Częstochowskiej",
+      "schedule": "https://mbczlubin.salezjanie.pl/?cat=7",
+      "announcement": "https://mbczlubin.salezjanie.pl/?cat=5",
+      "contact": "https://mbczlubin.salezjanie.pl/?page_id=79",
+      "others": "https://mbczlubin.salezjanie.pl/?page_id=1196",
+      "description": "",
+      "latitude": 51.397052,
+      "longitude": 16.203901
     },
     {
       "name": "Lublin: Parafia Niepokalanego Serca Maryi i św. Frnaciszka",
