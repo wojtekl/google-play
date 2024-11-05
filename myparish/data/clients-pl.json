@@ -1,5 +1,5 @@
 {
-  "updated": 1730544413010,
+  "updated": 1730791885502,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -82,6 +82,16 @@
       "longitude": 17.54721
     },
     {
+      "name": "Chorzelów: Parafia Wszystkich Świętych",
+      "schedule": "https://chorzelow.diecezja.tarnow.pl/intencje-mszy-na-nadchodzacy-tydzien/",
+      "announcement": "https://chorzelow.diecezja.tarnow.pl/ogloszenia/",
+      "contact": "https://chorzelow.diecezja.tarnow.pl/kontakt/",
+      "others": "https://www.youtube.com/channel/UCK0-Z6r_GMMuTICGDObFPMQ",
+      "description": "",
+      "latitude": 50.329996,
+      "longitude": 21.441026
+    },
+    {
       "name": "Chropaczów: Parafia MB Różańcowej",
       "schedule": "https://www.parafiachropaczow.pl/intencje",
       "announcement": "https://www.parafiachropaczow.pl/ogloszenia",
@@ -140,6 +150,16 @@
       "description": "",
       "latitude": 53.53663,
       "longitude": 17.23504
+    },
+    {
+      "name": "Gawłuszowice: Parafia pw św. Wojciecha Biskupa i Męczennika",
+      "schedule": "https://parafiagawluszowice.pl/intencje-mszalne/",
+      "announcement": "https://parafiagawluszowice.pl/ogloszenia-parafialne/",
+      "contact": "https://parafiagawluszowice.pl/kontakt/",
+      "others": "https://parafiagawluszowice.pl/wydarzenia/",
+      "description": "",
+      "latitude": 50.412695,
+      "longitude": 21.381232
     },
     {
       "name": "Gdańsk, Stare Szkoty: Parafia św. Ignacego z Loyoli",
@@ -272,6 +292,16 @@
       "longitude": 21.16160
     },
     {
+      "name": "Goszczanów: Parafia św. Marcina i św. Stanisława Biskupa",
+      "schedule": "https://parafiagoszczanow.pl/intencje",
+      "announcement": "https://parafiagoszczanow.pl/ogloszenia",
+      "contact": "https://parafiagoszczanow.pl/",
+      "others": "https://parafiagoszczanow.pl/turczynki",
+      "description": "",
+      "latitude": 51.789828,
+      "longitude": 18.504793
+    },
+    {
       "name": "Górna Grupa: Parafia św. Teresy od Dzieciątka Jezus",
       "schedule": "https://parafia-gg.werbisci.pl/#:~:text=porządek",
       "announcement": "https://parafia-gg.werbisci.pl/",
@@ -322,6 +352,16 @@
       "longitude": 19.43458
     },
     {
+      "name": "Jarocin: Parafia pw św. Marcina",
+      "schedule": "https://swmarcin-jarocin.com/intencje-mszalne.html",
+      "announcement": "https://swmarcin-jarocin.com/ogloszenia-parafialne.html",
+      "contact": "https://swmarcin-jarocin.com/kontakt_7.html",
+      "others": "https://swmarcin-jarocin.com/wyszukiwarka.html",
+      "description": "",
+      "latitude": 51.973101,
+      "longitude": 17.501626
+    },
+    {
       "name": "Jaworzynka, Trzycatek: Parafia Matki Bożej Frydeckiej",
       "schedule": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/intencje-mszalne/#main",
       "announcement": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/ogloszenia-parafialne/#main",
@@ -340,6 +380,16 @@
       "description": "",
       "latitude": 50.641996,
       "longitude": 20.305891
+    },
+    {
+      "name": "Katowice: Parafia NSPJ i św. Jana Bosko",
+      "schedule": "https://nspj.katowice.pl/index.php/2014-11-19-11-23-45",
+      "announcement": "https://nspj.katowice.pl/index.php/2014-11-19-11-23-15",
+      "contact": "https://nspj.katowice.pl/index.php/2014-11-19-11-17-33",
+      "others": "https://nspj.katowice.pl/index.php/poznaj-nasz-kosciol",
+      "description": "",
+      "latitude": 50.210030,
+      "longitude": 18.975170
     },
     {
       "name": "Katowice: Parafia Wniebowzięcia NMP",
@@ -370,6 +420,16 @@
       "description": "https://parafia.panewniki.pl/o-nas/galeria/wirtualny-spacer/",
       "latitude": 50.226903,
       "longitude": 18.962620
+    },
+    {
+      "name": "Katowice, Piotrowice: Parafia Najświętszego Ciała i Krwi Chrystusa",
+      "schedule": "http://www.parafia.katowice.pl/Informacje/Porzadek-nabozenstw",
+      "announcement": "http://www.parafia.katowice.pl/Informacje/Ogloszenia-parafialne",
+      "contact": "http://www.parafia.katowice.pl/Kontakt",
+      "others": "http://www.parafia.katowice.pl/Galerie",
+      "description": "",
+      "latitude": 50.202930,
+      "longitude": 18.982964
     },
     {
       "name": "Kętrzyn: Parafia św. Jerzego",
@@ -600,6 +660,16 @@
       "description": "",
       "latitude": 50.08189,
       "longitude": 21.02724
+    },
+    {
+      "name": "Lisków: Parafia Wszystkich Świętych",
+      "schedule": "http://liskowparafia.pl/?cat=52",
+      "announcement": "http://liskowparafia.pl/?cat=61",
+      "contact": "http://liskowparafia.pl/?page_id=1812",
+      "others": "https://www.ecmentarze.pl/parafia/liskow",
+      "description": "",
+      "latitude": 51.832698,
+      "longitude": 18.399895
     },
     {
       "name": "Lubin: Parafia pw Matki Bożej Częstochowskiej",
@@ -1282,6 +1352,16 @@
       "longitude": 19.067837
     },
     {
+      "name": "Wójcin: Parafia św. Katarzyny i św. Walentego",
+      "schedule": "https://wojcin.pl/kosciol_intencje_mszalne.php",
+      "announcement": "https://wojcin.pl/kosciol_ogloszenia.php",
+      "contact": "https://wojcin.pl/kosciol_intencje_mszalne.php",
+      "others": "https://www.ecmentarze.pl/cmentarz/wojcin",
+      "description": "",
+      "latitude": 51.175153,
+      "longitude": 18.244815
+    },
+    {
       "name": "Wysocko Wielkie: Parafia Podwyższenia Krzyża Św",
       "schedule": "http://parafiawysockowielkie.pl/index.php/intencje-mszalne/#content",
       "announcement": "http://parafiawysockowielkie.pl/index.php/ogloszenia-parafialne/#content",
@@ -1330,6 +1410,16 @@
       "description": "",
       "latitude": 53.53455,
       "longitude": 16.00825
+    },
+    {
+      "name": "Złotoria: Parafia pw św. Józefa",
+      "schedule": "https://diecezja.lomza.pl/parafie-diecezji-lomzynskiej/ad/parafie,1/zlotoria-parafia-pw-sw-jozefa,181/#:~:text=msza",
+      "announcement": "https://diecezja.lomza.pl/parafie-diecezji-lomzynskiej/ad/parafie,1/zlotoria-parafia-pw-sw-jozefa,181/#:~:text=opis",
+      "contact": "https://diecezja.lomza.pl/parafie-diecezji-lomzynskiej/ad/parafie,1/zlotoria-parafia-pw-sw-jozefa,181/#:~:text=kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 53.177400,
+      "longitude": 22.933555
     },
     {
       "name": "Złoty Potok: Parafia św. Jana Chrzciciela",
