@@ -1,5 +1,5 @@
 {
-  "updated": 1730962612349,
+  "updated": 1730976120689,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -1140,6 +1140,16 @@
       "description": "",
       "latitude": 53.65705,
       "longitude": 20.39775
+    },
+    {
+      "name": "Stąporków: Parafia pw Wniebowzięcia NMP",
+      "schedule": "https://diecezja.radom.pl/staporkow-parafia-pw-wniebowziecia-nmp/#:~:text=msze",
+      "announcement": "https://diecezja.radom.pl/staporkow-parafia-pw-wniebowziecia-nmp/#:~:text=o%20parafii",
+      "contact": "https://diecezja.radom.pl/staporkow-parafia-pw-wniebowziecia-nmp/#:~:text=kontakt",
+      "others": "https://www.ecmentarze.pl/cmentarz/staporkow",
+      "description": "",
+      "latitude": 51.137608,
+      "longitude": 20.558665
     },
     {
       "name": "Straszyn: Parafia św. Jacka",
