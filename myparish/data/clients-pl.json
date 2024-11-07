@@ -1,5 +1,5 @@
 {
-  "updated": 1730791885502,
+  "updated": 1730962612349,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -360,6 +360,16 @@
       "description": "",
       "latitude": 51.973101,
       "longitude": 17.501626
+    },
+    {
+      "name": "Jasienica: Parafia pw św. Rocha",
+      "schedule": "https://parafiajasienica.kylos.pl/nowajasienica/index.php/porzadek-mszy-sw-i-nabozenstw",
+      "announcement": "https://parafiajasienica.kylos.pl/nowajasienica/index.php/ogloszenia",
+      "contact": "https://parafiajasienica.kylos.pl/nowajasienica/index.php/dane-adresowe-i-konto-parafii",
+      "others": "http://jasienica.artlookgallery.com/",
+      "description": "",
+      "latitude": 52.803895,
+      "longitude": 22.043662
     },
     {
       "name": "Jaworzynka, Trzycatek: Parafia Matki Bożej Frydeckiej",
@@ -1092,6 +1102,16 @@
       "longitude": 18.718198
     },
     {
+      "name": "Słotowa: Parafia Najświętszej Maryi Panny Królowej Polski",
+      "schedule": "https://slotowa-wiz.diecezja.tarnow.pl/#start",
+      "announcement": "https://slotowa-wiz.diecezja.tarnow.pl/#parafia",
+      "contact": "https://slotowa-wiz.diecezja.tarnow.pl/#adres",
+      "others": "https://slotowa-wiz.diecezja.tarnow.pl/#grupy",
+      "description": "",
+      "latitude": 49.945635,
+      "longitude": 21.292140
+    },
+    {
       "name": "Starogard Gdański: Parafia św. Wojciecha",
       "schedule": "http://wojciechstarogard.pl/36-Kalendarz_Liturgiczny",
       "announcement": "http://wojciechstarogard.pl/32-Ogloszenia_parafialne",
@@ -1352,6 +1372,16 @@
       "longitude": 19.067837
     },
     {
+      "name": "Wola Mielecka: Parafia pw Bożej Opatrzności",
+      "schedule": "https://parafiawolamielecka.pl/intencje-mszalne/",
+      "announcement": "https://parafiawolamielecka.pl/ogloszenia-parafialne/",
+      "contact": "https://parafiawolamielecka.pl/kontakt/",
+      "others": "https://parafiawolamielecka.pl/aktualnosci/",
+      "description": "",
+      "latitude": 50.283320,
+      "longitude": 21.385958
+    },
+    {
       "name": "Wójcin: Parafia św. Katarzyny i św. Walentego",
       "schedule": "https://wojcin.pl/kosciol_intencje_mszalne.php",
       "announcement": "https://wojcin.pl/kosciol_ogloszenia.php",
@@ -1370,6 +1400,16 @@
       "description": "",
       "latitude": 51.62239,
       "longitude": 17.85409
+    },
+    {
+      "name": "Wysowa-Zdrój: Parafia pw Najświętszej Maryi Panny Wniebowziętej",
+      "schedule": "https://parafiawysowa.pl/intencje-tygodniowe/",
+      "announcement": "https://parafiawysowa.pl/kategoria/ogloszenia/",
+      "contact": "https://parafiawysowa.pl/kontakt/",
+      "others": "https://parafiawysowa.pl/galeria/",
+      "description": "",
+      "latitude": 49.441587,
+      "longitude": 21.172942
     },
     {
       "name": "Zabrze: Parafia św. Wojciecha",
