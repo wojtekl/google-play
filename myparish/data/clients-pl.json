@@ -1,5 +1,5 @@
 {
-  "updated": 1730976120689,
+  "updated": 1731224917493,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -562,6 +562,16 @@
       "longitude": 19.18510
     },
     {
+      "name": "Koźminek: Parafia pw św. Jana Apostoła",
+      "schedule": "https://parafiakozminek.pl/category/intencje/",
+      "announcement": "https://parafiakozminek.pl/category/ogloszenia/",
+      "contact": "https://parafiakozminek.pl/#kontakt",
+      "others": "https://parafiakozminek.pl/galeria/",
+      "description": "",
+      "latitude": 51.797721,
+      "longitude": 18.339569
+    },
+    {
       "name": "Kraków, Nowa Huta: Parafia Matki Bożej Królowej Polski",
       "schedule": "https://www.arkapana.pl/index.php/parafia/msze-swiete-i-nabozenstwa.html",
       "announcement": "https://www.arkapana.pl/index.php/aktualnosci/ogloszenia-parafialne.html",
@@ -662,6 +672,16 @@
       "longitude": 20.58005
     },
     {
+      "name": "Limanowa: Parafia pw Matki Boskiej Bolesnej",
+      "schedule": "https://bazylika-limanowa.pl/intencje-mszy-sw/",
+      "announcement": "https://bazylika-limanowa.pl/ogloszenia-duszpasterskie/",
+      "contact": "https://bazylika-limanowa.pl/kontakt/",
+      "others": "http://bazylika-limanowa.pl/emisja/",
+      "description": "",
+      "latitude": 49.706533,
+      "longitude": 20.420416
+    },
+    {
       "name": "Lisia Góra: Parafia pw Matki Bożej Różańcowej",
       "schedule": "https://lisia-gora.diecezja.tarnow.pl/intencje/",
       "announcement": "https://lisia-gora.diecezja.tarnow.pl/category/ogloszenia-parafialne/",
@@ -710,6 +730,16 @@
       "description": "",
       "latitude": 50.070273,
       "longitude": 22.229757
+    },
+    {
+      "name": "Łącko: Parafia pw św. Jana Chrzciciela",
+      "schedule": "https://parafia.elacko.pl/aktualnosci/intencje-mszalne-2/",
+      "announcement": "http://parafia.elacko.pl/aktualnosci/ogloszenia-parafialne/",
+      "contact": "https://parafia.elacko.pl/kontakt/",
+      "others": "http://www.mogily.pl/lacko",
+      "description": "",
+      "latitude": 49.559314,
+      "longitude": 20.436491
     },
     {
       "name": "Łosice: Parafia pw. św. Zygmunta",
@@ -816,7 +846,7 @@
       "schedule": "http://parafiamodzerowo.pl/#:~:text=porządek",
       "announcement": "http://parafiamodzerowo.pl/kategoria/ogloszenia/",
       "contact": "http://parafiamodzerowo.pl/#:~:text=kontakt",
-      "others": "",
+      "others": "https://www.ecmentarze.pl/cmentarz/modzerowo",
       "description": "",
       "latitude": 52.346943,
       "longitude": 18.768194
@@ -870,6 +900,16 @@
       "description": "",
       "latitude": 49.478163,
       "longitude": 20.030281
+    },
+    {
+      "name": "Obidza: Parafia Trójcy Przenajświętszej",
+      "schedule": "https://obidza-wiz.diecezja.tarnow.pl/#start",
+      "announcement": "https://obidza-wiz.diecezja.tarnow.pl/#parafia",
+      "contact": "https://obidza-wiz.diecezja.tarnow.pl/#adres",
+      "others": "",
+      "description": "",
+      "latitude": 49.505328,
+      "longitude": 20.497358
     },
     {
       "name": "Odrzykoń: Parafia św. Katarzyny i Matki Bożej Różańcowej",
@@ -960,6 +1000,26 @@
       "description": "",
       "latitude": 52.622166,
       "longitude": 20.374054
+    },
+    {
+      "name": "Podegrodzie: Parafia św. Jakuba",
+      "schedule": "https://parafiapodegrodzie.pl/intencje/",
+      "announcement": "https://parafiapodegrodzie.pl/ogloszenia/",
+      "contact": "https://parafiapodegrodzie.pl/kancelaria/",
+      "others": "https://parafiapodegrodzie.pl/cmentarz/",
+      "description": "",
+      "latitude": 49.577355,
+      "longitude": 20.585984
+    },
+    {
+      "name": "Przespolew: Parafia św. Katarzyny Aleksandryjskiej i MB Pocieszenia",
+      "schedule": "https://diecezja.kalisz.pl/parafia/102",
+      "announcement": "https://diecezja.kalisz.pl/parafia/102",
+      "contact": "https://diecezja.kalisz.pl/parafia/102",
+      "others": "https://www.ecmentarze.pl/cmentarz/przespolew",
+      "description": "",
+      "latitude": 51.903707,
+      "longitude": 18.403508
     },
     {
       "name": "Pszczyna: Parafia Wszystkich świętych",
@@ -1332,6 +1392,16 @@
       "longitude": 16.47068
     },
     {
+      "name": "Warszawa: Parafia Matki Bożej Loretańskiej",
+      "schedule": "https://mbloretanska.pl/?cat=6",
+      "announcement": "https://mbloretanska.pl/?cat=3",
+      "contact": "https://mbloretanska.pl/?page_id=40",
+      "others": "",
+      "description": "",
+      "latitude": 52.256686,
+      "longitude": 21.027703
+    },
+    {
       "name": "Warszawa, Bródno: Parafia św. Włodzimierza",
       "schedule": "https://wlodzimierz.waw.pl/category/intencje-mszalne/",
       "announcement": "https://wlodzimierz.waw.pl/category/ogloszenia-parafialne/",
@@ -1400,6 +1470,26 @@
       "description": "",
       "latitude": 51.175153,
       "longitude": 18.244815
+    },
+    {
+      "name": "Września: Parafia pw Świętego Ducha",
+      "schedule": "https://www.swietyduch.wrzesnia.pl/index.php/intencje-mszalne.html",
+      "announcement": "https://www.swietyduch.wrzesnia.pl/index.php/ogoszenia-duszpasterskie.html",
+      "contact": "https://www.swietyduch.wrzesnia.pl/index.php/kontakt.html",
+      "others": "",
+      "description": "",
+      "latitude": 52.322586,
+      "longitude": 17.571057
+    },
+    {
+      "name": "Września: Parafia pw Wniebowzięcia NMP i św. Stanisława BM",
+      "schedule": "http://farawrzesnia.pl/",
+      "announcement": "http://farawrzesnia.pl/?page_id=12",
+      "contact": "http://farawrzesnia.pl/?page_id=17",
+      "others": "",
+      "description": "",
+      "latitude": 52.326473,
+      "longitude": 17.564231
     },
     {
       "name": "Wysocko Wielkie: Parafia Podwyższenia Krzyża Św",
