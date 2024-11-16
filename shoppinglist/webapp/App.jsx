@@ -7,7 +7,7 @@ class App extends React.Component {
         <div><button class="btn btn-secondary" type="button" disabled>
           <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
         {localise.loading}
-      </button><p>Nie widzisz cen? Kliknij <a href="http://zakupy.ugu.pl/#app" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p></div>
+      </button><p>Nie widzisz cen? Kliknij <a href="https://pricey.wuaze.com" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p></div>
       )
     }
   }
