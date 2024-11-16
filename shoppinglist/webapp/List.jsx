@@ -33,7 +33,7 @@ class List extends React.Component {
               <a class="nav-link" href="https://rb.gy/sqezhd">{localise.getTheApp}</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://buycoffee.to/wleap">{localise.support}</a>
+              <a class="nav-link" href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{localise.support}</a>
             </li>
           </ul>
           {!this.props.selected && <form class="form-inline">
