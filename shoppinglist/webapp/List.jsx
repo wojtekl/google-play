@@ -43,7 +43,7 @@ class List extends React.Component {
         <div class="row mt-3">
           {!!this.props.selected && <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a onClick={this.props.back}>{localise.back}</a></li>
+              <li class="breadcrumb-item"><a href onClick={this.props.back}>{localise.back}</a></li>
               <li class="breadcrumb-item active" aria-current="page">{this.props.selected}</li>
             </ol>
           </nav>}
