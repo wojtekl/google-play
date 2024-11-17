@@ -2,31 +2,32 @@
 
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: Content-Type");
+header("Content-Type: application/json");
 
 require "repository.php";
 
 $kraj = "pl";
 $httpAcceptLanguage = explode(",", $_SERVER["HTTP_ACCEPT_LANGUAGE"]);
 if (isset($httpAcceptLanguage[0])) {
-  $kraj = strtolower(substr($httpAcceptLanguage[0], 3));
+  $kraj = strtolower(substr(trim($httpAcceptLanguage[0]), 3));
 }
 
 if(isset($_GET["lang"])) {
-  $kraj = $_GET["lang"];
+  $kraj = strtolower(trim($_GET["lang"]));
 }
 
-$identyfikator = $_GET["identyfikator"];
+$identyfikator = strtolower(trim($_GET["identyfikator"]));
 
-$timestamp= $_GET["timestamp"];
+$timestamp= trim($_GET["timestamp"]);
 
-switch ($_SERVER["REQUEST_METHOD"]) {
-  case "POST":
+switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
+  case "post":
     post();
     break;
-  case "PUT":
+  case "put":
     put();
     break;
-  case "DELETE":
+  case "delete":
     delete();
     break;
   default:
@@ -34,7 +35,6 @@ switch ($_SERVER["REQUEST_METHOD"]) {
 }
 
 function get() {
-  header("Content-Type: application/json");
   global $kraj, $identyfikator, $repository;
   $result = $repository -> getCenyAll($kraj);
   $list = "[";
@@ -46,7 +46,6 @@ function get() {
 }
 
 function post() {
-  header("Content-Type: application/json");
   global $kraj, $identyfikator, $timestamp, $repository;
   $result = $timestamp != "" ? $repository -> getUpdate($timestamp, $kraj) : $repository -> getCenyAll($kraj);
   $list = "[";
@@ -58,12 +57,10 @@ function post() {
 }
 
 function put() {
-  header("Content-Type: application/json");
   global $kraj, $identyfikator, $repository;
 }
 
 function delete() {
-  header("Content-Type: application/json");
   global $kraj, $identyfikator, $repository;
 }
 

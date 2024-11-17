@@ -33,7 +33,6 @@ switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
 }
 
 function get() {
-  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
   $result = $repository -> getCeny(trim($_GET["nazwa"]));
   $list = "[";
@@ -45,7 +44,6 @@ function get() {
 }
 
 function post() {
-  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
   $produkt = trim($_POST["nazwa"]);
   $sklep = strtolower(trim($_POST["sklep"]));
@@ -56,12 +54,10 @@ function post() {
 }
 
 function put() {
-  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
 }
 
 function delete() {
-  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
 }
 
