@@ -1,4 +1,5 @@
 <?php
+
 require "./_global.php";
 
 header("Content-Type: application/json");
@@ -13,4 +14,5 @@ try {
 catch(PDOException $e) {
   echo $e -> getMessage();
 }
+
 ?>

@@ -1,8 +1,8 @@
 <?php
 
-  $SQL_HOST = "mysql1.ugu.pl";
-  $SQL_DATABASE = "database";
-  $SQL_USER = "user";
-  $SQL_PASSWORD = "password";
+  const $SQL_HOST = "mysql1.ugu.pl";
+  const $SQL_DATABASE = "database";
+  const $SQL_USER = "user";
+  const $SQL_PASSWORD = "password";
 
 ?>
