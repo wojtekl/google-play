@@ -27,7 +27,7 @@ class List extends React.Component {
         <div class="row mt-3">
           <ul class="nav nav-pills">
             <li class="nav-item">
-              <a class="nav-link active" href="#app" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
+              <a class="nav-link active" href="#" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://rb.gy/sqezhd">{localise.getTheApp}</a>
@@ -43,7 +43,7 @@ class List extends React.Component {
         <div class="row mt-3">
           {!!this.props.selected && <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="#app" onClick={this.props.back}>{localise.back}</a></li>
+              <li class="breadcrumb-item"><a href="#" onClick={this.props.back}>{localise.back}</a></li>
               <li class="breadcrumb-item active" aria-current="page">{this.props.selected}</li>
             </ol>
           </nav>}
