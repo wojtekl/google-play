@@ -2,29 +2,30 @@
 
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: Content-Type");
+header("Content-Type: application/json");
 
 require "repository.php";
 
 $kraj = "pl";
 $httpAcceptLanguage = explode(",", $_SERVER["HTTP_ACCEPT_LANGUAGE"]);
 if (isset($httpAcceptLanguage[0])) {
-  $kraj = strtolower(substr($httpAcceptLanguage[0], 3));
+  $kraj = strtolower(substr(trim($httpAcceptLanguage[0]), 3));
 }
 
 if(isset($_GET["lang"])) {
-  $kraj = $_GET["lang"];
+  $kraj = strtolower(trim($_GET["lang"]));
 }
 
-$identyfikator = $_POST["identyfikator"];
+$identyfikator = strtolower(trim($_POST["identyfikator"]));
 
-switch ($_SERVER["REQUEST_METHOD"]) {
-  case "POST":
+switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
+  case "post":
     post();
     break;
-  case "PUT":
+  case "put":
     put();
     break;
-  case "DELETE":
+  case "delete":
     delete();
     break;
   default:
@@ -32,9 +33,9 @@ switch ($_SERVER["REQUEST_METHOD"]) {
 }
 
 function get() {
-  header("Content-Type: application/json");
+  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
-  $result = $repository -> getCeny($_GET["nazwa"]);
+  $result = $repository -> getCeny(trim($_GET["nazwa"]));
   $list = "[";
   foreach ($result as $row) {
     $list .= "{\"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\"},";
@@ -44,22 +45,23 @@ function get() {
 }
 
 function post() {
-  header("Content-Type: application/json");
+  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
-  $produkt = $_POST["nazwa"];
-  $sklep = $_POST["sklep"];
-  $cena = $_POST["cena"];
-  if (isset($identyfikator) && isset($produkt) && isset($sklep) && isset($cena))
+  $produkt = trim($_POST["nazwa"]);
+  $sklep = strtolower(trim($_POST["sklep"]));
+  $cena = trim($_POST["cena"]);
+  if (isset($identyfikator) && isset($produkt) && isset($sklep) && isset($cena)) {
     $repository -> insertCena($produkt, $sklep, $cena, $kraj, $identyfikator);
+  }
 }
 
 function put() {
-  header("Content-Type: application/json");
+  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
 }
 
 function delete() {
-  header("Content-Type: application/json");
+  //header($CONTENT_TYPE);
   global $kraj, $identyfikator, $repository;
 }
 
