@@ -1,5 +1,5 @@
 {
-  "updated": 1731224917493,
+  "updated": 1732042569627,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -932,6 +932,26 @@
       "longitude": 19.27124
     },
     {
+      "name": "Osiek: Parafia pw św. Andrzeja Apostoła",
+      "schedule": "http://parafia-osiek.pl/intencje/",
+      "announcement": "http://parafia-osiek.pl/",
+      "contact": "http://parafia-osiek.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 49.954193,
+      "longitude": 19.267517
+    },
+    {
+      "name": "Osiek Górny: Parafia Świętego Stanisława Biskupa i Męczennika",
+      "schedule": "https://osiek.diecezjabielsko.pl/category/intencje/",
+      "announcement": "https://osiek.diecezjabielsko.pl/category/ogloszenia/",
+      "contact": "https://osiek.diecezjabielsko.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 49.944523,
+      "longitude": 19.303746
+    },
+    {
       "name": "Ostrów Mazowiecka: Parafia Chrystusa Dobrego Pasterza",
       "schedule": "https://pasterz.kylos.pl/blog/2024/08/17/intencje-maszalne-23-29-pazdziernika-2023/",
       "announcement": "https://pasterz.kylos.pl/blog/2024/08/18/ogloszenia-22-10-2023/",
@@ -1613,10 +1633,10 @@
     },
     {
       "name": "Żyraków: Parafia Trójcy Przenajświętszej",
-      "schedule": "https://www.parafiazyrakow.pl/aktualnosci/intencje-mszalne.html#tresc-article",
-      "announcement": "https://www.parafiazyrakow.pl/aktualnosci/ogloszenia-1.html#tresc-article",
-      "contact": "https://www.parafiazyrakow.pl/kontakt.html#start",
-      "others": "",
+      "schedule": "http://zyrakow.diecezjatarnow.pl/intencje-mszalne",
+      "announcement": "https://zyrakow.diecezjatarnow.pl/ogloszenia",
+      "contact": "https://zyrakow.diecezjatarnow.pl/kontakt",
+      "others": "https://zyrakow-parafialny.grobonet.com/grobonet/start.php",
       "description": "",
       "latitude": 50.08322,
       "longitude": 21.39470
