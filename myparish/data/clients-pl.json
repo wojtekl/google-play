@@ -1,5 +1,5 @@
 {
-  "updated": 1732042569627,
+  "updated": 1732216692843,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -1060,6 +1060,16 @@
       "description": "",
       "latitude": 51.397049,
       "longitude": 21.156302
+    },
+    {
+      "name": "Radomicko: Parafia pw św. Jana Chrzciciela",
+      "schedule": "https://www.radomicko.archpoznan.pl/intencje-mszalne/",
+      "announcement": "https://www.radomicko.archpoznan.pl/ogloszenia-parafialne/",
+      "contact": "https://www.radomicko.archpoznan.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 51.953655,
+      "longitude": 16.543243
     },
     {
       "name": "Reda: Parafia pw Wniebowzięcia NMP i św. Katarzyny Aleksandryjskiej",
