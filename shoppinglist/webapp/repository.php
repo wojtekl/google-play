@@ -26,20 +26,24 @@ class Repository {
     }
   }
   
-  public function insertCena($produkt, $sklep, $cena, $kraj, $identyfikator) {
-    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$produkt', '$sklep', '$cena', '$kraj', '$identyfikator', CURRENT_TIMESTAMP);");
+  public function insertCena($product, $place, $value, $country, $id) {
+    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$product', '$place', '$value', '$country', '$id', CURRENT_TIMESTAMP);");
   }
   
-  public function getCeny($produkt) {
-    return $this -> execute("SELECT `SKLEP`, `CENA`, `DODANO` FROM `CENA` WHERE `PRODUKT` = '$produkt' ORDER BY `CENA`, `DODANO` DESC, `SKLEP` LIMIT 10;");
+  public function getCeny($product) {
+    return $this -> execute("SELECT `SKLEP`, `CENA`, `DODANO` FROM `CENA` WHERE `PRODUKT` = '$product' ORDER BY `CENA`, `DODANO` DESC, `SKLEP` LIMIT 10;");
   }
   
-  public function getCenyAll($kraj) {
-    return $this -> execute("SELECT `q2`.`PRODUKT` AS `PRODUKT`, COALESCE(`q1`.`SKLEP`, `q2`.`SKLEP`) AS `SKLEP`, COALESCE(CONVERT(`q1`.`CENA`, CHAR), CONVERT(`q2`.`CENA`, CHAR)) AS `CENA`, COALESCE(`q1`.`DODANO`, `q2`.`DODANO`) AS `DODANO` FROM (SELECT `PRODUKT`, `SKLEP`, `CENA`, `DODANO` FROM `CENA` `c1` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c1`.`PRODUKT` AND `KRAJ` LIKE '%$kraj%' AND `DODANO` >= CURRENT_TIMESTAMP - INTERVAL 7 DAY ORDER BY `CENA` LIMIT 1)) `q1` RIGHT JOIN (SELECT `PRODUKT`, `SKLEP`, `CENA`, `DODANO` FROM `CENA` `c2` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c2`.`PRODUKT` AND `KRAJ` LIKE '%$kraj%' ORDER BY `DODANO` DESC LIMIT 1)) `q2` ON `q2`.`PRODUKT` = `q1`.`PRODUKT` ORDER BY `DODANO` DESC;");
+  public function getCenyAll($country) {
+    return $this -> execute("SELECT `q2`.`PRODUKT` AS `PRODUKT`, COALESCE(`q1`.`SKLEP`, `q2`.`SKLEP`) AS `SKLEP`, COALESCE(CONVERT(`q1`.`CENA`, CHAR), CONVERT(`q2`.`CENA`, CHAR)) AS `CENA`, COALESCE(`q1`.`DODANO`, `q2`.`DODANO`) AS `DODANO` FROM (SELECT `PRODUKT`, `SKLEP`, `CENA`, `DODANO` FROM `CENA` `c1` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c1`.`PRODUKT` AND `KRAJ` LIKE '%$country%' AND `DODANO` >= CURRENT_TIMESTAMP - INTERVAL 7 DAY ORDER BY `CENA` LIMIT 1)) `q1` RIGHT JOIN (SELECT `PRODUKT`, `SKLEP`, `CENA`, `DODANO` FROM `CENA` `c2` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c2`.`PRODUKT` AND `KRAJ` LIKE '%$country%' ORDER BY `DODANO` DESC LIMIT 1)) `q2` ON `q2`.`PRODUKT` = `q1`.`PRODUKT` ORDER BY `DODANO` DESC;");
   }
 
-  public function getUpdate($timestamp, $kraj) {
-    return $this -> execute("SELECT `PRODUKT`, `SKLEP`, `CENA`, UNIX_TIMESTAMP(`DODANO`) * 1000 AS `DODANO` FROM `CENA` WHERE `KRAJ` = '$kraj' AND `DODANO` >= FROM_UNIXTIME('$timestamp' / 1000);");
+  public function getUpdate($timestamp, $country) {
+    return $this -> execute("SELECT `PRODUKT`, `SKLEP`, `CENA`, UNIX_TIMESTAMP(`DODANO`) * 1000 AS `DODANO` FROM `CENA` WHERE `KRAJ` = '$country' AND `DODANO` >= FROM_UNIXTIME('$timestamp' / 1000);");
+  }
+
+  public function createVisit($address, $client, $country) {
+    return $this -> execute("INSERT INTO `VISIT` VALUES (0, '$address', '$client', '$country', CURRENT_TIMESTAMP);");
   }
 }
 
