@@ -1,5 +1,5 @@
 {
-  "updated": 1732434253920,
+  "updated": 1732470127878,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -130,6 +130,16 @@
       "description": "",
       "latitude": 52.42659,
       "longitude": 17.48923
+    },
+    {
+      "name": "Ćmińsk: Parafia pw Trójcy Świętej i Matki Bożej Szkaplerznej",
+      "schedule": "https://parafia.cminsk.pl/intencje/",
+      "announcement": "https://parafia.cminsk.pl/ogloszenia/",
+      "contact": "https://parafia.cminsk.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 50.978873,
+      "longitude": 20.541518
     },
     {
       "name": "Dąbrowa Górnicza, Strzemieszyce Wielkie: Parafia pw Najświętszego Serca Pana Jezusa",
