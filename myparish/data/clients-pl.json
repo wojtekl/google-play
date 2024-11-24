@@ -1,5 +1,5 @@
 {
-  "updated": 1732216692843,
+  "updated": 1732434253920,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -550,6 +550,16 @@
       "description": "",
       "latitude": 52.08852,
       "longitude": 16.64931
+    },
+    {
+      "name": "Kościelec: Parafia pw św. Wojciecha",
+      "schedule": "https://parafiawojciecha.com.pl/intencje-mszalne",
+      "announcement": "https://parafiawojciecha.com.pl/",
+      "contact": "https://parafiawojciecha.com.pl/kancelaria-parafialna",
+      "others": "",
+      "description": "",
+      "latitude": 51.907035,
+      "longitude": 18.211470
     },
     {
       "name": "Koziegłówki: Parafia Świętego Antoniego",
