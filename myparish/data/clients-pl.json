@@ -1,5 +1,5 @@
 {
-  "updated": 1732470127878,
+  "updated": 1732476439748,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -1220,6 +1220,16 @@
       "description": "",
       "latitude": 49.945635,
       "longitude": 21.292140
+    },
+    {
+      "name": "Starogard Gdański: Parafia Jezusa Chrystusa Króla Wszechświata",
+      "schedule": "https://jchkwstarogard.pl/sakramenty/#sacrament1",
+      "announcement": "https://jchkwstarogard.pl/ogloszenia_duszpasterskie",
+      "contact": "https://jchkwstarogard.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 53.936415,
+      "longitude": 18.501481
     },
     {
       "name": "Starogard Gdański: Parafia św. Wojciecha",
