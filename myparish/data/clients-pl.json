@@ -1,5 +1,5 @@
 {
-  "updated": 1732476439748,
+  "updated": 1732532569164,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -170,6 +170,16 @@
       "description": "",
       "latitude": 50.412695,
       "longitude": 21.381232
+    },
+    {
+      "name": "Gdańsk, Przymorze: Parafia pw św. Brata Alberta",
+      "schedule": "https://www.bratalbert.com.pl/intencje-mszalne",
+      "announcement": "https://www.bratalbert.com.pl/ogloszenia",
+      "contact": "https://www.bratalbert.com.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 54.404849,
+      "longitude": 18.603678
     },
     {
       "name": "Gdańsk, Stare Szkoty: Parafia św. Ignacego z Loyoli",
