@@ -1,5 +1,5 @@
 {
-  "updated": 1732532569164,
+  "updated": 1732603209539,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -50,6 +50,16 @@
       "description": "",
       "latitude": 50.22378,
       "longitude": 19.15328
+    },
+    {
+      "name": "Bydgoszcz: Parafia św. Mateusza Apostoła i Ewangelisty",
+      "schedule": "http://www.mateusz.bydgoszcz.pl/intencje-mszalne-33437",
+      "announcement": "http://www.mateusz.bydgoszcz.pl/ogloszenia",
+      "contact": "http://www.mateusz.bydgoszcz.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 53.155611,
+      "longitude": 18.156661
     },
     {
       "name": "Bysław: Parafia pw Przemienienia Pańskiego",
