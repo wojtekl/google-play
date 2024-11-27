@@ -1,5 +1,5 @@
 {
-  "updated": 1732696692306,
+  "updated": 1732722786789,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -700,6 +700,16 @@
       "description": "",
       "latitude": 51.81870,
       "longitude": 16.48348
+    },
+    {
+      "name": "Lenocin: Parafia św. Małgorzaty Dziewicy i Męczennicy",
+      "schedule": "http://parafia.leoncin.pl/msze-sw",
+      "announcement": "http://parafia.leoncin.pl/aktualnosci/",
+      "contact": "http://parafia.leoncin.pl/kontakt",
+      "others": "",
+      "description": "",
+      "latitude": 52.394637,
+      "longitude": 20.540515
     },
     {
       "name": "Leszno: Parafia św. Maksymiliana Marii Kolbego",
