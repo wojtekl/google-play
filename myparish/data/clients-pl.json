@@ -1,5 +1,5 @@
 {
-  "updated": 1732603209539,
+  "updated": 1732696692306,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -50,6 +50,16 @@
       "description": "",
       "latitude": 50.22378,
       "longitude": 19.15328
+    },
+    {
+      "name": "Brzozów: Parafia Przemienienia Pańskiego",
+      "schedule": "https://brzozow.przemyska.pl/intencje-mszalne/",
+      "announcement": "https://brzozow.przemyska.pl/ogloszenia-parafialne/",
+      "contact": "https://brzozow.przemyska.pl/kontakt/",
+      "others": "",
+      "description": "",
+      "latitude": 49.695184,
+      "longitude": 22.019536
     },
     {
       "name": "Bydgoszcz: Parafia św. Mateusza Apostoła i Ewangelisty",
@@ -170,6 +180,16 @@
       "description": "",
       "latitude": 53.53663,
       "longitude": 17.23504
+    },
+    {
+      "name": "Działoszyn: Parafia pw św. Marii Magdaleny",
+      "schedule": "http://www.mariamagdalena.parafia.info.pl/?p=main&what=31",
+      "announcement": "http://www.mariamagdalena.parafia.info.pl/?p=main&what=34",
+      "contact": "http://www.mariamagdalena.parafia.info.pl/?p=main&what=35",
+      "others": "https://dzialoszyn.grobonet.com/",
+      "description": "",
+      "latitude": 51.117684,
+      "longitude": 18.860218
     },
     {
       "name": "Gawłuszowice: Parafia pw św. Wojciecha Biskupa i Męczennika",
@@ -810,6 +830,16 @@
       "description": "",
       "latitude": 51.81925,
       "longitude": 19.44077
+    },
+    {
+      "name": "Łódź, Julianów: Parafia Najświętszego Serca Jezusowego i św. Marii Małgorzaty Alacoque",
+      "schedule": "https://parafia-nsj-julianow.pl/msze-swiete-i-nabozenstwa/",
+      "announcement": "https://parafia-nsj-julianow.pl/category/informacje-duszpasterskie/",
+      "contact": "https://parafia-nsj-julianow.pl/kancelaria/",
+      "others": "",
+      "description": "",
+      "latitude": 51.799055,
+      "longitude": 19.444342
     },
     {
       "name": "Łódź, Wiskitno: Parafia św. Rafała Kalinowskiego",
