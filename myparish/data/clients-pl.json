@@ -1,5 +1,5 @@
 {
-  "updated": 1732882786376,
+  "updated": 1732896680765,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -930,6 +930,16 @@
       "description": "",
       "latitude": 50.285524,
       "longitude": 21.470616
+    },
+    {
+      "name": "Mircze: Parafia Zmartwychwstania Pańskiego",
+      "schedule": "https://www.facebook.com/mirczeparafia/",
+      "announcement": "https://www.facebook.com/mirczeparafia/",
+      "contact": "https://www.facebook.com/mirczeparafia/about",
+      "others": "",
+      "description": "",
+      "latitude": 50.653215,
+      "longitude": 23.896519
     },
     {
       "name": "Modzerowo: Parafia św. Stanisława Biskupa",
