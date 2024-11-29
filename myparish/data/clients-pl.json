@@ -1,5 +1,5 @@
 {
-  "updated": 1732725431272,
+  "updated": 1732882786376,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -40,6 +40,16 @@
       "description": "",
       "latitude": 53.149811,
       "longitude": 23.122541
+    },
+    {
+      "name": "Bolewice: Parafia pw Chrystusa Króla",
+      "schedule": "http://www.parafiabolewice.pl/Og%C5%82oszenia/Intencjemszalne/tabid/80/Default.aspx",
+      "announcement": "http://www.parafiabolewice.pl/Og%C5%82oszenia/Og%C5%82oszeniaparafialne/tabid/74/Default.aspx",
+      "contact": "http://www.parafiabolewice.pl/Parafia/Daneteleadresowe/tabid/56/Default.aspx",
+      "others": "",
+      "description": "",
+      "latitude": 52.400863,
+      "longitude": 16.121093
     },
     {
       "name": "Brzęczkowice: Parafia Matki Boskiej Bolesnej",
