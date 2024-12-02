@@ -22,7 +22,7 @@ class List extends React.Component {
   }
 
   handleChange = (event) => {
-    store.dispatch({type: 'selected/added'});
+    store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: this.state.selected});
     console.log(event.target.checked, this.state.selected, store.getState().value);
   }
   
