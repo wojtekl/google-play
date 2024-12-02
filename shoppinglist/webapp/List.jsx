@@ -4,7 +4,6 @@ class List extends React.Component {
 
     this.state = {
       list: this.props.list,
-      //back: this.props.back,
       selected: null,
       filtered: this.props.list,
     }
@@ -23,7 +22,6 @@ class List extends React.Component {
 
   handleChange = (event) => {
     store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: !this.props.selected ? this.state.selected : this.props.selected});
-    console.log(event.target.checked, this.state.selected, store.getState().value);
   }
   
   render() {
@@ -55,7 +53,7 @@ class List extends React.Component {
           <table class="table table-hover">
             <thead class="thead-dark">
               <tr>
-                <th>{localise.selected}</th>
+                <th>X</th>
                 {this.props.properties.map(property => {
                   return (<th>{String(localise[property]).toUpperCase()}</th>)
                 })}
@@ -65,9 +63,8 @@ class List extends React.Component {
             <tbody>
               {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
-                  <td><input type="checkbox" name="selected" checked={store.getState().value.includes(!this.props.selected ? row["produkt"] : this.props.selected)} onChange={this.handleChange} /></td>
+                  <td><input type="checkbox" name="selected" checked={store.getState().value.includes(this.props.selected)} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
-                    const discount = !this.props.expandable && "cena" === property ? `${"1" === row["bulk"] ? "*" : ""}${"1" === row["coupon"] ? "#" : ""}` : "";
                     if ("dodano" === property) {
                       return <td>{new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" })}</td>
                     }
@@ -75,7 +72,7 @@ class List extends React.Component {
                       return <td><input type="checkbox" name={property} checked={"1" === row[property]} readonly /></td>
                     }
                     else {
-                      return <td>{row[property]}{discount}</td>
+                      return <td>{row[property]}</td>
                     }
                   })}
                   {this.props.expandable && <td><span class="badge badge-secondary" onClick={this.handleClick}>-{">"}</span></td>}
