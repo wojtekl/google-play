@@ -67,8 +67,16 @@ class List extends React.Component {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
                   <td><input type="checkbox" name="selected" checked={store.getState().value.includes(!this.props.selected ? row["produkt"] : this.props.selected)} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
-                    const discount = "cena" === property ? `${"1" === row["bulk"] ? "*" : ""}${"1" === row["coupon"] ? "#" : ""}` : "";
-                    return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}{discount}</td>
+                    const discount = !this.props.expandable && "cena" === property ? `${"1" === row["bulk"] ? "*" : ""}${"1" === row["coupon"] ? "#" : ""}` : "";
+                    if ("dodano" === property) {
+                      return <td>{new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" })}</td>
+                    }
+                    else if ("coupon" === property || "bulk" === property) {
+                      return <td><input type="checkbox" name={property} checked={"1" === row[property]} readonly /></td>
+                    }
+                    else {
+                      return <td>{row[property]}{discount}</td>
+                    }
                   })}
                   {this.props.expandable && <td><span class="badge badge-secondary" onClick={this.handleClick}>-{">"}</span></td>}
                 </tr>)
