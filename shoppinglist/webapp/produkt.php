@@ -37,7 +37,7 @@ function get() {
   $result = $repository -> getCeny(trim($_GET["nazwa"]));
   $list = "[";
   foreach ($result as $row) {
-    $list .= "{\"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\"},";
+    $list .= "{\"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\"},";
   }
   $list .= "]";
   echo str_replace(",]", "]", $list);
@@ -48,8 +48,10 @@ function post() {
   $produkt = trim($_POST["nazwa"]);
   $sklep = strtolower(trim($_POST["sklep"]));
   $cena = trim($_POST["cena"]);
-  if (isset($identyfikator) && isset($produkt) && isset($sklep) && isset($cena)) {
-    $repository -> insertCena($produkt, $sklep, $cena, $kraj, $identyfikator);
+  $coupon = trim($_POST["coupon"]);
+  $bulk = trim($_POST["bulk"]);
+  if (isset($identyfikator) && isset($produkt) && isset($sklep) && isset($cena) && isset($coupon) && isset($bulk)) {
+    $repository -> insertCena($produkt, $sklep, $cena, $kraj, $identyfikator, $coupon, $bulk);
   }
 }
 

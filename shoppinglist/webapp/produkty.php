@@ -50,7 +50,7 @@ function post() {
   $result = $timestamp != "" ? $repository -> getUpdate($timestamp, $kraj) : $repository -> getCenyAll($kraj);
   $list = "[";
   foreach ($result as $row) {
-    $list .= "{\"produkt\": \"${row["PRODUKT"]}\", \"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\"},";
+    $list .= "{\"produkt\": \"${row["PRODUKT"]}\", \"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\"},";
   }
   $list .= "]";
   echo str_replace(",]", "]", $list);

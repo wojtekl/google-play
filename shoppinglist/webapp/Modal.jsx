@@ -42,8 +42,18 @@ class Modal extends React.Component {
                 </div>
                 <div class="form-group">
                   <label for="exampleInputId1">Id</label>
-                  <input type="hidden" class="form-control" id="exampleIdCena1" aria-describedby="idHelp" name="identyfikator" value="web" />
+                  <input type="hidden" class="form-control" id="exampleInputId1" aria-describedby="idHelp" name="identyfikator" value="web" />
                   <small id="identyfikatorHelp" class="form-text text-muted">Generowany automatycznie</small>
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputCoupon1">{localise.coupon}</label>
+                  <input type="hidden" class="form-control" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
+                  <small id="couponHelp" class="form-text text-muted">Cena z kartą</small>
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputBulk1">{localise.bulk}</label>
+                  <input type="hidden" class="form-control" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
+                  <small id="couponHelp" class="form-text text-muted">Przy zakupie większej ilości</small>
                 </div>
               </form>
             </div>
