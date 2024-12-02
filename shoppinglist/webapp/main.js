@@ -16,7 +16,7 @@ const selectedReducer = (state = this.initialState, action) => {
   }
 }
 
-const store = ReactRedux.createStoreHook(selectedReducer);
+var store = ReactRedux.createStoreHook(selectedReducer);
 
 ReactDOM.render(<App />, document.getElementById('app'));
 
