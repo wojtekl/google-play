@@ -67,7 +67,7 @@ class List extends React.Component {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
                   <td><input type="checkbox" name="selected" checked={store.getState().value.includes(!this.props.selected ? row["produkt"] : this.props.selected)} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
-                    return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}</td>
+                    return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}{"coupon" === property ? "#" : ""}{"bulk" === property ? "*" : ""}</td>
                   })}
                   {this.props.expandable && <td><span class="badge badge-secondary" onClick={this.handleClick}>-{">"}</span></td>}
                 </tr>)
