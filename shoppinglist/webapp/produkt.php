@@ -51,7 +51,7 @@ function post() {
   $coupon = trim($_POST["coupon"]);
   $bulk = trim($_POST["bulk"]);
   if (isset($identyfikator) && isset($produkt) && isset($sklep) && isset($cena) && isset($coupon) && isset($bulk)) {
-    $repository -> insertCena($produkt, $sklep, $cena, $kraj, $identyfikator, $coupon, $bulk);
+    $repository -> insertCena($produkt, $sklep, $cena, $kraj, $identyfikator, $coupon ? 1 : 0, $bulk ? 1 : 0);
   }
 }
 
