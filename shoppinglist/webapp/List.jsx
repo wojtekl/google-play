@@ -47,7 +47,7 @@ class List extends React.Component {
           </ul>
           {!this.props.selected && <form class="form-inline">
     <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
-    <button type="button" class="btn btn-outline-active" onClick={this.handleCopy}>{localise.copy}</button>
+    <button type="button" class="btn btn-outline-success" onClick={this.handleCopy}>{localise.copy}</button>
   </form>}
         </div>
         <div class="row mt-3">
