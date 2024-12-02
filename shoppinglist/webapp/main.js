@@ -5,7 +5,7 @@ const initialState = {
   value: []
 }
 
-const selectedReducer = (state = this.initialState, action) => {
+const selectedReducer = (state = initialState, action) => {
   switch(action.type) {
     case 'selected/added':
       return {...state, value: state.value.concat(['dodane'])};
