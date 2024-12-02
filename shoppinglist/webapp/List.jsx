@@ -25,8 +25,8 @@ class List extends React.Component {
   }
 
   handleCopy = () => {
-    const result = store.getState().value.join(",");
-    alert(result);
+    const result = `https://pricey.wuaze.com/?selected=${store.getState().value.join(",")}`;
+    console.log(result);
   }
   
   render() {
