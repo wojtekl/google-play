@@ -50,6 +50,7 @@ class List extends React.Component {
           <table class="table table-hover">
             <thead class="thead-dark">
               <tr>
+                <th>{localise.selected}</th>
                 {this.props.properties.map(property => {
                   return (<th>{String(localise[property]).toUpperCase()}</th>)
                 })}
@@ -59,6 +60,7 @@ class List extends React.Component {
             <tbody>
               {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
+                  <td><input type="checkbox" name="selected" /></td>
                   {this.props.properties.map(property => {
                     return <td>{"dodano" === property ? new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric" }) : row[property]}</td>
                   })}
