@@ -4,7 +4,7 @@ class List extends React.Component {
 
     this.state = {
       list: this.props.list,
-      back: this.props.back,
+      //back: this.props.back,
       selected: null,
       filtered: this.props.list,
     }
@@ -22,7 +22,7 @@ class List extends React.Component {
   }
 
   handleChange = (event) => {
-    store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: this.state.selected});
+    store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: !this.props.selected ? this.state.selected : this.props.selected});
     console.log(event.target.checked, this.state.selected, store.getState().value);
   }
   
