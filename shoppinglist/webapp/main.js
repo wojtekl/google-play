@@ -8,9 +8,9 @@ const initialState = {
 const selectedReducer = (state = initialState, action) => {
   switch(action.type) {
     case 'selected/added':
-      return {...state, value: state.value.concat(['dodane'])};
+      return {...state, value: state.value.concat([action.payload])};
     case 'selected/removed':
-      return {...state, value: state.value.filter(i => i != 'dodane')};
+      return {...state, value: state.value.filter(i => i != action.payload)};
     default:
       return state;
   }
