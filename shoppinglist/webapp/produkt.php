@@ -37,7 +37,7 @@ function get() {
   $result = $repository -> getCeny(trim($_GET["nazwa"]));
   $list = "[";
   foreach ($result as $row) {
-    $list .= "{\"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\"},";
+    $list .= "{\"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": \"${row["ID"]}\"},";
   }
   $list .= "]";
   echo str_replace(",]", "]", $list);

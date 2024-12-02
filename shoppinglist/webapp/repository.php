@@ -31,15 +31,15 @@ class Repository {
   }
   
   public function getCeny($product) {
-    return $this -> execute("SELECT `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` WHERE `PRODUKT` = '$product' ORDER BY `CENA`, `DODANO` DESC, `SKLEP` LIMIT 10;");
+    return $this -> execute("SELECT `ID`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` WHERE `PRODUKT` = '$product' ORDER BY `CENA`, `DODANO` DESC, `SKLEP` LIMIT 10;");
   }
 
   public function getSelected($selected) {
-    return $this -> execute("SELECT `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` WHERE `ID` IN ('$selected') ORDER BY `SKLEP`, `PRODUKT`");
+    return $this -> execute("SELECT `ID`, `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` WHERE `ID` IN ($selected) ORDER BY `SKLEP`, `PRODUKT`");
   }
   
   public function getCenyAll($country) {
-    return $this -> execute("SELECT `q2`.`PRODUKT` AS `PRODUKT`, COALESCE(`q1`.`SKLEP`, `q2`.`SKLEP`) AS `SKLEP`, COALESCE(CONVERT(`q1`.`CENA`, CHAR), CONVERT(`q2`.`CENA`, CHAR)) AS `CENA`, COALESCE(`q1`.`DODANO`, `q2`.`DODANO`) AS `DODANO`, COALESCE(`q1`.`COUPON`, `q2`.`COUPON`) AS `COUPON`, COALESCE(`q1`.`BULK`, `q2`.`BULK`) AS `BULK` FROM (SELECT `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` `c1` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c1`.`PRODUKT` AND `KRAJ` LIKE '%$country%' AND `DODANO` >= CURRENT_TIMESTAMP - INTERVAL 7 DAY ORDER BY `CENA` LIMIT 1)) `q1` RIGHT JOIN (SELECT `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` `c2` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c2`.`PRODUKT` AND `KRAJ` LIKE '%$country%' ORDER BY `DODANO` DESC LIMIT 1)) `q2` ON `q2`.`PRODUKT` = `q1`.`PRODUKT` ORDER BY `DODANO` DESC;");
+    return $this -> execute("SELECT COALESCE(`q1`.`ID`, `q2`.`ID`) AS `ID`, `q2`.`PRODUKT` AS `PRODUKT`, COALESCE(`q1`.`SKLEP`, `q2`.`SKLEP`) AS `SKLEP`, COALESCE(CONVERT(`q1`.`CENA`, CHAR), CONVERT(`q2`.`CENA`, CHAR)) AS `CENA`, COALESCE(`q1`.`DODANO`, `q2`.`DODANO`) AS `DODANO`, COALESCE(`q1`.`COUPON`, `q2`.`COUPON`) AS `COUPON`, COALESCE(`q1`.`BULK`, `q2`.`BULK`) AS `BULK` FROM (SELECT `ID`, `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` `c1` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c1`.`PRODUKT` AND `KRAJ` LIKE '%$country%' AND `DODANO` >= CURRENT_TIMESTAMP - INTERVAL 7 DAY ORDER BY `CENA` LIMIT 1)) `q1` RIGHT JOIN (SELECT `ID`, `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` `c2` WHERE `ID` = (SELECT `ID` FROM `CENA` WHERE `PRODUKT` = `c2`.`PRODUKT` AND `KRAJ` LIKE '%$country%' ORDER BY `DODANO` DESC LIMIT 1)) `q2` ON `q2`.`PRODUKT` = `q1`.`PRODUKT` ORDER BY `DODANO` DESC;");
   }
 
   public function getUpdate($timestamp, $country) {

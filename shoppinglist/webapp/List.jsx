@@ -23,6 +23,11 @@ class List extends React.Component {
   handleChange = (event) => {
     store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: !this.props.selected ? this.state.selected : this.props.selected});
   }
+
+  handleCopy = () => {
+    const result = store.getState().value.join(",");
+    alert(result);
+  }
   
   render() {
     return (
@@ -41,6 +46,7 @@ class List extends React.Component {
           </ul>
           {!this.props.selected && <form class="form-inline">
     <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
+    <a class="nav-link success" href="javascript:;" onClick={this.handleCopy}>{localise.copy}</a>
   </form>}
         </div>
         <div class="row mt-3">
