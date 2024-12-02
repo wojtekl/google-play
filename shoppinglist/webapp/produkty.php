@@ -47,16 +47,7 @@ function post() {
   global $kraj, $identyfikator, $repository;
   $timestamp= trim($_GET["timestamp"]);
   $selected = trim($_POST["selected"]);
-  $result = [];
-  if ("" != $timestamp) {
-    $result = $repository -> getUpdate($timestamp, $kraj);
-  }
-  elseif ("" != $selected) {
-    $result = $repository -> getSelected($selected);
-  }
-  else {
-    $result = $repository -> getCenyAll($kraj);
-  };
+  $result = "" != $timestamp ? $repository -> getUpdate($timestamp, $kraj) : "" != $selected ? $repository -> getSelected($selected) : $repository -> getCenyAll($kraj);
   $list = "[";
   foreach ($result as $row) {
     $list .= "{\"produkt\": \"${row["PRODUKT"]}\", \"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\"},";
