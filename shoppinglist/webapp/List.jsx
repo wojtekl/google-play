@@ -10,8 +10,6 @@ class List extends React.Component {
     }
   }
 
-  store = Redux.createStore(selectedReducer);
-
   handleClick = () => {
     let self = this;
     axios.get(`produkt?lang=${lang}&nazwa=${this.state.selected}`).then(function (response) {

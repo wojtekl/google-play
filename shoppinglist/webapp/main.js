@@ -16,7 +16,9 @@ const selectedReducer = (state = this.initialState, action) => {
   }
 }
 
-ReactDOM.render(<App />, document.getElementById('app'));
+const store = Redux.createStore(selectedReducer);
+
+ReactDOM.render(<ReactRedux.Provider store={store}><App /></ReactRedux.Provider>, document.getElementById('app'));
 
 /*
 
