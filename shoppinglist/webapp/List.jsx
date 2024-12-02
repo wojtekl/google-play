@@ -70,7 +70,7 @@ class List extends React.Component {
             </thead>
             <tbody>
               {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
-                return (<tr onMouseOver={() => this.setState({ selected: row[this.props.properties[0]] })}>
+                return (<tr onMouseOver={() => this.setState({ selected: !this.props.selected ? row[this.props.properties[0]] : row["id"] })}>
                   <td><input type="checkbox" name="selected" checked={store.getState().value.includes(row["id"])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ("dodano" === property) {
