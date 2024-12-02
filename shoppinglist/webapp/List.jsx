@@ -10,7 +10,7 @@ class List extends React.Component {
     }
   }
 
-  store = ReactRedux.createStore(selectedReducer);
+  store = Redux.createStore(selectedReducer);
 
   handleClick = () => {
     let self = this;
