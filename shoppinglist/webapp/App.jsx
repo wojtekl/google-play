@@ -21,8 +21,10 @@ class App extends React.Component {
   }
 
   componentWillMount() {
-    let self = this;
-    axios.post(`produkty?lang=${lang}`, { lang: lang }).then(function (response) {
+    const self = this;
+    const selected = trim(new URLSearchParams(new URL(window.location).search).get("lang"));
+    const params = selected ? `&selected=${selected}` : "";
+    axios.post(`produkty?lang=${lang}${params}`, { lang: lang }).then(function (response) {
       self.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.replace} back={self.back} />);
     })
   }
