@@ -9,6 +9,7 @@ class Modal extends React.Component {
 
   handleClick = () => {
     let self = this;
+    console.log($('form.dane').serialize());
     axios.post(`produkt?lang=${lang}`, $('form.dane').serialize(), { headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }).then(function (response) { })
     $('form.dane').trigger('reset')
   }
