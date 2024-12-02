@@ -1,5 +1,6 @@
 const Router=ReactRouterDOM.HashRouter;
 const Route=ReactRouterDOM.Route;
+const Provider=ReactRedux.Provider;
 
 const initialState = {
   value: []
@@ -18,7 +19,7 @@ const selectedReducer = (state = initialState, action) => {
 
 const store = Redux.createStore(selectedReducer);
 
-ReactDOM.render(<ReactRedux.Provider store={store}><App /></ReactRedux.Provider>, document.getElementById('app'));
+ReactDOM.render(<Provider store={store}><App /></Provider>, document.getElementById('app'));
 
 /*
 
