@@ -7,8 +7,6 @@ class List extends React.Component {
       selected: null,
       filtered: this.props.list,
     }
-
-    store.subscribe(render);
   }
 
   handleClick = () => {
@@ -93,5 +91,9 @@ class List extends React.Component {
         <Modal item={this.props.selected} />
       </div>
     );
+  }
+
+  componentWillMount() {
+    store.subscribe(render);
   }
 }
