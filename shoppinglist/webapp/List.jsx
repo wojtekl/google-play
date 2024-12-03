@@ -92,8 +92,4 @@ class List extends React.Component {
       </div>
     );
   }
-
-  componentWillMount() {
-    store.subscribe(this.render);
-  }
 }
