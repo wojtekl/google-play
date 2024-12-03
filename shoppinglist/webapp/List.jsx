@@ -94,6 +94,6 @@ class List extends React.Component {
   }
 
   componentWillMount() {
-    store.subscribe(render);
+    store.subscribe(this.render);
   }
 }
