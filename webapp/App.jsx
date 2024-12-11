@@ -2,7 +2,7 @@ class App extends React.Component {
   render() {
     return (<Carousel>
       <Carousel.Item>
-        <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel1.jpg" />
+        <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel1.jpg" fluid />
         <Carousel.Caption>
           <h1>Aplikacje</h1>
           <p>mobilne i internetowe</p>
@@ -10,7 +10,7 @@ class App extends React.Component {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel2.jpg" />
+        <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel2.jpg" fluid />
         <Carousel.Caption>
           <h1>Produkty</h1>
           <p>Zobacz zrealizowane projekty.</p>
@@ -18,7 +18,7 @@ class App extends React.Component {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel3.jpg" />
+        <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel3.jpg" fluid />
         <Carousel.Caption>
           <h1>Kontakt</h1>
           <p>Dowiedz się jak złożyć zamówienie.</p>
