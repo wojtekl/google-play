@@ -31,14 +31,14 @@ class App extends React.Component {
           <Col md="7">
             <h2 class="featurette-heading fw-normal lh-1">Oferta</h2>
             <p class="lead">
-              <ListGroup as="ul">
-                <ListGroup.Item as="li" bsPrefix="">Aplikacje mobilne i internetowe</ListGroup.Item>
-                <ListGroup.Item as="li" bsPrefix="">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
-                <ListGroup.Item as="li" bsPrefix="">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
-                <ListGroup.Item as="li" bsPrefix="">Witryny internetowe</ListGroup.Item>
-                <ListGroup.Item as="li" bsPrefix="">Rozkłady jazdy</ListGroup.Item>
-                <ListGroup.Item as="li" bsPrefix="">Domowe sieci komputerowe</ListGroup.Item>
-                <ListGroup.Item as="li" bsPrefix="">Testowanie rozwiązań informatycznych</ListGroup.Item>
+              <ListGroup>
+                <ListGroup.Item>Aplikacje mobilne i internetowe</ListGroup.Item>
+                <ListGroup.Item variant="primary">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
+                <ListGroup.Item variant="secondary">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
+                <ListGroup.Item variant="success">Witryny internetowe</ListGroup.Item>
+                <ListGroup.Item variant="danger">Rozkłady jazdy</ListGroup.Item>
+                <ListGroup.Item variant="warning">Domowe sieci komputerowe</ListGroup.Item>
+                <ListGroup.Item variant="info">Testowanie rozwiązań informatycznych</ListGroup.Item>
               </ListGroup>
             </p>
           </Col>
