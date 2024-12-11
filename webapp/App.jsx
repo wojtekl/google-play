@@ -32,13 +32,13 @@ class App extends React.Component {
             <h2 class="featurette-heading fw-normal lh-1">Oferta</h2>
             <p class="lead">
               <ListGroup as="ul">
-                <ListGroup.Item>Aplikacje mobilne i internetowe</ListGroup.Item>
-                <ListGroup.Item>Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
-                <ListGroup.Item>Zabezpieczanie połączeń sieciowych</ListGroup.Item>
-                <ListGroup.Item>Witryny internetowe</ListGroup.Item>
-                <ListGroup.Item>Rozkłady jazdy</ListGroup.Item>
-                <ListGroup.Item>Domowe sieci komputerowe</ListGroup.Item>
-                <ListGroup.Item>Testowanie rozwiązań informatycznych</ListGroup.Item>
+                <ListGroup.Item as="li">Aplikacje mobilne i internetowe</ListGroup.Item>
+                <ListGroup.Item as="li">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
+                <ListGroup.Item as="li">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
+                <ListGroup.Item as="li">Witryny internetowe</ListGroup.Item>
+                <ListGroup.Item as="li">Rozkłady jazdy</ListGroup.Item>
+                <ListGroup.Item as="li">Domowe sieci komputerowe</ListGroup.Item>
+                <ListGroup.Item as="li">Testowanie rozwiązań informatycznych</ListGroup.Item>
               </ListGroup>
             </p>
           </Col>
@@ -65,6 +65,7 @@ class App extends React.Component {
             <Button href="https://play.google.com/store/apps/details?id=github.wleap.myparish" variant="secondary">Zainstaluj</Button>
           </Col>
         </Row>
+        <hr class="featurette-divider" />
         <Row id="contact" className="featurette">
           <Col md="5">
             <Image src="https://github.com/wojtekl/google-play/blob/main/barcode.png?raw=true" />
