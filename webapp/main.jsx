@@ -1,4 +1,5 @@
 const Router = ReactRouterDOM.HashRouter;
+const Switch = ReactRouterDOM.Switch;
 const Route = ReactRouterDOM.Route;
 
 const Button = ReactBootstrap.Button;
@@ -13,7 +14,13 @@ const Row = ReactBootstrap.Row;
 
 ReactDOM.render((
   <Router>
-    <Route exact path="/" component={App} />
-    <Route path="/test" render={() => <p>Mój test</p>} />
+    <Switch>
+      <Route exact path="/">
+        <App />
+      </Route>
+      <Route path="/test">
+        <p>Mój test</p>
+      </Route>
+    </Switch>
   </Router>
 ), document.getElementById('app'));
