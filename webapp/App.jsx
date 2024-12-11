@@ -32,13 +32,13 @@ class App extends React.Component {
             <h2 class="featurette-heading fw-normal lh-1">Oferta</h2>
             <p class="lead">
               <ListGroup as="ul">
-                <ListGroup.Item as="li">Aplikacje mobilne i internetowe</ListGroup.Item>
-                <ListGroup.Item as="li">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
-                <ListGroup.Item as="li">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
-                <ListGroup.Item as="li">Witryny internetowe</ListGroup.Item>
-                <ListGroup.Item as="li">Rozkłady jazdy</ListGroup.Item>
-                <ListGroup.Item as="li">Domowe sieci komputerowe</ListGroup.Item>
-                <ListGroup.Item as="li">Testowanie rozwiązań informatycznych</ListGroup.Item>
+                <ListGroup.Item as="li" bsPrefix="">Aplikacje mobilne i internetowe</ListGroup.Item>
+                <ListGroup.Item as="li" bsPrefix="">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
+                <ListGroup.Item as="li" bsPrefix="">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
+                <ListGroup.Item as="li" bsPrefix="">Witryny internetowe</ListGroup.Item>
+                <ListGroup.Item as="li" bsPrefix="">Rozkłady jazdy</ListGroup.Item>
+                <ListGroup.Item as="li" bsPrefix="">Domowe sieci komputerowe</ListGroup.Item>
+                <ListGroup.Item as="li" bsPrefix="">Testowanie rozwiązań informatycznych</ListGroup.Item>
               </ListGroup>
             </p>
           </Col>
