@@ -1,10 +1,4 @@
 class Offer extends React.Component {
-  test = (par: Number) => {}
-
-  componentWillMount() {
-    this.test("aaa")
-  }
-
   render() {
     return <Container className="marketing">
       <Row id="offer" className="featurette">
