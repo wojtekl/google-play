@@ -1,7 +1,5 @@
 class Products extends React.Component {
   render() {
-    const navigate = useNavigate()
-
     return <Container className="marketing">
       <Row id="products" className="featurette">
         <Col lg="4">

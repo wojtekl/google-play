@@ -1,7 +1,5 @@
 class Offer extends React.Component {
   render() {
-    const navigate = useNavigate()
-
     return <Container className="marketing">
       <Row id="offer" className="featurette">
         <Col md="7">

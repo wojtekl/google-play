@@ -12,6 +12,8 @@ const Image = ReactBootstrap.Image;
 const ListGroup = ReactBootstrap.ListGroup;
 const Row = ReactBootstrap.Row;
 
+const navigate = useNavigate();
+
 ReactDOM.render((
   <Router>
     <Routes>

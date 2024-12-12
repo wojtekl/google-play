@@ -1,7 +1,5 @@
 class Contact extends React.Component {
   render() {
-    const navigate = useNavigate()
-
     return <Container className="marketing">
       <Row id="contact" className="featurette">
         <Col md="5">
