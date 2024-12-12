@@ -1,4 +1,4 @@
-const Router = ReactRouter.HashRouter;
+const Router = ReactRouterDOM.HashRouter;
 const Switch = ReactRouterDOM.Switch;
 const Route = ReactRouter.Route;
 const Routes = ReactRouter.Routes;
