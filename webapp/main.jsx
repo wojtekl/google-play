@@ -16,7 +16,7 @@ const Row = ReactBootstrap.Row;
 ReactDOM.render((
   <Router>
     <Routes>
-    <Route exact path="/" component={App} />
+    <Route exact path="/" element={<App />} />
     <Route path="/test" render={() => <p>Mój test</p>} />
     </Routes>
   </Router>
