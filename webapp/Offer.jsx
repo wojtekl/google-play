@@ -1,4 +1,6 @@
 class Offer extends React.Component {
+  test = (par: Bolean) => {}
+
   render() {
     return <Container className="marketing">
       <Row id="offer" className="featurette">
