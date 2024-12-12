@@ -11,6 +11,7 @@ class Contact extends React.Component {
           <p>wleap.zhulp@slmails.com</p>
         </Col>
       </Row>
+      <NavLink to="/" classNames="btn btn-lg btn-primary">Powrót</NavLink>
     </Container>
   }
 }

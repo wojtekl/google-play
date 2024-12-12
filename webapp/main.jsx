@@ -1,6 +1,8 @@
 const Router = ReactRouterDOM.HashRouter;
 const Routes = ReactRouterDOM.Routes;
 const Route = ReactRouterDOM.Route;
+const useNavigate = ReactRouterDOM.useNavigate;
+const NavLink = ReactRouterDOM.NavLink;
 
 const Button = ReactBootstrap.Button;
 const Carousel = ReactBootstrap.Carousel;

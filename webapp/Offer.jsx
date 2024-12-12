@@ -17,6 +17,7 @@ class Offer extends React.Component {
           </p>
         </Col>
         <Col md="5"></Col>
+        <NavLink to="/" classNames="btn btn-lg btn-primary">Powrót</NavLink>
       </Row>
     </Container>
   }
