@@ -1,6 +1,7 @@
 const Router = ReactRouterDOM.HashRouter;
 const Switch = ReactRouterDOM.Switch;
 const Route = ReactRouterDOM.Route;
+const Routes = ReactRouterDOM.Routes;
 
 const Button = ReactBootstrap.Button;
 const Carousel = ReactBootstrap.Carousel;
@@ -14,7 +15,9 @@ const Row = ReactBootstrap.Row;
 
 ReactDOM.render((
   <Router>
+    <Routes>
     <Route exact path="/" component={App} />
     <Route path="/test" render={() => <p>Mój test</p>} />
+    </Routes>
   </Router>
 ), document.getElementById('app'));
