@@ -6,7 +6,7 @@ class App extends React.Component {
         <Carousel.Caption>
           <h1>Aplikacje</h1>
           <p>mobilne i internetowe</p>
-          <Button href="#offer" variant="primary" size="lg">Przejdź</Button>
+          <Button href="#/offer" variant="primary" size="lg">Przejdź</Button>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
