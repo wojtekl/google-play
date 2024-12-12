@@ -1,7 +1,7 @@
-const Router = ReactRouterDOM.HashRouter;
+const Router = ReactRouter.HashRouter;
 const Switch = ReactRouterDOM.Switch;
-const Route = ReactRouterDOM.Route;
-const Routes = ReactRouterDOM.Routes;
+const Route = ReactRouter.Route;
+const Routes = ReactRouter.Routes;
 
 const Button = ReactBootstrap.Button;
 const Carousel = ReactBootstrap.Carousel;
