@@ -1,4 +1,4 @@
-class Offer extends JSX.Element {
+class Offer extends React.Component {
   render() {
     return <Container className="marketing">
       <Row id="offer" className="featurette">
