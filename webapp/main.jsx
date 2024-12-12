@@ -17,7 +17,7 @@ ReactDOM.render((
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/test" element={<p>Mój test dwa</p>} />
-      <Route path="/offer" element={<Offer />} />
+      <Route path="offer" element={<Offer />} />
     </Routes>
   </Router>
 ), document.getElementById('app'));

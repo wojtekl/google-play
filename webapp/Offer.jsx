@@ -1,5 +1,9 @@
 class Offer extends React.Component {
-  test = (par: Bolean) => {}
+  test = (par: Number) => {}
+
+  componentWillMount() {
+    this.test("aaa")
+  }
 
   render() {
     return <Container className="marketing">
