@@ -21,7 +21,7 @@ class Products extends React.Component {
           <Button href="https://play.google.com/store/apps/details?id=github.wleap.myparish" variant="secondary">Zainstaluj</Button>
         </Col>
       </Row>
-      <Button onClick={navigate(-1)} variant="primary">Powrót</Button>
+      <Button onClick={() => {}} variant="primary">Powrót</Button>
     </Container>
   }
 }

@@ -1,5 +1,6 @@
-class Contact extends React.Component {
-  render() {
+const Contact = () => {
+  const navigate = useNavigate();
+  
     return <Container className="marketing">
       <Row id="contact" className="featurette">
         <Col md="5">
@@ -13,5 +14,4 @@ class Contact extends React.Component {
       </Row>
       <Button onClick={navigate(-1)} variant="primary">Powrót</Button>
     </Container>
-  }
 }

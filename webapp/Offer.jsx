@@ -17,7 +17,7 @@ class Offer extends React.Component {
           </p>
         </Col>
         <Col md="5"></Col>
-        <Button onClick={navigate(-1)} variant="primary">Powrót</Button>
+        <Button onClick={() => {}} variant="primary">Powrót</Button>
       </Row>
     </Container>
   }
