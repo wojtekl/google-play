@@ -1,5 +1,9 @@
 const Contact = () => {
   const navigate = useNavigate();
+
+  const handleClick = () => {
+    navigate(-1);
+  };
   
     return <Container className="marketing">
       <Row id="contact" className="featurette">
@@ -12,6 +16,6 @@ const Contact = () => {
           <p>wleap.zhulp@slmails.com</p>
         </Col>
       </Row>
-      <Button onClick={navigate(-1)} variant="primary">Powrót</Button>
+      <Button onClick={handleClick} variant="primary">Powrót</Button>
     </Container>
 }
