@@ -1,5 +1,7 @@
 class Offer extends React.Component {
   render() {
+    const navigate = useNavigate()
+
     return <Container className="marketing">
       <Row id="offer" className="featurette">
         <Col md="7">
@@ -17,7 +19,7 @@ class Offer extends React.Component {
           </p>
         </Col>
         <Col md="5"></Col>
-        <NavLink to="/" classNames="btn btn-lg btn-primary">Powrót</NavLink>
+        <Button onClick={navigate(-1)} variant="primary">Powrót</Button>
       </Row>
     </Container>
   }

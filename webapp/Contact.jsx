@@ -1,5 +1,7 @@
 class Contact extends React.Component {
   render() {
+    const navigate = useNavigate()
+
     return <Container className="marketing">
       <Row id="contact" className="featurette">
         <Col md="5">
@@ -11,7 +13,7 @@ class Contact extends React.Component {
           <p>wleap.zhulp@slmails.com</p>
         </Col>
       </Row>
-      <NavLink to="/" classNames="btn btn-lg btn-primary">Powrót</NavLink>
+      <Button onClick={navigate(-1)} variant="primary">Powrót</Button>
     </Container>
   }
 }

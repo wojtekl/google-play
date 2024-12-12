@@ -1,5 +1,7 @@
 class Products extends React.Component {
   render() {
+    const navigate = useNavigate()
+
     return <Container className="marketing">
       <Row id="products" className="featurette">
         <Col lg="4">
@@ -21,7 +23,7 @@ class Products extends React.Component {
           <Button href="https://play.google.com/store/apps/details?id=github.wleap.myparish" variant="secondary">Zainstaluj</Button>
         </Col>
       </Row>
-      <NavLink to="/" classNames="btn btn-lg btn-primary">Powrót</NavLink>
+      <Button onClick={navigate(-1)} variant="primary">Powrót</Button>
     </Container>
   }
 }
