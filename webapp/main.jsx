@@ -1,5 +1,3 @@
-const i18n = i18next;
-const initReactI18next = ReactI18Next.initReactI18next;
 
 const Router = ReactRouterDOM.HashRouter;
 const Routes = ReactRouterDOM.Routes;
@@ -14,6 +12,9 @@ const Container = ReactBootstrap.Container;
 const Image = ReactBootstrap.Image;
 const ListGroup = ReactBootstrap.ListGroup;
 const Row = ReactBootstrap.Row;
+
+const i18n = i18next;
+const initReactI18next = ReactI18Next.initReactI18next;
 
 i18n.use(initReactI18next).init({
   resources: {
