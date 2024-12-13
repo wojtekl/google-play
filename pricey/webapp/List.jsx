@@ -22,7 +22,7 @@ class List extends React.Component {
 
   handleChange = (event) => {
     const selected = !this.props.selected ? this.props.list.find(i => i.produkt === this.state.selected).id : this.state.selected;
-    store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selected});
+    store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selected ? 'yes': 'no'});
   }
 
   handleCopy = () => {
