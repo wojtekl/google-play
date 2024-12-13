@@ -18,6 +18,7 @@ if (null == lang) lang = navigator.language.substring(3).toLocaleLowerCase();
 
 const i18n = i18next;
 const initReactI18next = ReactI18next.initReactI18next;
+const useTranslation = ReactI18next.useTranslation;
 
 i18n.use(initReactI18next).init({
   resources: resources,

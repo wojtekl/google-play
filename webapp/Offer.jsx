@@ -1,5 +1,6 @@
 const Offer = () => {
   const navigate = useNavigate();
+  const { t } = useTranslation();
 
   const handleClick = () => {
     navigate(-1);
@@ -11,7 +12,7 @@ const Offer = () => {
         <h2 class="featurette-heading fw-normal lh-1">Oferta</h2>
         <p class="lead">
           <ListGroup>
-            <ListGroup.Item>Aplikacje mobilne i internetowe</ListGroup.Item>
+            <ListGroup.Item>Aplikacje mobilne i internetowe {t('pow')}</ListGroup.Item>
             <ListGroup.Item variant="primary">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
             <ListGroup.Item variant="secondary">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
             <ListGroup.Item variant="success">Witryny internetowe</ListGroup.Item>
