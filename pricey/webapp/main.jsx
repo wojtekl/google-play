@@ -7,6 +7,7 @@ const Form = ReactBootstrap.Form;
 const Nav = ReactBootstrap.Nav;
 const Row = ReactBootstrap.Row;
 const Spinner = ReactBootstrap.Spinner;
+const Table = ReactBootstrap.Table;
 
 
 const initialState = {

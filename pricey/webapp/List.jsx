@@ -57,7 +57,7 @@ class List extends React.Component {
               <Breadcrumb.Item active>{this.props.selected}</Breadcrumb.Item>
             </Breadcrumb>
           </Nav>}
-          <table class="table table-hover">
+          <Table hover>
             <thead class="thead-dark">
               <tr>
                 <th>X</th>
@@ -86,7 +86,7 @@ class List extends React.Component {
                 </tr>)
               })}
             </tbody>
-          </table>
+          </Table>
         </Row>
         <Modal item={this.props.selected} />
       </Container>
