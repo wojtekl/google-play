@@ -20,7 +20,7 @@ class App extends React.Component {
   }
 
   componentWillMount() {
-    const self = this;
+    /*const self = this;
     const formData = new FormData();
     const selected = new URLSearchParams(new URL(window.location).search).get("selected");
     if (selected) {
@@ -28,7 +28,7 @@ class App extends React.Component {
     }
     axios.post(`produkty?lang=${lang}`, formData).then(function (response) {
       self.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.replace} back={self.back} />);
-    })
+    })*/
   }
 
   render() {
