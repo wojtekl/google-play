@@ -15,6 +15,7 @@ class Modal extends React.Component {
     const { show, handleClose } = this.props
 
     return (
+      <div className="modal show">
       <Modal.Dialog>
             <Modal.Header closeButton>
               <Modal.Title>{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</Modal.Title>
@@ -58,6 +59,7 @@ class Modal extends React.Component {
               <Button variant="primary" onClick={this.handleClick}>{localise.save}</Button>
             </Modal.Footer>
       </Modal.Dialog>
+      </div>
     );
   }
 }
