@@ -45,10 +45,10 @@ class List extends React.Component {
               <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{localise.support}</Nav.Link>
             </Nav.Item>
           </Nav>
-          {!this.props.selected && <form class="form-inline">
-    <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
-    <button type="button" class="btn btn-outline-success" onClick={this.handleCopy}>{localise.copy}</button>
-  </form>}
+          {!this.props.selected && <Form>
+    <Form.Control className="mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
+    <Button variant="outline-success" onClick={this.handleCopy}>{localise.copy}</Button>
+  </Form>}
         </Row>
         <div class="row mt-3">
           {!!this.props.selected && <nav aria-label="breadcrumb">
