@@ -1,4 +1,4 @@
-import i18n from 'i18next';
+const i18n = i18next;
 const initReactI18next = ReactI18Next.initReactI18next;
 
 const Router = ReactRouterDOM.HashRouter;
