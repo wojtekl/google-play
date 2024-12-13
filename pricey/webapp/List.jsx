@@ -76,7 +76,7 @@ class List extends React.Component {
                       return <td>{new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
                     }
                     else if ("coupon" === property || "bulk" === property) {
-                      return <td><Form.Check.Input type="check" name={property} value={"1" === row[property]} readOnly aria-label={property} /></td>
+                      return <td><Form.Check.Input type="check" name={property} value={"1" === row[property] ? 'yes' : 'no'} readOnly aria-label={property} /></td>
                     }
                     else {
                       return <td>{row[property]}</td>
