@@ -9,16 +9,16 @@ const Offer = () => {
   return <Container className="marketing">
     <Row id="offer" className="featurette">
       <Col md="7">
-        <h2 class="featurette-heading fw-normal lh-1">{t('title_ofer')}</h2>
+        <h2 class="featurette-heading fw-normal lh-1">{t('title_offer')}</h2>
         <p class="lead">
           <ListGroup>
-            <ListGroup.Item>Aplikacje mobilne i internetowe</ListGroup.Item>
-            <ListGroup.Item variant="primary">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
-            <ListGroup.Item variant="secondary">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
-            <ListGroup.Item variant="success">Witryny internetowe</ListGroup.Item>
-            <ListGroup.Item variant="danger">Rozkłady jazdy</ListGroup.Item>
-            <ListGroup.Item variant="warning">Domowe sieci komputerowe</ListGroup.Item>
-            <ListGroup.Item variant="info">Testowanie rozwiązań informatycznych</ListGroup.Item>
+            <ListGroup.Item>{t('item_offer1')}</ListGroup.Item>
+            <ListGroup.Item variant="primary">{t('item_offer2')}</ListGroup.Item>
+            <ListGroup.Item variant="secondary">{t('item_offer3')}</ListGroup.Item>
+            <ListGroup.Item variant="success">{t('item_offer4')}</ListGroup.Item>
+            <ListGroup.Item variant="danger">{t('item_offer5')}</ListGroup.Item>
+            <ListGroup.Item variant="warning">{t('item_offer6')}</ListGroup.Item>
+            <ListGroup.Item variant="info">{t('item_offer7')}</ListGroup.Item>
           </ListGroup>
         </p>
       </Col>

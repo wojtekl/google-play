@@ -15,7 +15,14 @@ const resources = {
       "description_pricey": "Porównywarka cenowa z historią",
       "description_busstop": "Rozkład jazdy autobusów z mapą",
       "description_myparish": "Katalog stron parafialnych z mapą",
-      "description_contact": "Pytania oraz zamówienia proszę kierować na adres e-mail:"
+      "description_contact": "Pytania oraz zamówienia proszę kierować na adres e-mail:",
+      "item_offer1": "Aplikacje mobilne i internetowe",
+      "item_offer2": "Rozszerzenia do Office, Chrome, Visual Studio Code itp",
+      "item_offer3": "Zabezpieczanie połączeń sieciowych",
+      "item_offer4": "Witryny internetowe",
+      "item_offer5": "Rozkłady jazdy",
+      "item_offer6": "Domowe sieci komputerowe",
+      "item_offer7": "Testowanie rozwiązań informatycznych"
     }
   },
   pl: {
@@ -34,7 +41,14 @@ const resources = {
       "description_pricey": "Porównywarka cenowa z historią",
       "description_busstop": "Rozkład jazdy autobusów z mapą",
       "description_myparish": "Katalog stron parafialnych z mapą",
-      "description_contact": "Pytania oraz zamówienia proszę kierować na adres e-mail:"
+      "description_contact": "Pytania oraz zamówienia proszę kierować na adres e-mail:",
+      "item_offer1": "Aplikacje mobilne i internetowe",
+      "item_offer2": "Rozszerzenia do Office, Chrome, Visual Studio Code itp",
+      "item_offer3": "Zabezpieczanie połączeń sieciowych",
+      "item_offer4": "Witryny internetowe",
+      "item_offer5": "Rozkłady jazdy",
+      "item_offer6": "Domowe sieci komputerowe",
+      "item_offer7": "Testowanie rozwiązań informatycznych"
     }
   }
 }
