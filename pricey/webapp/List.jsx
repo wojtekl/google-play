@@ -41,7 +41,6 @@ class List extends React.Component {
   
   render() {
     return (
-      <div>
       <Container>
         <Row className="mt-3">
           <Nav>
@@ -98,9 +97,8 @@ class List extends React.Component {
             </tbody>
           </Table>
         </Row>
+        <Modal item={this.props.selected} show={this.state.show} handleClose={this.handleClose} />
       </Container>
-      <Modal item={this.props.selected} show={this.state.show} handleClose={this.handleClose} />
-      </div>
     );
   }
 }
