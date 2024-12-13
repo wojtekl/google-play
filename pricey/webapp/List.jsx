@@ -58,7 +58,7 @@ class List extends React.Component {
             </Breadcrumb>
           </Nav>}
           <Table hover>
-            <thead class="thead-dark">
+            <thead class="table-secondary">
               <tr>
                 <th>X</th>
                 {this.props.properties.map(property => {
@@ -73,7 +73,7 @@ class List extends React.Component {
                   <td><input type="checkbox" name="selected" checked={store.getState().value.includes(row["id"])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ("dodano" === property) {
-                      return <td>{new Date(`${row[property]} -08:00`).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
+                      return <td>{new Date(`${row[property]}`).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
                     }
                     else if ("coupon" === property || "bulk" === property) {
                       return <td><input type="checkbox" name={property} checked={"1" === row[property]} readonly /></td>
@@ -82,7 +82,7 @@ class List extends React.Component {
                       return <td>{row[property]}</td>
                     }
                   })}
-                  {this.props.expandable && <td><span class="badge badge-secondary" onClick={this.handleClick}>-{">"}</span></td>}
+                  {this.props.expandable && <td><Badge bg="secondary" onClick={this.handleClick}>-{">"}</Badge></td>}
                 </tr>)
               })}
             </tbody>
