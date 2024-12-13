@@ -1,6 +1,6 @@
 const withTranslation = ReactI18next.withTranslation;
 
-class AppIn extends React.Component {
+class App extends React.Component {
   render() {
     return <div><Carousel>
       <Carousel.Item>
@@ -32,4 +32,4 @@ class AppIn extends React.Component {
   }
 }
 
-const App = withTranslation()(AppIn)
+App.prototype = withTranslation()(App)
