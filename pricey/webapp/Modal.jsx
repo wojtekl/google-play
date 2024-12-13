@@ -20,7 +20,7 @@ class Modal extends React.Component {
               <Modal.Title>{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</Modal.Title>
             </Modal.Header>
             <Modal.Body>
-              <form class="dane">
+              <Form>
                 <div class="form-group">
                   <label for="exampleInputNazwa1">{localise.name}</label>
                   <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={this.props.item} />
@@ -51,7 +51,7 @@ class Modal extends React.Component {
                   <input type="checkbox" class="form-control" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
                   <small id="couponHelp" class="form-text text-muted">Przy zakupie większej ilości</small>
                 </div>
-              </form>
+              </Form>
             </Modal.Body>
             <Modal.Footer>
               <button type="button" class="btn btn-secondary" data-dismiss="modal" onClick={handleClose}>{localise.cancel}</button>
