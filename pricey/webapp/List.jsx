@@ -53,12 +53,12 @@ class List extends React.Component {
         <Row className="mt-3">
           {!!this.props.selected && <Nav>
             <Breadcrumb>
-              <Breadcrumb.Item><a href="javascript:;" onClick={this.props.back}>{localise.back}</a></Breadcrumb.Item>
-              <Breadcrumb.Item active>{this.props.selected}</Breadcrumb.Item>
+              <Breadcrumb.Item><a href="javascript:;" onClick={this.props.back}> {localise.back} </a></Breadcrumb.Item>
+              <Breadcrumb.Item active> {this.props.selected} </Breadcrumb.Item>
             </Breadcrumb>
           </Nav>}
           <Table hover>
-            <thead class="table-secondary">
+            <thead class="table-dark">
               <tr>
                 <th>X</th>
                 {this.props.properties.map(property => {
