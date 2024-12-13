@@ -1,11 +1,13 @@
+import { withTranslation } from 'react-i18next';
+
 class App extends React.Component {
   render() {
     return <div><Carousel>
       <Carousel.Item>
         <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel1.jpg" fluid />
         <Carousel.Caption>
-          <h1>Aplikacje</h1>
-          <p>mobilne i internetowe</p>
+          <h1>Aplikacje {this.props.t('pow')}</h1>
+          <p>mobilne i internetowe </p>
           <Button href="#/offer" variant="primary" size="lg">Przejdź</Button>
         </Carousel.Caption>
       </Carousel.Item>
@@ -29,3 +31,5 @@ class App extends React.Component {
     </div>
   }
 }
+
+export default withTranslation()(App)

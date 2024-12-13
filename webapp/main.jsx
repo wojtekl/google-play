@@ -1,3 +1,6 @@
+import i18n from 'i18next';
+import { initReactI18next } from 'react-i18next';
+
 const Router = ReactRouterDOM.HashRouter;
 const Routes = ReactRouterDOM.Routes;
 const Route = ReactRouterDOM.Route;
@@ -11,6 +14,21 @@ const Container = ReactBootstrap.Container;
 const Image = ReactBootstrap.Image;
 const ListGroup = ReactBootstrap.ListGroup;
 const Row = ReactBootstrap.Row;
+
+i18n.use(initReactI18next).init({
+  resources: {
+    pl: {
+      translation: {
+        "pow": "wojtek hej"
+      }
+    }
+  },
+  lng: "pl",
+  fallbacking: "pl",
+  interpolation: {
+    escapeValue: false
+  }
+})
 
 ReactDOM.render((
   <Router>
