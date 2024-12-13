@@ -5,8 +5,9 @@ class App extends React.Component {
     this.state = {
       source: (
         <Container fluid>
-          <Button variant="secondary" disabled><Spinner animation="border" size="sm" role="status" />{localise.loading}</Button>
-          <p>Nie widzisz cen? Kliknij <a href="https://pricey.wuaze.com" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p></Container>
+          <Button variant="secondary" disabled><Spinner animation="border" size="sm" role="status" /> {localise.loading} </Button>
+          <p>Nie widzisz cen? Kliknij <a href="https://pricey.wuaze.com" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p>
+        </Container>
       )
     }
   }
