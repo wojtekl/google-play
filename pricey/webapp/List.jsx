@@ -32,11 +32,11 @@ class List extends React.Component {
   }
 
   handleShow = () => {
-    this.setState({ show: true })
+    this.setState({ ...this.state, show: true })
   }
 
   handleClose = () => {
-    this.setState({ show: false })
+    this.setState({ ...this.state, show: false })
   }
   
   render() {
@@ -78,7 +78,7 @@ class List extends React.Component {
             </thead>
             <tbody>
               {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
-                return (<tr onMouseOver={() => this.setState({ selected: !this.props.selected ? row[this.props.properties[0]] : row["id"] })}>
+                return (<tr onMouseOver={() => this.setState({ ...this.state, selected: !this.props.selected ? row[this.props.properties[0]] : row["id"] })}>
                   <td><input type="checkbox" name="selected" checked={store.getState().value.includes(row["id"])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ("dodano" === property) {
