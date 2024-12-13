@@ -36,7 +36,7 @@ class List extends React.Component {
         <Row className="mt-3">
           <Nav>
             <Nav.Item>
-              <Button href="#" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</Button>
+              <a class="nav-link active" href="#" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link href="https://rb.gy/sqezhd">{localise.getTheApp}</Nav.Link>
