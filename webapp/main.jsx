@@ -17,13 +17,7 @@ const i18n = i18next;
 const initReactI18next = ReactI18next.initReactI18next;
 
 i18n.use(initReactI18next).init({
-  resources: {
-    pl: {
-      translation: {
-        "pow": "wojtek hej"
-      }
-    }
-  },
+  resources: resources,
   lng: "pl",
   fallbacking: "pl",
   interpolation: {
