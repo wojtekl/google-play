@@ -15,7 +15,7 @@ class Modal extends React.Component {
     const { show, handleClose } = this.props
 
     return (
-      <RModal show={show} id="exampleModal" onHide={handleClose} centered fullscreen>
+      <RModal show={show} id="exampleModal" onHide={handleClose} centered>
             <RModal.Header closeButton>
               <RModal.Title>{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</RModal.Title>
             </RModal.Header>
