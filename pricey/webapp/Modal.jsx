@@ -14,19 +14,18 @@ class Modal extends React.Component {
   render() {
     const { show, handleClose } = this.props
 
-    return (
-      <Modal show={show} id="exampleModal" size="sm" onHide={handleClose} centered>
+    return (<>
+      <Modal show={show} id="exampleModal" onHide={handleClose} centered>
             <Modal.Header closeButton>
               <Modal.Title>{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</Modal.Title>
             </Modal.Header>
-            <Modal.Body>
-              <p>teeeeeeeeeeeeeest</p>
-            </Modal.Body>
+            <Modal.Body>teeeeeeeeeeeeeest</Modal.Body>
             <Modal.Footer>
               <button type="button" class="btn btn-secondary" data-dismiss="modal" onClick={handleClose}>{localise.cancel}</button>
               <button type="button" class="btn btn-primary" data-dismiss="modal" onClick={this.handleClick}>{localise.save}</button>
             </Modal.Footer>
       </Modal>
+      </>
     );
   }
 }
