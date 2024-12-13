@@ -14,7 +14,7 @@ class Modal extends React.Component {
   render() {
     const { show, handleClose } = this.props
 
-    return (<>
+    return (
       <Modal show={show} onHide={handleClose} centered fullscreen>
             <Modal.Header closeButton>
               <Modal.Title>{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</Modal.Title>
@@ -25,7 +25,6 @@ class Modal extends React.Component {
               <button type="button" class="btn btn-primary" data-dismiss="modal" onClick={this.handleClick}>{localise.save}</button>
             </Modal.Footer>
       </Modal>
-      </>
     );
   }
 }
