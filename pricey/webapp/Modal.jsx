@@ -15,7 +15,7 @@ class Modal extends React.Component {
     const { show, handleClose } = this.props
 
     return (
-      <Modal show={show} id="exampleModal" size="sm" onHide={handleClose} centered>
+      <Modal.Dialog>
             <Modal.Header closeButton>
               <Modal.Title>{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</Modal.Title>
             </Modal.Header>
@@ -57,7 +57,7 @@ class Modal extends React.Component {
               <button type="button" class="btn btn-secondary" data-dismiss="modal" onClick={handleClose}>{localise.cancel}</button>
               <button type="button" class="btn btn-primary" data-dismiss="modal" onClick={this.handleClick}>{localise.save}</button>
             </Modal.Footer>
-      </Modal>
+      </Modal.Dialog>
     );
   }
 }
