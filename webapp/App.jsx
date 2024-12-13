@@ -32,4 +32,4 @@ class AppIn extends React.Component {
   }
 }
 
-const App = withTranslation(AppIn)
+const App = withTranslation(<AppIn />)
