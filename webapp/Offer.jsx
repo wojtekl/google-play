@@ -9,10 +9,10 @@ const Offer = () => {
   return <Container className="marketing">
     <Row id="offer" className="featurette">
       <Col md="7">
-        <h2 class="featurette-heading fw-normal lh-1">Oferta</h2>
+        <h2 class="featurette-heading fw-normal lh-1">{t('title_ofer')}</h2>
         <p class="lead">
           <ListGroup>
-            <ListGroup.Item>Aplikacje mobilne i internetowe {t('pow')}</ListGroup.Item>
+            <ListGroup.Item>Aplikacje mobilne i internetowe</ListGroup.Item>
             <ListGroup.Item variant="primary">Rozszerzenia do Office, Chrome, Visual Studio Code itp</ListGroup.Item>
             <ListGroup.Item variant="secondary">Zabezpieczanie połączeń sieciowych</ListGroup.Item>
             <ListGroup.Item variant="success">Witryny internetowe</ListGroup.Item>
@@ -24,6 +24,6 @@ const Offer = () => {
       </Col>
       <Col md="5"></Col>
     </Row>
-    <Button onClick={handleClick} variant="primary">Powrót</Button>
+    <Button onClick={handleClick} variant="primary">{t('button_back')}</Button>
   </Container>
 }

@@ -8,8 +8,8 @@ class AppInner extends React.Component {
       <Carousel.Item>
         <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel1.jpg" fluid />
         <Carousel.Caption>
-          <h1>{t('title_apps')}</h1>
-          <p>{t('subtitle_apps')}</p>
+          <h1>{t('title_offer')}</h1>
+          <p>{t('subtitle_offer')}</p>
           <Button href="#/offer" variant="primary" size="lg">{t('button_see')}</Button>
         </Carousel.Caption>
       </Carousel.Item>
