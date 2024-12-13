@@ -2,6 +2,7 @@ const Provider = ReactRedux.Provider;
 
 const Button = ReactBootstrap.Button;
 const Container = ReactBootstrap.Container;
+const Nav = ReactBootstrap.Nav;
 const Row = ReactBootstrap.Row;
 const Spinner = ReactBootstrap.Spinner;
 

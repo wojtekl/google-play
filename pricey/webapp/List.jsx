@@ -34,17 +34,17 @@ class List extends React.Component {
     return (
       <Container>
         <Row className="mt-3">
-          <ul class="nav nav-pills">
-            <li class="nav-item">
+          <Nav>
+            <Nav.Item>
               <a class="nav-link active" href="#" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://rb.gy/sqezhd">{localise.getTheApp}</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{localise.support}</a>
-            </li>
-          </ul>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link href="https://rb.gy/sqezhd">{localise.getTheApp}</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{localise.support}</Nav.Link>
+            </Nav.Item>
+          </Nav>
           {!this.props.selected && <form class="form-inline">
     <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
     <button type="button" class="btn btn-outline-success" onClick={this.handleCopy}>{localise.copy}</button>
