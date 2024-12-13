@@ -50,13 +50,13 @@ class List extends React.Component {
     <Button variant="outline-success" onClick={this.handleCopy}>{localise.copy}</Button>
   </Form>}
         </Row>
-        <div class="row mt-3">
-          {!!this.props.selected && <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="javascript:;" onClick={this.props.back}>{localise.back}</a></li>
-              <li class="breadcrumb-item active" aria-current="page">{this.props.selected}</li>
-            </ol>
-          </nav>}
+        <Row className="mt-3">
+          {!!this.props.selected && <Nav>
+            <Breadcrumb>
+              <Breadcrumb.Item><a href="javascript:;" onClick={this.props.back}>{localise.back}</a></Breadcrumb.Item>
+              <Breadcrumb.Item active>{this.props.selected}</Breadcrumb.Item>
+            </Breadcrumb>
+          </Nav>}
           <table class="table table-hover">
             <thead class="thead-dark">
               <tr>
@@ -87,7 +87,7 @@ class List extends React.Component {
               })}
             </tbody>
           </table>
-        </div>
+        </Row>
         <Modal item={this.props.selected} />
       </Container>
     );

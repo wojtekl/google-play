@@ -1,5 +1,6 @@
 const Provider = ReactRedux.Provider;
 
+const Breadcrumb = ReactBootstrap.Breadcrumb;
 const Button = ReactBootstrap.Button;
 const Container = ReactBootstrap.Container;
 const Form = ReactBootstrap.Form;
