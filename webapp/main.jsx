@@ -14,7 +14,7 @@ const ListGroup = ReactBootstrap.ListGroup;
 const Row = ReactBootstrap.Row;
 
 const i18n = i18next;
-const initReactI18next = ReactI18Next.initReactI18next;
+const initReactI18next = ReactI18next.initReactI18next;
 
 i18n.use(initReactI18next).init({
   resources: {
