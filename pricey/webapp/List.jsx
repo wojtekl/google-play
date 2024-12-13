@@ -22,7 +22,7 @@ class List extends React.Component {
 
   handleChange = (event) => {
     const selected = !this.props.selected ? this.props.list.find(i => i.produkt === this.state.selected).id : this.state.selected;
-    store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selected ? 'yes': 'no'});
+    store.dispatch({type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selected});
   }
 
   handleCopy = () => {
@@ -60,7 +60,7 @@ class List extends React.Component {
           <Table hover>
             <thead class="table-secondary">
               <tr>
-                <th> X </th>
+                <th>X</th>
                 {this.props.properties.map(property => {
                   return (<th>{String(localise[property]).toUpperCase()}</th>)
                 })}
@@ -70,13 +70,13 @@ class List extends React.Component {
             <tbody>
               {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: !this.props.selected ? row[this.props.properties[0]] : row["id"] })}>
-                  <td><Form.Check.Input type="check" name="selected" checked={store.getState().value.includes(row["id"])} onChange={this.handleChange} /></td>
+                  <td><input type="checkbox" name="selected" checked={store.getState().value.includes(row["id"])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ("dodano" === property) {
-                      return <td>{new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
+                      return <td>{new Date(`${row[property]}`).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
                     }
                     else if ("coupon" === property || "bulk" === property) {
-                      return <td><Form.Check.Input type="check" name={property} value={"1" === row[property] ? 'yes' : 'no'} readOnly aria-label={property} /></td>
+                      return <td><input type="checkbox" name={property} checked={"1" === row[property]} readonly /></td>
                     }
                     else {
                       return <td>{row[property]}</td>
