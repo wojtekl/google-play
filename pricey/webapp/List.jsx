@@ -32,8 +32,8 @@ class List extends React.Component {
   
   render() {
     return (
-      <div class="container">
-        <div class="row mt-3">
+      <Container>
+        <Row className="mt-3">
           <ul class="nav nav-pills">
             <li class="nav-item">
               <a class="nav-link active" href="#" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
@@ -49,7 +49,7 @@ class List extends React.Component {
     <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
     <button type="button" class="btn btn-outline-success" onClick={this.handleCopy}>{localise.copy}</button>
   </form>}
-        </div>
+        </Row>
         <div class="row mt-3">
           {!!this.props.selected && <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
@@ -89,7 +89,7 @@ class List extends React.Component {
           </table>
         </div>
         <Modal item={this.props.selected} />
-      </div>
+      </Container>
     );
   }
 }
