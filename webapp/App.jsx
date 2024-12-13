@@ -1,4 +1,4 @@
-import { withTranslation } from 'react-i18next';
+const withTranslation = ReactI18next.withTranslation;
 
 class App extends React.Component {
   render() {
@@ -31,3 +31,5 @@ class App extends React.Component {
     </div>
   }
 }
+
+export default withTranslation()(App)
