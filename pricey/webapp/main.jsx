@@ -1,5 +1,10 @@
 const Provider = ReactRedux.Provider;
 
+const Button = ReactBootstrap.Button;
+const Container = ReactBootstrap.Container;
+const Row = ReactBootstrap.Row;
+const Spinner = ReactBootstrap.Spinner;
+
 
 const initialState = {
   value: []
