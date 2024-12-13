@@ -46,7 +46,7 @@ class List extends React.Component {
             </Nav.Item>
           </Nav>
           {!this.props.selected && <Form>
-    <Form.Control className="mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
+    <Form.Control className="mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} inline />
     <Button variant="outline-success" onClick={this.handleCopy}>{localise.copy}</Button>
   </Form>}
         </Row>
