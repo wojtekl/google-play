@@ -13,8 +13,8 @@ const Image = ReactBootstrap.Image;
 const ListGroup = ReactBootstrap.ListGroup;
 const Row = ReactBootstrap.Row;
 
-let lang = new URLSearchParams(new URL(window.location).search).get("lang");
-if (null == lang) lang = navigator.language.substring(3).toLocaleLowerCase();
+let lang = new URLSearchParams(new URL(window.location).search).get("lang") ?? navigator.language.substring(3).toLocaleLowerCase();
+//if (null == lang) lang = ;
 
 const i18n = i18next;
 const initReactI18next = ReactI18next.initReactI18next;
