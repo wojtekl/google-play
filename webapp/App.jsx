@@ -1,12 +1,14 @@
 const withTranslation = ReactI18next.withTranslation;
 
-class App extends React.Component {
+class AppInner extends React.Component {
   render() {
+    const { t } = this.props
+
     return <div><Carousel>
       <Carousel.Item>
         <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/carousel1.jpg" fluid />
         <Carousel.Caption>
-          <h1>Aplikacje {this.props.t('pow')}</h1>
+          <h1>Aplikacje {t('pow')}</h1>
           <p>mobilne i internetowe </p>
           <Button href="#/offer" variant="primary" size="lg">Przejdź</Button>
         </Carousel.Caption>
@@ -32,4 +34,4 @@ class App extends React.Component {
   }
 }
 
-App.prototype = withTranslation()(App)
+const App = withTranslation()(AppInner)
