@@ -43,12 +43,12 @@ class Modal extends React.Component {
                 </div>
                 <div class="form-group">
                   <label for="exampleInputCoupon1">{localise.coupon}</label>
-                  <input type="checkbox" class="form-control" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
+                  <input type="checkbox" class="" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
                   <small id="couponHelp" class="form-text text-muted">Cena z kartą</small>
                 </div>
                 <div class="form-group">
                   <label for="exampleInputBulk1">{localise.bulk}</label>
-                  <input type="checkbox" class="form-control" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
+                  <input type="checkbox" class="" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
                   <small id="couponHelp" class="form-text text-muted">Przy zakupie większej ilości</small>
                 </div>
               </form>
