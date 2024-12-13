@@ -5,6 +5,7 @@ const Breadcrumb = ReactBootstrap.Breadcrumb;
 const Button = ReactBootstrap.Button;
 const Container = ReactBootstrap.Container;
 const Form = ReactBootstrap.Form;
+const Modal = ReactBootstrap.Modal;
 const Nav = ReactBootstrap.Nav;
 const Row = ReactBootstrap.Row;
 const Spinner = ReactBootstrap.Spinner;

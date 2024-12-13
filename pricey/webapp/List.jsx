@@ -6,6 +6,7 @@ class List extends React.Component {
       list: this.props.list,
       selected: null,
       filtered: this.props.list,
+      show: false
     }
   }
 
@@ -29,6 +30,14 @@ class List extends React.Component {
     const result = `https://pricey.wuaze.com/?selected=${store.getState().value.join(",")}`;
     navigator.clipboard.writeText(result);
   }
+
+  handleShow = () => {
+    this.setState({ show: true })
+  }
+
+  handleClose = () => {
+    this.setState({ show: false })
+  }
   
   render() {
     return (
@@ -36,7 +45,7 @@ class List extends React.Component {
         <Row className="mt-3">
           <Nav>
             <Nav.Item>
-              <a class="nav-link active" href="index3.html#" data-toggle="modal" data-target="#exampleModal">{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
+              <a class="nav-link active" href="index3.html#" onClick={this.handleShow}>{!this.props.selected ? localise.newProduct : localise.updatePrice}</a>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link href="https://rb.gy/sqezhd">{localise.getTheApp}</Nav.Link>
@@ -46,7 +55,7 @@ class List extends React.Component {
             </Nav.Item>
           </Nav>
           {!this.props.selected && <Form>
-            <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
+    <Form.Control className="mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} inline />
     <Button variant="outline-success" onClick={this.handleCopy}>{localise.copy}</Button>
   </Form>}
         </Row>
@@ -88,7 +97,7 @@ class List extends React.Component {
             </tbody>
           </Table>
         </Row>
-        <Modal item={this.props.selected} />
+        <Modal item={this.props.selected} show={this.state.show} handleClose={this.handleClose} />
       </Container>
     );
   }

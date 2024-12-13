@@ -12,17 +12,18 @@ class Modal extends React.Component {
     $('form.dane').trigger('reset')
   }
   render() {
+    const { show, handleClose } = this.props
+
     return (
-      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered modal-sm">
-          <div class="modal-content">
-            <div class="modal-header">
+      <Modal show={show} id="exampleModal">
+        <Modal.Dialog size="sm" centered>
+            <Modal.Header>
               <h5 class="modal-title" id="exampleModalLabel">{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
-            </div>
-            <div class="modal-body">
+            </Modal.Header>
+            <Modal.Body>
               <form class="dane">
                 <div class="form-group">
                   <label for="exampleInputNazwa1">{localise.name}</label>
@@ -55,14 +56,13 @@ class Modal extends React.Component {
                   <small id="couponHelp" class="form-text text-muted">Przy zakupie większej ilości</small>
                 </div>
               </form>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">{localise.cancel}</button>
+            </Modal.Body>
+            <Modal.Footer>
+              <button type="button" class="btn btn-secondary" data-dismiss="modal" onClick={handleClose}>{localise.cancel}</button>
               <button type="button" class="btn btn-primary" data-dismiss="modal" onClick={this.handleClick}>{localise.save}</button>
-            </div>
-          </div>
-        </div>
-      </div>
+            </Modal.Footer>
+        </Modal.Dialog>
+      </Modal>
     );
   }
 }
