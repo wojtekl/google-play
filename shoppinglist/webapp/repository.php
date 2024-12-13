@@ -27,7 +27,7 @@ class Repository {
   }
   
   public function insertCena($product, $place, $value, $country, $id, $coupon, $bulk) {
-    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$product', '$place', '$value', '$country', '$id', CURRENT_TIMESTAMP, '$coupon', '$bulk');");
+    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$product', '$place', '$value', '$country', '$id', UTC_TIMESTAMP, '$coupon', '$bulk');");
   }
   
   public function getCeny($product) {
@@ -47,7 +47,7 @@ class Repository {
   }
 
   public function createVisit($address, $client, $country) {
-    return $this -> execute("INSERT INTO `VISIT` VALUES (0, '$address', '$client', '$country', CURRENT_TIMESTAMP);");
+    return $this -> execute("INSERT INTO `VISIT` VALUES (0, '$address', '$client', '$country', UTC_TIMESTAMP);");
   }
 }
 
