@@ -1,6 +1,5 @@
-var exports = {};
 import i18n from 'i18next';
-import { initReactI18next } from 'react-i18next';
+const initReactI18next = ReactI18Next.initReactI18next;
 
 const Router = ReactRouterDOM.HashRouter;
 const Routes = ReactRouterDOM.Routes;
