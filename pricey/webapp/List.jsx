@@ -1,4 +1,13 @@
-class List extends React.Component {
+const withTranslation = ReactI18next.withTranslation
+
+const Badge = ReactBootstrap.Badge
+const Breadcrumb = ReactBootstrap.Breadcrumb
+const Nav = ReactBootstrap.Nav
+const Row = ReactBootstrap.Row
+const Table = ReactBootstrap.Table
+
+
+class ListInner extends React.Component {
   constructor(props) {
     super(props)
 
@@ -32,37 +41,39 @@ class List extends React.Component {
   }
 
   handleShow = () => {
-    this.setState({show: true})
+    this.setState({ show: true })
   }
 
   handleClose = () => {
-    this.setState({show: false})
+    this.setState({ show: false })
   }
 
   render() {
+    const { t } = this.props
+
     return (
       <Container>
         <Row className="mt-3">
           <Nav>
             <Nav.Item>
-              <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? localise.newProduct : localise.updatePrice} </Button>
+              <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="https://rb.gy/sqezhd"> {localise.getTheApp} </Nav.Link>
+              <Nav.Link href="https://rb.gy/sqezhd"> {t('link_get_the_app')} </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {localise.support} </Nav.Link>
+              <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {t('localise.support')} </Nav.Link>
             </Nav.Item>
           </Nav>
           {!this.props.selected && <form class="form-inline my-2">
-            <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
-            <Button variant="outline-success" onClick={this.handleCopy}> {localise.copy} </Button>
+            <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
+            <Button variant="outline-success" onClick={this.handleCopy}> {t('button_copy')} </Button>
           </form>}
         </Row>
         <Row className="mt-3">
           {!!this.props.selected && <Nav>
             <Breadcrumb>
-              <Breadcrumb.Item><a href="javascript:;" onClick={this.props.back}> {localise.back} </a></Breadcrumb.Item>
+              <Breadcrumb.Item><a href="javascript:;" onClick={this.props.back}> {t('button_back')} </a></Breadcrumb.Item>
               <Breadcrumb.Item active> {this.props.selected} </Breadcrumb.Item>
             </Breadcrumb>
           </Nav>}
@@ -71,9 +82,9 @@ class List extends React.Component {
               <tr>
                 <th> X </th>
                 {this.props.properties.map(property => {
-                  return (<th>{String(localise[property]).toUpperCase()}</th>)
+                  return (<th> {String(localise[property]).toUpperCase()} </th>)
                 })}
-                {this.props.expandable && <th>{localise.more.toUpperCase()}</th>}
+                {this.props.expandable && <th> {t('label_more').toUpperCase()} </th>}
               </tr>
             </thead>
             <tbody>
@@ -82,13 +93,13 @@ class List extends React.Component {
                   <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ('dodano' === property) {
-                      return <td>{new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
+                      return <td> {new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })} </td>
                     }
                     else if ('coupon' === property || 'bulk' === property) {
                       return <td><input type="checkbox" class="form-check-input" name={property} checked={"1" === row[property]} readonly /></td>
                     }
                     else {
-                      return <td>{row[property]}</td>
+                      return <td> {row[property]} </td>
                     }
                   })}
                   {this.props.expandable && <td><Badge bg="secondary" onClick={this.handleClick}> -{'>'} </Badge></td>}
@@ -102,3 +113,5 @@ class List extends React.Component {
     );
   }
 }
+
+const List = withTranslation()(ListInner)

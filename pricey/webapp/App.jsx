@@ -1,11 +1,18 @@
-class App extends React.Component {
+const withTranslation = ReactI18next.withTranslation
+
+const Spinner = ReactBootstrap.Spinner
+
+
+class AppInner extends React.Component {
   constructor(props) {
     super(props)
+    
+    const { t } = this.props
 
     this.state = {
       source: (
         <Container>
-          <Button variant="secondary" disabled><Spinner animation="border" size="sm" role="status" /> {localise.loading} </Button>
+          <Button variant="secondary" disabled><Spinner animation="border" size="sm" role="status" /> {t('label_loading')} </Button>
           <p>Nie widzisz cen? Kliknij <a href="https://pricey.wuaze.com" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p>
         </Container>
       )
@@ -36,3 +43,5 @@ class App extends React.Component {
     return this.state.source
   }
 }
+
+const App = withTranslation()(AppInner)

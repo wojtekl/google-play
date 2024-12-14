@@ -1,15 +1,11 @@
 const Provider = ReactRedux.Provider
+const i18n = i18next
+const initReactI18next = ReactI18next.initReactI18next
+const useTranslation = ReactI18next.useTranslation
 
-const Badge = ReactBootstrap.Badge
-const Breadcrumb = ReactBootstrap.Breadcrumb
 const Button = ReactBootstrap.Button
 const Container = ReactBootstrap.Container
 const Form = ReactBootstrap.Form
-const BModal = ReactBootstrap.Modal
-const Nav = ReactBootstrap.Nav
-const Row = ReactBootstrap.Row
-const Spinner = ReactBootstrap.Spinner
-const Table = ReactBootstrap.Table
 
 
 const initialState = {
@@ -26,6 +22,17 @@ const selectedReducer = (state = initialState, action) => {
       return state
   }
 }
+
+const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase();
+
+i18n.use(initReactI18next).init({
+  resources: resources,
+  lng: lang,
+  fallbacking: "en",
+  interpolation: {
+    escapeValue: false
+  }
+})
 
 const store = Redux.createStore(selectedReducer)
 

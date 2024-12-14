@@ -1,3 +1,6 @@
+const BModal = ReactBootstrap.Modal
+
+
 class Modal extends React.Component {
 
   constructor(props) {
