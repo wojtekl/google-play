@@ -1,15 +1,15 @@
 const Provider = ReactRedux.Provider
 
-const Badge = ReactBotstrap.Badge
-const Breadcrumb = ReactBotstrap.Breadcrumb
-const Button = ReactBotstrap.Button
-const Container = ReactBotstrap.Container
-const Form = ReactBotstrap.Form
-const BModal = ReactBotstrap.Modal
-const Nav = ReactBotstrap.Nav
-const Row = ReactBotstrap.Row
-const Spinner = ReactBotstrap.Spinner
-const Table = ReactBotstrap.Table
+const Badge = ReactBootstrap.Badge
+const Breadcrumb = ReactBootstrap.Breadcrumb
+const Button = ReactBootstrap.Button
+const Container = ReactBootstrap.Container
+const Form = ReactBootstrap.Form
+const BModal = ReactBootstrap.Modal
+const Nav = ReactBootstrap.Nav
+const Row = ReactBootstrap.Row
+const Spinner = ReactBootstrap.Spinner
+const Table = ReactBootstrap.Table
 
 
 const initialState = {

@@ -1,6 +1,6 @@
 class App extends React.Component {
   constructor(props) {
-    super(props);
+    super(props)
 
     this.state = {
       source: (
@@ -13,22 +13,22 @@ class App extends React.Component {
   }
 
   replace = (source) => {
-    this.setState({ source: source });
+    this.setState({ source: source })
   }
 
   back = () => {
-    this.setState({ source: <App /> });
+    this.setState({ source: <App /> })
   }
 
   componentWillMount() {
-    const self = this;
-    const formData = new FormData();
-    const selected = new URLSearchParams(new URL(window.location).search).get("selected");
+    const self = this
+    const formData = new FormData()
+    const selected = new URLSearchParams(new URL(window.location).search).get('selected')
     if (selected) {
-      formData.append("selected", selected);
+      formData.append('selected', selected)
     }
     axios.post(`produkty?lang=${lang}`, formData).then(function (response) {
-      self.replace(<List properties={["produkt", "sklep", "cena", "dodano"]} list={response.data} expandable={true} replace={self.replace} back={self.back} />);
+      self.replace(<List properties={['produkt', 'sklep', 'cena', 'dodano']} list={response.data} expandable={true} replace={self.replace} back={self.back} />)
     })
   }
 
