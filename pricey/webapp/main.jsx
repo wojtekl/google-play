@@ -1,5 +1,3 @@
-const Router = ReactRouterDOM.HashRouter
-const Route = ReactRouterDOM.Route
 const Provider = ReactRedux.Provider
 
 const Badge = ReactBotstrap.Badge
