@@ -79,13 +79,13 @@ class List extends React.Component {
             <tbody>
               {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: !this.props.selected ? row[this.props.properties[0]] : row['id'] })}>
-                  <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
+                  <td><input type="checkbox" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ('dodano' === property) {
                       return <td>{new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
                     }
                     else if ('coupon' === property || 'bulk' === property) {
-                      return <td><input type="checkbox" class="form-check-input" name={property} checked={"1" === row[property]} readonly /></td>
+                      return <td><input type="checkbox" name={property} checked={"1" === row[property]} readonly /></td>
                     }
                     else {
                       return <td>{row[property]}</td>
