@@ -23,7 +23,7 @@ const selectedReducer = (state = initialState, action) => {
   }
 }
 
-const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase();
+const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
 
 i18n.use(initReactI18next).init({
   resources: resources,

@@ -62,7 +62,7 @@ class ListInner extends React.Component {
               <Nav.Link href="https://rb.gy/sqezhd"> {t('link_get_the_app')} </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {t('localise.support')} </Nav.Link>
+              <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {t('link_support')} </Nav.Link>
             </Nav.Item>
           </Nav>
           {!this.props.selected && <form class="form-inline my-2">
@@ -93,7 +93,7 @@ class ListInner extends React.Component {
                   <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ('dodano' === property) {
-                      return <td> {new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })} </td>
+                      return <td> {<DateFormatter timestamp={row[property]} />} </td>
                     }
                     else if ('coupon' === property || 'bulk' === property) {
                       return <td><input type="checkbox" class="form-check-input" name={property} checked={"1" === row[property]} readonly /></td>
@@ -110,7 +110,7 @@ class ListInner extends React.Component {
         </Row>
         <Modal item={this.props.selected} show={this.state.show} handleClose={this.handleClose} />
       </Container>
-    );
+    )
   }
 }
 
