@@ -1,15 +1,17 @@
-const Provider = ReactRedux.Provider;
+const Router = ReactRouterDOM.HashRouter
+const Route = ReactRouterDOM.Route
+const Provider = ReactRedux.Provider
 
-const Badge = ReactBootstrap.Badge;
-const Breadcrumb = ReactBootstrap.Breadcrumb;
-const Button = ReactBootstrap.Button;
-const Container = ReactBootstrap.Container;
-const Form = ReactBootstrap.Form;
-const RModal = ReactBootstrap.Modal;
-const Nav = ReactBootstrap.Nav;
-const Row = ReactBootstrap.Row;
-const Spinner = ReactBootstrap.Spinner;
-const Table = ReactBootstrap.Table;
+const Badge = ReactBotstrap.Badge
+const Breadcrumb = ReactBotstrap.Breadcrumb
+const Button = ReactBotstrap.Button
+const Container = ReactBotstrap.Container
+const Form = ReactBotstrap.Form
+const BModal = ReactBotstrap.Modal
+const Nav = ReactBotstrap.Nav
+const Row = ReactBotstrap.Row
+const Spinner = ReactBotstrap.Spinner
+const Table = ReactBotstrap.Table
 
 
 const initialState = {
@@ -19,14 +21,18 @@ const initialState = {
 const selectedReducer = (state = initialState, action) => {
   switch (action.type) {
     case 'selected/added':
-      return { ...state, value: state.value.concat([action.payload]) };
+      return { ...state, value: state.value.concat([action.payload]) }
     case 'selected/removed':
-      return { ...state, value: state.value.filter(i => i != action.payload) };
+      return { ...state, value: state.value.filter(i => i != action.payload) }
     default:
-      return state;
+      return state
   }
 }
 
-const store = Redux.createStore(selectedReducer);
+const store = Redux.createStore(selectedReducer)
 
-ReactDOM.render(<Provider store={store}><App /></Provider>, document.getElementById('app'));
+const container = document.getElementById('root')
+
+const root = ReactDOM.createRoot(container)
+
+root.render(<Provider store={store}><App /></Provider>)

@@ -12,14 +12,17 @@ class Modal extends React.Component {
     $('form.dane').trigger('reset')
   }
   render() {
-    const { show, handleClose } = this.props
-
     return (
-      <RModal show={show} id="exampleModal" onHide={handleClose} centered>
-            <RModal.Header closeButton>
-              <RModal.Title>{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</RModal.Title>
-            </RModal.Header>
-            <RModal.Body>
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-sm">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
               <form class="dane">
                 <div class="form-group">
                   <label for="exampleInputNazwa1">{localise.name}</label>
@@ -41,23 +44,25 @@ class Modal extends React.Component {
                   <input type="hidden" class="form-control" id="exampleInputId1" aria-describedby="idHelp" name="identyfikator" value="web" />
                   <small id="identyfikatorHelp" class="form-text text-muted">Generowany automatycznie</small>
                 </div>
-                <div class="form-check">
+                <div class="form-group">
                   <label for="exampleInputCoupon1">{localise.coupon}</label>
-                  <input type="checkbox" class="form-check-input" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
+                  <input type="checkbox" class="form-control" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
                   <small id="couponHelp" class="form-text text-muted">Cena z kartą</small>
                 </div>
-                <div class="form-check">
+                <div class="form-group">
                   <label for="exampleInputBulk1">{localise.bulk}</label>
-                  <input type="checkbox" class="form-check-input" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
+                  <input type="checkbox" class="form-control" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
                   <small id="couponHelp" class="form-text text-muted">Przy zakupie większej ilości</small>
                 </div>
               </form>
-            </RModal.Body>
-            <RModal.Footer>
-              <button type="button" class="btn btn-secondary" data-dismiss="modal" onClick={handleClose}>{localise.cancel}</button>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">{localise.cancel}</button>
               <button type="button" class="btn btn-primary" data-dismiss="modal" onClick={this.handleClick}>{localise.save}</button>
-            </RModal.Footer>
-      </RModal>
+            </div>
+          </div>
+        </div>
+      </div>
     );
   }
 }

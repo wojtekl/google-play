@@ -4,10 +4,10 @@ class App extends React.Component {
 
     this.state = {
       source: (
-        <>
-          <Button variant="secondary" disabled><Spinner animation="border" size="sm" role="status" /> {localise.loading} </Button>
-          <p>Nie widzisz cen? Kliknij <a href="https://pricey.wuaze.com" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p>
-        </>
+        <div><button class="btn btn-secondary" type="button" disabled>
+          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+        {localise.loading}
+      </button><p>Nie widzisz cen? Kliknij <a href="https://pricey.wuaze.com" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p></div>
       )
     }
   }
