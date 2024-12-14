@@ -93,7 +93,7 @@ class ListInner extends React.Component {
                   <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ('dodano' === property) {
-                      return <td> {<DateFormatter timestamp={row[property]} />} </td>
+                      return <td><DateFormatter timestamp={row[property]} /></td>
                     }
                     else if ('coupon' === property || 'bulk' === property) {
                       return <td><input type="checkbox" class="form-check-input" name={property} checked={"1" === row[property]} readonly /></td>
