@@ -44,14 +44,14 @@ class Modal extends React.Component {
               <input type="hidden" class="form-control" id="exampleInputId1" aria-describedby="idHelp" name="identyfikator" value="web" />
               <small id="identyfikatorHelp" class="form-text text-muted">Generowany automatycznie</small>
             </div>
-            <div class="form-group">
-              <label for="exampleInputCoupon1">{localise.coupon}</label>
-              <input type="checkbox" class="form-control" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
+            <div class="form-group form-check">
+              <input type="checkbox" class="form-check-input" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
+              <label for="exampleInputCoupon1" class="form-check-label">{localise.coupon}</label>
               <small id="couponHelp" class="form-text text-muted">Cena z kartą</small>
             </div>
-            <div class="form-group">
-              <label for="exampleInputBulk1">{localise.bulk}</label>
-              <input type="checkbox" class="form-control" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
+            <div class="form-group form-check">
+              <input type="checkbox" class="form-check-input" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
+              <label for="exampleInputBulk1" class="form-check-label">{localise.bulk}</label>
               <small id="couponHelp" class="form-text text-muted">Przy zakupie większej ilości</small>
             </div>
           </form>

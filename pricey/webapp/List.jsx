@@ -54,7 +54,7 @@ class List extends React.Component {
               <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {localise.support} </Nav.Link>
             </Nav.Item>
           </Nav>
-          {!this.props.selected && <form class="form-inline">
+          {!this.props.selected && <form class="form-inline my-2">
             <input class="form-control mr-sm-2" type="search" placeholder={localise.search} aria-label="Search" onKeyUp={this.handleFilter} />
             <Button variant="outline-success" onClick={this.handleCopy}> {localise.copy} </Button>
           </form>}
@@ -69,7 +69,7 @@ class List extends React.Component {
           <Table hover>
             <thead class="table-dark">
               <tr>
-                <th>X</th>
+                <th> X </th>
                 {this.props.properties.map(property => {
                   return (<th>{String(localise[property]).toUpperCase()}</th>)
                 })}
@@ -79,13 +79,13 @@ class List extends React.Component {
             <tbody>
               {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
                 return (<tr onMouseOver={() => this.setState({ selected: !this.props.selected ? row[this.props.properties[0]] : row['id'] })}>
-                  <td><input type="checkbox" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
+                  <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
                     if ('dodano' === property) {
                       return <td>{new Date(row[property]).toLocaleString(lang, { month: "short", day: "numeric", timezone: Intl.DateTimeFormat().resolvedOptions().timeZone })}</td>
                     }
                     else if ('coupon' === property || 'bulk' === property) {
-                      return <td><input type="checkbox" name={property} checked={"1" === row[property]} readonly /></td>
+                      return <td><input type="checkbox" class="form-check-input" name={property} checked={"1" === row[property]} readonly /></td>
                     }
                     else {
                       return <td>{row[property]}</td>
