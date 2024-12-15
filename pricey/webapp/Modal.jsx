@@ -14,9 +14,11 @@ class ModalInner extends React.Component {
   }
 
   handleClick = () => {
-    axios.post(`produkt?lang=${lang}`, $('form.dane').serialize(), { headers: { 'Content-Type': 'application/x-www-form-urlencoded' } }).then(function (response) { })
-    $('form.dane').trigger('reset')
-    this.props.handleClose()
+    const form = document.querySelector('#form_item')
+    axios.post(`produkt?lang=${lang}`, form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
+      form.reset()
+      this.props.handleClose()
+    })
   }
 
   render() {
@@ -28,7 +30,7 @@ class ModalInner extends React.Component {
           <BModal.Title> {!this.props.item ? t('button_new_product') : `${t('label_item')}: ${this.props.item}`} </BModal.Title>
         </BModal.Header>
         <BModal.Body>
-          <form class="dane">
+          <form id="form_item">
             <div class="form-group">
               <label for="exampleInputNazwa1">{t('label_name')}</label>
               <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={this.props.item} />

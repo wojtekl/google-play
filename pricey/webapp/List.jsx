@@ -7,6 +7,17 @@ const Row = ReactBootstrap.Row
 const Table = ReactBootstrap.Table
 
 
+const coulmns_list = ['produkt', 'sklep', 'cena', 'dodano']
+const columns_details = ['sklep', 'cena', 'dodano', 'coupon', 'bulk']
+const t_columns = {
+  produkt: "label_item",
+  sklep: "label_store",
+  cena: "label_price",
+  dodano: "label_posted",
+  coupon: "label_coupon",
+  bulk: "label_bulk"
+}
+
 class ListInner extends React.Component {
   constructor(props) {
     super(props)
@@ -21,8 +32,8 @@ class ListInner extends React.Component {
 
   handleClick = () => {
     let self = this
-    axios.get(`produkt?lang=${lang}&nazwa=${this.state.selected}`).then(function (response) {
-      self.props.replace(<List properties={['sklep', 'cena', 'dodano', 'coupon', 'bulk']} list={response.data} replace={self.props.replace} back={self.props.back} selected={self.state.selected} />)
+    axios.get(`produkt?lang=${lang}&nazwa=${this.state.selected}`).then((response) => {
+      self.props.replace(<List properties={columns_details} list={response.data} replace={self.props.replace} back={self.props.back} selected={self.state.selected} />)
     })
   }
 
@@ -77,12 +88,12 @@ class ListInner extends React.Component {
               <Breadcrumb.Item active> {this.props.selected} </Breadcrumb.Item>
             </Breadcrumb>
           </Nav>}
-          <Table hover>
+          <Table hover size="sm">
             <thead class="table-dark">
               <tr>
                 <th> X </th>
                 {this.props.properties.map(property => {
-                  return (<th> {String(localise[property]).toUpperCase()} </th>)
+                  return (<th> {String(t(columns_t[property])).toUpperCase()} </th>)
                 })}
                 {this.props.expandable && <th> {t('label_more').toUpperCase()} </th>}
               </tr>
