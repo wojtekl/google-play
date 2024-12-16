@@ -7,7 +7,7 @@ const Row = ReactBootstrap.Row
 const Table = ReactBootstrap.Table
 
 
-const coulmns_list = ['produkt', 'sklep', 'cena', 'dodano']
+const columns_list = ['produkt', 'sklep', 'cena', 'dodano']
 const columns_details = ['sklep', 'cena', 'dodano', 'coupon', 'bulk']
 const t_columns = {
   produkt: "label_item",
