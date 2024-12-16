@@ -53,12 +53,12 @@ class ModalInner extends React.Component {
             </div>
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
-              <label for="exampleInputCoupon1" class="form-check-label">{localise.coupon}</label>
+              <label for="exampleInputCoupon1" class="form-check-label">{t('label_coupon')}</label>
               <small id="couponHelp" class="form-text text-muted"> Cena z kartą </small>
             </div>
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="exampleInputBulk1" aria-describedby="bulkHelp" name="bulk" />
-              <label for="exampleInputBulk1" class="form-check-label">{localise.bulk}</label>
+              <label for="exampleInputBulk1" class="form-check-label">{t('label_bulk')}</label>
               <small id="couponHelp" class="form-text text-muted"> Przy zakupie większej ilości </small>
             </div>
           </form>
