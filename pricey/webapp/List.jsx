@@ -93,7 +93,7 @@ class ListInner extends React.Component {
               <tr>
                 <th> X </th>
                 {this.props.properties.map(property => {
-                  return (<th> {String(t(columns_t[property])).toUpperCase()} </th>)
+                  return (<th> {String(t(t_columns[property])).toUpperCase()} </th>)
                 })}
                 {this.props.expandable && <th> {t('label_more').toUpperCase()} </th>}
               </tr>
