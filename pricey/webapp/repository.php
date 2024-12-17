@@ -26,12 +26,12 @@ class Repository {
     }
   }
   
-  public function insertCena($product, $place, $value, $country, $id, $coupon, $bulk) {
-    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$product', '$place', '$value', '$country', '$id', UTC_TIMESTAMP, '$coupon', '$bulk');");
+  public function insertCena($item, $place, $value, $country, $id, $coupon, $bulk) {
+    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$item', '$place', '$value', '$country', '$id', UTC_TIMESTAMP, '$coupon', '$bulk');");
   }
   
-  public function getCeny($product) {
-    return $this -> execute("SELECT `ID`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` WHERE `PRODUKT` = '$product' ORDER BY `CENA`, `DODANO` DESC, `SKLEP` LIMIT 10;");
+  public function getCeny($item) {
+    return $this -> execute("SELECT `ID`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` WHERE `PRODUKT` = '$item' ORDER BY `CENA`, `DODANO` DESC, `SKLEP` LIMIT 10;");
   }
 
   public function getSelected($selected) {

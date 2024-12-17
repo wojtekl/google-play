@@ -15,7 +15,7 @@ class ModalInner extends React.Component {
 
   handleClick = () => {
     const form = document.querySelector('#form_item')
-    axios.post(`produkt?lang=${lang}`, form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
+    axios.post(`item?lang=${lang}`, form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
       form.reset()
       this.props.handleClose()
     })
@@ -32,19 +32,19 @@ class ModalInner extends React.Component {
         <BModal.Body>
           <form id="form_item">
             <div class="form-group">
-              <label for="exampleInputNazwa1">{t('label_name')}</label>
-              <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={this.props.item} />
-              <small id="nazwaHelp" class="form-text text-muted"> Upewnij się że produkt jeszcze nie istnieje </small>
+              <label for="exampleInputName1">{t('label_name')}</label>
+              <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={this.props.item} />
+              <small id="nameHelp" class="form-text text-muted"> Upewnij się że produkt jeszcze nie istnieje </small>
             </div>
             <div class="form-group">
-              <label for="exampleInputSklep1">{t('label_store')}</label>
-              <input type="text" class="form-control" id="exampleInputSklep1" aria-describedby="sklepHelp" name="sklep" />
-              <small id="sklepHelp" class="form-text text-muted"> Sprawdź nazwę sklepu przy innych produktach </small>
+              <label for="exampleInputStore1">{t('label_store')}</label>
+              <input type="text" class="form-control" id="exampleInputStore1" aria-describedby="storeHelp" name="store" />
+              <small id="storeHelp" class="form-text text-muted"> Sprawdź nazwę sklepu przy innych produktach </small>
             </div>
             <div class="form-group">
-              <label for="exampleInputCena1">{t('label_price')}</label>
-              <input type="text" class="form-control" id="exampleInputCena1" aria-describedby="cenaHelp" name="cena" />
-              <small id="cenaHelp" class="form-text text-muted"> Użyj kropki jako separatora </small>
+              <label for="exampleInputPrice1">{t('label_price')}</label>
+              <input type="text" class="form-control" id="exampleInputPrice1" aria-describedby="priceHelp" name="price" />
+              <small id="priceHelp" class="form-text text-muted"> Użyj kropki jako separatora </small>
             </div>
             <div class="form-group">
               <label for="exampleInputId1"> Id </label>

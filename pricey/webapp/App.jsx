@@ -35,7 +35,7 @@ class AppInner extends React.Component {
     if (selected) {
       formData.append('selected', selected)
     }
-    axios.post(`produkty?lang=${lang}`, formData).then(function (response) {
+    axios.post(`items?lang=${lang}`, formData).then(function (response) {
       self.replace(<List properties={columns_list} list={response.data} expandable={true} replace={self.replace} back={self.back} />)
     })
   }

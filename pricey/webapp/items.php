@@ -6,14 +6,14 @@ header("Content-Type: application/json");
 
 require "./repository.php";
 
-$kraj = "pl";
+$country = "pl";
 $httpAcceptLanguage = explode(",", $_SERVER["HTTP_ACCEPT_LANGUAGE"]);
 if (isset($httpAcceptLanguage[0])) {
-  $kraj = strtolower(substr(trim($httpAcceptLanguage[0]), 3));
+  $country = strtolower(substr(trim($httpAcceptLanguage[0]), 3));
 }
 
 if(isset($_GET["lang"])) {
-  $kraj = strtolower(trim($_GET["lang"]));
+  $country = strtolower(trim($_GET["lang"]));
 }
 
 $identyfikator = strtolower(trim($_GET["identyfikator"]));
@@ -33,8 +33,8 @@ switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
 }
 
 function get() {
-  global $kraj, $identyfikator, $repository;
-  $result = $repository -> getCenyAll($kraj);
+  global $country, $identyfikator, $repository;
+  $result = $repository -> getCenyAll($country);
   $list = "[";
   foreach ($result as $row) {
     $list .= "[\"${row["PRODUKT"]}\", \"${row["SKLEP"]}\", \"${row["CENA"]}\", 0],";
@@ -44,33 +44,33 @@ function get() {
 }
 
 function post() {
-  global $kraj, $identyfikator, $repository;
+  global $country, $identyfikator, $repository;
   $timestamp= trim($_GET["timestamp"]);
   $selected = trim($_POST["selected"]);
   $result = [];
   if ("" != $timestamp) {
-    $result = $repository -> getUpdate($timestamp, $kraj);
+    $result = $repository -> getUpdate($timestamp, $country);
   }
   elseif ("" != $selected) {
     $result = $repository -> getSelected($selected);
   }
   else {
-    $result = $repository -> getCenyAll($kraj);
+    $result = $repository -> getCenyAll($country);
   }
   $list = "[";
   foreach ($result as $row) {
-    $list .= "{\"produkt\": \"${row["PRODUKT"]}\", \"sklep\": \"${row["SKLEP"]}\", \"cena\": \"${row["CENA"]}\", \"dodano\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": \"${row["ID"]}\"},";
+    $list .= "{\"item\": \"${row["PRODUKT"]}\", \"store\": \"${row["SKLEP"]}\", \"price\": \"${row["CENA"]}\", \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": \"${row["ID"]}\"},";
   }
   $list .= "]";
   echo str_replace(",]", "]", $list);
 }
 
 function put() {
-  global $kraj, $identyfikator, $repository;
+  global $country, $identyfikator, $repository;
 }
 
 function delete() {
-  global $kraj, $identyfikator, $repository;
+  global $country, $identyfikator, $repository;
 }
 
 ?>

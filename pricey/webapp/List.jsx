@@ -7,13 +7,13 @@ const Row = ReactBootstrap.Row
 const Table = ReactBootstrap.Table
 
 
-const columns_list = ['produkt', 'sklep', 'cena', 'dodano']
-const columns_details = ['sklep', 'cena', 'dodano', 'coupon', 'bulk']
+const columns_list = ['item', 'store', 'price', 'posted']
+const columns_details = ['store', 'price', 'posted', 'coupon', 'bulk']
 const t_columns = {
-  produkt: "label_item",
-  sklep: "label_store",
-  cena: "label_price",
-  dodano: "label_posted",
+  item: "label_item",
+  store: "label_store",
+  price: "label_price",
+  posted: "label_posted",
   coupon: "label_coupon",
   bulk: "label_bulk"
 }
@@ -32,17 +32,17 @@ class ListInner extends React.Component {
 
   handleClick = () => {
     let self = this
-    axios.get(`produkt?lang=${lang}&nazwa=${this.state.selected}`).then((response) => {
+    axios.get(`item?lang=${lang}&name=${this.state.selected}`).then((response) => {
       self.props.replace(<List properties={columns_details} list={response.data} replace={self.props.replace} back={self.props.back} selected={self.state.selected} />)
     })
   }
 
   handleFilter = (event) => {
-    this.setState({ filtered: this.state.list.filter(i => i.produkt.toLowerCase().includes(event.target.value.toLowerCase())) })
+    this.setState({ filtered: this.state.list.filter(i => i.item.toLowerCase().includes(event.target.value.toLowerCase())) })
   }
 
   handleChange = (event) => {
-    const selected = !this.props.selected ? this.props.list.find(i => i.produkt === this.state.selected).id : this.state.selected
+    const selected = !this.props.selected ? this.props.list.find(i => i.item === this.state.selected).id : this.state.selected
     store.dispatch({ type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selected })
   }
 
@@ -103,7 +103,7 @@ class ListInner extends React.Component {
                 return (<tr onMouseOver={() => this.setState({ selected: !this.props.selected ? row[this.props.properties[0]] : row['id'] })}>
                   <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
                   {this.props.properties.map(property => {
-                    if ('dodano' === property) {
+                    if ('posted' === property) {
                       return <td><DateFormatter timestamp={row[property]} /></td>
                     }
                     else if ('coupon' === property || 'bulk' === property) {
