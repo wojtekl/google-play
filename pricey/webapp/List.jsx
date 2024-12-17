@@ -88,7 +88,7 @@ class ListInner extends React.Component {
               <Breadcrumb.Item active> {this.props.selected} </Breadcrumb.Item>
             </Breadcrumb>
           </Nav>}
-          <Table size="sm">
+          <Table hover size="sm">
             <thead class="table-dark">
               <tr>
                 <th> X </th>
