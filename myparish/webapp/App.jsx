@@ -6,14 +6,14 @@ class AppInner extends React.Component {
     super(props)
     
     const { t } = this.props
-    document.title = t('title_myparish')
+    document.title = t('title_app')
 
     this.state = {
     }
   }
 
   render() {
-    return <p>Działa</p>
+    return <Container><p>Działa</p></Container>
   }
 }
 

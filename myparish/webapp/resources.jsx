@@ -1,12 +1,12 @@
 const resources = {
   en: {
     translation: {
-      "title_myparish": "MyParish app"
+      "title_app": "MyParish the app"
     }
   },
   pl: {
     translation: {
-      "title_myparish": "apka Moja Parafia"
+      "title_app": "apka Moja Parafia"
     }
   }
 }

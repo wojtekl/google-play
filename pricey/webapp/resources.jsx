@@ -3,7 +3,7 @@ const resources = {
     translation: {
       "label_loading": "Loading...",
       "label_item": "Item",
-      "title_pricey": "Pricey",
+      "title_app": "Pricey the app",
       "link_get_the_app": "Get the APP!",
       "button_new_product": "New Product",
       "button_update_price": "Update Price",
@@ -27,7 +27,7 @@ const resources = {
     translation: {
       "label_loading": "Wczytuję...",
       "label_item": "Produkt",
-      "title_pricey": "Pricey",
+      "title_app": "apka Pricey",
       "link_get_the_app": "Zainstaluj Apkę!",
       "button_new_product": "Nowy produkt",
       "button_update_price": "Aktualizuj cenę",

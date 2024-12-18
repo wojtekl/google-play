@@ -8,6 +8,7 @@ class AppInner extends React.Component {
     super(props)
     
     const { t } = this.props
+    document.title = t('title_app')
 
     this.state = {
       source: (
