@@ -26,8 +26,8 @@ class Repository {
     }
   }
   
-  public function insertCena($item, $place, $value, $country, $id, $coupon, $bulk) {
-    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$item', '$place', '$value', '$country', '$id', UTC_TIMESTAMP, '$coupon', '$bulk');");
+  public function insertCena($item, $store, $price, $country, $id, $coupon, $bulk) {
+    return $this -> execute("INSERT INTO `CENA` VALUES (0, '$item', '$store', '$price', '$country', '$id', UTC_TIMESTAMP, '$coupon', '$bulk');");
   }
   
   public function getCeny($item) {
