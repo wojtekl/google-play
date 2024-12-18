@@ -34,10 +34,6 @@ i18n.use(initReactI18next).init({
   }
 })
 
-const { t } = useTranslation();
-
-document.title = t('title_myparish')
-
 const store = Redux.createStore(selectedReducer)
 
 const container = document.getElementById('root')
