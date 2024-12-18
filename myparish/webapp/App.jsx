@@ -14,8 +14,11 @@ class AppInner extends React.Component {
 
   render() {
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%"} })
-    const map = L.map('map')
     return <Container>{mapDiv}</Container>
+  }
+
+  componentDidMount() {
+    const map = L.map('map')
   }
 }
 
