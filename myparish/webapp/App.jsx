@@ -13,7 +13,7 @@ class AppInner extends React.Component {
   }
 
   render() {
-    return <Container><p>Działa</p></Container>
+    return <Container><div id="map"></div></Container>
   }
 }
 
