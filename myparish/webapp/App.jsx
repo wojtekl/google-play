@@ -14,7 +14,7 @@ class AppInner extends React.Component {
 
   render() {
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "300px"} })
-    return <Container fluid>{mapDiv}</Container>
+    return <Container fluid className="vh-100">{mapDiv}</Container>
   }
 
   componentDidMount() {
@@ -23,6 +23,10 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map)
+  clients.clients.forEach((val, index) => {
+    var marker = L.marker([val.latitude, val.longitude]).addTo(map);
+    marker.bindPopup(val.name).openPopup();
+  })
   }
 }
 
