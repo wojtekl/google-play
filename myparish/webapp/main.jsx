@@ -9,15 +9,15 @@ const Form = ReactBootstrap.Form
 
 
 const initialState = {
-  value: []
+  value: null
 }
 
 const selectedReducer = (state = initialState, action) => {
   switch (action.type) {
     case 'selected/added':
-      return { ...state, value: state.value.concat([action.payload]) }
+      return { ...state, value: action.payload }
     case 'selected/removed':
-      return { ...state, value: state.value.filter(i => i != action.payload) }
+      return { ...state, value: null }
     default:
       return state
   }
