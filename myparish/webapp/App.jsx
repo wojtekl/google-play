@@ -23,6 +23,8 @@ class AppInner extends React.Component {
   }
 
   componentDidMount() {
+    const { t } = this.props
+    
     const map = L.map('map').setView([52.114503, 19.423561], 10)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
