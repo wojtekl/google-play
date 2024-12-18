@@ -24,7 +24,7 @@ class AppInner extends React.Component {
 
   componentDidMount() {
     const { t } = this.props
-    
+
     const map = L.map('map').setView([52.114503, 19.423561], 10)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
@@ -32,7 +32,7 @@ class AppInner extends React.Component {
     }).addTo(map)
     clients.clients.forEach((val, index) => {
       var marker = L.marker([val.latitude, val.longitude]).addTo(map);
-      marker.bindPopup(<><p>{val.name}:{val.description}</p><a href="javascript:;" onClick={() => this.handleSee(val.name)}> {t('see_link')} </a></>).openPopup();
+      marker.bindPopup((<><p>{val.name}:{val.description}</p><a href="javascript:;" onClick={() => this.handleSee(val.name)}> {t('see_link')} </a></>)).openPopup();
     })
   }
 }
