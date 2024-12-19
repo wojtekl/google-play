@@ -32,7 +32,7 @@ class AppInner extends React.Component {
     }).addTo(map)
     clients.clients.forEach((val, index) => {
       var marker = L.marker([val.latitude, val.longitude]).addTo(map);
-      marker.bindPopup(`<a href="#selected/${val.name}"> ${t('see_link')} </a>`).openPopup();
+      marker.bindPopup(`<a href="#/selected/${val.name}"> ${t('see_link')} </a>`).openPopup();
     })
   }
 }
