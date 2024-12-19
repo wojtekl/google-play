@@ -12,6 +12,7 @@ const useTranslation = ReactI18next.useTranslation
 const Button = ReactBootstrap.Button
 const Container = ReactBootstrap.Container
 const Form = ReactBootstrap.Form
+const ListGroup = ReactBootstrap.ListGroup
 
 
 const initialState = {
