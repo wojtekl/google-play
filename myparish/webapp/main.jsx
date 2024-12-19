@@ -13,6 +13,7 @@ const Button = ReactBootstrap.Button
 const Container = ReactBootstrap.Container
 const Form = ReactBootstrap.Form
 const ListGroup = ReactBootstrap.ListGroup
+const Navbar = ReactBootstrap.Navbar
 
 
 const initialState = {
