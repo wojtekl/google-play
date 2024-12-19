@@ -2,6 +2,7 @@ const Router = ReactRouterDOM.HashRouter
 const Routes = ReactRouterDOM.Routes
 const Route = ReactRouterDOM.Route
 const useNavigate = ReactRouterDOM.useNavigate
+const useParams = ReactRouterDOM.useParams
 const NavLink = ReactRouterDOM.NavLink
 const Provider = ReactRedux.Provider
 const i18n = i18next
@@ -48,6 +49,6 @@ const root = ReactDOM.createRoot(container)
 root.render(<Provider store={store}><Router>
   <Routes>
     <Route path="/" element={<App />} />
-    <Route path="selected" element={<Selected />} />
+    <Route path="selected/:name" element={<Selected />} />
   </Routes>
 </Router></Provider>)
