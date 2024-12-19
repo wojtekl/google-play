@@ -1,5 +1,6 @@
 class Selected extends React.Component {
   render() {
-    return (<p>działa</p>)
+    const name = new URLSearchParams(new URL(window.location).search).get('name')
+    return (<p>{name}</p>)
   }
 }
