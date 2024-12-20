@@ -25,7 +25,7 @@ class AppInner extends React.Component {
       </Navbar.Collapse>
     </Container>
   </Navbar>
-  <Container fluid className="vh-100" style={{height: "calc(100vh - 40px)"}}>{mapDiv}</Container>
+  <Container fluid style={{height: "calc(100vh - 56px)"}}>{mapDiv}</Container>
 </>
   }
 
