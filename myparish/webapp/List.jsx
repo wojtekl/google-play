@@ -2,6 +2,7 @@ const useState = React.useState
 
 
 const List = () => {
+  const navigate = useNavigate()
   const { t } = useTranslation()
 
   const [filtered, setFiltered] = useState(clients.clients)
@@ -9,7 +10,6 @@ const List = () => {
   const handleClick = (name) => {
     store.dispatch({ type: 'selected/added', payload: name })
 
-    const navigate = useNavigate()
     navigate(`/selected/${name}`)
   }
 
