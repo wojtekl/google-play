@@ -1,4 +1,7 @@
-class List extends React.Component {
+const withTranslation = ReactI18next.withTranslation
+
+
+class ListInner extends React.Component {
 
   constructor(props) {
     super(props)
@@ -20,6 +23,8 @@ class List extends React.Component {
   }
 
   render() {
+    const { t } = this.props
+
     return <Container>
   <form class="form-inline my-2">
     <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
@@ -30,3 +35,5 @@ class List extends React.Component {
 </Container>
   }
 }
+
+const List = withTranslation()(ListInner)
