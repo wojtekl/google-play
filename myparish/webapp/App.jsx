@@ -31,8 +31,7 @@ class AppInner extends React.Component {
     </Container>
   </Navbar>
   <Container fluid style={{height: "calc(100vh - 56px)"}}>{mapDiv}</Container>
-</>
-  }
+</>}
 
   componentDidMount() {
     const { t } = this.props
