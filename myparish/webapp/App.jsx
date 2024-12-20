@@ -13,7 +13,10 @@ class AppInner extends React.Component {
   }
 
   render() {
+    const { t } = this.props
+
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
+
     return <>
   <Navbar>
     <Container>
