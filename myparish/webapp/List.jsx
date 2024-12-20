@@ -1,39 +1,31 @@
-const withTranslation = ReactI18next.withTranslation
+const useState = React.useState
 
 
-class ListInner extends React.Component {
-
-  constructor(props) {
-    super(props)
-
-    this.state = {
-      filtered: clients.clients
-    }
-  }
-
-  handleClick = (name) => {
-    store.dispatch({ type: 'selected/added', payload: name })
-
-    const navigate = useNavigate()
-    navigate(`/selected/${name}`)
-  }
-
-  handleFilter = (event) => {
-    this.setState({ filtered: clients.clients.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())) })
-  }
+const List = () =>  {
 
   render() {
-    const { t } = this.props
+    const { t } = useTranslation()
+
+    const [filtered, setFiltered] = useState(clients.clients)
+
+    const handleClick = (name) => {
+      store.dispatch({ type: 'selected/added', payload: name })
+  
+      const navigate = useNavigate()
+      navigate(`/selected/${name}`)
+    }
+  
+    const handleFilter = (event) => {
+      setFiltered(clients.clients.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())))
+    }
 
     return <Container>
   <form class="form-inline my-2">
-    <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
+    <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
   </form>
   <ListGroup>
-    {this.state.filtered.map(i => <ListGroup.Item onClick={() => this.handleClick(i.name)}>{i.name}</ListGroup.Item>)}
+    {filtered.map(i => <ListGroup.Item onClick={() => handleClick(i.name)}>{i.name}</ListGroup.Item>)}
   </ListGroup>
 </Container>
   }
 }
-
-const List = withTranslation()(ListInner)
