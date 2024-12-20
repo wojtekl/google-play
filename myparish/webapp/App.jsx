@@ -1,7 +1,7 @@
 const withTranslation = ReactI18next.withTranslation
 
 
-class MapInner extends React.Component {
+class AppInner extends React.Component {
   constructor(props) {
     super(props)
 
@@ -10,11 +10,6 @@ class MapInner extends React.Component {
 
     this.state = {
     }
-  }
-
-  handleSee = (selected) => {
-    store.dispatch({ type: 'selected/added', payload: selected })
-    console.log(selected)
   }
 
   render() {
@@ -30,11 +25,11 @@ class MapInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    clients.clients.forEach((val, index) => {
-      var marker = L.marker([val.latitude, val.longitude]).addTo(map);
-      marker.bindPopup(`<p>${val.name}</p><a href="#/selected/${val.name}"> ${t('see_link')} </a>`).openPopup();
+    clients.clients.forEach((item, index) => {
+      var marker = L.marker([item.latitude, item.longitude]).addTo(map);
+      marker.bindPopup(`<p>${item.name}</p><a href="#/selected/${item.name}"> ${t('see_link')} </a>`);
     })
   }
 }
 
-const App = withTranslation()(MapInner)
+const App = withTranslation()(AppInner)
