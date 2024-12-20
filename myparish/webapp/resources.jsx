@@ -7,7 +7,10 @@ const resources = {
       "list_announcement": "Announcement",
       "list_contact": "Contact",
       "list_other": "Other",
-      "list_live": "Live"
+      "list_live": "Live",
+      "nav_list": "List",
+      "nav_map": "Map",
+      "nav_news": "News"
     }
   },
   pl: {
@@ -18,7 +21,10 @@ const resources = {
       "list_announcement": "Ogłoszenia",
       "list_contact": "Kontakt",
       "list_other": "Cmentarz",
-      "list_live": "Transmisja"
+      "list_live": "Transmisja",
+      "nav_list": "Lista",
+      "nav_map": "Map",
+      "nav_news": "Media"
     }
   }
 }

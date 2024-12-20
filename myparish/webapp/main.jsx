@@ -54,6 +54,8 @@ root.render(<Provider store={store}>
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="selected/:name" element={<Selected />} />
+      <Route path="list" element={<List />} />
+      <Route path="news" element={<News />} />
     </Routes>
   </Router>
 </Provider>)
