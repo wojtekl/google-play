@@ -20,8 +20,8 @@ const Selected = () => {
       </Navbar.Collapse>
     </Container>
   </Navbar>
-  <Breadcrumb><Breadcrumb.Item>{selected.name}</Breadcrumb.Item></Breadcrumb>
   <Container>
+    <Breadcrumb><Breadcrumb.Item active>{selected.name}</Breadcrumb.Item></Breadcrumb>
     <ListGroup>
       <ListGroup.Item action href={selected.schedule}>{t('list_schedule')}</ListGroup.Item>
       <ListGroup.Item action href={selected.announcement}>{t('list_announcement')}</ListGroup.Item>
