@@ -5,7 +5,7 @@ const Selected = () => {
   const selected = clients.clients.find(i => i.name === name)
 
   return (<>
-  <Navbar>
+  <Navbar expand="lg">
     <Container>
       <Navbar.Brand>{selected.name}</Navbar.Brand>
     </Container>

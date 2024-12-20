@@ -17,9 +17,9 @@ const List = () => {
     setFiltered(clients.clients.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())))
   }
 
-  return <><Navbar>
+  return <><Navbar expand="lg">
     <Container>
-      <Navbar.Brand><Image src="https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" roundedCircle /></Navbar.Brand>
+      <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" />{t('title_app')}</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto">
