@@ -14,7 +14,19 @@ class AppInner extends React.Component {
 
   render() {
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
-    return <Container fluid className="vh-100">{mapDiv}</Container>
+    return <>
+  <Navbar>
+    <Container>
+      <Navbar.Toggle aria-controls="basic-navbar-nav"/>
+      <Navbar.Collapse id="basic-navbar-nav">
+        <Nav className="me-auto">
+          <Nav.Link>Lista</Nav.Link>
+        </Nav>
+      </Navbar.Collapse>
+    </Container>
+  </Navbar>
+  <Container fluid className="vh-100">{mapDiv}</Container>
+</>
   }
 
   componentDidMount() {
