@@ -3,20 +3,22 @@ const resources = {
     translation: {
       "title_app": "MyParish the app",
       "see_link": "See",
-      "title_schedule": "Schedule",
-      "title_announcement": "Announcement",
-      "title_contact": "Contact",
-      "title_other": "Other"
+      "list_schedule": "Schedule",
+      "list_announcement": "Announcement",
+      "list_contact": "Contact",
+      "list_other": "Other",
+      "list_live": "Live"
     }
   },
   pl: {
     translation: {
       "title_app": "apka Moja Parafia",
       "see_link": "Zobacz",
-      "title_schedule": "Intencje",
-      "title_announcement": "Ogłoszenia",
-      "title_contact": "Kontakt",
-      "title_other": "Cmentarz"
+      "list_schedule": "Intencje",
+      "list_announcement": "Ogłoszenia",
+      "list_contact": "Kontakt",
+      "list_other": "Cmentarz",
+      "list_live": "Transmisja"
     }
   }
 }

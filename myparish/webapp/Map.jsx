@@ -1,7 +1,7 @@
 const withTranslation = ReactI18next.withTranslation
 
 
-class AppInner extends React.Component {
+class MapInner extends React.Component {
   constructor(props) {
     super(props)
 
@@ -32,9 +32,9 @@ class AppInner extends React.Component {
     }).addTo(map)
     clients.clients.forEach((val, index) => {
       var marker = L.marker([val.latitude, val.longitude]).addTo(map);
-      marker.bindPopup(`<a href="#/selected/${val.name}"> ${t('see_link')} </a>`).openPopup();
+      marker.bindPopup(`<p>${val.name}</p><a href="#/selected/${val.name}"> ${t('see_link')} </a>`).openPopup();
     })
   }
 }
 
-const App = withTranslation()(AppInner)
+const Map = withTranslation()(MapInner)
