@@ -13,7 +13,7 @@ class NewsInner extends React.Component {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="#/map">{t('nav_map')}</Nav.Link>
+              <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
             </Nav>
           </Navbar.Collapse>
