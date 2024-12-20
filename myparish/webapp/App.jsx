@@ -18,7 +18,7 @@ class AppInner extends React.Component {
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
 
     return <>
-  <Navbar expand="lg">
+  <Navbar expand="md">
     <Container>
     <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" />{t('title_app')}</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav"/>
@@ -30,7 +30,7 @@ class AppInner extends React.Component {
       </Navbar.Collapse>
     </Container>
   </Navbar>
-  <Container fluid style={{height: "calc(100vh - 56px)"}}>{mapDiv}</Container>
+  <Container style={{height: "calc(100vh - 56px)"}}>{mapDiv}</Container>
 </>}
 
   componentDidMount() {

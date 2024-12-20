@@ -18,7 +18,7 @@ const List = () => {
   }
 
   return <>
-    <Navbar expand="lg">
+    <Navbar expand="md">
       <Container>
         <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" />{t('title_app')}</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
