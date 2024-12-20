@@ -1,3 +1,6 @@
+const Breadcrumb = ReactBootstrap.Breadcrumb
+
+
 const Selected = () => {
   const { name } = useParams()
   const { t } = useTranslation()
@@ -7,9 +10,17 @@ const Selected = () => {
   return (<>
   <Navbar expand="md">
     <Container>
-      <Navbar.Brand>{selected.name}</Navbar.Brand>
+    <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" />{t('title_app')}</Navbar.Brand>
+      <Navbar.Toggle aria-controls="basic-navbar-nav"/>
+      <Navbar.Collapse id="basic-navbar-nav">
+        <Nav className="me-auto">
+          <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
+          <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
+        </Nav>
+      </Navbar.Collapse>
     </Container>
   </Navbar>
+  <Breadcrumb><Breadcrumb.Item>{selected.name}</Breadcrumb.Item></Breadcrumb>
   <Container>
     <ListGroup>
       <ListGroup.Item action href={selected.schedule}>{t('list_schedule')}</ListGroup.Item>
