@@ -51,7 +51,7 @@ const root = ReactDOM.createRoot(container)
 root.render(<Provider store={store}>
   <Router>
     <Routes>
-      <Route path="/" element={<Map />} />
+      <Route path="/" element={<App />} />
       <Route path="selected/:name" element={<Selected />} />
     </Routes>
   </Router>
