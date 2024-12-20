@@ -25,14 +25,14 @@ class MapInner extends React.Component {
   componentDidMount() {
     const { t } = this.props
 
-    const map = L.map('map').setView([52.114503, 19.423561], 10)
+    const mapView = L.map('map').setView([52.114503, 19.423561], 10)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map)
+    }).addTo(mapView)
     clients.clients.forEach((val, index) => {
-      var marker = L.marker([val.latitude, val.longitude]).addTo(map);
-      marker.bindPopup(`<a href="#/selected/${val.name}"> ${t('see_link')} </a>`).openPopup();
+      var marker = L.marker([val.latitude, val.longitude]).addTo(mapView);
+      marker.bindPopup(`<p>${val.name}</p><a href="#/selected/${val.name}"> ${t('see_link')} </a>`).openPopup();
     })
   }
 }
