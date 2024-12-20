@@ -10,7 +10,8 @@ const resources = {
       "list_live": "Live",
       "nav_list": "List",
       "nav_map": "Map",
-      "nav_news": "News"
+      "nav_news": "News",
+      "label_search": "Search",
     }
   },
   pl: {
@@ -24,7 +25,8 @@ const resources = {
       "list_live": "Transmisja",
       "nav_list": "Lista",
       "nav_map": "Map",
-      "nav_news": "Media"
+      "nav_news": "Media",
+      "label_search": "Szukaj",
     }
   }
 }
