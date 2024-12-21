@@ -24,7 +24,7 @@ const resources = {
       "list_other": "Cmentarz",
       "list_live": "Transmisja",
       "nav_list": "Lista",
-      "nav_map": "Map",
+      "nav_map": "Mapa",
       "nav_news": "Media",
       "label_search": "Szukaj",
     }

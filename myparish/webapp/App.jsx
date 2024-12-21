@@ -50,17 +50,18 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
+    const markerRed = L.AwesomeMarkers.icon({ markerColor: "red"})
+    const markerPurple = L.AwesomeMarkers.icon({ markerColor: "purple"})
     clients.clients.forEach((item, index) => {
       let now = false
       item.week.forEach((val, j) => {
         td.setHours(val.substring(0, 2))
         td.setMinutes(val.substring(3, 5))
-        console.log(td, time, isSunday)
         const difference = time - td
         now = difference >= 0 && difference < (1000 * 60 * 30)
       })
-      var circle = L.circle([item.latitude, item.longitude], { color: now ? "red" : "blue", fillColor: "#f03", fillOpacity: 0.5, radius: 500}).addTo(map);
-      circle.bindPopup(`<p>${item.name}</p><a href="#/selected/${item.name}"> ${t('see_link')} </a>`);
+      var marker = L.marker([item.latitude, item.longitude], { icon: now ? markerRed : markerPurple }).addTo(map);
+      marker.bindPopup(`<p>${item.name}</p><a href="#/selected/${item.name}"> ${t('see_link')} </a>`);
     })
   }
 }
