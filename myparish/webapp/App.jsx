@@ -54,8 +54,9 @@ class AppInner extends React.Component {
       item.week.forEach((val, j) => {
         td.setHours(val.substring(0, 1))
         td.setMinutes(val.substring(3, 4))
+        console.log(td, time, isSunday)
         if ((time - td) < (1000 * 60 * 30)) {
-          console.log(time, isSunday)
+          console.log(val)
         }
       })
       var marker = L.marker([item.latitude, item.longitude]).addTo(map);
