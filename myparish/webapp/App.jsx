@@ -17,14 +17,6 @@ class AppInner extends React.Component {
 
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
 
-    const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
-    const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
-    const formatTime = { hour: "numeric", minute: "numeric", timezone: timezone }
-    const time = new Date().toLocaleString(locale, formatTime)
-    const formatDay = { weekday: "numeric", timezone: timezone }
-    const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
-    console.log(time, isSunday)
-
     return <>
   <Navbar expand="md">
     <Container>
@@ -46,12 +38,24 @@ class AppInner extends React.Component {
 
     const selected = clients.clients.find(i => i.name === store.getState().value)
 
+    const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
+    const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
+    const formatTime = { hour: "numeric", minute: "numeric", timezone: timezone }
+    const time = new Date().toLocaleString(locale, formatTime)
+    const formatDay = { weekday: "long", timezone: timezone }
+    const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
+
     const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 10)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
     clients.clients.forEach((item, index) => {
+      item.description.forEach(item, index) {
+        if (item === time) {
+          console.log(time, isSunday)
+        }
+      }
       var marker = L.marker([item.latitude, item.longitude]).addTo(map);
       marker.bindPopup(`<p>${item.name}</p><a href="#/selected/${item.name}"> ${t('see_link')} </a>`);
     })

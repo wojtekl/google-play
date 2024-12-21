@@ -8,7 +8,7 @@ const clients = {
       "contact": "http://parafiabartag.pl/kontakt/#main",
       "others": "",
       "live": "",
-      "description": "",
+      "description": ["07:00", "07:30", "08:00"],
       "latitude": 53.71666,
       "longitude": 20.46954
     },
