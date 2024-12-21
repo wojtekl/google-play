@@ -40,10 +40,10 @@ class AppInner extends React.Component {
 
     const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
     const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
-    const formatTime = { hour: "numeric", minute: "numeric", timezone: timezone }
-    const time = new Date().toLocaleString(locale, formatTime)
+    const time = new Date()
     const formatDay = { weekday: "long", timezone: timezone }
     const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
+    const td = new Date()
 
     const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 10)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -51,11 +51,13 @@ class AppInner extends React.Component {
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
     clients.clients.forEach((item, index) => {
-      item.description.forEach(item, index) {
-        if (item === time) {
+      item.description.forEach((val, j) => {
+        td.setHours(val.substring(0, 1))
+        td.setMinutes(val.substring(3, 4))
+        if ((time - td) < (1000 * 60 * 30)) {
           console.log(time, isSunday)
         }
-      }
+      })
       var marker = L.marker([item.latitude, item.longitude]).addTo(map);
       marker.bindPopup(`<p>${item.name}</p><a href="#/selected/${item.name}"> ${t('see_link')} </a>`);
     })
