@@ -51,7 +51,7 @@ class AppInner extends React.Component {
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
     clients.clients.forEach((item, index) => {
-      item.description.forEach((val, j) => {
+      item.week.forEach((val, j) => {
         td.setHours(val.substring(0, 1))
         td.setMinutes(val.substring(3, 4))
         if ((time - td) < (1000 * 60 * 30)) {
