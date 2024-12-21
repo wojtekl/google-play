@@ -50,8 +50,8 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    let now = false
     clients.clients.forEach((item, index) => {
+      let now = false
       item.week.forEach((val, j) => {
         td.setHours(val.substring(0, 2))
         td.setMinutes(val.substring(3, 5))
@@ -59,7 +59,7 @@ class AppInner extends React.Component {
         const difference = time - td
         now = difference >= 0 && difference < (1000 * 60 * 30)
       })
-      var circle = L.circle([item.latitude, item.longitude], { color: now ? "red" : "blue", fillColor: "#f03", fillOpacity: 0.5, radius: 50}).addTo(map);
+      var circle = L.circle([item.latitude, item.longitude], { color: now ? "red" : "blue", fillColor: "#f03", fillOpacity: 0.5, radius: 500}).addTo(map);
       circle.bindPopup(`<p>${item.name}</p><a href="#/selected/${item.name}"> ${t('see_link')} </a>`);
     })
   }
