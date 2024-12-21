@@ -17,6 +17,14 @@ class AppInner extends React.Component {
 
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
 
+    const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
+    const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
+    const formatTime = { hour: "short", minute: "numeric", timezone: timezone }
+    const time = new Date().toLocaleString(locale, formatTime)
+    const formatDay = { weekday: "numeric", timezone: timezone }
+    const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
+    console.log(time, isSunday)
+
     return <>
   <Navbar expand="md">
     <Container>

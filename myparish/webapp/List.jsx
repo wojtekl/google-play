@@ -8,8 +8,6 @@ const List = () => {
   const [filtered, setFiltered] = useState(clients.clients)
 
   const handleClick = (name) => {
-    store.dispatch({ type: 'selected/added', payload: name })
-
     navigate(`/selected/${name}`)
   }
 

@@ -5,6 +5,8 @@ const Selected = () => {
   const { name } = useParams()
   const { t } = useTranslation()
 
+  store.dispatch({ type: 'selected/added', payload: name })
+
   const selected = clients.clients.find(i => i.name === name)
 
   return (<>
