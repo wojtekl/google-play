@@ -52,8 +52,8 @@ class AppInner extends React.Component {
     }).addTo(map)
     clients.clients.forEach((item, index) => {
       item.week.forEach((val, j) => {
-        td.setHours(val.substring(0, 1))
-        td.setMinutes(val.substring(3, 4))
+        td.setHours(val.substring(0, 2))
+        td.setMinutes(val.substring(3, 5))
         console.log(td, time, isSunday)
         if ((time - td) < (1000 * 60 * 30)) {
           console.log(val)
