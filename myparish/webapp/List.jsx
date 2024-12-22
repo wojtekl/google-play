@@ -1,5 +1,7 @@
 const useState = React.useState
 
+const Badge = ReactBootstrap.Badge
+
 
 const List = () => {
   const navigate = useNavigate()
