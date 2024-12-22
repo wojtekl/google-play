@@ -50,8 +50,8 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    const markerRed = L.Icon.Default()
-    const markerPurple = L.Icon.Default()
+    const markerRed = L.icon({ icon: "" })
+    const markerPurple = L.icon({ icon: "" })
     clients.clients.forEach((item, index) => {
       let now = false
       item.week.forEach((val, j) => {
@@ -60,7 +60,7 @@ class AppInner extends React.Component {
         const difference = time - td
         now = difference >= 0 && difference < (1000 * 60 * 30)
       })
-      var marker = L.marker([item.latitude, item.longitude], { icon: now ? markerRed : markerPurple }).addTo(map);
+      var marker = L.marker([item.latitude, item.longitude], { /*icon: now ? markerRed : markerPurple*/ }).addTo(map);
       marker.bindPopup(`<p>${item.name}</p><a href="#/selected/${item.name}"> ${t('see_link')} </a>`);
     })
   }
