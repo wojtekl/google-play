@@ -50,8 +50,8 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    const markerRed = L.icon({ icon: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png" })
-    const markerPurple = L.icon({ icon: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png" })
+    const markerRed = L.icon({ iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png" })
+    const markerPurple = L.icon({ iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png" })
     clients.clients.forEach((item, index) => {
       let now = false
       item.week.forEach((val, j) => {
