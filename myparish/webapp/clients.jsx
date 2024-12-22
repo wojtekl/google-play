@@ -164,7 +164,7 @@ const clients = {
       "contact": "https://faraciechanow.pl/kancelaria/",
       "others": "",
       "live": "http://posluchaj.radiokrdp.pl/posluchaj/fara.htm",
-      "week": ["06:30", 07:00", "08:30", "18:00"],
+      "week": ["06:30", "07:00", "08:30", "18:00"],
       "description": "",
       "latitude": 52.87540,
       "longitude": 20.61378
@@ -380,7 +380,7 @@ const clients = {
       "contact": "https://chrystus-krol.pl/kontakt/",
       "others": "",
       "live": "",
-      "week": ["07:00", "08:00", 18:00"],
+      "week": ["07:00", "08:00", "18:00"],
       "description": "",
       "latitude": 50.30154,
       "longitude": 18.69362
