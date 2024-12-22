@@ -8,7 +8,7 @@ const clients = {
       "contact": "http://parafiabartag.pl/kontakt/#main",
       "others": "",
       "live": "",
-      "week": ["07:00", "07:30", "20:30"],
+      "week": ["08:00", "10:00", "12:00", "15:00", "18:00"],
       "description": "",
       "latitude": 53.71666,
       "longitude": 20.46954
@@ -20,7 +20,7 @@ const clients = {
       "contact": "https://baczaldolny.weebly.com/kontakt.html#wsite-content",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["08:30", "11:00"],
       "description": "",
       "latitude": 49.76747,
       "longitude": 21.36734
@@ -32,7 +32,7 @@ const clients = {
       "contact": "https://parafia.belzyce.pl/?page=kontakt",
       "others": "https://parafia.belzyce.pl/?page=pytania",
       "live": "",
-      "week": [],
+      "week": ["06:30", "07:00"],
       "description": "",
       "latitude": 51.174514,
       "longitude": 22.277870
@@ -44,7 +44,7 @@ const clients = {
       "contact": "https://kazimierz.archibial.pl/n/index.php#:~:text=kontakt",
       "others": "https://kazimierz.archibial.pl/n/instytucje.php",
       "live": "",
-      "week": [],
+      "week": ["06:30", "07:00", "18:00"],
       "description": "",
       "latitude": 53.149811,
       "longitude": 23.122541
@@ -56,7 +56,7 @@ const clients = {
       "contact": "http://www.parafiabolewice.pl/Parafia/Daneteleadresowe/tabid/56/Default.aspx",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 52.400863,
       "longitude": 16.121093
@@ -67,8 +67,8 @@ const clients = {
       "announcement": "https://parafiabrzeczkowice.pl/ogloszenia/",
       "contact": "https://parafiabrzeczkowice.pl/kontakt/",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=dwSZRm5yNLY",
+      "week": ["6:30", "08:00", "18:00"],
       "description": "",
       "latitude": 50.22378,
       "longitude": 19.15328
@@ -79,8 +79,8 @@ const clients = {
       "announcement": "https://brzozow.przemyska.pl/ogloszenia-parafialne/",
       "contact": "https://brzozow.przemyska.pl/kontakt/",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=5xu6GKe1-vM",
+      "week": ["06:30", "16:00", "18:00"],
       "description": "",
       "latitude": 49.695184,
       "longitude": 22.019536
@@ -91,8 +91,8 @@ const clients = {
       "announcement": "http://www.mateusz.bydgoszcz.pl/ogloszenia",
       "contact": "http://www.mateusz.bydgoszcz.pl/kontakt",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=77UKsf6J1Ls",
+      "week": ["07:00", "17:00", "18:00"],
       "description": "",
       "latitude": 53.155611,
       "longitude": 18.156661
@@ -104,7 +104,7 @@ const clients = {
       "contact": "https://parafiabyslaw.pl/kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["17:00"],
       "description": "",
       "latitude": 53.507056,
       "longitude": 17.991625
@@ -116,7 +116,7 @@ const clients = {
       "contact": "https://florianchodziez.pl/index.php/kontakt/#jm-maincontent",
       "others": "http://chodziez.artlookgallery.com/grobonet/start.php#search",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:30"],
       "description": "",
       "latitude": 52.992046,
       "longitude": 16.916319
@@ -127,8 +127,8 @@ const clients = {
       "announcement": "https://fatimachojnice.parafialnastrona.pl/ogloszenia",
       "contact": "https://fatimachojnice.parafialnastrona.pl/kontakt",
       "others": "https://fatimachojnice.parafialnastrona.pl/obszar-i-statystyka",
-      "live": "",
-      "week": [],
+      "live": "https://fatimachojnice.parafialnastrona.pl/na-zywo",
+      "week": ["08:30", "17:30"],
       "description": "",
       "latitude": 53.69295,
       "longitude": 17.54721
@@ -139,8 +139,8 @@ const clients = {
       "announcement": "https://chorzelow.diecezja.tarnow.pl/ogloszenia/",
       "contact": "https://chorzelow.diecezja.tarnow.pl/kontakt/",
       "others": "https://www.youtube.com/channel/UCK0-Z6r_GMMuTICGDObFPMQ",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=fBIxyfindmk",
+      "week": ["06:30", "17:30"],
       "description": "",
       "latitude": 50.329996,
       "longitude": 21.441026
@@ -152,7 +152,7 @@ const clients = {
       "contact": "https://www.parafiachropaczow.pl/kontakt/",
       "others": "http://swietochlowice.artlookgallery.com/grobonet/",
       "live": "",
-      "week": [],
+      "week": ["06:50", "18:00"],
       "description": "",
       "latitude": 50.312693,
       "longitude": 18.910708
@@ -163,8 +163,8 @@ const clients = {
       "announcement": "https://faraciechanow.pl/category/ogloszenia-i-intencje/ogloszenia/",
       "contact": "https://faraciechanow.pl/kancelaria/",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "http://posluchaj.radiokrdp.pl/posluchaj/fara.htm",
+      "week": ["06:30", 07:00", "08:30", "18:00"],
       "description": "",
       "latitude": 52.87540,
       "longitude": 20.61378
@@ -174,9 +174,9 @@ const clients = {
       "schedule": "https://www.czerlejno.archpoznan.pl/aktualnosci/intencje-mszalne/#main",
       "announcement": "https://www.czerlejno.archpoznan.pl/aktualnosci/ogloszenia-parafialne/#main",
       "contact": "https://www.czerlejno.archpoznan.pl/kontakt/#main",
-      "others": "",
+      "others": "https://czerlejno.artlookgallery.com/grobonet/start.php?id=form",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 52.35221,
       "longitude": 17.21329
@@ -186,9 +186,9 @@ const clients = {
       "schedule": "https://parafia-czerniejewo.pl/intencje-mszalne/#sp-component",
       "announcement": "https://parafia-czerniejewo.pl/#sp-component",
       "contact": "https://parafia-czerniejewo.pl/kontakt/#:~:text=Kontakt",
-      "others": "",
+      "others": "http://mogily.pl/czerniejewo",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 52.42659,
       "longitude": 17.48923
@@ -198,9 +198,9 @@ const clients = {
       "schedule": "https://parafia.cminsk.pl/intencje/",
       "announcement": "https://parafia.cminsk.pl/ogloszenia/",
       "contact": "https://parafia.cminsk.pl/kontakt/",
-      "others": "",
+      "others": "http://mogily.pl/cminsk",
       "live": "",
-      "week": [],
+      "week": ["07:00", "17:00"],
       "description": "",
       "latitude": 50.978873,
       "longitude": 20.541518
@@ -212,7 +212,7 @@ const clients = {
       "contact": "https://parafiastrzemieszyce.pl/kontakt",
       "others": "https://parafiastrzemieszyce.pl/sakramenty/#sacrament3",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 50.313486,
       "longitude": 19.280003
@@ -224,7 +224,7 @@ const clients = {
       "contact": "https://debrzno-salezjanie.pl/#Kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["09:00", "18:00"],
       "description": "",
       "latitude": 53.53663,
       "longitude": 17.23504
@@ -236,7 +236,7 @@ const clients = {
       "contact": "http://www.mariamagdalena.parafia.info.pl/?p=main&what=35",
       "others": "https://dzialoszyn.grobonet.com/",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 51.117684,
       "longitude": 18.860218
@@ -246,9 +246,9 @@ const clients = {
       "schedule": "https://parafiagawluszowice.pl/intencje-mszalne/",
       "announcement": "https://parafiagawluszowice.pl/ogloszenia-parafialne/",
       "contact": "https://parafiagawluszowice.pl/kontakt/",
-      "others": "https://parafiagawluszowice.pl/wydarzenia/",
+      "others": "http://mogily.pl/gawluszowice",
       "live": "",
-      "week": [],
+      "week": ["07:00", "17:00"],
       "description": "",
       "latitude": 50.412695,
       "longitude": 21.381232
@@ -260,7 +260,7 @@ const clients = {
       "contact": "https://www.bratalbert.com.pl/kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["06:30", "07:30", "18:00"],
       "description": "",
       "latitude": 54.404849,
       "longitude": 18.603678
@@ -272,7 +272,7 @@ const clients = {
       "contact": "http://www.ignacy.diecezja.gda.pl/kontakt/#contact_view",
       "others": "http://www.ignacy.diecezja.gda.pl/sakramenty-i-sakramentalia-12606/pogrzeb-12613",
       "live": "",
-      "week": [],
+      "week": ["06:30", "18:30"],
       "description": "",
       "latitude": 54.333888,
       "longitude": 18.634188
@@ -283,8 +283,8 @@ const clients = {
       "announcement": "http://www.parafiapio.pl/ogloszenia",
       "contact": "http://www.parafiapio.pl/kontakt",
       "others": "http://www.parafiapio.pl/wirtualny-spacer-21617",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/c/Parafia%C5%9BwOjcaPiowGda%C5%84sku/streams",
+      "week": ["07:30", "08:30", "18:00", "19:00"],
       "description": "",
       "latitude": 54.327772,
       "longitude": 18.590715
@@ -296,7 +296,7 @@ const clients = {
       "contact": "http://www.fatimska.net.pl/kontakt/#contact_view",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00", "19:00"],
       "description": "",
       "latitude": 54.419908,
       "longitude": 18.574646
@@ -308,7 +308,7 @@ const clients = {
       "contact": "https://www.parafia.gdynia.pl/kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "08:00", "18:00"],
       "description": "",
       "latitude": 54.471509,
       "longitude": 18.458914
@@ -320,7 +320,7 @@ const clients = {
       "contact": "https://bobola.gdynia.pl/kancelaria-parafialna/",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["06:30", "07:30", "18:00"],
       "description": "",
       "latitude": 54.552647,
       "longitude": 18.508540
@@ -331,8 +331,8 @@ const clients = {
       "announcement": "https://mbrozancowa.pl/category/ogloszenia-parafialne/#content",
       "contact": "https://mbrozancowa.pl/kontakt/#content",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/@parafiamatkiboskiejrozanco6562/streams",
+      "week": ["08:30", "18:00"],
       "description": "",
       "latitude": 54.533025,
       "longitude": 18.453426
@@ -343,8 +343,8 @@ const clients = {
       "announcement": "https://www.parafiawawrzynca.pl/ogloszenia/#announcements",
       "contact": "https://www.parafiawawrzynca.pl/kontakt/#contact_view",
       "others": "http://www.mogily.pl/wielkikack",
-      "live": "",
-      "week": [],
+      "live": "https://www.parafiawawrzynca.pl/transmisja-live-28936",
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 54.468388,
       "longitude": 18.494019
@@ -356,7 +356,7 @@ const clients = {
       "contact": "https://www.parafiaglinianka.pl/kontakt/",
       "others": "https://www.parafiaglinianka.pl/regulamin-cmentarza-parafii-sw-wawrzynca-w-gliniance/",
       "live": "",
-      "week": [],
+      "week": ["07:30"],
       "description": "",
       "latitude": 52.131310,
       "longitude": 21.418042
@@ -368,7 +368,7 @@ const clients = {
       "contact": "https://parafiaglinojeck.pl/kontakt/#content",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["17:00", "18:00"],
       "description": "",
       "latitude": 52.81861,
       "longitude": 20.28403
@@ -380,7 +380,7 @@ const clients = {
       "contact": "https://chrystus-krol.pl/kontakt/",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "08:00", 18:00"],
       "description": "",
       "latitude": 50.30154,
       "longitude": 18.69362
@@ -391,8 +391,8 @@ const clients = {
       "announcement": "https://parafia.glogovia.pl/aktulanosci/porzadek-nabozenstw.html#:~:text=Ogłoszenia",
       "contact": "https://parafia.glogovia.pl/contacts.html",
       "others": "https://cmentarz.glogovia.pl/",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=QzVvz2xblhQ",
+      "week": ["06:30", "18:30"],
       "description": "",
       "latitude": 50.352594,
       "longitude": 17.859644
@@ -403,8 +403,8 @@ const clients = {
       "announcement": "https://bazylikagorlice.pl/category/ogloszenia-parafialne/#Content",
       "contact": "https://bazylikagorlice.pl/kontakt/#Content",
       "others": "http://mogily.pl/gorlice",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=2f5xhDaQI94",
+      "week": ["06:00", "06:30", "07:00", "08:00", "18:00"],
       "description": "",
       "latitude": 49.657808,
       "longitude": 21.158630
@@ -416,7 +416,7 @@ const clients = {
       "contact": "http://jadwiga.gorlice.pl/index.php/informacje-parafialne/kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["06:30", "18:00"],
       "description": "",
       "latitude": 49.65225,
       "longitude": 21.16160
@@ -426,9 +426,9 @@ const clients = {
       "schedule": "https://parafiagoszczanow.pl/intencje",
       "announcement": "https://parafiagoszczanow.pl/ogloszenia",
       "contact": "https://parafiagoszczanow.pl/",
-      "others": "https://parafiagoszczanow.pl/turczynki",
+      "others": "https://cmentarnik.net/goszczanow",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 51.789828,
       "longitude": 18.504793
@@ -440,7 +440,7 @@ const clients = {
       "contact": "https://parafia-gg.werbisci.pl/#:~:text=kancelaria",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["17:00"],
       "description": "",
       "latitude": 53.486510,
       "longitude": 18.669068
@@ -452,7 +452,7 @@ const clients = {
       "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["06:30", "07:00", "18:00"],
       "description": "",
       "latitude": 52.73886,
       "longitude": 23.58247
@@ -463,8 +463,8 @@ const clients = {
       "announcement": "https://parafia-humniska.pl/ogloszenia/",
       "contact": "https://parafia-humniska.pl/kontakt/",
       "others": "https://worldcam.live/pl/webcam/humniska#",
-      "live": "",
-      "week": [],
+      "live": "https://worldcam.live/pl/webcam/humniska#",
+      "week": ["18:00"],
       "description": "",
       "latitude": 49.685184,
       "longitude": 22.030005
@@ -475,8 +475,8 @@ const clients = {
       "announcement": "https://parafiaiwkowa.pl/?ogloszenia,3",
       "contact": "https://parafiaiwkowa.pl/?kontakt,4",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=YM18cu-AZB4",
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 49.81958,
       "longitude": 20.58528
@@ -488,7 +488,7 @@ const clients = {
       "contact": "https://parafia-janow.pl/index.php/kontakt/#content",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["17:00"],
       "description": "",
       "latitude": 50.72130,
       "longitude": 19.43458
@@ -512,7 +512,7 @@ const clients = {
       "contact": "https://parafiajasienica.kylos.pl/nowajasienica/index.php/dane-adresowe-i-konto-parafii",
       "others": "http://jasienica.artlookgallery.com/",
       "live": "",
-      "week": [],
+      "week": ["07:00"],
       "description": "",
       "latitude": 52.803895,
       "longitude": 22.043662
@@ -523,8 +523,8 @@ const clients = {
       "announcement": "https://www.parafia-trzycatek.pl/index.php/aktualnosci/ogloszenia-parafialne/#main",
       "contact": "https://www.parafia-trzycatek.pl/#:~:text=Kontakt",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=CMIn2ofj_7I",
+      "week": ["08:00", "17:00"],
       "description": "",
       "latitude": 49.52496,
       "longitude": 18.85674
@@ -534,9 +534,9 @@ const clients = {
       "schedule": "https://www.swietatrojca.org/aktualnosci/ogloszenia-parafialne",
       "announcement": "https://www.swietatrojca.org/aktualnosci/porzadek-mszy-sw",
       "contact": "https://www.swietatrojca.org/kancelaria/kontakt",
-      "others": "https://www.swietatrojca.org/kancelaria/wazne-dokumenty",
+      "others": "http://mogily.pl/jedrzejowparafialny",
       "live": "",
-      "week": [],
+      "week": ["06:30", "07:00", "18:00"],
       "description": "",
       "latitude": 50.641996,
       "longitude": 20.305891
@@ -547,8 +547,8 @@ const clients = {
       "announcement": "https://nspj.katowice.pl/index.php/2014-11-19-11-23-15",
       "contact": "https://nspj.katowice.pl/index.php/2014-11-19-11-17-33",
       "others": "https://nspj.katowice.pl/index.php/poznaj-nasz-kosciol",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=ZvSm0w2dzrc",
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 50.210030,
       "longitude": 18.975170
@@ -560,7 +560,7 @@ const clients = {
       "contact": "https://graniczna.katowice.pl/#:~:text=dane%20kontaktowe",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "08:00", "18:00"],
       "description": "",
       "latitude": 50.254523,
       "longitude": 19.034556
@@ -572,7 +572,7 @@ const clients = {
       "contact": "https://jozefrobotnik.katowice.pl/kontakt.html",
       "others": "https://jozefrobotnik.katowice.pl/cmentarz.html",
       "live": "https://www.youtube.com/watch?v=UZg2se7jxbc",
-      "week": [],
+      "week": ["06:30", "08:00", "18:00"],
       "description": "",
       "latitude": 50.280554,
       "longitude": 19.013657
@@ -584,7 +584,7 @@ const clients = {
       "contact": "https://parafia.panewniki.pl/kontakt/",
       "others": "https://jozefrobotnik.katowice.pl/cmentarz.html",
       "live": "",
-      "week": [],
+      "week": ["06:00", "06:45", "07:30", "08:00", "09:00", "18:30"],
       "description": "https://parafia.panewniki.pl/o-nas/galeria/wirtualny-spacer/",
       "latitude": 50.226903,
       "longitude": 18.962620
@@ -667,7 +667,7 @@ const clients = {
       "announcement": "https://parafiaklecko.pl/ogloszenia-parafialne/#inner-wrap",
       "contact": "https://parafiaklecko.pl/contact/#inner-wrap",
       "others": "",
-      "live": "",
+      "live": "https://www.youtube.com/@parafiapw.sw.jerzegoisw.ja7173/streams",
       "week": [],
       "description": "",
       "latitude": 52.63294,
