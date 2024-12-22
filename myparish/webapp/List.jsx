@@ -41,6 +41,7 @@ const List = () => {
             base.setHours(item.substring(0, 2))
             base.setMinutes(item.substring(3, 5))
             const difference = now - base
+            console.log(item, now, base, difference)
             if (difference >= 0 && difference < (1000 * 60 * 30)) {
               soon = item
             }
