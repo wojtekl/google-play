@@ -33,7 +33,20 @@ const List = () => {
         <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
       </form>
       <ListGroup>
-        {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)}>{i.name}</ListGroup.Item>)}
+        {filtered.map(i => {
+          const now = new Date()
+          const base = now
+          let soon = ''
+          i.week.forEach((item, index) => {
+            base.setHours(item.substring(0, 2))
+            base.setMinutes(item.substring(3, 5))
+            const difference = now - base
+            if (difference >= 0 && difference < (1000 * 60 * 30)) {
+              soon = item
+            }
+          })
+          return <ListGroup.Item action onClick={() => handleClick(i.name)}>{i.name}:{soon}</ListGroup.Item>
+        })}
       </ListGroup>
     </Container>
   </>
