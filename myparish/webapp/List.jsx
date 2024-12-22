@@ -34,9 +34,9 @@ const List = () => {
       </form>
       <ListGroup>
         {filtered.map(i => {
+          let soon = ''
           const now = new Date()
           const base = now
-          let soon = ''
           i.week.forEach((item, index) => {
             base.setHours(item.substring(0, 2))
             base.setMinutes(item.substring(3, 5))
