@@ -46,7 +46,7 @@ const List = () => {
               soon = item
             }
           })
-          return <ListGroup.Item action onClick={() => handleClick(i.name)}>{i.name}:{soon}</ListGroup.Item>
+          return <ListGroup.Item action onClick={() => handleClick(i.name)}><div className="ms-2 me-auto">{i.name}</div><Badge bg="primary" pill>{soon}</Badge></ListGroup.Item>
         })}
       </ListGroup>
     </Container>
