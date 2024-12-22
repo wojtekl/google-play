@@ -54,7 +54,7 @@ class AppInner extends React.Component {
       let incoming = false
       const base = new Date()
       const now = new Date()
-      item.week.forEach((j, _) => {
+      i.week.forEach((j, _) => {
         base.setHours(j.substring(0, 2))
         base.setMinutes(j.substring(3, 5))
         const diff = now - base
