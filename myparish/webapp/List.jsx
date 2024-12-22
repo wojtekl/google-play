@@ -39,13 +39,12 @@ const List = () => {
           let soon = ''
           const now = new Date()
           const base = new Date()
-          i.week.forEach((item, index) => {
-            base.setHours(item.substring(0, 2))
-            base.setMinutes(item.substring(3, 5))
-            const difference = now - base
-            console.log(item, now, base, difference)
-            if (difference >= 0 && difference < (1000 * 60 * 30)) {
-              soon = item
+          i.week.forEach((j, _) => {
+            base.setHours(j.substring(0, 2))
+            base.setMinutes(j.substring(3, 5))
+            const diff = now - base
+            if (diff >= 0 && diff < (1000 * 60 * 30)) {
+              soon = j
             }
           })
           return <ListGroup.Item action onClick={() => handleClick(i.name)}><div className="ms-2 me-auto">{i.name}</div><Badge bg="primary" pill>{soon}</Badge></ListGroup.Item>
