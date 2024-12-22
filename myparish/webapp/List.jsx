@@ -38,7 +38,7 @@ const List = () => {
         {filtered.map(i => {
           let soon = ''
           const now = new Date()
-          const base = now
+          const base = new Date()
           i.week.forEach((item, index) => {
             base.setHours(item.substring(0, 2))
             base.setMinutes(item.substring(3, 5))
