@@ -1795,8 +1795,8 @@ const clients = {
       "announcement": "http://antoni-torun.pl/ogloszenia-duszpasterskie/#main-content",
       "contact": "http://antoni-torun.pl/kontakt/#main-content",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/@antonitorun7515/streams",
+      "week": ["07:00", "08:30", "18:00"],
       "description": "",
       "latitude": 53.04112,
       "longitude": 18.58034
@@ -1808,7 +1808,7 @@ const clients = {
       "contact": "http://www.mkolbe.pl/index.html#content1-24",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:30", "18:00"],
       "description": "",
       "latitude": 50.08450,
       "longitude": 19.00088
@@ -1820,7 +1820,7 @@ const clients = {
       "contact": "http://parafia.tyszowce.pl/duszpasterstwo/#content",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "17:00"],
       "description": "",
       "latitude": 50.61047,
       "longitude": 23.70699
@@ -1831,8 +1831,8 @@ const clients = {
       "announcement": "https://walcz.kapucyni.pl/nowa/index.php/ogloszenia/ogloszenia-duszpasterskie/#k2Container",
       "contact": "https://walcz.kapucyni.pl/nowa/index.php/contact/#k2Container",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/@KapucyniWacz2020r/streams",
+      "week": ["07:30", "18:00"],
       "description": "",
       "latitude": 53.27103,
       "longitude": 16.47068
@@ -1844,7 +1844,7 @@ const clients = {
       "contact": "https://mbloretanska.pl/?page_id=40",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "08:00", "18:00"],
       "description": "",
       "latitude": 52.256686,
       "longitude": 21.027703
@@ -1856,7 +1856,7 @@ const clients = {
       "contact": "https://wlodzimierz.waw.pl/kontakt-i-kancelaria/",
       "others": "https://wlodzimierz.waw.pl/wirtualny-spacer/",
       "live": "",
-      "week": [],
+      "week": ["07:00", "07:30", "18:00"],
       "description": "",
       "latitude": 52.292974,
       "longitude": 21.028452
@@ -1868,7 +1868,7 @@ const clients = {
       "contact": "https://rozancowa.waw.pl/kontakt/",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["06:30", "08:00", "18:30"],
       "description": "",
       "latitude": 52.286770,
       "longitude": 21.023691
@@ -1879,8 +1879,8 @@ const clients = {
       "announcement": "https://www.wieliczkaklemens.pl/category/ogloszenia-parafialne/?latest#:~:text=OGŁOSZENIA%20PARAFIALNE",
       "contact": "https://wieliczkaklemens.pl/kontakt/#content_skip_link_anchor",
       "others": "",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=X31bTqo7pGA",
+      "week": ["07:00", "08:00", "18:00"],
       "description": "",
       "latitude": 49.98368,
       "longitude": 20.06023
@@ -1892,7 +1892,7 @@ const clients = {
       "contact": "http://www.swjanchrzciciel.wloclawek.pl/index.php/kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 52.661026,
       "longitude": 19.072845
@@ -1904,7 +1904,7 @@ const clients = {
       "contact": "https://katedrawloclawek.pl/index.php",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 52.661060,
       "longitude": 19.067837
@@ -1916,7 +1916,7 @@ const clients = {
       "contact": "https://parafiawolamielecka.pl/kontakt/",
       "others": "https://parafiawolamielecka.pl/aktualnosci/",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 50.283320,
       "longitude": 21.385958
@@ -1928,7 +1928,7 @@ const clients = {
       "contact": "https://wojcin.pl/kosciol_intencje_mszalne.php",
       "others": "https://www.ecmentarze.pl/cmentarz/wojcin",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 51.175153,
       "longitude": 18.244815
@@ -1940,7 +1940,7 @@ const clients = {
       "contact": "https://www.swietyduch.wrzesnia.pl/index.php/kontakt.html",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:30"],
       "description": "",
       "latitude": 52.322586,
       "longitude": 17.571057
@@ -1952,7 +1952,7 @@ const clients = {
       "contact": "http://farawrzesnia.pl/?page_id=17",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 52.326473,
       "longitude": 17.564231
@@ -1962,9 +1962,9 @@ const clients = {
       "schedule": "http://parafiawysockowielkie.pl/index.php/intencje-mszalne/#content",
       "announcement": "http://parafiawysockowielkie.pl/index.php/ogloszenia-parafialne/#content",
       "contact": "http://parafiawysockowielkie.pl/index.php/kontakt/#content",
-      "others": "",
+      "others": "https://www.ecmentarze.pl/cmentarz/wysocko-wielkie/grave/all",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 51.62239,
       "longitude": 17.85409
@@ -1976,7 +1976,7 @@ const clients = {
       "contact": "https://parafiawysowa.pl/kontakt/",
       "others": "https://parafiawysowa.pl/galeria/",
       "live": "",
-      "week": [],
+      "week": ["17:00"],
       "description": "",
       "latitude": 49.441587,
       "longitude": 21.172942
@@ -1988,7 +1988,7 @@ const clients = {
       "contact": "https://www.swwojciech-zabrze.pl/kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["12:00", "19:00"],
       "description": "",
       "latitude": 50.323839,
       "longitude": 18.776246
@@ -1999,8 +1999,8 @@ const clients = {
       "announcement": "https://zakrzowparafia.pl/#/home",
       "contact": "https://zakrzowparafia.pl/#/home/#:~:text=KANCELARIA",
       "others": "https://zakrzowparafia.pl/#/page/9-pogrzeb-katolicki",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/@parafia98/streams",
+      "week": ["18:00"],
       "description": "",
       "latitude": 49.821286,
       "longitude": 19.656545
@@ -2022,9 +2022,9 @@ const clients = {
       "schedule": "http://www.wniebowziecia.xcr.pl/intencje-mszalne/",
       "announcement": "http://www.wniebowziecia.xcr.pl/ogloszenia/",
       "contact": "http://www.wniebowziecia.xcr.pl/kancelaria/",
-      "others": "",
+      "others": "http://mogily.pl/zlocieniec",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 53.53455,
       "longitude": 16.00825
@@ -2036,7 +2036,7 @@ const clients = {
       "contact": "https://diecezja.lomza.pl/parafie-diecezji-lomzynskiej/ad/parafie,1/zlotoria-parafia-pw-sw-jozefa,181/#:~:text=kontakt",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["08:00"],
       "description": "",
       "latitude": 53.177400,
       "longitude": 22.933555
@@ -2048,7 +2048,7 @@ const clients = {
       "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content",
       "others": "https://zlotypotok.grobonet.com/",
       "live": "",
-      "week": [],
+      "week": ["16:30"],
       "description": "Pn-Sb 17:30,18:00;Nd 7:30,12:00",
       "latitude": 50.70714,
       "longitude": 19.43794
@@ -2060,7 +2060,7 @@ const clients = {
       "contact": "https://parafia.zrebice.pl/kontakt/#main",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["16:30"],
       "description": "",
       "latitude": 50.72115,
       "longitude": 19.32936
@@ -2072,7 +2072,7 @@ const clients = {
       "contact": "http://www.parafiazarki.pl/index.php/kancelaria#main",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "17:00", "18:00"],
       "description": "",
       "latitude": 50.62589,
       "longitude": 19.36567
@@ -2084,7 +2084,7 @@ const clients = {
       "contact": "https://www.parafiazuromin.pl/",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00"],
       "description": "",
       "latitude": 53.06758,
       "longitude": 19.91135
@@ -2096,7 +2096,7 @@ const clients = {
       "contact": "http://www.zydowo.parafia.info.pl/?p=main&what=4#node-",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
       "description": "",
       "latitude": 52.45492,
       "longitude": 17.59133
@@ -2107,8 +2107,8 @@ const clients = {
       "announcement": "https://zyrakow.diecezjatarnow.pl/ogloszenia",
       "contact": "https://zyrakow.diecezjatarnow.pl/kontakt",
       "others": "https://zyrakow-parafialny.grobonet.com/grobonet/start.php",
-      "live": "",
-      "week": [],
+      "live": "https://www.youtube.com/watch?v=XVm1YSMuPuY",
+      "week": ["06:30"],
       "description": "",
       "latitude": 50.08322,
       "longitude": 21.39470
