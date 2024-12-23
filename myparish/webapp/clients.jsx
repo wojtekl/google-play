@@ -68,7 +68,7 @@ const clients = {
       "contact": "https://parafiabrzeczkowice.pl/kontakt/",
       "others": "",
       "live": "https://www.youtube.com/watch?v=dwSZRm5yNLY",
-      "week": ["6:30", "08:00", "18:00"],
+      "week": ["6:30", "08:00", "10:00", "18:00"],
       "description": "",
       "latitude": 50.22378,
       "longitude": 19.15328
