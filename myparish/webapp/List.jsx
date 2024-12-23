@@ -26,6 +26,8 @@ const List = () => {
     }
   })
 
+  console.log(all)
+
   const [filtered, setFiltered] = useState(all)
 
   const handleClick = (name) => {
