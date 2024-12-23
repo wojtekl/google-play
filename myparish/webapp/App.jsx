@@ -64,7 +64,7 @@ class AppInner extends React.Component {
         }
       })
       var marker = L.marker([i.latitude, i.longitude], { icon: !!incoming ? (!!i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
-      marker.bindPopup(`<p>${i.name}</p><p>${incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
+      marker.bindPopup(`<p>${i.name}:${incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
     })
   }
 }
