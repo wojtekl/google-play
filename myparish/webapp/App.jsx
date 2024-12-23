@@ -52,17 +52,19 @@ class AppInner extends React.Component {
     const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1" style="color: red"></i>', className: "markerLive" })
     const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1" style="color: blue"></i>', className: "markerActive" })
     clients.clients.forEach((i, _) => {
-      let incoming = false
+      let incoming = ''
       const base = new Date()
       const now = new Date()
       i.week.forEach((j, _) => {
         base.setHours(j.substring(0, 2))
         base.setMinutes(j.substring(3, 5))
         const diff = base - now
-        incoming = diff >= 0 && diff < (1000 * 60 * 30)
+        if (diff >= 0 && diff < (1000 * 60 * 30)) {
+          incoming = j
+        }
       })
-      var marker = L.marker([i.latitude, i.longitude], { icon: incoming ? (!!i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
-      marker.bindPopup(`<p>${i.name}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
+      var marker = L.marker([i.latitude, i.longitude], { icon: !!incoming ? (!!i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
+      marker.bindPopup(`<p>${i.name}</p><p>${incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
     })
   }
 }
