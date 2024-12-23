@@ -7,14 +7,33 @@ const List = () => {
   const navigate = useNavigate()
   const { t } = useTranslation()
 
-  const [filtered, setFiltered] = useState(clients.clients)
+  const all = clients.clients.map(i => {
+    let incoming = ''
+    const now = new Date()
+    const base = new Date()
+    i.week.forEach((j, _) => {
+      base.setHours(j.substring(0, 2))
+      base.setMinutes(j.substring(3, 5))
+      const diff = base - now
+      if (diff >= 0 && diff < (1000 * 60 * 30)) {
+        incoming = j
+      }
+    })
+    return {
+      name: i.name,
+      live: !!live,
+      incoming: incoming
+    }
+  })
+
+  const [filtered, setFiltered] = useState(all)
 
   const handleClick = (name) => {
     navigate(`/selected/${name}`)
   }
 
   const handleFilter = (event) => {
-    setFiltered(clients.clients.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())))
+    setFiltered(all.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())))
   }
 
   return <>
@@ -35,20 +54,7 @@ const List = () => {
         <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
       </form>
       <ListGroup>
-        {filtered.map(i => {
-          let soon = ''
-          const now = new Date()
-          const base = new Date()
-          i.week.forEach((j, _) => {
-            base.setHours(j.substring(0, 2))
-            base.setMinutes(j.substring(3, 5))
-            const diff = now - base
-            if (diff >= 0 && diff < (1000 * 60 * 30)) {
-              soon = j
-            }
-          })
-          return <ListGroup.Item action onClick={() => handleClick(i.name)}><div className="ms-2 me-auto">{i.name}</div><Badge bg="primary" pill>{soon}</Badge></ListGroup.Item>
-        })}
+        {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)}><div className="ms-2 me-auto">{i.name}</div><Badge bg={i.live ? 'danger' : 'primary'} pill>{i.incoming}</Badge></ListGroup.Item>)}
       </ListGroup>
     </Container>
   </>

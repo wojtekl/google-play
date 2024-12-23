@@ -57,7 +57,7 @@ class AppInner extends React.Component {
       i.week.forEach((j, _) => {
         base.setHours(j.substring(0, 2))
         base.setMinutes(j.substring(3, 5))
-        const diff = now - base
+        const diff = base - now
         incoming = diff >= 0 && diff < (1000 * 60 * 30)
       })
       var marker = L.marker([i.latitude, i.longitude], { icon: incoming ? markerRed : markerPurple }).addTo(map);
