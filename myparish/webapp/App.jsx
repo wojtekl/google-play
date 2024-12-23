@@ -48,8 +48,9 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    const markerRed = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="color: red"></i>' })
-    const markerPurple = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="color: blue"></i>', iconSize: [20, 20] })
+    const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1"></i>', className: "markerDefault" })
+    const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1" style="color: red"></i>', className: "markerLive" })
+    const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1" style="color: blue"></i>', className: "markerActive" })
     clients.clients.forEach((i, _) => {
       let incoming = false
       const base = new Date()
@@ -60,7 +61,7 @@ class AppInner extends React.Component {
         const diff = base - now
         incoming = diff >= 0 && diff < (1000 * 60 * 30)
       })
-      var marker = L.marker([i.latitude, i.longitude], { icon: incoming ? markerRed : markerPurple }).addTo(map);
+      var marker = L.marker([i.latitude, i.longitude], { icon: incoming ? (!!i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
       marker.bindPopup(`<p>${i.name}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
     })
   }
