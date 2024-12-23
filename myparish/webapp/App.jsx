@@ -48,8 +48,8 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    const markerRed = L.divIcon({ html: '<i class="fa-solid fa-location-dot"></i>' })
-    const markerPurple = L.divIcon({ html: '<i class="fa-solid fa-location-dot"></i>' })
+    const markerRed = L.divIcon({ html: '<i class="fa-solid fa-location-dot fa-2xl" style="color: red"></i>' })
+    const markerPurple = L.divIcon({ html: '<i class="fa-solid fa-location-dot" style="color: blue"></i>' })
     clients.clients.forEach((i, _) => {
       let incoming = false
       const base = new Date()
