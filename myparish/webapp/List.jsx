@@ -15,7 +15,7 @@ const List = () => {
       base.setHours(j.substring(0, 2))
       base.setMinutes(j.substring(3, 5))
       const diff = base - now
-      console.log(diff, j)
+      console.log(now, base, diff, j)
       if ((diff >= 0) && (diff < (1000 * 60 * 30))) {
         incoming = j
       }
