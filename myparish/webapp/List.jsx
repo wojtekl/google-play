@@ -21,7 +21,7 @@ const List = () => {
     })
     return {
       name: i.name,
-      live: !!live,
+      live: !!i.live,
       incoming: incoming
     }
   })
