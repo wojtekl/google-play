@@ -36,7 +36,8 @@ const List = () => {
   }
 
   const handleFilter = (event) => {
-    setPhrase(event.target.value.toLowerCase().trim())
+    const p = event.target.value.toLowerCase().trim()
+
     let preFiltered = all
     if (active) {
       preFiltered = preFiltered.filter(i => !!i.incoming)
@@ -44,33 +45,37 @@ const List = () => {
     if (live) {
       preFiltered = preFiltered.filter(i => !!i.live)
     }
-    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
+    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(p)))
+
+    setPhrase(p)
   }
 
   const handleSwitchLive = (event) => {
-    setLive(!live)
     console.log(live, 'live')
     let preFiltered = all
     if (active) {
       preFiltered = preFiltered.filter(i => !!i.incoming)
     }
-    if (live) {
+    if (!live) {
       preFiltered = preFiltered.filter(i => !!i.live)
     }
     setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
+
+    setLive(!live)
   }
 
   const handleSwitchActive = (event) => {
-    setActive(!active)
     console.log(active, 'active')
     let preFiltered = all
-    if (active) {
+    if (!active) {
       preFiltered = preFiltered.filter(i => !!i.incoming)
     }
     if (live) {
       preFiltered = preFiltered.filter(i => !!i.live)
     }
     setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
+
+    setActive(!active)
   }
 
   return <>
