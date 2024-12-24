@@ -95,11 +95,11 @@ const List = () => {
       <form class="form-inline my-2">
         <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
         <div class="form-check form-switch">
-          <input type="checkbox" class="form-check-input" id="switchLive" onChange={handleSwitchLive} checked={!live} />
+          <input type="checkbox" class="form-check-input" id="switchLive" onChange={handleSwitchLive} />
           <label class="form-check-label" for="switchLive">{t('label_live')}</label>
         </div>
         <div class="form-check form-switch">
-          <input type="checkbox" class="form-check-input" id="switchActive" onChange={handleSwitchActive} checked={!active} />
+          <input type="checkbox" class="form-check-input" id="switchActive" onChange={handleSwitchActive} />
           <label class="form-check-label" for="switchActive">{t('label_active')}</label>
         </div>
       </form>
