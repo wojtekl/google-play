@@ -43,7 +43,7 @@ const List = () => {
       preFiltered = preFiltered.filter(i => !!i.incoming)
     }
     if (live) {
-      preFiltered = preFiltered.filter(i => !!i.live)
+      preFiltered = preFiltered.filter(i => i.live)
     }
     setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(p)))
 
@@ -57,7 +57,7 @@ const List = () => {
       preFiltered = preFiltered.filter(i => !!i.incoming)
     }
     if (!live) {
-      preFiltered = preFiltered.filter(i => !!i.live)
+      preFiltered = preFiltered.filter(i => i.live)
     }
     setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
 
