@@ -27,6 +27,7 @@ const List = () => {
   })
 
   const [filtered, setFiltered] = useState(all)
+  const [phrase, setPhrase] = useState('')
   const [active, setActive] = useState(false)
   const [live, setLive] = useState(false)
 
@@ -35,6 +36,7 @@ const List = () => {
   }
 
   const handleFilter = (event) => {
+    setPhrase(event.target.value.toLowerCase().trim())
     let preFiltered = all
     if (active) {
       preFiltered = preFiltered.filter(i => !!i.incoming)
@@ -42,23 +44,33 @@ const List = () => {
     if (live) {
       preFiltered = preFiltered.filter(i => !!i.live)
     }
-    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())))
+    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
   }
 
   const handleSwitchLive = (event) => {
     setLive(!live)
     console.log(live, 'live')
-    if (live) {
-      setFiltered(all.filter(i => !!i.live))
+    let preFiltered = all
+    if (active) {
+      preFiltered = preFiltered.filter(i => !!i.incoming)
     }
+    if (live) {
+      preFiltered = preFiltered.filter(i => !!i.live)
+    }
+    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
   }
 
   const handleSwitchActive = (event) => {
     setActive(!active)
     console.log(active, 'active')
+    let preFiltered = all
     if (active) {
-      setFiltered(all.filter(i => !!i.incoming))
+      preFiltered = preFiltered.filter(i => !!i.incoming)
     }
+    if (live) {
+      preFiltered = preFiltered.filter(i => !!i.live)
+    }
+    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
   }
 
   return <>
