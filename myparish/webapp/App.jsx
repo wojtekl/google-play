@@ -30,7 +30,7 @@ class AppInner extends React.Component {
       </Navbar.Collapse>
     </Container>
   </Navbar>
-  <Container style={{height: "calc(100vh - 56px)"}}>{mapDiv}</Container>
+  <Container style={{height: "calc(100vh - 59px)"}}>{mapDiv}</Container>
 </>}
 
   componentDidMount() {
