@@ -51,7 +51,6 @@ const List = () => {
   }
 
   const handleSwitchLive = (event) => {
-    console.log(live, 'live')
     let preFiltered = all
     if (active) {
       preFiltered = preFiltered.filter(i => !!i.incoming)
@@ -65,7 +64,6 @@ const List = () => {
   }
 
   const handleSwitchActive = (event) => {
-    console.log(active, 'active')
     let preFiltered = all
     if (!active) {
       preFiltered = preFiltered.filter(i => !!i.incoming)
