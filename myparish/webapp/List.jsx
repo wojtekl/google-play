@@ -46,13 +46,17 @@ const List = () => {
   }
 
   const handleSwitchLive = (event) => {
-    console.log(event.target.value)
-    setLive(event.target.value)
+    setLive(!live)
+    if (live) {
+      setFiltered(all.filter(i => !!i.live))
+    }
   }
 
   const handleSwitchActive = (event) => {
-    console.log(event.target.value)
-    setActive(event.target.value)
+    setActive(!active)
+    if (active) {
+      setFiltered(all.filter(i => !!i.incoming))
+    }
   }
 
   return <>
