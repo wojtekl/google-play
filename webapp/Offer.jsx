@@ -7,7 +7,7 @@ const Offer = () => {
   };
 
   return <Container className="marketing">
-    <Row id="offer" className="featurette">
+    <Row id="offer" className="featurette pb-2">
       <Col md="7">
         <h2 class="featurette-heading fw-normal lh-1">{t('title_offer')}</h2>
         <p class="lead">

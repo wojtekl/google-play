@@ -7,7 +7,7 @@ const Contact = () => {
   };
 
   return <Container className="marketing">
-    <Row id="contact" className="featurette">
+    <Row id="contact" className="featurette pb-2">
       <Col md="5">
         <Image src="https://github.com/wojtekl/google-play/blob/main/barcode.png?raw=true" />
       </Col>
