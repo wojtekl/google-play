@@ -48,9 +48,9 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1"></i>', className: "markerDefault" })
-    const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1" style="color: red"></i>', className: "markerLive" })
-    const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h1" style="color: blue"></i>', className: "markerActive" })
+    const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill h2"></i>', className: "markerDefault", size: [20, 20] })
+    const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h2" style="color: red"></i>', className: "markerLive", size: [20, 20] })
+    const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h2" style="color: blue"></i>', className: "markerActive", size: [20, 20] })
     clients.clients.forEach((i, _) => {
       let incoming = ''
       const base = new Date()
@@ -59,12 +59,12 @@ class AppInner extends React.Component {
         base.setHours(j.substring(0, 2))
         base.setMinutes(j.substring(3, 5))
         const diff = base - now
-        if (diff >= -(1000 * 60 * 5) && diff < (1000 * 60 * 30)) {
-          incoming = j
+        if (diff >= -(1000 * 60 * 5) && diff < (1000 * 60 * 60)) {
+          incoming = `${incoming} ${j}`
         }
       })
       var marker = L.marker([i.latitude, i.longitude], { icon: !!incoming ? (!!i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
-      marker.bindPopup(`<p>${i.name}</p><p>${incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
+      marker.bindPopup(`<p>${i.name}</p><p>${incoming.trim()}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
     })
   }
 }

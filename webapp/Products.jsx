@@ -12,7 +12,7 @@ const Products = () => {
         <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />
         <h2 class="fw-normal">{t('name_pricey')}</h2>
         <p>{t('description_pricey')}</p>
-        <Button href="https://pricey.wuaze.com" variant="secondary">{t('button_see')}</Button>
+        <Button href="https://pricey.wlap.pl" variant="secondary">{t('button_see')}</Button>
       </Col>
       <Col lg="4">
         <Image src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/busstop/BusStop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />

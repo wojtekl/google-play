@@ -1,7 +1,7 @@
 const resources = {
   en: {
     translation: {
-      "title_app": "MyParish the app by wleap",
+      "title_app": "MyParish the app by wlap",
       "see_link": "See",
       "list_schedule": "Schedule",
       "list_announcement": "Announcement",
@@ -16,7 +16,7 @@ const resources = {
   },
   pl: {
     translation: {
-      "title_app": "apka Moja Parafia od wleap",
+      "title_app": "apka Moja Parafia od wlap",
       "see_link": "Zobacz",
       "list_schedule": "Intencje",
       "list_announcement": "Ogłoszenia",
