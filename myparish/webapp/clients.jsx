@@ -571,7 +571,7 @@ const clients = {
       "announcement": "https://jozefrobotnik.katowice.pl/aktualnosci/ogloszenia-duszpasterskie.html",
       "contact": "https://jozefrobotnik.katowice.pl/kontakt.html",
       "others": "https://jozefrobotnik.katowice.pl/cmentarz.html",
-      "live": "https://www.youtube.com/watch?v=UZg2se7jxbc",
+      "live": "https://www.youtube.com/watch?v=dzTHeTVcoKc",
       "week": ["06:30", "08:00", "18:00"],
       "description": "",
       "latitude": 50.280554,
