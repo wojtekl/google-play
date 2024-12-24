@@ -37,7 +37,7 @@ const List = () => {
       preFiltered = preFiltered.filter(i => !!i.incoming)
     }
     if (live) {
-      preFiltered = preFiltered.filter(i => true === i.live)
+      preFiltered = preFiltered.filter(i => (true === i.live) && !!i.incoming)
     }
     setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
   }
