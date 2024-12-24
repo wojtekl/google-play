@@ -12,6 +12,8 @@ const resources = {
       "nav_map": "Map",
       "nav_news": "News",
       "label_search": "Search",
+      "label_live": "Live",
+      "label_active": "Active"
     }
   },
   pl: {
@@ -27,6 +29,8 @@ const resources = {
       "nav_map": "Mapa",
       "nav_news": "Media",
       "label_search": "Szukaj",
+      "label_live": "Transmisja",
+      "label_active": "W trakcie"
     }
   }
 }

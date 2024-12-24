@@ -27,13 +27,32 @@ const List = () => {
   })
 
   const [filtered, setFiltered] = useState(all)
+  const [active, setActive] = useState(false)
+  const [live, setLive] = useState(false)
 
   const handleClick = (name) => {
     navigate(`/selected/${name}`)
   }
 
   const handleFilter = (event) => {
-    setFiltered(all.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())))
+    let preFiltered = all
+    if (active) {
+      preFiltered = preFiltered.filter(i => !!i.incoming)
+    }
+    if (live) {
+      preFiltered = preFiltered.filter(i => !!i.live)
+    }
+    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(event.target.value.toLowerCase())))
+  }
+
+  const handleSwitchLive = (event) => {
+    console.log(event.target.value)
+    setLive(event.target.value)
+  }
+
+  const handleSwitchActive = (event) => {
+    console.log(event.target.value)
+    setActive(event.target.value)
   }
 
   return <>
@@ -52,7 +71,14 @@ const List = () => {
     <Container>
       <form class="form-inline my-2">
         <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
-        <div class="form-check form-switch"><input type="checkbox" class="form-check-input" /></div>
+        <div class="form-check form-switch">
+          <input type="checkbox" class="form-check-input" id="switchLive" onSwitchChange={handleSwitchLive} />
+          <label class="form-check-label" for="switchLive">{t('label_live')}</label>
+        </div>
+        <div class="form-check form-switch">
+          <input type="checkbox" class="form-check-input" id="switchActive" onSwitchChange={handleSwitchActive} />
+          <label class="form-check-label" for="switchActive">{t('label_active')}</label>
+        </div>
       </form>
       <ListGroup>
         {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)} className="d-flex justify-content-between align-tems-start"><div className="ms-2 me-auto">{i.name}</div><Badge bg={i.live ? 'danger' : 'primary'} pill>{i.incoming}</Badge></ListGroup.Item>)}
