@@ -22,7 +22,7 @@ const List = () => {
     return {
       name: i.name,
       live: !!i.live,
-      incoming: incoming
+      incoming: incoming.trim()
     }
   })
 
@@ -31,6 +31,17 @@ const List = () => {
   const [active, setActive] = useState(false)
   const [live, setLive] = useState(false)
 
+  const filterByCriteria = (active, live, phrase) => {
+    let preFiltered = all
+    if (active) {
+      preFiltered = preFiltered.filter(i => !!i.incoming)
+    }
+    if (live) {
+      preFiltered = preFiltered.filter(i => true === i.live)
+    }
+    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
+  }
+
   const handleClick = (name) => {
     navigate(`/selected/${name}`)
   }
@@ -38,40 +49,19 @@ const List = () => {
   const handleFilter = (event) => {
     const p = event.target.value.toLowerCase().trim()
 
-    let preFiltered = all
-    if (active) {
-      preFiltered = preFiltered.filter(i => !!i.incoming)
-    }
-    if (live) {
-      preFiltered = preFiltered.filter(i => i.live)
-    }
-    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(p)))
+    filterByCriteria(active, live, p)
 
     setPhrase(p)
   }
 
   const handleSwitchLive = (event) => {
-    let preFiltered = all
-    if (active) {
-      preFiltered = preFiltered.filter(i => !!i.incoming)
-    }
-    if (!live) {
-      preFiltered = preFiltered.filter(i => i.live)
-    }
-    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
+    filterByCriteria(active, !live, phrase)
 
     setLive(!live)
   }
 
   const handleSwitchActive = (event) => {
-    let preFiltered = all
-    if (!active) {
-      preFiltered = preFiltered.filter(i => !!i.incoming)
-    }
-    if (live) {
-      preFiltered = preFiltered.filter(i => !!i.live)
-    }
-    setFiltered(preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
+    filterByCriteria(!active, live, phrase)
 
     setActive(!active)
   }
