@@ -48,9 +48,9 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill h2"></i>', className: "markerDefault", size: [20, 20], iconAnchor: [10, 0] })
-    const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h2" style="color: red"></i>', className: "markerLive", size: [20, 20], iconAnchor: [10, 0] })
-    const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill h2" style="color: blue"></i>', className: "markerActive", size: [20, 20], iconAnchor: [10, 0] })
+    const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px"></i>', className: "markerDefault", size: [20, 23], iconAnchor: [10, 0] })
+    const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: red"></i>', className: "markerLive", size: [20, 23], iconAnchor: [10, 0] })
+    const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: blue"></i>', className: "markerActive", size: [20, 23], iconAnchor: [10, 0] })
     clients.clients.forEach((i, _) => {
       let incoming = ''
       const base = new Date()
