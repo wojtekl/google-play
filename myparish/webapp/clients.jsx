@@ -61,7 +61,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["18:00"],
-      "sunday": ["09"00", "11:00"],
+      "sunday": ["09:00", "11:00"],
       "description": "",
       "latitude": 52.400863,
       "longitude": 16.121093
