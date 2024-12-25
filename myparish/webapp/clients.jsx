@@ -6,9 +6,10 @@ const clients = {
       "schedule": "http://parafiabartag.pl/int/#main",
       "announcement": "http://parafiabartag.pl/ogl/#main",
       "contact": "http://parafiabartag.pl/kontakt/#main",
-      "others": "",
+      "others": "http://mogily.pl/bartag",
       "live": "",
-      "week": ["08:00", "10:00", "12:00", "15:00", "18:00"],
+      "week": ["18:00"],
+      "sunday": ["08:00", "10:00", "12:00", "15:00", "18:00"],
       "description": "",
       "latitude": 53.71666,
       "longitude": 20.46954
@@ -20,7 +21,8 @@ const clients = {
       "contact": "https://baczaldolny.weebly.com/kontakt.html#wsite-content",
       "others": "",
       "live": "",
-      "week": ["08:30", "11:00"],
+      "week": ["17:00"],
+      "sunday": ["08:30", "11:00"],
       "description": "",
       "latitude": 49.76747,
       "longitude": 21.36734
@@ -30,9 +32,10 @@ const clients = {
       "schedule": "https://parafia.belzyce.pl/?page=intencje",
       "announcement": "https://parafia.belzyce.pl/?page=ogloszenia-2",
       "contact": "https://parafia.belzyce.pl/?page=kontakt",
-      "others": "https://parafia.belzyce.pl/?page=pytania",
+      "others": "https://www.polskie-cmentarze.pl/pl/Spis-cmentarzy/Wojewodztwo-Lubelskie/Powiat-lubelski/Gmina-Belzyce/Belzyce/Cmentarz-Rzymskokatolicki",
       "live": "",
       "week": ["06:30", "07:00"],
+      "sunday": ["07:30", "09:00", "10:30", "12:00"],
       "description": "",
       "latitude": 51.174514,
       "longitude": 22.277870
@@ -45,6 +48,7 @@ const clients = {
       "others": "https://kazimierz.archibial.pl/n/instytucje.php",
       "live": "",
       "week": ["06:30", "07:00", "18:00"],
+      "sunday": ["07:00", "08:00", "09:30", "11:00", "12:30", "16:30", "18:00"],
       "description": "",
       "latitude": 53.149811,
       "longitude": 23.122541
@@ -57,6 +61,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["18:00"],
+      "sunday": ["09"00", "11:00"],
       "description": "",
       "latitude": 52.400863,
       "longitude": 16.121093
@@ -66,9 +71,10 @@ const clients = {
       "schedule": "https://parafiabrzeczkowice.pl/intencje/",
       "announcement": "https://parafiabrzeczkowice.pl/ogloszenia/",
       "contact": "https://parafiabrzeczkowice.pl/kontakt/",
-      "others": "",
+      "others": "https://brzeczkowice.grobonet.com/",
       "live": "https://www.youtube.com/watch?v=dwSZRm5yNLY",
-      "week": ["6:30", "08:00", "10:00", "18:00"],
+      "week": ["6:30", "08:00", "18:00"],
+      "sunday": ["07:00", "09:00", "10:30", "12:00", "15:00", "19:00"],
       "description": "",
       "latitude": 50.22378,
       "longitude": 19.15328
@@ -81,6 +87,7 @@ const clients = {
       "others": "",
       "live": "https://www.youtube.com/watch?v=5xu6GKe1-vM",
       "week": ["06:30", "16:00", "18:00"],
+      "sunday": ["06:30", "08:00", "09:30", "11:00", "12:15", "16:00", "18:00"],
       "description": "",
       "latitude": 49.695184,
       "longitude": 22.019536
@@ -93,6 +100,7 @@ const clients = {
       "others": "",
       "live": "https://www.youtube.com/watch?v=77UKsf6J1Ls",
       "week": ["07:00", "17:00", "18:00"],
+      "sunday": ["08:00", "10:00", "11:30", "13:00", "18:00"],
       "description": "",
       "latitude": 53.155611,
       "longitude": 18.156661
@@ -105,6 +113,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["17:00"],
+      "sunday": ["07:30", "10:30", "17:00"],
       "description": "",
       "latitude": 53.507056,
       "longitude": 17.991625
@@ -116,7 +125,8 @@ const clients = {
       "contact": "https://florianchodziez.pl/index.php/kontakt/#jm-maincontent",
       "others": "http://chodziez.artlookgallery.com/grobonet/start.php#search",
       "live": "",
-      "week": ["07:00", "18:30"],
+      "week": ["07:00", "08:00", "18:30"],
+      "sunday": ["07:00", "08:30", "10:00", "11:15", "12:30", "15:00", "19:00"],
       "description": "",
       "latitude": 52.992046,
       "longitude": 16.916319
@@ -129,6 +139,7 @@ const clients = {
       "others": "https://fatimachojnice.parafialnastrona.pl/obszar-i-statystyka",
       "live": "https://fatimachojnice.parafialnastrona.pl/na-zywo",
       "week": ["08:30", "17:30"],
+      "sunday": ["07:00", "09:00", "10:30", "12:00", "19:00"],
       "description": "",
       "latitude": 53.69295,
       "longitude": 17.54721
@@ -141,6 +152,7 @@ const clients = {
       "others": "https://www.youtube.com/channel/UCK0-Z6r_GMMuTICGDObFPMQ",
       "live": "https://www.youtube.com/watch?v=fBIxyfindmk",
       "week": ["06:30", "17:30"],
+      "sunday": ["07:00", "09:00", "11:00", "12:30", "16:00"],
       "description": "",
       "latitude": 50.329996,
       "longitude": 21.441026
@@ -152,7 +164,8 @@ const clients = {
       "contact": "https://www.parafiachropaczow.pl/kontakt/",
       "others": "http://swietochlowice.artlookgallery.com/grobonet/",
       "live": "",
-      "week": ["06:50", "18:00"],
+      "week": ["08:00", "18:00"],
+      "sunday": ["08:00", "09:30", "11:00", "16:00"],
       "description": "",
       "latitude": 50.312693,
       "longitude": 18.910708
@@ -162,9 +175,10 @@ const clients = {
       "schedule": "https://faraciechanow.pl/category/ogloszenia-i-intencje/intencje/",
       "announcement": "https://faraciechanow.pl/category/ogloszenia-i-intencje/ogloszenia/",
       "contact": "https://faraciechanow.pl/kancelaria/",
-      "others": "",
+      "others": "https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Mazowieckie/Powiat-ciechanowski/Gmina-Ciechanow/Ciechanow/Cmentarz-Parafialny",
       "live": "http://posluchaj.radiokrdp.pl/posluchaj/fara.htm",
       "week": ["06:30", "07:00", "08:30", "18:00"],
+      "sunday": ["07:00", "08:30", "10:00", "11:30", "16:00", "18:00"],
       "description": "",
       "latitude": 52.87540,
       "longitude": 20.61378
@@ -175,8 +189,9 @@ const clients = {
       "announcement": "https://www.czerlejno.archpoznan.pl/aktualnosci/ogloszenia-parafialne/#main",
       "contact": "https://www.czerlejno.archpoznan.pl/kontakt/#main",
       "others": "https://czerlejno.artlookgallery.com/grobonet/start.php?id=form",
-      "live": "",
+      "live": "https://www.facebook.com/parafiaczerlejno/videos",
       "week": ["18:00"],
+      "sunday": ["08:00", "10:00", "12:00"],
       "description": "",
       "latitude": 52.35221,
       "longitude": 17.21329
@@ -189,6 +204,7 @@ const clients = {
       "others": "http://mogily.pl/czerniejewo",
       "live": "",
       "week": ["18:00"],
+      "sunday": ["08:00", "10:00", "11:30", "18:00"],
       "description": "",
       "latitude": 52.42659,
       "longitude": 17.48923
@@ -200,7 +216,8 @@ const clients = {
       "contact": "https://parafia.cminsk.pl/kontakt/",
       "others": "http://mogily.pl/cminsk",
       "live": "",
-      "week": ["07:00", "17:00"],
+      "week": ["18:00"],
+      "sunday": ["08:00", "10:00", "12:00", "16:00"],
       "description": "",
       "latitude": 50.978873,
       "longitude": 20.541518
@@ -213,6 +230,7 @@ const clients = {
       "others": "https://parafiastrzemieszyce.pl/sakramenty/#sacrament3",
       "live": "",
       "week": ["07:00", "18:00"],
+      "sunday": ["07:00", "09:15", "10:30", "12:00", "18:00"],
       "description": "",
       "latitude": 50.313486,
       "longitude": 19.280003
@@ -225,6 +243,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["09:00", "18:00"],
+      "sunday": ["08:00", "09:15", "10:30", "12:15", "18:00"],
       "description": "",
       "latitude": 53.53663,
       "longitude": 17.23504
@@ -237,6 +256,7 @@ const clients = {
       "others": "https://dzialoszyn.grobonet.com/",
       "live": "",
       "week": ["07:00", "18:00"],
+      "sunday": ["09:00", "11:30", "17:00"],
       "description": "",
       "latitude": 51.117684,
       "longitude": 18.860218
@@ -248,7 +268,8 @@ const clients = {
       "contact": "https://parafiagawluszowice.pl/kontakt/",
       "others": "http://mogily.pl/gawluszowice",
       "live": "",
-      "week": ["07:00", "17:00"],
+      "week": ["17:00"],
+      "sunday": ["07:00", "09:00", "11:30", "16:00"],
       "description": "",
       "latitude": 50.412695,
       "longitude": 21.381232
@@ -259,8 +280,9 @@ const clients = {
       "announcement": "https://www.bratalbert.com.pl/ogloszenia",
       "contact": "https://www.bratalbert.com.pl/kontakt",
       "others": "",
-      "live": "",
+      "live": "https://www.youtube.com/watch?v=W5DJsM3Yd7U",
       "week": ["06:30", "07:30", "18:00"],
+      "sunday": ["06:30", "08:00", "09:30", "11:00", "12:00", "13:00", "18:00", "20:00"],
       "description": "",
       "latitude": 54.404849,
       "longitude": 18.603678
@@ -270,9 +292,10 @@ const clients = {
       "schedule": "http://www.ignacy.diecezja.gda.pl/intencje-mszalne/#services_view",
       "announcement": "http://www.ignacy.diecezja.gda.pl/ogloszenia/#announcements_view",
       "contact": "http://www.ignacy.diecezja.gda.pl/kontakt/#contact_view",
-      "others": "http://www.ignacy.diecezja.gda.pl/sakramenty-i-sakramentalia-12606/pogrzeb-12613",
+      "others": "https://www.google.com/maps/place/Ko%C5%9Bci%C3%B3%C5%82+Rzymskokatolicki+pw.+%C5%9Bw.+Ignacego+Loyoli/@54.3339394,18.6344181,3a,75y,275.19h,88.15t/data=!3m7!1e1!3m5!1sAF1QipMzATd47NRrjkWmLJrB5r1IatYr-12Rp7nrqKS_!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMzATd47NRrjkWmLJrB5r1IatYr-12Rp7nrqKS_%3Dw900-h600-k-no-pi1.8542642795985387-ya356.5636810037328-ro0-fo90!7i10000!8i5000!4m6!3m5!1s0x46fd7394912b1891:0xc951b57d8d5212aa!8m2!3d54.3338812!4d18.6343816!16s%2Fg%2F121l5sqx?coh=205410&entry=tts&g_ep=EgoyMDI0MDYxOS4xKgBIAVAD",
       "live": "",
       "week": ["06:30", "18:30"],
+      "sunday": ["08:00", "09:00", "11:00", "12:15", "14:00", "18:00"],
       "description": "",
       "latitude": 54.333888,
       "longitude": 18.634188
@@ -285,6 +308,7 @@ const clients = {
       "others": "http://www.parafiapio.pl/wirtualny-spacer-21617",
       "live": "https://www.youtube.com/c/Parafia%C5%9BwOjcaPiowGda%C5%84sku/streams",
       "week": ["07:30", "08:30", "18:00", "19:00"],
+      "sunday": ["07:30", "09:00", "10:15", "11:15", "12:30", "18:00"],
       "description": "",
       "latitude": 54.327772,
       "longitude": 18.590715
@@ -297,6 +321,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["07:00", "18:00", "19:00"],
+      "sunday": ["07:00", "09:00", "11:00", "12:30", "18:00", "19:30"],
       "description": "",
       "latitude": 54.419908,
       "longitude": 18.574646
@@ -309,6 +334,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["07:00", "08:00", "18:00"],
+      "sunday": ["07:00", "08:30", "10:00", "11:30", "13:00", "18:00"],
       "description": "",
       "latitude": 54.471509,
       "longitude": 18.458914
@@ -321,6 +347,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["06:30", "07:30", "18:00"],
+      "sunday": ["07:30", "09:30", "11:00", "12:15", "18:00", "20:00"],
       "description": "",
       "latitude": 54.552647,
       "longitude": 18.508540
@@ -333,6 +360,7 @@ const clients = {
       "others": "",
       "live": "https://www.youtube.com/@parafiamatkiboskiejrozanco6562/streams",
       "week": ["08:30", "18:00"],
+      "sunday": ["08:00", "09:30", "10:30", "11:30", "12:30", "18:00"],
       "description": "",
       "latitude": 54.533025,
       "longitude": 18.453426
@@ -345,6 +373,7 @@ const clients = {
       "others": "http://www.mogily.pl/wielkikack",
       "live": "https://www.parafiawawrzynca.pl/transmisja-live-28936",
       "week": ["07:00", "18:00"],
+      "sunday": ["08:00", "10:00", "11:30", "13:00", "18:00"],
       "description": "",
       "latitude": 54.468388,
       "longitude": 18.494019
@@ -357,6 +386,7 @@ const clients = {
       "others": "https://www.parafiaglinianka.pl/regulamin-cmentarza-parafii-sw-wawrzynca-w-gliniance/",
       "live": "",
       "week": ["07:30"],
+      "sunday": ["08:00", "10:00", "11:30", "12:45", "18:00"],
       "description": "",
       "latitude": 52.131310,
       "longitude": 21.418042
@@ -366,9 +396,10 @@ const clients = {
       "schedule": "https://parafiaglinojeck.pl/intencje-mszalne/#content",
       "announcement": "https://parafiaglinojeck.pl/#content",
       "contact": "https://parafiaglinojeck.pl/kontakt/#content",
-      "others": "",
+      "others": "https://parafiaglinojeck.pl/cmentarz/",
       "live": "",
       "week": ["17:00", "18:00"],
+      "sunday": ["08:00", "10:00", "11:30", "16:00"],
       "description": "",
       "latitude": 52.81861,
       "longitude": 20.28403
@@ -381,6 +412,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["07:00", "08:00", "18:00"],
+      "sunday": ["07:30", "09:00", "10:30", "12:00", "18:00"],
       "description": "",
       "latitude": 50.30154,
       "longitude": 18.69362
@@ -391,8 +423,9 @@ const clients = {
       "announcement": "https://parafia.glogovia.pl/aktulanosci/porzadek-nabozenstw.html#:~:text=Ogłoszenia",
       "contact": "https://parafia.glogovia.pl/contacts.html",
       "others": "https://cmentarz.glogovia.pl/",
-      "live": "https://www.youtube.com/watch?v=QzVvz2xblhQ",
+      "live": "https://www.youtube.com/watch?v=vzPHR1om6jI",
       "week": ["06:30", "18:30"],
+      "sunday": ["07:00", "10:00", "11:30", "16:00"],
       "description": "",
       "latitude": 50.352594,
       "longitude": 17.859644
@@ -405,6 +438,7 @@ const clients = {
       "others": "http://mogily.pl/gorlice",
       "live": "https://www.youtube.com/watch?v=2f5xhDaQI94",
       "week": ["06:00", "06:30", "07:00", "08:00", "18:00"],
+      "sunday": ["06:00", "07:00", "08:30", "10:00", "11:30", "13:00", "16:00", "18:00", "20:00"],
       "description": "",
       "latitude": 49.657808,
       "longitude": 21.158630
@@ -417,6 +451,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["06:30", "18:00"],
+      "sunday": ["07:30", "09:00", "10:30", "12:00", "17:00"],
       "description": "",
       "latitude": 49.65225,
       "longitude": 21.16160
@@ -429,6 +464,7 @@ const clients = {
       "others": "https://cmentarnik.net/goszczanow",
       "live": "",
       "week": ["18:00"],
+      "sunday": ["07:30", "09:00", "12:00"],
       "description": "",
       "latitude": 51.789828,
       "longitude": 18.504793
@@ -441,6 +477,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["17:00"],
+      "sunday": ["07:45", "09:30", "11:00"],
       "description": "",
       "latitude": 53.486510,
       "longitude": 18.669068
@@ -450,9 +487,10 @@ const clients = {
       "schedule": "http://www.farahajnowka.pl/page/view/43/#text-news",
       "announcement": "http://www.farahajnowka.pl/ogloszenia/#text-news",
       "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news",
-      "others": "",
+      "others": "https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Podlaskie/Powiat-hajnowski/Gmina-Hajnowka/Hajnowka/Cmentarz-Parafialny-Rzymskokatolicki",
       "live": "",
-      "week": ["06:30", "07:00", "18:00"],
+      "week": ["06:30", "17:00"],
+      "sunday": ["08:00", "10:00", "12:00", "18:00"],
       "description": "",
       "latitude": 52.73886,
       "longitude": 23.58247
@@ -462,9 +500,10 @@ const clients = {
       "schedule": "https://parafia-humniska.pl/intencje-mszalne/",
       "announcement": "https://parafia-humniska.pl/ogloszenia/",
       "contact": "https://parafia-humniska.pl/kontakt/",
-      "others": "https://worldcam.live/pl/webcam/humniska#",
-      "live": "https://worldcam.live/pl/webcam/humniska#",
+      "others": "",
+      "live": "https://www.youtube.com/watch?v=pXWnn4qSUog",
       "week": ["18:00"],
+      "sunday": ["08:00", "10:30", "15:00"],
       "description": "",
       "latitude": 49.685184,
       "longitude": 22.030005
@@ -477,6 +516,7 @@ const clients = {
       "others": "",
       "live": "https://www.youtube.com/watch?v=YM18cu-AZB4",
       "week": ["07:00", "18:00"],
+      "sunday": ["07:00", "09:00", "11:00", "15:00"],
       "description": "",
       "latitude": 49.81958,
       "longitude": 20.58528
@@ -488,7 +528,8 @@ const clients = {
       "contact": "https://parafia-janow.pl/index.php/kontakt/#content",
       "others": "",
       "live": "",
-      "week": ["17:00"],
+      "week": ["18:00"],
+      "sunday": ["08:00", "11:30", "16:00"],
       "description": "",
       "latitude": 50.72130,
       "longitude": 19.43458
@@ -500,7 +541,8 @@ const clients = {
       "contact": "https://swmarcin-jarocin.com/kontakt_7.html",
       "others": "https://swmarcin-jarocin.com/wyszukiwarka.html",
       "live": "",
-      "week": [],
+      "week": ["06:30", "07:00", "18:30"],
+      "sunday": ["06:00", "09:45", "12:30", "18:30""],
       "description": "",
       "latitude": 51.973101,
       "longitude": 17.501626
@@ -513,6 +555,7 @@ const clients = {
       "others": "http://jasienica.artlookgallery.com/",
       "live": "",
       "week": ["07:00"],
+      "sunday": ["09:00", "11:30", "17:00"],
       "description": "",
       "latitude": 52.803895,
       "longitude": 22.043662
@@ -525,6 +568,7 @@ const clients = {
       "others": "",
       "live": "https://www.youtube.com/watch?v=CMIn2ofj_7I",
       "week": ["08:00", "17:00"],
+      "sunday": ["08:00", "10:00"],
       "description": "",
       "latitude": 49.52496,
       "longitude": 18.85674
@@ -537,6 +581,7 @@ const clients = {
       "others": "http://mogily.pl/jedrzejowparafialny",
       "live": "",
       "week": ["06:30", "07:00", "18:00"],
+      "sunday": ["07:00", "09:00", "10:30", "12:00", "18:00"],
       "description": "",
       "latitude": 50.641996,
       "longitude": 20.305891
@@ -549,6 +594,7 @@ const clients = {
       "others": "https://nspj.katowice.pl/index.php/poznaj-nasz-kosciol",
       "live": "https://www.youtube.com/watch?v=ZvSm0w2dzrc",
       "week": ["07:00", "18:00"],
+      "sunday": ["08:00", "10:00", "12:00", "16:00", "18:00"],
       "description": "",
       "latitude": 50.210030,
       "longitude": 18.975170
