@@ -77,13 +77,13 @@ class AppInner extends React.Component {
 
     const list = this.getList()
     const inactive = L.layerGroup(list.filter(i => !i.incoming).map(i => L
-      .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
+      .marker([i.latitude, i.longitude], { icon: markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
     const active = L.layerGroup(list.filter(i => !!i.incoming).map(i => L
-      .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
+      .marker([i.latitude, i.longitude], { icon: i.live ? markerLive : markerActive })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
-    
-    L.control.layers(null, {[t('overlay_inactive')]: inactive, [t('overlay_active')]: active}).addTo(map)
+
+    L.control.layers(null, { [t('overlay_inactive')]: inactive, [t('overlay_active')]: active }).addTo(map)
   }
 }
 

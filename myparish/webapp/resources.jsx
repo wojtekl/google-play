@@ -19,7 +19,8 @@ const resources = {
       "button_back": "Back",
       "overlay_active": "Active",
       "overlay_inactive": "Inactive",
-      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-en"
+      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-en",
+      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
     }
   },
   pl: {
@@ -42,7 +43,8 @@ const resources = {
       "button_back": "Powrót",
       "overlay_active": "Nadchodzące",
       "overlay_inactive": "Przerwa",
-      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-pl"
+      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-pl",
+      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png"
     }
   }
 }
