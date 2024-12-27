@@ -62,26 +62,25 @@ class ListInner extends React.Component {
   render() {
     const { t } = this.props
 
-    return (
+    return (<>
+      <Navbar expand="md">
+      <Container>
+        <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" />{t('title_app')}</Navbar.Brand>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="me-auto">
+            <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
+            <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{t('link_support')}</Nav.Link>
+            <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
+            <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
+            <Nav.Link href="https://rb.gy/sqezhd"><Image src={t('url_get')} height="40px" /></Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
+      </Container>
+    </Navbar>
       <Container>
         <Row className="mt-3">
-          <Nav>
-            <Nav.Item>
-              <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link href="https://rb.gy/sqezhd"><Image src={t('url_get')} height="40px" /></Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {t('link_support')} </Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
-            </Nav.Item>
-          </Nav>
+          <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
           {!this.props.selected && <form class="form-inline my-2">
             <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
             <Button variant="outline-success" onClick={this.handleCopy}> {t('button_copy')} </Button>
@@ -127,7 +126,7 @@ class ListInner extends React.Component {
         </Row>
         <Modal item={this.props.selected} show={this.state.show} handleClose={this.handleClose} />
       </Container>
-    )
+      </>)
   }
 }
 
