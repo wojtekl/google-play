@@ -17,7 +17,7 @@ class NewsInner extends React.Component {
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
               <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://play.google.com/store/apps/details?id=github.wleap.myparish"><Image src={t('url_get')} height="2.5rem" /></Nav.Link>
+              <Nav.Link href="https://play.google.com/store/apps/details?id=github.wleap.myparish"><Image src={t('url_get')} height="40px" /></Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
