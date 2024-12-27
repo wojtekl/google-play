@@ -979,9 +979,10 @@ const clients = {
       "schedule": "https://lisia-gora.diecezja.tarnow.pl/intencje/",
       "announcement": "https://lisia-gora.diecezja.tarnow.pl/category/ogloszenia-parafialne/",
       "contact": "https://lisia-gora.diecezja.tarnow.pl/wp-content/uploads/2021/03/3-4-e1616148645826.jpg",
-      "others": "",
-      "live": "",
-      "week": [],
+      "others": "https://lisiagora.grobonet.com/",
+      "live": "https://www.youtube.com/watch?v=yRsssnn41Nk",
+      "week": ["06:30", "18:00"],
+      "sunday": ["07:00", "09:00", "11:00", "16:00"],
       "description": "",
       "latitude": 50.08189,
       "longitude": 21.02724
