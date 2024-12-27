@@ -6,12 +6,12 @@
     <string name="nav_header_title">MojaParafia</string>
     <string name="nav_header_desc">Nawigacja</string>
     <string name="action_settings">Ustawienia</string>
-    <string name="menu_home">Intencje</string>
-    <string name="menu_gallery">Ogłoszenia</string>
+    <string name="menu_home">Strona główna</string>
+    <string name="menu_gallery">Lista</string>
     <string name="menu_magazine">Prasa</string>
     <string name="menu_map">Mapa</string>
     <string name="menu_others">Cmentarz</string>
-    <string name="menu_slideshow">Kontakt</string>
+    <string name="menu_slideshow">Mapa</string>
     <string name="menu_share">Udostępnij</string>
     <string name="menu_privacy">Prywatność</string>
     <string name="updating">Aktualizuję listę parafii, proszę czekaj..</string>
@@ -23,6 +23,7 @@
         <item>Plik APK</item>
     </string-array>
     <string name="see_more">Zobacz więcej</string>
+    <string name="privacy_policy_url">https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-pl</string>
     <string name="title_activity_settings">Ustawienia</string>
     <string name="sync_header">Synchronizacja</string>
     <string name="personal_header">Osobiste</string>

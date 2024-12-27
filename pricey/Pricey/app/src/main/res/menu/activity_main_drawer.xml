@@ -9,10 +9,10 @@
             android:icon="@drawable/sharp_receipt_24"
             android:title="@string/menu_home" />
 
-        <item
+        <!--<item
             android:id="@+id/nav_gallery"
             android:icon="@drawable/sharp_price_change_24"
-            android:title="@string/menu_gallery" />
+            android:title="@string/menu_gallery" />-->
         
         <item
             android:id="@+id/nav_share"
