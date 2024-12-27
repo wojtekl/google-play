@@ -77,11 +77,15 @@ class AppInner extends React.Component {
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
 
-    const all = L.layerGroup(this.getList().map(i => L
+    const list = this.getList()
+    const all = L.layerGroup(list.map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
+    const active = L.layerGroup(list.filter(i => !!i.incoming).map(i => L
+      .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
+      .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))
     
-    L.control.layers(null, {parish: all}).addTo(map)
+    L.control.layers(null, {[t('label_all')]: all, [t('label_active')]: active}).addTo(map)
   }
 }
 
