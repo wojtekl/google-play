@@ -79,11 +79,11 @@ class ListInner extends React.Component {
       </Container>
     </Navbar>
       <Container>
+        <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
         <Row className="mt-3">
-          <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
           {!this.props.selected && <form class="form-inline my-2">
-            <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
             <Button variant="outline-success" onClick={this.handleCopy}> {t('button_copy')} </Button>
+            <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
           </form>}
         </Row>
         <Row className="mt-3">
