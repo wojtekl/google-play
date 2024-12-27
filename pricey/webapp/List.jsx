@@ -70,7 +70,7 @@ class ListInner extends React.Component {
               <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="https://rb.gy/sqezhd"> {t('link_get_the_app')} </Nav.Link>
+              <Nav.Link href="https://rb.gy/sqezhd"><Image src={t('url_get')} height="40px" /></Nav.Link>
             </Nav.Item>
             <Nav.Item>
               <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {t('link_support')} </Nav.Link>
