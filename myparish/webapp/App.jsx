@@ -54,6 +54,8 @@ class AppInner extends React.Component {
             <Nav className="me-auto">
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
               <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
+              <Nav.Link href="https://wleap.pl">{t('nav_aboutus')}</Nav.Link>
+              <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
@@ -81,7 +83,7 @@ class AppInner extends React.Component {
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
     
-    L.control.layers(null, {[t('label_inactive')]: inactive, [t('label_active')]: active}).addTo(map)
+    L.control.layers(null, {[t('overlay_inactive')]: inactive, [t('overlay_active')]: active}).addTo(map)
   }
 }
 

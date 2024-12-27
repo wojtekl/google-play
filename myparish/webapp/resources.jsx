@@ -11,12 +11,15 @@ const resources = {
       "nav_list": "List",
       "nav_map": "Map",
       "nav_news": "News",
+      "nav_aboutus": "About us",
+      "nav_privacy": "Privacy policy",
       "label_search": "Search",
       "label_live": "Live",
       "label_active": "Active",
       "button_back": "Back",
       "overlay_active": "Active",
-      "overlat_inactive": "Inactive"
+      "overlat_inactive": "Inactive",
+      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/privacy-policy"
     }
   },
   pl: {
@@ -31,12 +34,15 @@ const resources = {
       "nav_list": "Lista",
       "nav_map": "Mapa",
       "nav_news": "Media",
+      "nav_aboutus": "O nas",
+      "nav_privacy": "Polityka prywatności",
       "label_search": "Szukaj",
       "label_live": "Transmisja",
       "label_active": "Nadchodzące",
       "button_back": "Powrót",
       "overlay_active": "Nadchodzące",
-      "overlat_inactive": "Przerwa"
+      "overlat_inactive": "Przerwa",
+      "url_privacy": ""
     }
   }
 }
