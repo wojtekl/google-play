@@ -48,9 +48,7 @@ class ListInner extends React.Component {
   }
 
   handleCopy = () => {
-    const result = `/?selected=${store.getState().value.join(',')}`
-    window.location.href = result
-    //navigator.clipboard.writeText(result)
+    window.location.href = `/?${window.location.search.substring(1)}&selected=${store.getState().value.join(',')}`
   }
 
   handleShow = () => {
