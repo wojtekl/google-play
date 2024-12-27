@@ -5,6 +5,8 @@ const resources = {
       "label_item": "Item",
       "title_app": "Pricey the app by wlap.pl",
       "link_get_the_app": "Get the APP!",
+      "nav_aboutus": "About us",
+      "nav_privacy": "Privacy policy",
       "button_new_product": "New Product",
       "button_update_price": "Update Price",
       "label_search": "Search",
@@ -21,6 +23,7 @@ const resources = {
       "button_cancel": "Cancel",
       "button_save": "Save",
       "link_support": "Donate :)",
+      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-en"
     }
   },
   pl: {
@@ -29,6 +32,8 @@ const resources = {
       "label_item": "Produkt",
       "title_app": "apka Pricey od wlap.pl",
       "link_get_the_app": "Zainstaluj Apkę!",
+      "nav_aboutus": "O nas",
+      "nav_privacy": "Polityka prywatności",
       "button_new_product": "Nowy produkt",
       "button_update_price": "Aktualizuj cenę",
       "label_search": "Szukaj",
@@ -45,6 +50,7 @@ const resources = {
       "button_cancel": "Zaniechaj",
       "button_save": "Zachowaj",
       "link_support": "Wesprzyj :)",
+      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-pl"
     }
   }
 }

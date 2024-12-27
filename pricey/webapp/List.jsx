@@ -75,6 +75,12 @@ class ListInner extends React.Component {
             <Nav.Item>
               <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey"> {t('link_support')} </Nav.Link>
             </Nav.Item>
+            <Nav.Item>
+              <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
+            </Nav.Item>
           </Nav>
           {!this.props.selected && <form class="form-inline my-2">
             <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
