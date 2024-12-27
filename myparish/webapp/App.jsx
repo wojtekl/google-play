@@ -81,6 +81,7 @@ class AppInner extends React.Component {
 
   componentDidUpdate() {
     console.log('did update')
+    this.state.marks.addTo(this.state.map)
   }
 
   componentDidMount() {
@@ -97,10 +98,10 @@ class AppInner extends React.Component {
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
 
-    const marks = L.layerGroup(this.state.filtered.map(i => L
+    this.setState({marks: L.layerGroup(this.state.filtered.map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
-      .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))
-    marks.addTo(map)
+      .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))})
+    //marks.addTo(map)
   }
 }
 
