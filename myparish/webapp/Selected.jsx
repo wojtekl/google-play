@@ -3,6 +3,7 @@ const Breadcrumb = ReactBootstrap.Breadcrumb
 
 const Selected = () => {
   const { name } = useParams()
+  const navigate = useNavigate()
   const { t } = useTranslation()
 
   const handleClick = () => {
@@ -27,8 +28,10 @@ const Selected = () => {
     </Container>
   </Navbar>
   <Container>
-    <Breadcrumb.Item><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></Breadcrumb.Item>
-    <Breadcrumb><Breadcrumb.Item active>{selected.name}</Breadcrumb.Item></Breadcrumb>
+    <Breadcrumb>
+      <Breadcrumb.Item><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></Breadcrumb.Item>
+      <Breadcrumb.Item active>{selected.name}</Breadcrumb.Item>
+    </Breadcrumb>
     <ListGroup>
       <ListGroup.Item action href={selected.schedule}>{t('list_schedule')}</ListGroup.Item>
       <ListGroup.Item action href={selected.announcement}>{t('list_announcement')}</ListGroup.Item>
