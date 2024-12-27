@@ -98,12 +98,13 @@ class AppInner extends React.Component {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
       })
     }
-    const layerControl = L.control.layers(baseMaps).addTo(map)
+    const layerControl = L.control.layers().addTo(map)
+    baseMaps.addTo(map)
 
     const marks = L.layerGroup(this.state.filtered.map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))
-    layerControl.addOverlay(marks, 'parish')
+    marks.addTo(map)
   }
 }
 
