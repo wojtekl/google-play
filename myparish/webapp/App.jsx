@@ -10,14 +10,36 @@ class AppInner extends React.Component {
 
     this.state = {
       active: false,
-      filtered: clients.clients
+      filtered: this.getList()
     }
   }
 
+  getList = () => {
+    return clients.clients.map(i => {
+      let incoming = ''
+      const base = new Date()
+      const now = new Date()
+      i.week.forEach((j, _) => {
+        base.setHours(j.substring(0, 2))
+        base.setMinutes(j.substring(3, 5))
+        const diff = base - now
+        if (diff >= -(1000 * 60 * 5) && diff < (1000 * 60 * 60)) {
+          incoming = `${incoming} ${j}`
+        }
+      })
+      return {
+        name: i.name,
+        latitude: i.latitude,
+        longitude: i.longitude,
+        live: !!i.live,
+        incoming: incoming
+      }
+  })}
+
   handleSwitchActive = (event) => {
-    setState({
+    this.setState({
       active: !this.state.active,
-      filtered: !this.state.active ? clients.clients.filter(i => !i.incoming) : this.state.filtered
+      filtered: !this.state.active ? this.getList().filter(i => !i.incoming) : this.state.filtered
     })
   }
 
