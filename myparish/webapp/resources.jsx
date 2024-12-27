@@ -42,7 +42,7 @@ const resources = {
       "label_active": "Nadchodzące",
       "button_back": "Powrót",
       "overlay_active": "Nadchodzące",
-      "overlay_inactive": "Przerwa",
+      "overlay_inactive": "Pozostałe",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-pl",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png"
     }
