@@ -15,7 +15,7 @@ class NewsInner extends React.Component {
             <Nav className="me-auto">
               <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
-              <Nav.Link href="https://wleap.pl">{t('nav_aboutus')}</Nav.Link>
+              <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
             </Nav>
           </Navbar.Collapse>

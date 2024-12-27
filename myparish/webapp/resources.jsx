@@ -18,8 +18,8 @@ const resources = {
       "label_active": "Active",
       "button_back": "Back",
       "overlay_active": "Active",
-      "overlat_inactive": "Inactive",
-      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/privacy-policy"
+      "overlay_inactive": "Inactive",
+      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-en"
     }
   },
   pl: {
@@ -41,8 +41,8 @@ const resources = {
       "label_active": "Nadchodzące",
       "button_back": "Powrót",
       "overlay_active": "Nadchodzące",
-      "overlat_inactive": "Przerwa",
-      "url_privacy": ""
+      "overlay_inactive": "Przerwa",
+      "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-pl"
     }
   }
 }
