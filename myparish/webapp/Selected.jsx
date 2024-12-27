@@ -5,6 +5,10 @@ const Selected = () => {
   const { name } = useParams()
   const { t } = useTranslation()
 
+  const handleClick = () => {
+    navigate(-1);
+  };
+
   store.dispatch({ type: 'selected/added', payload: name })
 
   const selected = clients.clients.find(i => i.name === name)
@@ -23,6 +27,7 @@ const Selected = () => {
     </Container>
   </Navbar>
   <Container>
+    <Breadcrumb.Item><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></Breadcrumb.Item>
     <Breadcrumb><Breadcrumb.Item active>{selected.name}</Breadcrumb.Item></Breadcrumb>
     <ListGroup>
       <ListGroup.Item action href={selected.schedule}>{t('list_schedule')}</ListGroup.Item>

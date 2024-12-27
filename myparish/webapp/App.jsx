@@ -9,7 +9,16 @@ class AppInner extends React.Component {
     document.title = t('title_app')
 
     this.state = {
+      active: false,
+      filtered: clients.clients
     }
+  }
+
+  handleSwitchActive = (event) => {
+    setState({
+      active: !this.state.active,
+      filtered: !this.state.active ? clients.clients.filter(i => !i.incoming) : this.state.filtered
+    })
   }
 
   render() {
@@ -27,6 +36,12 @@ class AppInner extends React.Component {
           <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
           <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
         </Nav>
+        <form class="form-inline my-2">
+        <div class="form-check form-switch">
+          <input type="checkbox" class="form-check-input" id="switchActive" onChange={this.handleSwitchActive} />
+          <label class="form-check-label" for="switchActive">{t('label_active')}</label>
+        </div>
+      </form>
       </Navbar.Collapse>
     </Container>
   </Navbar>
@@ -51,7 +66,7 @@ class AppInner extends React.Component {
     const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px"></i>', className: "markerDefault", size: [20, 23], iconAnchor: [10, 11] })
     const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: red"></i>', className: "markerLive", size: [20, 23], iconAnchor: [10, 11] })
     const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: blue"></i>', className: "markerActive", size: [20, 23], iconAnchor: [10, 11] })
-    clients.clients.forEach((i, _) => {
+    this.state.filtered.forEach((i, _) => {
       let incoming = ''
       const base = new Date()
       const now = new Date()

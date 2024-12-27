@@ -13,7 +13,8 @@ const resources = {
       "nav_news": "News",
       "label_search": "Search",
       "label_live": "Live",
-      "label_active": "Active"
+      "label_active": "Active",
+      "button_back": "Back"
     }
   },
   pl: {
@@ -30,7 +31,8 @@ const resources = {
       "nav_news": "Media",
       "label_search": "Szukaj",
       "label_live": "Transmisja",
-      "label_active": "W trakcie"
+      "label_active": "W trakcie",
+      "button_back": "Powrót"
     }
   }
 }
