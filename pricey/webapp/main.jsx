@@ -6,6 +6,7 @@ const useTranslation = ReactI18next.useTranslation
 const Button = ReactBootstrap.Button
 const Container = ReactBootstrap.Container
 const Form = ReactBootstrap.Form
+const Image = ReactBootstrap.Image
 
 
 const initialState = {
