@@ -15,11 +15,17 @@ class AppInner extends React.Component {
   }
 
   getList = () => {
+    const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
+    const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
+    const formatDay = { weekday: "long", timezone: timezone }
+    const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
+
     return clients.clients.map(i => {
       let incoming = ''
       const base = new Date()
       const now = new Date()
-      i.week.forEach((j, _) => {
+      const schedule = isSunday ? i.sunday : i.week
+      schedule.forEach((j, _) => {
         base.setHours(j.substring(0, 2))
         base.setMinutes(j.substring(3, 5))
         const diff = base - now
@@ -32,7 +38,7 @@ class AppInner extends React.Component {
         latitude: i.latitude,
         longitude: i.longitude,
         live: !!i.live,
-        incoming: incoming
+        incoming: incoming.trim()
       }
   })}
 
@@ -75,33 +81,14 @@ class AppInner extends React.Component {
 
     const selected = clients.clients.find(i => i.name === store.getState().value)
 
-    const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
-    const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
-    const formatDay = { weekday: "long", timezone: timezone }
-    const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
-
-    const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 10)
+    const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 9)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
-    const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px"></i>', className: "markerDefault", size: [20, 23], iconAnchor: [10, 11] })
-    const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: red"></i>', className: "markerLive", size: [20, 23], iconAnchor: [10, 11] })
-    const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: blue"></i>', className: "markerActive", size: [20, 23], iconAnchor: [10, 11] })
     this.state.filtered.forEach((i, _) => {
-      let incoming = ''
-      const base = new Date()
-      const now = new Date()
-      i.week.forEach((j, _) => {
-        base.setHours(j.substring(0, 2))
-        base.setMinutes(j.substring(3, 5))
-        const diff = base - now
-        if (diff >= -(1000 * 60 * 5) && diff < (1000 * 60 * 60)) {
-          incoming = `${incoming} ${j}`
-        }
-      })
-      var marker = L.marker([i.latitude, i.longitude], { icon: !!incoming ? (!!i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
-      marker.bindPopup(`<p>${i.name}</p><p>${incoming.trim()}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
+      var marker = L.marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
+      marker.bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
     })
   }
 }

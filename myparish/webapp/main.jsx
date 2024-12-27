@@ -18,6 +18,10 @@ const Navbar = ReactBootstrap.Navbar
 const Nav = ReactBootstrap.Nav
 
 
+const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px"></i>', className: "markerDefault", size: [20, 23], iconAnchor: [10, 11] })
+const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: red"></i>', className: "markerLive", size: [20, 23], iconAnchor: [10, 11] })
+const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: blue"></i>', className: "markerActive", size: [20, 23], iconAnchor: [10, 11] })
+
 const initialState = {
   value: null
 }
