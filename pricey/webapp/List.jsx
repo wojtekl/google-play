@@ -79,10 +79,15 @@ class ListInner extends React.Component {
       </Container>
     </Navbar>
       <Container>
-        <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
-        {!this.props.selected && <><Button variant="outline-success" onClick={this.handleCopy}> {t('button_copy')} </Button><form class="form-inline my-2">
+        <Row className="mt-3">
+        <form class="form-inline my-2">
+          <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
+          {!this.props.selected && <>
+            <Button variant="outline-success" onClick={this.handleCopy}> {t('button_copy')} </Button>
             <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
-          </form></>}
+            </>}
+            </form>
+        </Row>
         <Row className="mt-3">
           {!!this.props.selected && <Nav>
             <Breadcrumb>
