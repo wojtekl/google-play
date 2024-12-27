@@ -92,11 +92,10 @@ class AppInner extends React.Component {
     this.setState({
       map: map
     })
-    const layerControl = L.control.layers().addTo(map)
-    layerControl.addBaseLayer(L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }), 'OpenStreetMap')
+    }).addTo(map)
 
     const marks = L.layerGroup(this.state.filtered.map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
