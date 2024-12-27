@@ -46,7 +46,7 @@ class AppInner extends React.Component {
     console.log(!this.state.active, this.getList().filter(i => !i.incoming))
     this.setState({
       active: !this.state.active,
-      filtered: !this.state.active ? this.getList().filter(i => !i.incoming) : this.state.filtered
+      filtered: !this.state.active ? this.getList().filter(i => !!i.incoming) : this.state.filtered
     })
   }
 
