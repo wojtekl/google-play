@@ -10,7 +10,8 @@ class AppInner extends React.Component {
 
     this.state = {
       active: false,
-      filtered: this.getList()
+      filtered: this.getList(),
+      map: null
     }
   }
 
@@ -82,11 +83,15 @@ class AppInner extends React.Component {
 
     const selected = clients.clients.find(i => i.name === store.getState().value)
 
+    this.state.map.remove()
     const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 9)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
+    this.setState({
+      map: map
+    })
     this.state.filtered.forEach((i, _) => {
       var marker = L.marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
       marker.bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
@@ -104,6 +109,10 @@ class AppInner extends React.Component {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
+    this.setState({
+      map: map
+    })
+
     this.state.filtered.forEach((i, _) => {
       var marker = L.marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault }).addTo(map);
       marker.bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`);
