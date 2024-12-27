@@ -81,7 +81,6 @@ class AppInner extends React.Component {
 
   componentDidUpdate() {
     console.log('did update')
-    this.state.marks.addTo(this.state.map)
   }
 
   componentDidMount() {
@@ -102,6 +101,7 @@ class AppInner extends React.Component {
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))})
     //marks.addTo(map)
+    this.state.marks.addTo(map)
   }
 }
 
