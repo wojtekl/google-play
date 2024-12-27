@@ -77,7 +77,12 @@ class AppInner extends React.Component {
   <Container style={{height: "calc(100vh - 59px)"}}>{mapDiv}</Container>
 </>}
 
+  componentDidUpdate() {
+    console.log('did update')
+  }
+
   componentDidMount() {
+    console.log('did mount')
     const { t } = this.props
 
     const selected = clients.clients.find(i => i.name === store.getState().value)
