@@ -48,7 +48,7 @@ class ListInner extends React.Component {
   }
 
   handleCopy = () => {
-    const result = `https://pricey.wuaze.com/?selected=${store.getState().value.join(',')}`
+    const result = `/?selected=${store.getState().value.join(',')}`
     window.location.href = result
     //navigator.clipboard.writeText(result)
   }
