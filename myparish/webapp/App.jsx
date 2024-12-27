@@ -62,10 +62,6 @@ class AppInner extends React.Component {
     </>
   }
 
-  componentDidUpdate() {
-    console.log('did update')
-  }
-
   componentDidMount() {
     const { t } = this.props
 
@@ -78,14 +74,14 @@ class AppInner extends React.Component {
     }).addTo(map)
 
     const list = this.getList()
-    const all = L.layerGroup(list.map(i => L
+    const inactive = L.layerGroup(list.filter(i => !i.incoming).map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
     const active = L.layerGroup(list.filter(i => !!i.incoming).map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
-      .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))
+      .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
     
-    L.control.layers(null, {[t('label_all')]: all, [t('label_active')]: active}).addTo(map)
+    L.control.layers(null, {[t('label_inactive')]: inactive, [t('label_active')]: active}).addTo(map)
   }
 }
 

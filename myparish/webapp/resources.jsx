@@ -14,7 +14,9 @@ const resources = {
       "label_search": "Search",
       "label_live": "Live",
       "label_active": "Active",
-      "button_back": "Back"
+      "button_back": "Back",
+      "overlay_active": "Active",
+      "overlat_inactive": "Inactive"
     }
   },
   pl: {
@@ -31,8 +33,10 @@ const resources = {
       "nav_news": "Media",
       "label_search": "Szukaj",
       "label_live": "Transmisja",
-      "label_active": "W trakcie",
-      "button_back": "Powrót"
+      "label_active": "Nadchodzące",
+      "button_back": "Powrót",
+      "overlay_active": "Nadchodzące",
+      "overlat_inactive": "Przerwa"
     }
   }
 }
