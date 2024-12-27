@@ -53,7 +53,6 @@ class AppInner extends React.Component {
     const { t } = this.props
 
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
-    const nma = L.map(mapDiv)
 
     return <>
   <Navbar expand="md">
