@@ -3,6 +3,7 @@ const withTranslation = ReactI18next.withTranslation
 const Badge = ReactBootstrap.Badge
 const Breadcrumb = ReactBootstrap.Breadcrumb
 const Nav = ReactBootstrap.Nav
+const Navbar = ReactBootstrap.Navbar
 const Row = ReactBootstrap.Row
 const Table = ReactBootstrap.Table
 
