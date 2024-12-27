@@ -70,7 +70,6 @@ class ListInner extends React.Component {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
             <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{t('link_support')}</Nav.Link>
             <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
             <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
