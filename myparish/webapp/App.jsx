@@ -89,18 +89,21 @@ class AppInner extends React.Component {
     const selected = clients.clients.find(i => i.name === store.getState().value)
 
     const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 9)
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-      attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map)
     this.setState({
       map: map
     })
+    const baseMaps = {
+      OpenStreetMap: L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+      })
+    }
+    const layerControl = L.control.layers(baseMaps).addTo(map)
 
     const marks = L.layerGroup(this.state.filtered.map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))
-    map.addOverlay(marks, 'parish')
+    layerControl.addOverlay(marks, 'parish')
   }
 }
 
