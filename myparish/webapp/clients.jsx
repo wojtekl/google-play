@@ -1066,7 +1066,8 @@ const clients = {
       "contact": "https://www.korabka.pl/o-parafii/informacje-ogolne/#main-content",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["18:00"],
+      "sunday": ["08:00", "10:00", "12:30", "18:00"],
       "description": "",
       "latitude": 52.12404,
       "longitude": 19.94500
@@ -1726,7 +1727,8 @@ const clients = {
       "contact": "https://parafiaszczekociny.pl/kontakt/",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "18:00"],
+      "sunday": ["07:00", "08:30", "10:00", "12:00", "17:00"],
       "description": "",
       "latitude": 50.62584,
       "longitude": 19.82025
@@ -1846,7 +1848,8 @@ const clients = {
       "contact": "https://tereszpol.zamojskolubaczowska.pl/kontakt/#content",
       "others": "",
       "live": "",
-      "week": [],
+      "week": ["07:00", "07:30", "17:00"],
+      "sunday": ["08:00", "09:30", "12:00"],
       "description": "",
       "latitude": 50.57175,
       "longitude": 22.88484
@@ -1883,6 +1886,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["07:00", "17:00"],
+      "sunday": ["08:00", "09:30", "12:00", "16:00"],
       "description": "",
       "latitude": 50.61047,
       "longitude": 23.70699
@@ -2027,6 +2031,7 @@ const clients = {
       "others": "https://www.ecmentarze.pl/cmentarz/wysocko-wielkie/grave/all",
       "live": "",
       "week": ["18:00"],
+      "sunday": ["07:30", "09:30", "11:00", "17:00"],
       "description": "",
       "latitude": 51.62239,
       "longitude": 17.85409
