@@ -43,7 +43,6 @@ class AppInner extends React.Component {
   })}
 
   handleSwitchActive = (event) => {
-    console.log(!this.state.active, this.getList().filter(i => !!i.incoming))
     this.setState({
       active: !this.state.active,
       filtered: !this.state.active ? this.getList().filter(i => !!i.incoming) : this.state.filtered
@@ -54,6 +53,7 @@ class AppInner extends React.Component {
     const { t } = this.props
 
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
+    const nma = L.map(mapDiv)
 
     return <>
   <Navbar expand="md">
