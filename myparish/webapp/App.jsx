@@ -99,7 +99,7 @@ class AppInner extends React.Component {
       })
     }
     const layerControl = L.control.layers().addTo(map)
-    baseMaps.addTo(map)
+    layerControl.addBaseLayer(baseMaps, 'mapa')
 
     const marks = L.layerGroup(this.state.filtered.map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
