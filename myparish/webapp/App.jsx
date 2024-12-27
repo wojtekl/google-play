@@ -8,11 +8,7 @@ class AppInner extends React.Component {
     const { t } = this.props
     document.title = t('title_app')
 
-    this.state = {
-      active: false,
-      filtered: this.getList(),
-      map: null
-    }
+    this.state = {}
   }
 
   getList = () => {
@@ -44,13 +40,6 @@ class AppInner extends React.Component {
     })
   }
 
-  handleSwitchActive = (event) => {
-    this.setState({
-      active: !this.state.active,
-      filtered: !this.state.active ? this.getList().filter(i => !!i.incoming) : this.state.filtered
-    })
-  }
-
   render() {
     const { t } = this.props
 
@@ -66,12 +55,6 @@ class AppInner extends React.Component {
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
               <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
             </Nav>
-            <form class="form-inline my-2">
-              <div class="form-check form-switch">
-                <input type="checkbox" class="form-check-input" id="switchActive" onChange={this.handleSwitchActive} />
-                <label class="form-check-label" for="switchActive">{t('label_active')}</label>
-              </div>
-            </form>
           </Navbar.Collapse>
         </Container>
       </Navbar>
@@ -89,19 +72,14 @@ class AppInner extends React.Component {
     const selected = clients.clients.find(i => i.name === store.getState().value)
 
     const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 9)
-    this.setState({
-      map: map
-    })
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map)
 
-    this.setState({marks: L.layerGroup(this.state.filtered.map(i => L
+    L.layerGroup(this.getList().map(i => L
       .marker([i.latitude, i.longitude], { icon: !!i.incoming ? (i.live ? markerLive : markerActive) : markerDefault })
-      .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`)))})
-    //marks.addTo(map)
-    this.state.marks.addTo(map)
+      .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
   }
 }
 
