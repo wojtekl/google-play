@@ -69,6 +69,7 @@ class ListInner extends React.Component {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
+            <Nav.Link onClick={this.handleShow}>{!this.props.selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
             <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link>
             <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{t('link_support')}</Nav.Link>
             <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
@@ -79,13 +80,11 @@ class ListInner extends React.Component {
       </Container>
     </Navbar>
       <Container>
-        <Button variant="primary" onClick={this.handleShow}> {!this.props.selected ? t('button_new_product') : t('button_update_price')} </Button>
-        {!this.props.selected && <>
-          <Button variant="outline-success" onClick={this.handleCopy}> {t('button_copy')} </Button>
+        {!this.props.selected && <Row className="mt-3">
           <form class="form-inline my-2">
             <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
           </form>
-        </>}
+        </Row>}
         <Row className="mt-3">
           {!!this.props.selected && <Nav>
             <Breadcrumb>
