@@ -6,15 +6,18 @@ const Spinner = ReactBootstrap.Spinner
 class AppInner extends React.Component {
   constructor(props) {
     super(props)
-    
+
     const { t } = this.props
     document.title = t('title_app')
+    document.getElementsByTagName('meta').description.content = t('meta_description')
+    document.getElementsByTagName('meta').keywords.content = t('meta_keywords')
 
     this.state = {
       source: (
-        <Container>
-          <Button variant="secondary" disabled><Spinner animation="border" size="sm" role="status" /> {t('label_loading')} </Button>
-          <p>Nie widzisz cen? Kliknij <a href="https://pricey.wuaze.com" rel="noreferrer" referrerpolicy="no-referrer">tutaj</a></p>
+        <Container fluid>
+          <Row className="mt-3">
+            <Spinner animation="border" variant="warning" role="status" />
+          </Row>
         </Container>
       )
     }

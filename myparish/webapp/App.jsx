@@ -7,6 +7,8 @@ class AppInner extends React.Component {
 
     const { t } = this.props
     document.title = t('title_app')
+    document.getElementsByTagName('meta').description.content = t('meta_description')
+    document.getElementsByTagName('meta').keywords.content = t('meta_keywords')
 
     this.state = {}
   }

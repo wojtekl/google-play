@@ -20,7 +20,9 @@ const resources = {
       "overlay_active": "Active",
       "overlay_inactive": "Inactive",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-en",
-      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png",
+      "meta_description": "Find a church on the map",
+      "meta_keywords": "church, catholic, mass, parish, cemetery, map, live, news"
     }
   },
   pl: {
@@ -44,7 +46,9 @@ const resources = {
       "overlay_active": "Nadchodzące",
       "overlay_inactive": "Pozostałe",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-pl",
-      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png"
+      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
+      "meta_description": "Znajdź kościół na mapie",
+      "meta_keywords": "kościół, katolicki, msza, parafia, cmentarz, mapa, transmisja, wiadomości"
     }
   }
 }

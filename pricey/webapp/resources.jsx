@@ -25,7 +25,9 @@ const resources = {
       "button_save": "Save",
       "link_support": "Donate :)",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-en",
-      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png",
+      "meta_description": "Pay less for groceries",
+      "meta_keywords": "groceries, shopping, price, list"
     }
   },
   pl: {
@@ -54,7 +56,9 @@ const resources = {
       "button_save": "Zachowaj",
       "link_support": "Wesprzyj :)",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-pl",
-      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png"
+      "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
+      "meta_description": "Płać mniej za zakupy",
+      "meta_keywords": "zakupy, cena, lista"
     }
   }
 }
