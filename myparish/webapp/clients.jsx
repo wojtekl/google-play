@@ -1200,7 +1200,7 @@ const clients = {
       "contact": "https://swannamilicz.pl/kontakt",
       "others": "https://www.ecmentarze.pl/cmentarz/postolin",
       "live": "",
-      "week": ["18:00],
+      "week": ["18:00"],
       "sunday": ["08:00", "11:30", "18:00"],
       "description": "",
       "latitude": 51.506793,
