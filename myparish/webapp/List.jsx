@@ -10,13 +10,13 @@ const List = () => {
   const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
   const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
   const formatDay = { weekday: "long", timezone: timezone }
-  const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
+  const isSunday = new Date().getDay() === 0 ? true : false
 
   const all = clients.clients.map(i => {
     let incoming = ''
     const now = new Date()
     const base = new Date()
-    const schedule = isSunday ? i.sunday : i.week
+    const schedule = isSunday ? (i.sunday ?? []) : i.week
     schedule.forEach((j, _) => {
       base.setHours(j.substring(0, 2))
       base.setMinutes(j.substring(3, 5))
