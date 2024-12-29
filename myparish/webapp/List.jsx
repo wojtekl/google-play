@@ -10,7 +10,7 @@ const List = () => {
   const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
   const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
   const formatDay = { weekday: "long", timezone: timezone }
-  const isSunday = new Date().toLocaleString(locale, formatDay) === 0 ? true : false
+  const isSunday = new Date().getDay() === 0 ? true : false
 
   const all = clients.clients.map(i => {
     let incoming = ''
