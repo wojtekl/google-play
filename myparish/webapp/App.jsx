@@ -23,7 +23,7 @@ class AppInner extends React.Component {
       let incoming = ''
       const base = new Date()
       const now = new Date()
-      const schedule = isSunday ? i.sunday : i.week
+      const schedule = isSunday ? (i.sunday ?? []) : i.week
       schedule.forEach((j, _) => {
         base.setHours(j.substring(0, 2))
         base.setMinutes(j.substring(3, 5))
