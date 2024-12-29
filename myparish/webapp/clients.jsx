@@ -1213,7 +1213,7 @@ const clients = {
       "contact": "https://www.swmichal-milicz.com/about-5-2",
       "others": "http://www.mogily.pl/milicz",
       "live": "",
-      "week": ["07:00", "17:00],
+      "week": ["07:00", "17:00"],
       "sunday": ["07:00", "08:30", "10:00", "11:30", "17:00"],
       "description": "",
       "latitude": 51.532969,
