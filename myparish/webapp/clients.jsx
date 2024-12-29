@@ -1181,6 +1181,45 @@ const clients = {
       "longitude": 21.470616
     },
     {
+      "name": "Milicz: Parafia pw św. Andrzeja Boboli",
+      "schedule": "https://bobola-milicz.pl/index.php/o-parafii/msze-swiete",
+      "announcement": "https://bobola-milicz.pl/index.php/blog",
+      "contact": "https://bobola-milicz.pl/index.php/dane-kontaktowe",
+      "others": "",
+      "live": "https://tvpm.pl/transmisja-z-kosciola-pw-sw-andrzeja-boboli/",
+      "week": ["06:30", "07:00", "18:00"],
+      "sunday": ["07:00", "08:45", "10:00", "11:30", "18:00"],
+      "description": "",
+      "latitude": 51.527978,
+      "longitude": 17.272788
+    },
+    {
+      "name": "Milicz: Parafia pw św. Anny",
+      "schedule": "https://swannamilicz.pl/intencje",
+      "announcement": "https://swannamilicz.pl/ogloszenia",
+      "contact": "https://swannamilicz.pl/kontakt",
+      "others": "https://www.ecmentarze.pl/cmentarz/postolin",
+      "live": "",
+      "week": ["18:00],
+      "sunday": ["08:00", "11:30", "18:00"],
+      "description": "",
+      "latitude": 51.506793,
+      "longitude": 17.282811
+    },
+    {
+      "name": "Milicz: Parafia pw św. Michała Archanioła",
+      "schedule": "https://www.swmichal-milicz.com/about-4",
+      "announcement": "https://www.swmichal-milicz.com/about-5",
+      "contact": "https://www.swmichal-milicz.com/about-5-2",
+      "others": "http://www.mogily.pl/milicz",
+      "live": "",
+      "week": ["07:00", "17:00],
+      "sunday": ["07:00", "08:30", "10:00", "11:30", "17:00"],
+      "description": "",
+      "latitude": 51.532969,
+      "longitude": 17.276784
+    },
+    {
       "name": "Mircze: Parafia Zmartwychwstania Pańskiego",
       "schedule": "https://www.facebook.com/mirczeparafia/",
       "announcement": "https://www.facebook.com/mirczeparafia/",
@@ -1251,6 +1290,19 @@ const clients = {
       "description": "",
       "latitude": 50.21889,
       "longitude": 21.63119
+    },
+    {
+      "name": "Nowogard: Parafia Wniebowzięcia NMP",
+      "schedule": "https://wnmp.nowogard.eu/",
+      "announcement": "https://wnmp.nowogard.eu/ogloszenia",
+      "contact": "https://wnmp.nowogard.eu/kontakt",
+      "others": "https://nowogard.grobonet.com/",
+      "live": "",
+      "week": ["07:00", "18:00"],
+      "sunday": ["07:00", "09:30", "11:00", "12:30", "18:00"],
+      "description": "",
+      "latitude": 53.672266,
+      "longitude": 15.117778
     },
     {
       "name": "Nowy Targ: Parafia NSPJ",
