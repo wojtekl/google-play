@@ -17,7 +17,7 @@ class AppInner extends React.Component {
                 <h4>{t('title_contact')}</h4>
                 <ul class="list-unstyled">
                   <li>
-                    <a href="mailto:wleap.zhulp@slmails.com" class="text-white">Email us</a>
+                    <a href="mailto:wleap.zhulp@slmails.com" class="text-white">{t('link_emailus')}</a>
                   </li>
                 </ul>
               </div>
@@ -27,7 +27,7 @@ class AppInner extends React.Component {
         <div class="navbar navbar-dark bg-dark shadow-sm">
           <div class="container">
             <a class="navbar-brand d-flex align-items-center">
-              <strong>wlap.pl</strong>
+              <strong>{t('title_home')}</strong>
             </a>
             <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent"
@@ -42,13 +42,11 @@ class AppInner extends React.Component {
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-              <h1 class="fw-light">Nasze apki</h1>
-              <p class="lead text-body-secondary">Zajmujemy się tworzeniem aplikacji mobilnych na system Android oraz
-                aplikacji internetowych które można używać na dowolnej platformie z dostępem do internetu</p>
+              <h1 class="fw-light">{t('subtitle_products')}</h1>
+              <p class="lead text-body-secondary">{t('')}</p>
               <p>
-                <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-primary my-2">Google
-                  Play</a>
-                <a href="#" class="btn btn-secondary my-2">Brak</a>
+                <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-primary my-2" role="button">{t('button_googleplay')}</a>
+                <a class="btn btn-secondary my-2" disabled role="button" aria-disabled="true">{t('button_action')}</a>
               </p>
             </div>
           </div>
@@ -65,8 +63,8 @@ class AppInner extends React.Component {
                     <p class="card-text">{t('description_pricey')}</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <a href="https://pricey.wlap.pl" class="btn btn-sm btn-outline-secondary">{t('button_see')}</a>
-                        <a href="#" class="btn btn-sm btn-outline-secondary">Apka</a>
+                        <a href="https://pricey.wlap.pl" class="btn btn-sm btn-outline-secondary" role="button">{t('button_online')}</a>
+                        <a href="https://rb.gy/sqezhd" class="btn btn-sm btn-outline-secondary" role="button">{t('button_get')}</a>
                       </div>
                       <small class="text-body-secondary">{t('name_pricey')}</small>
                     </div>
@@ -81,8 +79,8 @@ class AppInner extends React.Component {
                     <p class="card-text">{t('description_myparish')}</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <a href="https://parafia.wlap.pl" class="btn btn-sm btn-outline-secondary">{t('button_see')}</a>
-                        <a href="#" class="btn btn-sm btn-outline-secondary">Apka</a>
+                        <a href="https://parafia.wlap.pl" class="btn btn-sm btn-outline-secondary" role="button">{t('button_online')}</a>
+                        <a href="https://play.google.com/store/apps/details?id=github.wleap.myparish" class="btn btn-sm btn-outline-secondary" role="button">{t('button_get')}</a>
                       </div>
                       <small class="text-body-secondary">{t('name_myparish')}</small>
                     </div>
@@ -97,8 +95,8 @@ class AppInner extends React.Component {
                     <p class="card-text">{t('description_busstop')}</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <a href="#" class="btn btn-sm btn-outline-secondary">{t('button_see')}</a>
-                        <a href="https://play.google.com/store/apps/details?id=github.wleap.busstop" class="btn btn-sm btn-outline-secondary">Apka</a>
+                        <a class="btn btn-sm btn-outline-secondary" disabled role="button" aria-disabled="true">{t('button_online')}</a>
+                        <a href="https://play.google.com/store/apps/details?id=github.wleap.busstop" class="btn btn-sm btn-outline-secondary" role="button">{t('button_get')}</a>
                       </div>
                       <small class="text-body-secondary">{t('name_busstop')}</small>
                     </div>
@@ -113,10 +111,10 @@ class AppInner extends React.Component {
       <footer class="text-body-secondary py-5">
         <div class="container">
           <p class="float-end mb-1">
-            <a href="#">Back to top</a>
+            <a href="#">{t('button_backtotop')}</a>
           </p>
-          <p class="mb-1">wlap.pl</p>
-          <p class="mb-0">2024</p>
+          <p class="mb-1">{t('description_copyright')}</p>
+          <p class="mb-0">{t('description_guide')}</p>
         </div>
       </footer>
     </>

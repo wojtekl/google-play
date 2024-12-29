@@ -1,8 +1,9 @@
 const resources = {
   en: {
     translation: {
-      "button_see": "See",
+      "button_online": "Online",
       "button_back": "Back",
+      "title_home": "wlap.pl",
       "title_offer": "Offer",
       "title_products": "Products",
       "title_contact": "Contact",
@@ -22,12 +23,20 @@ const resources = {
       "item_offer4": "Witryny internetowe",
       "item_offer5": "Rozkłady jazdy",
       "item_offer6": "Domowe sieci komputerowe",
-      "item_offer7": "Testowanie rozwiązań informatycznych"
+      "item_offer7": "Testowanie rozwiązań informatycznych",
+      "button_backtotop": "Back to top",
+      "description_copyright": "wlap.pl, 2024",
+      "description_guide": "",
+      "button_get": "Get",
+      "button_googleplay": "Google Play",
+      "button_action": "",
+      "link_emailus": "Email us"
     }
   },
   pl: {
     translation: {
-      "button_see": "Zobacz",
+      "button_online": "Przejdź",
+      "title_home": "wlap.pl",
       "title_offer": "Oferta",
       "title_products": "Produkty",
       "title_contact": "Kontakt",
@@ -48,7 +57,14 @@ const resources = {
       "item_offer4": "Witryny internetowe",
       "item_offer5": "Rozkłady jazdy",
       "item_offer6": "Domowe sieci komputerowe",
-      "item_offer7": "Testowanie rozwiązań informatycznych"
+      "item_offer7": "Testowanie rozwiązań informatycznych",
+      "button_backtotop": "W górę",
+      "description_copyright": "wlap.pl, 2024",
+      "description_guide": "",
+      "button_get": "Pobierz",
+      "button_googleplay": "Sklep Play",
+      "button_action": "",
+      "link_emailus": "Napisz do nas"
     }
   }
 }
