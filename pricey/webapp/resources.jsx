@@ -26,7 +26,7 @@ const resources = {
       "link_support": "Donate :)",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-en",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png",
-      "meta_description": "Pay less for groceries",
+      "meta_description": "Record grocery prices, invite your firends, check what others submit, look up the history or observe cost of living rise",
       "meta_keywords": "groceries, shopping, price, list"
     }
   },
@@ -57,7 +57,7 @@ const resources = {
       "link_support": "Wesprzyj :)",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-pl",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
-      "meta_description": "Płać mniej za zakupy",
+      "meta_description": "Zachowuj ceny produktów, zaproś przyjaciół, sprawdzaj co inni przesłali, przeglądaj historię lub obserwuj wzrost kosztów życia",
       "meta_keywords": "zakupy, cena, lista"
     }
   }

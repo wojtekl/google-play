@@ -10,11 +10,11 @@ class AppInner extends React.Component {
           <div class="container">
             <div class="row">
               <div class="col-sm-8 col-md-7 py-4">
-                <h4>{t('subtitle_contact')}</h4>
+                <h4>{t('title_contact')}</h4>
                 <p class="text-body-secondary">{t('description_contact')}</p>
               </div>
               <div class="col-sm-4 offset-md-1 py-4">
-                <h4>{t('title_contact')}</h4>
+                <h4>{t('subtitle_contact')}</h4>
                 <ul class="list-unstyled">
                   <li>
                     <a href="mailto:wleap.zhulp@slmails.com" class="text-white">{t('link_emailus')}</a>
@@ -42,8 +42,8 @@ class AppInner extends React.Component {
         <section class="py-5 text-center container">
           <div class="row py-lg-5">
             <div class="col-lg-6 col-md-8 mx-auto">
-              <h1 class="fw-light">{t('subtitle_products')}</h1>
-              <p class="lead text-body-secondary">{t('')}</p>
+              <h1 class="fw-light">{t('title_products')}</h1>
+              <p class="lead text-body-secondary">{t('description_products')}</p>
               <p>
                 <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-primary my-2" role="button">{t('button_googleplay')}</a>
                 <a class="btn btn-secondary my-2" disabled role="button" aria-disabled="true">{t('button_action')}</a>
