@@ -815,7 +815,7 @@ const clients = {
       "others": "https://www.ecmentarze.pl/cmentarz/sw-antoni-kozieglowki",
       "live": "",
       "week": ["07:00", "18:00"],
-      "sunday: ["07:30", "09:15", "11:30", "16:00"],
+      "sunday": ["07:30", "09:15", "11:30", "16:00"],
       "description": "",
       "latitude": 50.58653,
       "longitude": 19.18510
