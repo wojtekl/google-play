@@ -10,13 +10,11 @@ class AppInner extends React.Component {
           <div class="container">
             <div class="row">
               <div class="col-sm-8 col-md-7 py-4">
-                <h4>About</h4>
-                <p class="text-body-secondary">Toggable dfdfdf sdsf d dfs sdfdsfsdfsdfsdf sdfdsfsdfsdfdsf sdf
-                  sfssdfdsfdsfdsf sdfsf dsfdsf dcv xcvxcvcxvxcvxcv erdgdfg dgdfgdfgdfgdfgfdg dgdgdfgdfgd gj hgj
-                  hhhkhjkjkhjkk hkhjkhjhjk weewrwer werwe rwerwerewrewrewr ewrwerewrewr sfdsfdfdg</p>
+                <h4>{t('subtitle_contact')}</h4>
+                <p class="text-body-secondary">{t('description_contact')}</p>
               </div>
               <div class="col-sm-4 offset-md-1 py-4">
-                <h4>Contact</h4>
+                <h4>{t('title_contact')}</h4>
                 <ul class="list-unstyled">
                   <li>
                     <a href="mailto:wleap.zhulp@slmails.com" class="text-white">Email us</a>
@@ -64,13 +62,13 @@ class AppInner extends React.Component {
                   <img
                     src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />
                   <div class="card-body">
-                    <p class="card-text">Aplikacja społecznościowa która umożliwia rejestrowanie cen produktów</p>
+                    <p class="card-text">{t('description_pricey')}</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">Online</button>
-                        <button type="button" class="btn btn-sm btn-outline-secondary">Apka</button>
+                        <a href="https://pricey.wlap.pl" class="btn btn-sm btn-outline-secondary">{t('button_see')}</a>
+                        <a href="#" class="btn btn-sm btn-outline-secondary">Apka</a>
                       </div>
-                      <small class="text-body-secondary">9 mins</small>
+                      <small class="text-body-secondary">{t('name_pricey')}</small>
                     </div>
                   </div>
                 </div>
@@ -80,13 +78,13 @@ class AppInner extends React.Component {
                   <img
                     src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />
                   <div class="card-body">
-                    <p class="card-text">Aplikacja społecznościowa która umożliwia rejestrowanie cen produktów</p>
+                    <p class="card-text">{t('description_myparish')}</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">Online</button>
-                        <button type="button" class="btn btn-sm btn-outline-secondary">Apka</button>
+                        <a href="https://parafia.wlap.pl" class="btn btn-sm btn-outline-secondary">{t('button_see')}</a>
+                        <a href="#" class="btn btn-sm btn-outline-secondary">Apka</a>
                       </div>
-                      <small class="text-body-secondary">9 mins</small>
+                      <small class="text-body-secondary">{t('name_myparish')}</small>
                     </div>
                   </div>
                 </div>
@@ -96,13 +94,13 @@ class AppInner extends React.Component {
                   <img
                     src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/busstop/BusStop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />
                   <div class="card-body">
-                    <p class="card-text">Aplikacja społecznościowa która umożliwia rejestrowanie cen produktów</p>
+                    <p class="card-text">{t('description_busstop')}</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary">Online</button>
-                        <button type="button" class="btn btn-sm btn-outline-secondary">Apka</button>
+                        <a href="#" class="btn btn-sm btn-outline-secondary">{t('button_see')}</a>
+                        <a href="https://play.google.com/store/apps/details?id=github.wleap.busstop" class="btn btn-sm btn-outline-secondary">Apka</a>
                       </div>
-                      <small class="text-body-secondary">9 mins</small>
+                      <small class="text-body-secondary">{t('name_busstop')}</small>
                     </div>
                   </div>
                 </div>
