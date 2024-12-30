@@ -6,7 +6,7 @@ class CardInner extends React.Component {
 
     return <div class="col">
       <div class="card shadow-sm">
-        <img src={image} style="padding: 3rem" />
+        <img src={image} style={{padding: '3rem'}} />
         <div class="card-body">
           <p class="card-text">{t(description)}</p>
           <div class="d-flex justify-content-between align-items-center">
