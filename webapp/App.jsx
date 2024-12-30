@@ -55,22 +55,13 @@ class AppInner extends React.Component {
         <div class="album py-5 bg-body-tertiary">
           <div class="container">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-              <div class="col">
-                <div class="card shadow-sm">
-                  <img
-                    src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />
-                  <div class="card-body">
-                    <p class="card-text">{t('description_pricey')}</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <a href="https://pricey.wlap.pl" class="btn btn-sm btn-outline-secondary" role="button">{t('button_online')}</a>
-                        <a href="https://rb.gy/sqezhd" class="btn btn-sm btn-outline-secondary" role="button">{t('button_get')}</a>
-                      </div>
-                      <small class="text-body-secondary">{t('name_pricey')}</small>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <Card
+                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+                description="description_pricey"
+                urlButtonOnline="https://pricey.wlap.pl"
+                urlButtonGet="https://rb.gy/sqezhd"
+                small="name_pricey"
+              />
               <div class="col">
                 <div class="card shadow-sm">
                   <img
