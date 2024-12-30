@@ -70,21 +70,28 @@ class ListInner extends React.Component {
 
     return (<>
       <Navbar expand="md">
-      <Container>
-        <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
-            <Nav.Link onClick={this.handleShow}>{!selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
-            <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link>
-            <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{t('link_support')}</Nav.Link>
-            <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
-            <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
-            <Nav.Link href="https://rb.gy/sqezhd"><Image src={t('url_get')} height="40px" /></Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
-      </Container>
-    </Navbar>
+        <Container>
+          <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+          <Navbar.Collapse id="basic-navbar-nav">
+            <Nav className="me-auto">
+              <Nav.Link onClick={this.handleShow}>{!selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
+              <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link>
+              <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{t('link_support')}</Nav.Link>
+              <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
+              <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
+              <Nav.Link href="https://rb.gy/sqezhd"><Image src={t('url_get')} height="40px" /></Nav.Link>
+              <Nav.Link disabled>
+                <p>
+                  <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA">
+                    <img src="https://achecks.org/images/icon_W2_aa.jpg" alt="WCAG 2.0 (Level AA)" height="32" width="102" />
+                  </a>
+                </p>
+              </Nav.Link>
+            </Nav>
+          </Navbar.Collapse>
+        </Container>
+      </Navbar>
       <Container>
         {!selected && <Row className="mt-3">
           <form class="form-inline my-2" role="search">
@@ -132,7 +139,7 @@ class ListInner extends React.Component {
         </Row>
         <Modal item={selected} show={show} handleClose={this.handleClose} store={itemStore} />
       </Container>
-      </>)
+    </>)
   }
 }
 
