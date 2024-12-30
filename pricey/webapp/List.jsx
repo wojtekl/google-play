@@ -119,7 +119,7 @@ class ListInner extends React.Component {
                       return <td> {row[property]} </td>
                     }
                   })}
-                  {expandable && <td><Badge bg={this.state.selected === row['item'] ? 'primary' : 'secondary'} onClick={this.handleClick}> -{'>'} </Badge></td>}
+                  {expandable && <td><Button variant="link" size="sm" onClick={this.handleClick} disabled={this.state.selected === row['item']}><Badge bg={this.state.selected === row['item'] ? 'primary' : 'secondary'}> -{'>'} </Badge></Button></td>}
                 </tr>)
               })}
             </tbody>
