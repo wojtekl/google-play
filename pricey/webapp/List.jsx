@@ -33,19 +33,22 @@ class ListInner extends React.Component {
   }
 
   handleClick = () => {
-    let self = this
-    axios.get(`item?lang=${lang}&name=${this.state.selected}`).then((response) => {
-      self.props.replace(<List properties={columns_details} list={response.data} replace={self.props.replace} back={self.props.back} selected={self.state.selected} />)
+    const { replace, back } = this.props
+    const { selected } = this.state
+    axios.get(`item?lang=${lang}&name=${selected}`).then((response) => {
+      replace(<List properties={columns_details} list={response.data} replace={replace} back={back} selected={selected} />)
     })
   }
 
   handleFilter = (event) => {
-    this.setState({ filtered: this.state.list.filter(i => i.item.toLowerCase().includes(event.target.value.toLowerCase())) })
+    const { list } = this.state
+    this.setState({ filtered: list.filter(i => i.item.toLowerCase().includes(event.target.value.toLowerCase())) })
   }
 
   handleChange = (event) => {
-    const { selected, list } = this.props
-    const selectedItem = !selected ? list.find(i => i.item === this.state.selected).id : this.state.selected
+    const { list } = this.props
+    const { selected } = this.state
+    const selectedItem = !this.props.selected ? list.find(i => i.item === selected).id : selected
     store.dispatch({ type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selectedItem })
   }
 
@@ -63,11 +66,12 @@ class ListInner extends React.Component {
 
   render() {
     const { t, selected, properties, expandable, list, back } = this.props
+    const { filtered, show } = this.state
 
     return (<>
       <Navbar expand="md">
       <Container>
-        <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" />{t('title_app')}</Navbar.Brand>
+        <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
@@ -83,7 +87,7 @@ class ListInner extends React.Component {
     </Navbar>
       <Container>
         {!selected && <Row className="mt-3">
-          <form class="form-inline my-2">
+          <form class="form-inline my-2" role="search">
             <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
           </form>
         </Row>}
@@ -105,7 +109,8 @@ class ListInner extends React.Component {
               </tr>
             </thead>
             <tbody>
-              {(!selected ? this.state.filtered : list).map(row => {
+              {(!selected ? filtered : list).map(row => {
+                const enabled = this.state.selected === row['item']
                 return (<tr onMouseOver={() => this.setState({ selected: !selected ? row[properties[0]] : row['id'] })}>
                   <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
                   {properties.map(property => {
@@ -119,13 +124,13 @@ class ListInner extends React.Component {
                       return <td> {row[property]} </td>
                     }
                   })}
-                  {expandable && <td><Button variant="link" size="sm" onClick={this.handleClick} disabled={this.state.selected !== row['item']}><Badge bg={this.state.selected === row['item'] ? 'primary' : 'secondary'}> -{'>'} </Badge></Button></td>}
+                  {expandable && <td><Button variant="link" size="sm" onClick={this.handleClick} disabled={!enabled}><Badge bg={enabled ? 'primary' : 'secondary'}> -{'>'} </Badge></Button></td>}
                 </tr>)
               })}
             </tbody>
           </Table>
         </Row>
-        <Modal item={selected} show={this.state.show} handleClose={this.handleClose} store={itemStore} />
+        <Modal item={selected} show={show} handleClose={this.handleClose} store={itemStore} />
       </Container>
       </>)
   }
