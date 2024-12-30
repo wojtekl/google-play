@@ -2,7 +2,7 @@ const withTranslation = ReactI18next.withTranslation;
 
 class CardInner extends React.Component {
   render() {
-    const { image, description, urlButtonOnline, urlButtonGet, small } = this.props
+    const { t, image, description, urlButtonOnline, urlButtonGet, small } = this.props
 
     return <div class="col">
       <div class="card shadow-sm">
