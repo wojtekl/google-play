@@ -11,7 +11,7 @@ class CardInner extends React.Component {
           <p class="card-text">{t(description)}</p>
           <div class="d-flex justify-content-between align-items-center">
             <div class="btn-group">
-            <a href={urlButtonOnline} class="btn btn-sm btn-outline-secondary" role="button">{t('button_online')}</a>
+            <a href={urlButtonOnline} class="btn btn-sm btn-outline-secondary" role="button" {...urlButtonOnline && 'disabled aria-disabled="true"'}>{t('button_online')}</a>
             <a href={urlButtonGet} class="btn btn-sm btn-outline-secondary" role="button">{t('button_get')}</a>
             </div>
             <small class="text-body-secondary">{t(small)}</small>

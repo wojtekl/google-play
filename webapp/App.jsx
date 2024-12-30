@@ -62,38 +62,19 @@ class AppInner extends React.Component {
                 urlButtonGet="https://rb.gy/sqezhd"
                 small="name_pricey"
               />
-              <div class="col">
-                <div class="card shadow-sm">
-                  <img
-                    src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />
-                  <div class="card-body">
-                    <p class="card-text">{t('description_myparish')}</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <a href="https://parafia.wlap.pl" class="btn btn-sm btn-outline-secondary" role="button">{t('button_online')}</a>
-                        <a href="https://play.google.com/store/apps/details?id=github.wleap.myparish" class="btn btn-sm btn-outline-secondary" role="button">{t('button_get')}</a>
-                      </div>
-                      <small class="text-body-secondary">{t('name_myparish')}</small>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="col">
-                <div class="card shadow-sm">
-                  <img
-                    src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/busstop/BusStop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" />
-                  <div class="card-body">
-                    <p class="card-text">{t('description_busstop')}</p>
-                    <div class="d-flex justify-content-between align-items-center">
-                      <div class="btn-group">
-                        <a class="btn btn-sm btn-outline-secondary" disabled role="button" aria-disabled="true">{t('button_online')}</a>
-                        <a href="https://play.google.com/store/apps/details?id=github.wleap.busstop" class="btn btn-sm btn-outline-secondary" role="button">{t('button_get')}</a>
-                      </div>
-                      <small class="text-body-secondary">{t('name_busstop')}</small>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <Card
+                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+                description="description_myparish"
+                urlButtonOnline="https://parafia.wlap.pl"
+                urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.myparish"
+                small="name_myparish"
+              />
+              <Card
+                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/busstop/BusStop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+                description="description_busstop"
+                urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.busstop"
+                small="name_busstop"
+              />
             </div>
           </div>
         </div>
