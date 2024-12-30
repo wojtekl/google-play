@@ -2218,6 +2218,7 @@ const clients = {
       "others": "",
       "live": "",
       "week": ["07:00", "17:00", "18:00"],
+      "sunday": ["08:00", "10:00", "11:30", "17:00"],
       "description": "",
       "latitude": 50.62589,
       "longitude": 19.36567
@@ -2225,11 +2226,12 @@ const clients = {
     {
       "name": "Żuromin: Parafia św. Antoniego",
       "schedule": "https://www.parafiazuromin.pl/intencje/#content",
-      "announcement": "https://www.parafiazuromin.pl/ogloszenia",
+      "announcement": "https://www.parafiazuromin.pl/ogloszenia/#content",
       "contact": "https://www.parafiazuromin.pl/",
       "others": "",
       "live": "",
       "week": ["07:00", "18:00"],
+      "sunday": ["07:00", "09:00", "10:30", "12:00", "15:00", "18:00"],
       "description": "",
       "latitude": 53.06758,
       "longitude": 19.91135
@@ -2239,9 +2241,10 @@ const clients = {
       "schedule": "http://www.zydowo.parafia.info.pl/?p=main&what=8#node-",
       "announcement": "http://www.zydowo.parafia.info.pl/?p=main&what=7#node-",
       "contact": "http://www.zydowo.parafia.info.pl/?p=main&what=4#node-",
-      "others": "",
+      "others": "http://37.28.154.108/zydowo/",
       "live": "",
-      "week": ["18:00"],
+      "week": ["17:00*"],
+      "sunday": ["08:00", "10:00", "12:00", "16:00"],
       "description": "",
       "latitude": 52.45492,
       "longitude": 17.59133
@@ -2251,9 +2254,10 @@ const clients = {
       "schedule": "http://zyrakow.diecezjatarnow.pl/intencje-mszalne",
       "announcement": "https://zyrakow.diecezjatarnow.pl/ogloszenia",
       "contact": "https://zyrakow.diecezjatarnow.pl/kontakt",
-      "others": "https://zyrakow-parafialny.grobonet.com/grobonet/start.php",
-      "live": "https://www.youtube.com/watch?v=XVm1YSMuPuY",
-      "week": ["06:30"],
+      "others": "https://zyrakow-parafialny.grobonet.com/",
+      "live": "https://www.youtube.com/@parafia_zyrakow/streams",
+      "week": ["06:30", "18:00*"],
+      "sunday": ["08:00", "10:30", "16:00"],
       "description": "",
       "latitude": 50.08322,
       "longitude": 21.39470
