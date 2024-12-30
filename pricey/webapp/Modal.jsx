@@ -5,40 +5,33 @@ const BModal = ReactBootstrap.Modal
 
 class ModalInner extends React.Component {
 
-  constructor(props) {
-    super(props);
-
-    this.state = {
-      item: this.props.item
-    }
-  }
-
   handleClick = () => {
+    const { handleClose } = this.props
     const form = document.querySelector('#form_item')
     axios.post(`item?lang=${lang}`, form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
       form.reset()
-      this.props.handleClose()
+      handleClose()
     })
   }
 
   render() {
-    const { show, handleClose, t } = this.props
+    const { show, handleClose, t, item, store } = this.props
 
     return (
       <BModal id="exampleModal" show={show} size="sm" aria-labelledby="exampleModalLabel" onHide={handleClose} centered>
         <BModal.Header closeButton>
-          <BModal.Title> {!this.props.item ? t('button_new_product') : `${t('label_item')}: ${this.props.item}`} </BModal.Title>
+          <BModal.Title> {!item ? t('button_new_product') : `${t('label_item')}: ${item}`} </BModal.Title>
         </BModal.Header>
         <BModal.Body>
           <form id="form_item">
             <div class="form-group">
               <label for="exampleInputName1">{t('label_name')}</label>
-              <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={this.props.item} />
+              <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} />
               <small id="nameHelp" class="form-text text-muted"> Upewnij się że produkt jeszcze nie istnieje </small>
             </div>
             <div class="form-group">
               <label for="exampleInputStore1">{t('label_store')}</label>
-              <input type="text" class="form-control" id="exampleInputStore1" aria-describedby="storeHelp" name="store" />
+              <input type="text" class="form-control" id="exampleInputStore1" aria-describedby="storeHelp" name="store" value={store} />
               <small id="storeHelp" class="form-text text-muted"> Sprawdź nazwę sklepu przy innych produktach </small>
             </div>
             <div class="form-group">

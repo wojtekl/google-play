@@ -23,10 +23,11 @@ class ListInner extends React.Component {
   constructor(props) {
     super(props)
 
+    const { list } = props
     this.state = {
-      list: this.props.list,
+      list: list,
       selected: null,
-      filtered: this.props.list,
+      filtered: list,
       show: false
     }
   }
@@ -43,8 +44,9 @@ class ListInner extends React.Component {
   }
 
   handleChange = (event) => {
-    const selected = !this.props.selected ? this.props.list.find(i => i.item === this.state.selected).id : this.state.selected
-    store.dispatch({ type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selected })
+    const { selected, list } = this.props
+    const selectedItem = !selected ? list.find(i => i.item === this.state.selected).id : this.state.selected
+    store.dispatch({ type: event.target.checked ? 'selected/added' : 'selected/removed', payload: selectedItem })
   }
 
   handleCopy = () => {
@@ -60,7 +62,7 @@ class ListInner extends React.Component {
   }
 
   render() {
-    const { t } = this.props
+    const { t, selected, properties, expandable, list, back } = this.props
 
     return (<>
       <Navbar expand="md">
@@ -69,7 +71,7 @@ class ListInner extends React.Component {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link onClick={this.handleShow}>{!this.props.selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
+            <Nav.Link onClick={this.handleShow}>{!selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
             <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link>
             <Nav.Link href="mailto:wleap.zhulp@slmails.com?subject=Chcę przekazać darowiznę na rozwój Pricey">{t('link_support')}</Nav.Link>
             <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
@@ -80,33 +82,33 @@ class ListInner extends React.Component {
       </Container>
     </Navbar>
       <Container>
-        {!this.props.selected && <Row className="mt-3">
+        {!selected && <Row className="mt-3">
           <form class="form-inline my-2">
             <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
           </form>
         </Row>}
         <Row className="mt-3">
-          {!!this.props.selected && <Nav>
+          {!!selected && <Nav>
             <Breadcrumb>
-              <Breadcrumb.Item><a href="javascript:;" onClick={this.props.back}> {t('button_back')} </a></Breadcrumb.Item>
-              <Breadcrumb.Item active> {this.props.selected} </Breadcrumb.Item>
+              <Breadcrumb.Item><a href="javascript:;" onClick={back}> {t('button_back')} </a></Breadcrumb.Item>
+              <Breadcrumb.Item active> {selected} </Breadcrumb.Item>
             </Breadcrumb>
           </Nav>}
           <Table hover size="sm">
             <thead class="table-dark">
               <tr>
                 <th> X </th>
-                {this.props.properties.map(property => {
+                {properties.map(property => {
                   return (<th> {String(t(t_columns[property])).toUpperCase()} </th>)
                 })}
-                {this.props.expandable && <th> {t('label_more').toUpperCase()} </th>}
+                {expandable && <th> {t('label_more').toUpperCase()} </th>}
               </tr>
             </thead>
             <tbody>
-              {(!this.props.selected ? this.state.filtered : this.props.list).map(row => {
-                return (<tr onMouseOver={() => this.setState({ selected: !this.props.selected ? row[this.props.properties[0]] : row['id'] })}>
+              {(!selected ? this.state.filtered : list).map(row => {
+                return (<tr onMouseOver={() => this.setState({ selected: !selected ? row[properties[0]] : row['id'] })}>
                   <td><input type="checkbox" class="form-check-input" name="selected" checked={store.getState().value.includes(row['id'])} onChange={this.handleChange} /></td>
-                  {this.props.properties.map(property => {
+                  {properties.map(property => {
                     if ('posted' === property) {
                       return <td><DateFormatter timestamp={row[property]} /></td>
                     }
@@ -117,13 +119,13 @@ class ListInner extends React.Component {
                       return <td> {row[property]} </td>
                     }
                   })}
-                  {this.props.expandable && <td><Badge bg="secondary" onClick={this.handleClick}> -{'>'} </Badge></td>}
+                  {expandable && <td><Badge bg="secondary" onClick={this.handleClick}> -{'>'} </Badge></td>}
                 </tr>)
               })}
             </tbody>
           </Table>
         </Row>
-        <Modal item={this.props.selected} show={this.state.show} handleClose={this.handleClose} />
+        <Modal item={selected} show={this.state.show} handleClose={this.handleClose} store={itemStore} />
       </Container>
       </>)
   }

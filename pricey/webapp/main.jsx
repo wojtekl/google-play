@@ -35,6 +35,8 @@ i18n.use(initReactI18next).init({
   }
 })
 
+const itemStore = new URLSearchParams(new URL(window.location).search).get('store') ?? ''
+
 const store = Redux.createStore(selectedReducer)
 
 const container = document.getElementById('root')
