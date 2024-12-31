@@ -40,16 +40,16 @@ const Selected = () => {
   <Container>
     <Breadcrumb>
       <Breadcrumb.Item><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></Breadcrumb.Item>
-      <Breadcrumb.Item active>{selected.name}</Breadcrumb.Item>
+      {selected && <Breadcrumb.Item active>{selected.name}</Breadcrumb.Item>}
     </Breadcrumb>
-    <ListGroup>
+    {selected ? <ListGroup>
       <ListGroup.Item action href={selected.schedule}>{t('list_schedule')}</ListGroup.Item>
       <ListGroup.Item action href={selected.announcement}>{t('list_announcement')}</ListGroup.Item>
       <ListGroup.Item action href={selected.contact}>{t('list_contact')}</ListGroup.Item>
       {selected.other && <ListGroup.Item action href={selected.other}>{t('list_other')}</ListGroup.Item>}
       {selected.live && <ListGroup.Item action href={selected.live}>{t('list_live')}</ListGroup.Item>}
       <ListGroup.Item action href={`https://www.openstreetmap.org/directions?from=&to=${selected.latitude}%2C${selected.longitude}`}>{t('list_directions')}</ListGroup.Item>
-    </ListGroup>
+    </ListGroup> : <p>{t('label_missing')}</p>}
   </Container>
 </>)
 }

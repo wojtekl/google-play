@@ -23,7 +23,8 @@ const resources = {
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-en",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png",
       "meta_description": "Find your church on a map, get the directions, read the bulletin, check the mass times or pray online",
-      "meta_keywords": "church, catholic, mass, parish, cemetery, map, live, news"
+      "meta_keywords": "church, catholic, mass, parish, cemetery, map, live, news",
+      "label_missing": "Parish data missing"
     }
   },
   pl: {
@@ -50,7 +51,8 @@ const resources = {
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/data/privacy-policy-pl",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
       "meta_description": "Znajdź twój kościół na mapie, zobacz dojazd, czytaj ogłoszenia parafialne, sprawdź harmonogram mszy, oglądaj transmisje",
-      "meta_keywords": "kościół, katolicki, msza, parafia, cmentarz, mapa, transmisja, wiadomości"
+      "meta_keywords": "kościół, katolicki, msza, parafia, cmentarz, mapa, transmisja, wiadomości",
+      "label_missing": "Brak danych parafii"
     }
   }
 }
