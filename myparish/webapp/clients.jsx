@@ -1282,7 +1282,7 @@ const clients = {
       "others": "https://myslowiceparafialny.grobonet.com/",
       "live": "https://www.youtube.com/@parafianspjmysowice/streams",
       "week": ["08:00", "18:00"],
-      "sunday"; ["07:30", "09:30", "11:00", "12:30", "18:00"],
+      "sunday": ["07:30", "09:30", "11:00", "12:30", "18:00"],
       "description": "",
       "latitude": 50.242721,
       "longitude": 19.139197
