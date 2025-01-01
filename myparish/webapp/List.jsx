@@ -40,10 +40,12 @@ const List = () => {
   const filterByCriteria = (active, live, phrase) => {
     let preFiltered = all
     if (active) {
-      preFiltered = preFiltered.filter(i => !!i.incoming).sort((a, b) => a.incoming - b.incoming)
+      preFiltered = preFiltered.filter(i => !!i.incoming)
+      preFiltered.sort((a, b) => a.incoming - b.incoming)
     }
     if (live) {
-      preFiltered = preFiltered.filter(i => (true === i.live) && !!i.incoming).sort((a, b) => a.incoming - b.incoming)
+      preFiltered = preFiltered.filter(i => (true === i.live) && !!i.incoming)
+      preFiltered.sort((a, b) => a.incoming - b.incoming)
     }
     setFiltered(!phrase ? preFiltered : preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
   }
