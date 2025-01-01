@@ -2,7 +2,7 @@ const resources = {
   en: {
     translation: {
       "title_home": "wlap.pl",
-      "description_copyright": "wlap.pl, 2024",
+      "description_copyright": "wlap.pl, 2025",
       "description_guide": "",
       "button_backtotop": "Back to top",
       "title_contact": "Custom orders and questions",
@@ -37,7 +37,7 @@ const resources = {
   pl: {
     translation: {
       "title_home": "wlap.pl",
-      "description_copyright": "wlap.pl, 2024",
+      "description_copyright": "wlap.pl, 2025",
       "description_guide": "",
       "button_backtotop": "W górę",
       "title_contact": "Jak złożyć zamówienie",
