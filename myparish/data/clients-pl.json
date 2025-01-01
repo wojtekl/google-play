@@ -1,5 +1,5 @@
 {
-  "updated": 1735680586960,
+  "updated": 1735708054440,
   "clients": [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
@@ -8,8 +8,8 @@
       "contact": "http://parafiabartag.pl/kontakt/#main",
       "others": "http://mogily.pl/bartag",
       "description": "",
-      "latitude": "53.71666",
-      "longitude": "20.46954"
+      "latitude": 53.71666,
+      "longitude": 20.46954
     },
     {
       "name": "Bączal Dolny: Parafia Świętego Mikołaja",
@@ -18,8 +18,8 @@
       "contact": "https://baczaldolny.weebly.com/kontakt.html#wsite-content",
       "others": "",
       "description": "",
-      "latitude": "49.76747",
-      "longitude": "21.36734"
+      "latitude": 49.76747,
+      "longitude": 21.36734
     },
     {
       "name": "Bełżyce: Parafia pw Nawrócenia św. Pawła",
@@ -28,8 +28,8 @@
       "contact": "https://parafia.belzyce.pl/?page=kontakt",
       "others": "https://www.polskie-cmentarze.pl/pl/Spis-cmentarzy/Wojewodztwo-Lubelskie/Powiat-lubelski/Gmina-Belzyce/Belzyce/Cmentarz-Rzymskokatolicki",
       "description": "",
-      "latitude": "51.174514",
-      "longitude": "22.27787"
+      "latitude": 51.174514,
+      "longitude": 22.27787
     },
     {
       "name": "Białystok: Parafia św. Kazimierza Królewicza",
@@ -38,8 +38,8 @@
       "contact": "https://kazimierz.archibial.pl/n/index.php#:~:text=kontakt",
       "others": "https://kazimierz.archibial.pl/n/instytucje.php",
       "description": "",
-      "latitude": "53.149811",
-      "longitude": "23.122541"
+      "latitude": 53.149811,
+      "longitude": 23.122541
     },
     {
       "name": "Bolewice: Parafia pw Chrystusa Króla",
@@ -48,8 +48,8 @@
       "contact": "http://www.parafiabolewice.pl/Parafia/Daneteleadresowe/tabid/56/Default.aspx",
       "others": "",
       "description": "",
-      "latitude": "52.400863",
-      "longitude": "16.121093"
+      "latitude": 52.400863,
+      "longitude": 16.121093
     },
     {
       "name": "Brzęczkowice: Parafia Matki Boskiej Bolesnej",
@@ -58,8 +58,8 @@
       "contact": "https://parafiabrzeczkowice.pl/kontakt/",
       "others": "https://brzeczkowice.grobonet.com/",
       "description": "",
-      "latitude": "50.22378",
-      "longitude": "19.15328"
+      "latitude": 50.22378,
+      "longitude": 19.15328
     },
     {
       "name": "Brzozów: Parafia Przemienienia Pańskiego",
@@ -68,8 +68,8 @@
       "contact": "https://brzozow.przemyska.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "49.695184",
-      "longitude": "22.019536"
+      "latitude": 49.695184,
+      "longitude": 22.019536
     },
     {
       "name": "Bydgoszcz: Parafia św. Mateusza Apostoła i Ewangelisty",
@@ -78,8 +78,8 @@
       "contact": "http://www.mateusz.bydgoszcz.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "53.155611",
-      "longitude": "18.156661"
+      "latitude": 53.155611,
+      "longitude": 18.156661
     },
     {
       "name": "Bysław: Parafia pw Przemienienia Pańskiego",
@@ -88,8 +88,8 @@
       "contact": "https://parafiabyslaw.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "53.507056",
-      "longitude": "17.991625"
+      "latitude": 53.507056,
+      "longitude": 17.991625
     },
     {
       "name": "Chodzież: Parafia pw św. Floriana",
@@ -98,8 +98,8 @@
       "contact": "https://florianchodziez.pl/index.php/kontakt/#jm-maincontent",
       "others": "http://chodziez.artlookgallery.com/grobonet/start.php#search",
       "description": "",
-      "latitude": "52.992046",
-      "longitude": "16.916319"
+      "latitude": 52.992046,
+      "longitude": 16.916319
     },
     {
       "name": "Chojnice: Parafia pw MB Fatimskiej",
@@ -108,8 +108,8 @@
       "contact": "https://fatimachojnice.parafialnastrona.pl/kontakt",
       "others": "https://fatimachojnice.parafialnastrona.pl/obszar-i-statystyka",
       "description": "",
-      "latitude": "53.69295",
-      "longitude": "17.54721"
+      "latitude": 53.69295,
+      "longitude": 17.54721
     },
     {
       "name": "Chorzelów: Parafia Wszystkich Świętych",
@@ -118,8 +118,8 @@
       "contact": "https://chorzelow.diecezja.tarnow.pl/kontakt/",
       "others": "https://www.youtube.com/channel/UCK0-Z6r_GMMuTICGDObFPMQ",
       "description": "",
-      "latitude": "50.329996",
-      "longitude": "21.441026"
+      "latitude": 50.329996,
+      "longitude": 21.441026
     },
     {
       "name": "Chropaczów: Parafia MB Różańcowej",
@@ -128,8 +128,8 @@
       "contact": "https://www.parafiachropaczow.pl/kontakt/",
       "others": "http://swietochlowice.artlookgallery.com/grobonet/",
       "description": "",
-      "latitude": "50.312693",
-      "longitude": "18.910708"
+      "latitude": 50.312693,
+      "longitude": 18.910708
     },
     {
       "name": "Ciechanów: Parafia św. Józefa - Fara",
@@ -138,8 +138,8 @@
       "contact": "https://faraciechanow.pl/kancelaria/",
       "others": "https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Mazowieckie/Powiat-ciechanowski/Gmina-Ciechanow/Ciechanow/Cmentarz-Parafialny",
       "description": "",
-      "latitude": "52.8754",
-      "longitude": "20.61378"
+      "latitude": 52.8754,
+      "longitude": 20.61378
     },
     {
       "name": "Czerlejno: Parafia pw. NMP Wniebowziętej",
@@ -148,8 +148,8 @@
       "contact": "https://www.czerlejno.archpoznan.pl/kontakt/#main",
       "others": "https://czerlejno.artlookgallery.com/grobonet/start.php?id=form",
       "description": "",
-      "latitude": "52.35221",
-      "longitude": "17.21329"
+      "latitude": 52.35221,
+      "longitude": 17.21329
     },
     {
       "name": "Czerniejewo: Parafia pw. św. Jana Chrzciciela",
@@ -158,8 +158,8 @@
       "contact": "https://parafia-czerniejewo.pl/kontakt/#:~:text=Kontakt",
       "others": "http://mogily.pl/czerniejewo",
       "description": "",
-      "latitude": "52.42659",
-      "longitude": "17.48923"
+      "latitude": 52.42659,
+      "longitude": 17.48923
     },
     {
       "name": "Ćmińsk: Parafia pw Trójcy Świętej i Matki Bożej Szkaplerznej",
@@ -168,8 +168,8 @@
       "contact": "https://parafia.cminsk.pl/kontakt/",
       "others": "http://mogily.pl/cminsk",
       "description": "",
-      "latitude": "50.978873",
-      "longitude": "20.541518"
+      "latitude": 50.978873,
+      "longitude": 20.541518
     },
     {
       "name": "Dąbrowa Górnicza, Strzemieszyce Wielkie: Parafia pw Najświętszego Serca Pana Jezusa",
@@ -178,8 +178,8 @@
       "contact": "https://parafiastrzemieszyce.pl/kontakt",
       "others": "https://parafiastrzemieszyce.pl/sakramenty/#sacrament3",
       "description": "",
-      "latitude": "50.313486",
-      "longitude": "19.280003"
+      "latitude": 50.313486,
+      "longitude": 19.280003
     },
     {
       "name": "Debrzno: Parafia Wniebowzięcia NMP - Salezjanie",
@@ -188,8 +188,8 @@
       "contact": "https://debrzno-salezjanie.pl/#Kontakt",
       "others": "",
       "description": "",
-      "latitude": "53.53663",
-      "longitude": "17.23504"
+      "latitude": 53.53663,
+      "longitude": 17.23504
     },
     {
       "name": "Działoszyn: Parafia pw św. Marii Magdaleny",
@@ -198,8 +198,8 @@
       "contact": "http://www.mariamagdalena.parafia.info.pl/?p=main&what=35",
       "others": "https://dzialoszyn.grobonet.com/",
       "description": "",
-      "latitude": "51.117684",
-      "longitude": "18.860218"
+      "latitude": 51.117684,
+      "longitude": 18.860218
     },
     {
       "name": "Gawłuszowice: Parafia pw św. Wojciecha Biskupa i Męczennika",
@@ -208,8 +208,8 @@
       "contact": "https://parafiagawluszowice.pl/kontakt/",
       "others": "http://mogily.pl/gawluszowice",
       "description": "",
-      "latitude": "50.412695",
-      "longitude": "21.381232"
+      "latitude": 50.412695,
+      "longitude": 21.381232
     },
     {
       "name": "Gdańsk, Przymorze: Parafia pw św. Brata Alberta",
@@ -218,8 +218,8 @@
       "contact": "https://www.bratalbert.com.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.404849",
-      "longitude": "18.603678"
+      "latitude": 54.404849,
+      "longitude": 18.603678
     },
     {
       "name": "Gdańsk, Stare Szkoty: Parafia św. Ignacego z Loyoli",
@@ -228,8 +228,8 @@
       "contact": "http://www.ignacy.diecezja.gda.pl/kontakt/#contact_view",
       "others": "https://www.google.com/maps/place/Ko%C5%9Bci%C3%B3%C5%82+Rzymskokatolicki+pw.+%C5%9Bw.+Ignacego+Loyoli/@54.3339394,18.6344181,3a,75y,275.19h,88.15t/data=!3m7!1e1!3m5!1sAF1QipMzATd47NRrjkWmLJrB5r1IatYr-12Rp7nrqKS_!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMzATd47NRrjkWmLJrB5r1IatYr-12Rp7nrqKS_%3Dw900-h600-k-no-pi1.8542642795985387-ya356.5636810037328-ro0-fo90!7i10000!8i5000!4m6!3m5!1s0x46fd7394912b1891:0xc951b57d8d5212aa!8m2!3d54.3338812!4d18.6343816!16s%2Fg%2F121l5sqx?coh=205410&entry=tts&g_ep=EgoyMDI0MDYxOS4xKgBIAVAD",
       "description": "",
-      "latitude": "54.333888",
-      "longitude": "18.634188"
+      "latitude": 54.333888,
+      "longitude": 18.634188
     },
     {
       "name": "Gdańsk, Ujeścisko: Parafia św. Ojca Pio",
@@ -238,8 +238,8 @@
       "contact": "http://www.parafiapio.pl/kontakt",
       "others": "http://www.parafiapio.pl/wirtualny-spacer-21617",
       "description": "",
-      "latitude": "54.327772",
-      "longitude": "18.590715"
+      "latitude": 54.327772,
+      "longitude": 18.590715
     },
     {
       "name": "Gdańsk, Żabianka: Parafia Matki Bożej Fatimskiej",
@@ -248,8 +248,8 @@
       "contact": "http://www.fatimska.net.pl/kontakt/#contact_view",
       "others": "",
       "description": "",
-      "latitude": "54.419908",
-      "longitude": "18.574646"
+      "latitude": 54.419908,
+      "longitude": 18.574646
     },
     {
       "name": "Gdynia: Parafia pw Trójcy Świętej",
@@ -258,8 +258,8 @@
       "contact": "https://www.parafia.gdynia.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.471509",
-      "longitude": "18.458914"
+      "latitude": 54.471509,
+      "longitude": 18.458914
     },
     {
       "name": "Gdynia: Parafia św. Andrzeja Boboli",
@@ -268,8 +268,8 @@
       "contact": "https://bobola.gdynia.pl/kancelaria-parafialna/",
       "others": "",
       "description": "",
-      "latitude": "54.552647",
-      "longitude": "18.50854"
+      "latitude": 54.552647,
+      "longitude": 18.50854
     },
     {
       "name": "Gdynia, Demptowo: Parafia pw Matki Boskiej Różańcowej",
@@ -278,8 +278,8 @@
       "contact": "https://mbrozancowa.pl/kontakt/#content",
       "others": "",
       "description": "",
-      "latitude": "54.533025",
-      "longitude": "18.453426"
+      "latitude": 54.533025,
+      "longitude": 18.453426
     },
     {
       "name": "Gdynia, Wielki Kack: Parafia św. Wawrzyńca",
@@ -288,8 +288,8 @@
       "contact": "https://www.parafiawawrzynca.pl/kontakt/#contact_view",
       "others": "http://www.mogily.pl/wielkikack",
       "description": "",
-      "latitude": "54.468388",
-      "longitude": "18.494019"
+      "latitude": 54.468388,
+      "longitude": 18.494019
     },
     {
       "name": "Glinianka: Parafia św. Wawrzyńca",
@@ -298,8 +298,8 @@
       "contact": "https://www.parafiaglinianka.pl/kontakt/",
       "others": "https://www.parafiaglinianka.pl/regulamin-cmentarza-parafii-sw-wawrzynca-w-gliniance/",
       "description": "",
-      "latitude": "52.13131",
-      "longitude": "21.418042"
+      "latitude": 52.13131,
+      "longitude": 21.418042
     },
     {
       "name": "Glinojeck: Parafia św. Stanisława BM",
@@ -308,8 +308,8 @@
       "contact": "https://parafiaglinojeck.pl/kontakt/#content",
       "others": "https://parafiaglinojeck.pl/cmentarz/",
       "description": "",
-      "latitude": "52.81861",
-      "longitude": "20.28403"
+      "latitude": 52.81861,
+      "longitude": 20.28403
     },
     {
       "name": "Gliwice: Parafia Chrystusa Króla",
@@ -318,8 +318,8 @@
       "contact": "https://chrystus-krol.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "50.30154",
-      "longitude": "18.69362"
+      "latitude": 50.30154,
+      "longitude": 18.69362
     },
     {
       "name": "Głogówek: Parafia św. Bartłomieja Apostoła",
@@ -328,8 +328,8 @@
       "contact": "https://parafia.glogovia.pl/contacts.html",
       "others": "https://cmentarz.glogovia.pl/",
       "description": "",
-      "latitude": "50.352594",
-      "longitude": "17.859644"
+      "latitude": 50.352594,
+      "longitude": 17.859644
     },
     {
       "name": "Gorlice: Parafia Narodzenia Najświętszej Maryi Panny",
@@ -338,8 +338,8 @@
       "contact": "https://bazylikagorlice.pl/kontakt/#Content",
       "others": "http://mogily.pl/gorlice",
       "description": "",
-      "latitude": "49.657808",
-      "longitude": "21.15863"
+      "latitude": 49.657808,
+      "longitude": 21.15863
     },
     {
       "name": "Gorlice: Parafia pw. św. Jadwigi Królowej",
@@ -348,8 +348,8 @@
       "contact": "http://jadwiga.gorlice.pl/index.php/informacje-parafialne/kontakt",
       "others": "",
       "description": "",
-      "latitude": "49.65225",
-      "longitude": "21.1616"
+      "latitude": 49.65225,
+      "longitude": 21.1616
     },
     {
       "name": "Goszczanów: Parafia św. Marcina i św. Stanisława Biskupa",
@@ -358,8 +358,8 @@
       "contact": "https://parafiagoszczanow.pl/",
       "others": "https://cmentarnik.net/goszczanow",
       "description": "",
-      "latitude": "51.789828",
-      "longitude": "18.504793"
+      "latitude": 51.789828,
+      "longitude": 18.504793
     },
     {
       "name": "Górna Grupa: Parafia św. Teresy od Dzieciątka Jezus",
@@ -368,8 +368,8 @@
       "contact": "https://parafia-gg.werbisci.pl/#:~:text=kancelaria",
       "others": "",
       "description": "",
-      "latitude": "53.48651",
-      "longitude": "18.669068"
+      "latitude": 53.48651,
+      "longitude": 18.669068
     },
     {
       "name": "Hajnówka: Parafia Rzymskokatolicka pw. Podwyższenia Krzyża Świętego",
@@ -378,8 +378,8 @@
       "contact": "http://www.farahajnowka.pl/page/kontakt/#text-news",
       "others": "https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Podlaskie/Powiat-hajnowski/Gmina-Hajnowka/Hajnowka/Cmentarz-Parafialny-Rzymskokatolicki",
       "description": "",
-      "latitude": "52.73886",
-      "longitude": "23.58247"
+      "latitude": 52.73886,
+      "longitude": 23.58247
     },
     {
       "name": "Humniska: Parafia pw Niepokalanego Poczęcia NMP",
@@ -388,8 +388,8 @@
       "contact": "https://parafia-humniska.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "49.685184",
-      "longitude": "22.030005"
+      "latitude": 49.685184,
+      "longitude": 22.030005
     },
     {
       "name": "Iwkowa: Parafia Podwyższenia Krzyża Św.",
@@ -398,8 +398,8 @@
       "contact": "https://parafiaiwkowa.pl/?kontakt,4",
       "others": "",
       "description": "",
-      "latitude": "49.81958",
-      "longitude": "20.58528"
+      "latitude": 49.81958,
+      "longitude": 20.58528
     },
     {
       "name": "Janów: Parafia pw Niepokalanego Poczęcia Najświętszej Maryi Panny",
@@ -408,8 +408,8 @@
       "contact": "https://parafia-janow.pl/index.php/kontakt/#content",
       "others": "",
       "description": "",
-      "latitude": "50.7213",
-      "longitude": "19.43458"
+      "latitude": 50.7213,
+      "longitude": 19.43458
     },
     {
       "name": "Jarocin: Parafia pw św. Marcina",
@@ -418,8 +418,8 @@
       "contact": "https://swmarcin-jarocin.com/kontakt_7.html",
       "others": "https://swmarcin-jarocin.com/wyszukiwarka.html",
       "description": "",
-      "latitude": "51.973101",
-      "longitude": "17.501626"
+      "latitude": 51.973101,
+      "longitude": 17.501626
     },
     {
       "name": "Jasienica: Parafia pw św. Rocha",
@@ -428,8 +428,8 @@
       "contact": "https://parafiajasienica.kylos.pl/nowajasienica/index.php/dane-adresowe-i-konto-parafii",
       "others": "http://jasienica.artlookgallery.com/",
       "description": "",
-      "latitude": "52.803895",
-      "longitude": "22.043662"
+      "latitude": 52.803895,
+      "longitude": 22.043662
     },
     {
       "name": "Jaworzynka, Trzycatek: Parafia Matki Bożej Frydeckiej",
@@ -438,8 +438,8 @@
       "contact": "https://www.parafia-trzycatek.pl/#:~:text=Kontakt",
       "others": "",
       "description": "",
-      "latitude": "49.52496",
-      "longitude": "18.85674"
+      "latitude": 49.52496,
+      "longitude": 18.85674
     },
     {
       "name": "Jędrzejów: Parafia Trójcy Świętej",
@@ -448,8 +448,8 @@
       "contact": "https://www.swietatrojca.org/kancelaria/kontakt",
       "others": "http://mogily.pl/jedrzejowparafialny",
       "description": "",
-      "latitude": "50.641996",
-      "longitude": "20.305891"
+      "latitude": 50.641996,
+      "longitude": 20.305891
     },
     {
       "name": "Katowice: Parafia NSPJ i św. Jana Bosko",
@@ -458,8 +458,8 @@
       "contact": "https://nspj.katowice.pl/index.php/2014-11-19-11-17-33",
       "others": "https://nspj.katowice.pl/index.php/poznaj-nasz-kosciol",
       "description": "",
-      "latitude": "50.21003",
-      "longitude": "18.97517"
+      "latitude": 50.21003,
+      "longitude": 18.97517
     },
     {
       "name": "Katowice: Parafia Wniebowzięcia NMP",
@@ -468,8 +468,8 @@
       "contact": "https://graniczna.katowice.pl/#:~:text=dane%20kontaktowe",
       "others": "",
       "description": "",
-      "latitude": "50.254523",
-      "longitude": "19.034556"
+      "latitude": 50.254523,
+      "longitude": 19.034556
     },
     {
       "name": "Katowice, Józefowiec: Parafia św. Józefa Robotnika",
@@ -478,8 +478,8 @@
       "contact": "https://jozefrobotnik.katowice.pl/kontakt.html",
       "others": "https://jozefrobotnik.katowice.pl/cmentarz.html",
       "description": "",
-      "latitude": "50.280554",
-      "longitude": "19.013657"
+      "latitude": 50.280554,
+      "longitude": 19.013657
     },
     {
       "name": "Katowice, Panewniki: Parafia św. Ludwika Króla i Wniebowzięcia NMP",
@@ -488,8 +488,8 @@
       "contact": "https://parafia.panewniki.pl/kontakt/",
       "others": "https://www.cmentarz.panewniki.pl/",
       "description": "https://parafia.panewniki.pl/o-nas/galeria/wirtualny-spacer/",
-      "latitude": "50.226903",
-      "longitude": "18.96262"
+      "latitude": 50.226903,
+      "longitude": 18.96262
     },
     {
       "name": "Katowice, Piotrowice: Parafia Najświętszego Ciała i Krwi Chrystusa",
@@ -498,8 +498,8 @@
       "contact": "http://www.parafia.katowice.pl/Kontakt",
       "others": "http://www.parafia.katowice.pl/Galerie",
       "description": "",
-      "latitude": "50.20293",
-      "longitude": "18.982964"
+      "latitude": 50.20293,
+      "longitude": 18.982964
     },
     {
       "name": "Kętrzyn: Parafia św. Jerzego",
@@ -508,8 +508,8 @@
       "contact": "http://bazylika.ketrzyn.pl/1_2_dane-adresowe.html",
       "others": "",
       "description": "",
-      "latitude": "54.07453",
-      "longitude": "21.37323"
+      "latitude": 54.07453,
+      "longitude": 21.37323
     },
     {
       "name": "Kielce: Parafia pw św. Jadwigi Królowej",
@@ -518,8 +518,8 @@
       "contact": "https://jadwiga-kielce.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "50.889501",
-      "longitude": "20.655845"
+      "latitude": 50.889501,
+      "longitude": 20.655845
     },
     {
       "name": "Kielno: Parafia pw. św. Wojciecha Biskupa i Męczennika",
@@ -528,8 +528,8 @@
       "contact": "http://www.parafiakielno.pl/kontakt/#contact_view",
       "others": "",
       "description": "",
-      "latitude": "54.45432",
-      "longitude": "18.34388"
+      "latitude": 54.45432,
+      "longitude": 18.34388
     },
     {
       "name": "Kijowiec: Parafia św. Jana Chrzciciela",
@@ -538,8 +538,8 @@
       "contact": "https://parafiakijowiec.pl/kontakt",
       "others": "https://parafiakijowiec.pl/cmentarz",
       "description": "",
-      "latitude": "52.42347",
-      "longitude": "18.31043"
+      "latitude": 52.42347,
+      "longitude": 18.31043
     },
     {
       "name": "Klonówka: Parafia św. Katarzyny",
@@ -548,8 +548,8 @@
       "contact": "http://parafia.klonowka.pl/#:~:text=Biuro%20parafialne",
       "others": "http://cmentarnik.net/klonowka",
       "description": "",
-      "latitude": "53.96604",
-      "longitude": "18.6455"
+      "latitude": 53.96604,
+      "longitude": 18.6455
     },
     {
       "name": "Kłecko: Parafia pw. św. Jadwigi i Jerzego",
@@ -558,8 +558,8 @@
       "contact": "https://parafiaklecko.pl/contact/#inner-wrap",
       "others": "http://37.28.154.108/klecko/",
       "description": "",
-      "latitude": "52.63294",
-      "longitude": "17.42978"
+      "latitude": 52.63294,
+      "longitude": 17.42978
     },
     {
       "name": "Kłodawa: Parafia p.w. Wniebowzięcia NMP",
@@ -568,8 +568,8 @@
       "contact": "https://www.klodawaparafia.org/index.php#:~:text=KONTAKT%20Z%20NAMI",
       "others": "http://mogily.pl/klodawa",
       "description": "",
-      "latitude": "52.25407",
-      "longitude": "18.91859"
+      "latitude": 52.25407,
+      "longitude": 18.91859
     },
     {
       "name": "Kodeń: Sanktuarium Maryjne",
@@ -578,8 +578,8 @@
       "contact": "https://koden.com.pl/kontakt/",
       "others": "https://koden.com.pl/krypty/",
       "description": "",
-      "latitude": "51.913842",
-      "longitude": "23.607543"
+      "latitude": 51.913842,
+      "longitude": 23.607543
     },
     {
       "name": "Kolbudy: Parafia św. Floriana",
@@ -588,8 +588,8 @@
       "contact": "https://www.parafiakolbudy.pl/kontakt.php",
       "others": "",
       "description": "",
-      "latitude": "54.269666",
-      "longitude": "18.470225"
+      "latitude": 54.269666,
+      "longitude": 18.470225
     },
     {
       "name": "Koperniki: Parafia Świętego Mikołaja",
@@ -598,8 +598,8 @@
       "contact": "https://parafiakoperniki.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "50.4089",
-      "longitude": "17.27695"
+      "latitude": 50.4089,
+      "longitude": 17.27695
     },
     {
       "name": "Kościan: Parafia pw. Ducha Świętego",
@@ -608,8 +608,8 @@
       "contact": "https://www.duchswiety.net/kontakt/#content-area",
       "others": "",
       "description": "",
-      "latitude": "52.08852",
-      "longitude": "16.64931"
+      "latitude": 52.08852,
+      "longitude": 16.64931
     },
     {
       "name": "Kościelec: Parafia pw św. Wojciecha",
@@ -618,8 +618,8 @@
       "contact": "https://parafiawojciecha.com.pl/kancelaria-parafialna",
       "others": "",
       "description": "",
-      "latitude": "51.907035",
-      "longitude": "18.21147"
+      "latitude": 51.907035,
+      "longitude": 18.21147
     },
     {
       "name": "Koziegłówki: Parafia Świętego Antoniego",
@@ -628,8 +628,8 @@
       "contact": "https://kozieglowki.parafialnastrona.pl/kontakt",
       "others": "https://www.ecmentarze.pl/cmentarz/sw-antoni-kozieglowki",
       "description": "",
-      "latitude": "50.58653",
-      "longitude": "19.1851"
+      "latitude": 50.58653,
+      "longitude": 19.1851
     },
     {
       "name": "Koźminek: Parafia pw św. Jana Apostoła",
@@ -638,8 +638,8 @@
       "contact": "https://parafiakozminek.pl/#kontakt",
       "others": "https://parafiakozminek.pl/galeria/",
       "description": "",
-      "latitude": "51.797721",
-      "longitude": "18.339569"
+      "latitude": 51.797721,
+      "longitude": 18.339569
     },
     {
       "name": "Kraków, Nowa Huta: Parafia Matki Bożej Królowej Polski",
@@ -648,8 +648,8 @@
       "contact": "https://www.arkapana.pl/index.php/kontakt.html",
       "others": "https://www.arkapana.pl/index.php/kosciol/nadzieja-cafe-rest.html",
       "description": "",
-      "latitude": "50.08499",
-      "longitude": "20.029321"
+      "latitude": 50.08499,
+      "longitude": 20.029321
     },
     {
       "name": "Kraków, Opatkowice: Parafia św. Maksymiliana",
@@ -658,8 +658,8 @@
       "contact": "https://parafiaopatkowice.pl/contact.php#kontakt",
       "others": "",
       "description": "",
-      "latitude": "49.98941",
-      "longitude": "19.91145"
+      "latitude": 49.98941,
+      "longitude": 19.91145
     },
     {
       "name": "Kraków, os. Kalinowe: Parafia św. Józefa",
@@ -668,8 +668,8 @@
       "contact": "https://parafia.kalinowe.pl/dane-adresowe/#primary",
       "others": "https://parafia.kalinowe.pl/pogrzeby/#primary",
       "description": "",
-      "latitude": "50.089296",
-      "longitude": "20.013203"
+      "latitude": 50.089296,
+      "longitude": 20.013203
     },
     {
       "name": "Kraków, Rakowice: Parafia Najświętszego Imienia Maryi",
@@ -678,8 +678,8 @@
       "contact": "https://rakowice.pijarzy.pl/kontakt.html",
       "others": "https://rakowice.pijarzy.pl/galeria.html",
       "description": "",
-      "latitude": "50.083642",
-      "longitude": "19.975607"
+      "latitude": 50.083642,
+      "longitude": 19.975607
     },
     {
       "name": "Krasnystaw: Parafia Św. Franciszka Ksawerego",
@@ -688,8 +688,8 @@
       "contact": "http://franciszek-ksawery.org/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "50.98258",
-      "longitude": "23.17129"
+      "latitude": 50.98258,
+      "longitude": 23.17129
     },
     {
       "name": "Krzanowice: Parafia Św. Wacława",
@@ -698,8 +698,8 @@
       "contact": "http://www.krzanowice.wiara.org.pl/kontakt.html",
       "others": "http://www.krzanowice.wiara.org.pl/cmentarz.html",
       "description": "",
-      "latitude": "50.017669",
-      "longitude": "18.119848"
+      "latitude": 50.017669,
+      "longitude": 18.119848
     },
     {
       "name": "Lasocice: Parafia pw. Niepokalanego Poczęcia NMP",
@@ -708,8 +708,8 @@
       "contact": "https://lsolasocice.pl.tl/KONTAKT.htm#main",
       "others": "",
       "description": "",
-      "latitude": "51.8187",
-      "longitude": "16.48348"
+      "latitude": 51.8187,
+      "longitude": 16.48348
     },
     {
       "name": "Leoncin: Parafia św. Małgorzaty Dziewicy i Męczennicy",
@@ -718,8 +718,8 @@
       "contact": "http://parafia.leoncin.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "52.394637",
-      "longitude": "20.540515"
+      "latitude": 52.394637,
+      "longitude": 20.540515
     },
     {
       "name": "Leszno: Parafia św. Maksymiliana Marii Kolbego",
@@ -728,8 +728,8 @@
       "contact": "https://www.swmaksymilian.leszno.pl/kontakt.html",
       "others": "",
       "description": "",
-      "latitude": "51.86658",
-      "longitude": "16.58461"
+      "latitude": 51.86658,
+      "longitude": 16.58461
     },
     {
       "name": "Leśna Podlaska: Sanktuarium Matki Bożej Leśniańskiej",
@@ -738,8 +738,8 @@
       "contact": "https://lesnapodlaska.paulini.pl/kontakt/#main",
       "others": "",
       "description": "",
-      "latitude": "52.129214",
-      "longitude": "23.027644"
+      "latitude": 52.129214,
+      "longitude": 23.027644
     },
     {
       "name": "Lidzbark Warmiński: Parafia św. Piotra i Pawła",
@@ -748,8 +748,8 @@
       "contact": "https://parafialidzbark.pl/index.php/kontakt/parafia",
       "others": "",
       "description": "",
-      "latitude": "54.12439",
-      "longitude": "20.58005"
+      "latitude": 54.12439,
+      "longitude": 20.58005
     },
     {
       "name": "Limanowa: Parafia pw Matki Boskiej Bolesnej",
@@ -758,8 +758,8 @@
       "contact": "https://bazylika-limanowa.pl/kontakt/",
       "others": "http://bazylika-limanowa.pl/emisja/",
       "description": "",
-      "latitude": "49.706533",
-      "longitude": "20.420416"
+      "latitude": 49.706533,
+      "longitude": 20.420416
     },
     {
       "name": "Lisia Góra: Parafia pw Matki Bożej Różańcowej",
@@ -768,8 +768,8 @@
       "contact": "https://lisia-gora.diecezja.tarnow.pl/wp-content/uploads/2021/03/3-4-e1616148645826.jpg",
       "others": "https://lisiagora.grobonet.com/",
       "description": "",
-      "latitude": "50.08189",
-      "longitude": "21.02724"
+      "latitude": 50.08189,
+      "longitude": 21.02724
     },
     {
       "name": "Lisków: Parafia Wszystkich Świętych",
@@ -778,8 +778,8 @@
       "contact": "http://liskowparafia.pl/?page_id=1812",
       "others": "https://www.ecmentarze.pl/parafia/liskow",
       "description": "",
-      "latitude": "51.832698",
-      "longitude": "18.399895"
+      "latitude": 51.832698,
+      "longitude": 18.399895
     },
     {
       "name": "Lubin: Parafia pw Matki Bożej Częstochowskiej",
@@ -788,8 +788,8 @@
       "contact": "https://mbczlubin.salezjanie.pl/?page_id=79",
       "others": "https://mbczlubin.salezjanie.pl/?page_id=1196",
       "description": "",
-      "latitude": "51.397052",
-      "longitude": "16.203901"
+      "latitude": 51.397052,
+      "longitude": 16.203901
     },
     {
       "name": "Lublin: Parafia Niepokalanego Serca Maryi i św. Frnaciszka",
@@ -798,8 +798,8 @@
       "contact": "https://poczekajka.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "51.241296",
-      "longitude": "22.50728"
+      "latitude": 51.241296,
+      "longitude": 22.50728
     },
     {
       "name": "Łańcut: Parafia pw św. Stanisława Biskupa",
@@ -808,8 +808,8 @@
       "contact": "https://lancut.przemyska.pl/kontakt/#main",
       "others": "https://lancut.przemyska.pl/kancelaria/pogrzeb/",
       "description": "",
-      "latitude": "50.070273",
-      "longitude": "22.229757"
+      "latitude": 50.070273,
+      "longitude": 22.229757
     },
     {
       "name": "Łącko: Parafia pw św. Jana Chrzciciela",
@@ -818,8 +818,8 @@
       "contact": "https://parafia.elacko.pl/kontakt/",
       "others": "http://www.mogily.pl/lacko",
       "description": "",
-      "latitude": "49.559314",
-      "longitude": "20.436491"
+      "latitude": 49.559314,
+      "longitude": 20.436491
     },
     {
       "name": "Łosice: Parafia pw. św. Zygmunta",
@@ -828,8 +828,8 @@
       "contact": "https://zygmuntlosice.pl/kontakt",
       "others": "https://losice37.grobonet.com/",
       "description": "",
-      "latitude": "52.21133",
-      "longitude": "22.71489"
+      "latitude": 52.21133,
+      "longitude": 22.71489
     },
     {
       "name": "Łowicz, Korabka: Parafia Matki Bożej Nieustającej Pomocy",
@@ -838,8 +838,8 @@
       "contact": "https://www.korabka.pl/o-parafii/informacje-ogolne/#main-content",
       "others": "",
       "description": "",
-      "latitude": "52.12404",
-      "longitude": "19.945"
+      "latitude": 52.12404,
+      "longitude": 19.945
     },
     {
       "name": "Łódź: Parafia pw Najświętszego Sakramentu",
@@ -848,8 +848,8 @@
       "contact": "http://www.najswietszy-sakrament.pl/?p=main&what=12",
       "others": "",
       "description": "",
-      "latitude": "51.81925",
-      "longitude": "19.44077"
+      "latitude": 51.81925,
+      "longitude": 19.44077
     },
     {
       "name": "Łódź, Julianów: Parafia Najświętszego Serca Jezusowego i św. Marii Małgorzaty Alacoque",
@@ -858,8 +858,8 @@
       "contact": "https://parafia-nsj-julianow.pl/kancelaria/",
       "others": "",
       "description": "",
-      "latitude": "51.799055",
-      "longitude": "19.444342"
+      "latitude": 51.799055,
+      "longitude": 19.444342
     },
     {
       "name": "Łódź, Wiskitno: Parafia św. Rafała Kalinowskiego",
@@ -868,8 +868,8 @@
       "contact": "https://parafiawiskitno.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "51.70747",
-      "longitude": "19.55398"
+      "latitude": 51.70747,
+      "longitude": 19.55398
     },
     {
       "name": "Łuków: Parafia św. Brata Alberta",
@@ -878,8 +878,8 @@
       "contact": "https://albertlukow.pl/kontakt",
       "others": "https://albertlukow.pl/sakramenty#sacrament3",
       "description": "",
-      "latitude": "51.916939",
-      "longitude": "22.369409"
+      "latitude": 51.916939,
+      "longitude": 22.369409
     },
     {
       "name": "Maruszyna: Parafia Przemienienia Pańskiego",
@@ -888,8 +888,8 @@
       "contact": "http://www.maruszyna.parafia.info.pl/?p=main&what=32",
       "others": "http://mogily.pl/maruszyna",
       "description": "",
-      "latitude": "49.418396",
-      "longitude": "19.958001"
+      "latitude": 49.418396,
+      "longitude": 19.958001
     },
     {
       "name": "Mielec: Parafia pw Ducha Świętego",
@@ -898,8 +898,8 @@
       "contact": "https://www.duch.mielec.pl/dane-kontatkowe/",
       "others": "",
       "description": "",
-      "latitude": "50.294991",
-      "longitude": "21.420312"
+      "latitude": 50.294991,
+      "longitude": 21.420312
     },
     {
       "name": "Mielec: Parafia pw Matki Bożej Nieustającej Pomocy",
@@ -908,8 +908,8 @@
       "contact": "https://mbnp.mielec.pl/kontakt/#content",
       "others": "",
       "description": "",
-      "latitude": "50.292743",
-      "longitude": "21.443156"
+      "latitude": 50.292743,
+      "longitude": 21.443156
     },
     {
       "name": "Mielec: Parafia pw św. Mateusza",
@@ -918,8 +918,8 @@
       "contact": "https://www.bazylikamielec.pl/kontakt.html",
       "others": "",
       "description": "",
-      "latitude": "50.284868",
-      "longitude": "21.420953"
+      "latitude": 50.284868,
+      "longitude": 21.420953
     },
     {
       "name": "Mielec: Parafia pw Trójcy Przenajświętszej",
@@ -928,8 +928,8 @@
       "contact": "https://www.ptp.mielec.pl/kontakt/kosciol-parafialny,2/#main",
       "others": "",
       "description": "",
-      "latitude": "50.285524",
-      "longitude": "21.470616"
+      "latitude": 50.285524,
+      "longitude": 21.470616
     },
     {
       "name": "Milicz: Parafia pw św. Andrzeja Boboli",
@@ -938,8 +938,8 @@
       "contact": "https://bobola-milicz.pl/index.php/dane-kontaktowe",
       "others": "",
       "description": "",
-      "latitude": "51.527978",
-      "longitude": "17.272788"
+      "latitude": 51.527978,
+      "longitude": 17.272788
     },
     {
       "name": "Milicz: Parafia pw św. Anny",
@@ -948,8 +948,8 @@
       "contact": "https://swannamilicz.pl/kontakt",
       "others": "https://www.ecmentarze.pl/cmentarz/postolin",
       "description": "",
-      "latitude": "51.506793",
-      "longitude": "17.282811"
+      "latitude": 51.506793,
+      "longitude": 17.282811
     },
     {
       "name": "Milicz: Parafia pw św. Michała Archanioła",
@@ -958,8 +958,8 @@
       "contact": "https://www.swmichal-milicz.com/about-5-2",
       "others": "http://www.mogily.pl/milicz",
       "description": "",
-      "latitude": "51.532969",
-      "longitude": "17.276784"
+      "latitude": 51.532969,
+      "longitude": 17.276784
     },
     {
       "name": "Mircze: Parafia Zmartwychwstania Pańskiego",
@@ -968,8 +968,8 @@
       "contact": "https://www.facebook.com/mirczeparafia/about",
       "others": "",
       "description": "",
-      "latitude": "50.653215",
-      "longitude": "23.896519"
+      "latitude": 50.653215,
+      "longitude": 23.896519
     },
     {
       "name": "Modzerowo: Parafia św. Stanisława Biskupa",
@@ -978,8 +978,8 @@
       "contact": "http://parafiamodzerowo.pl/#:~:text=kontakt",
       "others": "https://www.ecmentarze.pl/cmentarz/modzerowo",
       "description": "",
-      "latitude": "52.346943",
-      "longitude": "18.768194"
+      "latitude": 52.346943,
+      "longitude": 18.768194
     },
     {
       "name": "Mysłowice: Parafia NSPJ",
@@ -988,8 +988,8 @@
       "contact": "https://www.nspjmyslowice.pl/index.php/kontakt.html#content",
       "others": "https://myslowiceparafialny.grobonet.com/",
       "description": "",
-      "latitude": "50.242721",
-      "longitude": "19.139197"
+      "latitude": 50.242721,
+      "longitude": 19.139197
     },
     {
       "name": "Nidzica: Parafia bł. Bolesławy Lament",
@@ -998,8 +998,8 @@
       "contact": "https://parafianidzica.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "53.37122",
-      "longitude": "20.43338"
+      "latitude": 53.37122,
+      "longitude": 20.43338
     },
     {
       "name": "Nidzica: Parafia św. Wojciecha Biskupa i Męczennika",
@@ -1008,8 +1008,8 @@
       "contact": "https://wojciechnidzica.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "53.35966",
-      "longitude": "20.42423"
+      "latitude": 53.35966,
+      "longitude": 20.42423
     },
     {
       "name": "Niwiska: Parafia św. Mikołaja",
@@ -1018,8 +1018,8 @@
       "contact": "https://parafianiwiska.pl/kontakt",
       "others": "http://mogily.pl/niwiska",
       "description": "",
-      "latitude": "50.21889",
-      "longitude": "21.63119"
+      "latitude": 50.21889,
+      "longitude": 21.63119
     },
     {
       "name": "Nowogard: Parafia Wniebowzięcia NMP",
@@ -1028,8 +1028,8 @@
       "contact": "https://wnmp.nowogard.eu/kontakt",
       "others": "https://nowogard.grobonet.com/",
       "description": "",
-      "latitude": "53.672266",
-      "longitude": "15.117778"
+      "latitude": 53.672266,
+      "longitude": 15.117778
     },
     {
       "name": "Nowy Targ: Parafia NSPJ",
@@ -1038,8 +1038,8 @@
       "contact": "https://parafianowytarg.pl/kontakt/",
       "others": "https://parafianowytarg.pl/sakramenty/pogrzeb/",
       "description": "",
-      "latitude": "49.478163",
-      "longitude": "20.030281"
+      "latitude": 49.478163,
+      "longitude": 20.030281
     },
     {
       "name": "Obidza: Parafia Trójcy Przenajświętszej",
@@ -1048,8 +1048,8 @@
       "contact": "https://obidza-wiz.diecezja.tarnow.pl/#adres",
       "others": "",
       "description": "",
-      "latitude": "49.505328",
-      "longitude": "20.497358"
+      "latitude": 49.505328,
+      "longitude": 20.497358
     },
     {
       "name": "Odrzykoń: Parafia św. Katarzyny i Matki Bożej Różańcowej",
@@ -1058,8 +1058,8 @@
       "contact": "http://www.odrzykon.przemysl.opoka.org.pl/menu.php?action=kontakt",
       "others": "",
       "description": "",
-      "latitude": "49.739912",
-      "longitude": "21.743322"
+      "latitude": 49.739912,
+      "longitude": 21.743322
     },
     {
       "name": "Olsztyn: Parafia pw św. Jana Chrzciciela",
@@ -1068,8 +1068,8 @@
       "contact": "https://parafiaolsztyn.pl/kontakt/#main-content",
       "others": "https://www.icmentarze.pl/icmentarze/index.php/cmentarz-olsztyn/",
       "description": "",
-      "latitude": "50.7519",
-      "longitude": "19.27124"
+      "latitude": 50.7519,
+      "longitude": 19.27124
     },
     {
       "name": "Osiek: Parafia pw św. Andrzeja Apostoła",
@@ -1078,8 +1078,8 @@
       "contact": "http://parafia-osiek.pl/kontakt/#content",
       "others": "",
       "description": "",
-      "latitude": "49.954193",
-      "longitude": "19.267517"
+      "latitude": 49.954193,
+      "longitude": 19.267517
     },
     {
       "name": "Osiek Górny: Parafia Świętego Stanisława Biskupa i Męczennika",
@@ -1088,8 +1088,8 @@
       "contact": "https://osiek.diecezjabielsko.pl/kontakt/#main-content",
       "others": "https://www.ecmentarze.pl/cmentarz/osiek",
       "description": "",
-      "latitude": "49.944523",
-      "longitude": "19.303746"
+      "latitude": 49.944523,
+      "longitude": 19.303746
     },
     {
       "name": "Ostrów Mazowiecka: Parafia Chrystusa Dobrego Pasterza",
@@ -1098,8 +1098,8 @@
       "contact": "https://pasterz.kylos.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "52.795803",
-      "longitude": "21.881196"
+      "latitude": 52.795803,
+      "longitude": 21.881196
     },
     {
       "name": "Ostrów Mazowiecka: Parafia Wniebowzięcia NMP",
@@ -1108,8 +1108,8 @@
       "contact": "https://parafiawniebowziecia.pl/kontakt/",
       "others": "https://ostrowmazowiecka.grobonet.com/index.php",
       "description": "",
-      "latitude": "52.805763",
-      "longitude": "21.898225"
+      "latitude": 52.805763,
+      "longitude": 21.898225
     },
     {
       "name": "Pajęczno: Parafia pw Narodzenia Pańskiego",
@@ -1118,8 +1118,8 @@
       "contact": "https://narodzeniepajeczno.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "51.144659",
-      "longitude": "18.984498"
+      "latitude": 51.144659,
+      "longitude": 18.984498
     },
     {
       "name": "Płock: Parafia św. Bartłomieja",
@@ -1128,8 +1128,8 @@
       "contact": "https://naszafara.pl/kontakt-2/#main",
       "others": "https://naszafara.pl/mapa-cmentarza",
       "description": "",
-      "latitude": "52.544883",
-      "longitude": "19.683292"
+      "latitude": 52.544883,
+      "longitude": 19.683292
     },
     {
       "name": "Płock: Parafia św. Józefa",
@@ -1138,8 +1138,8 @@
       "contact": "https://jozefplock.pl/kontakt/#content",
       "others": "",
       "description": "",
-      "latitude": "52.53432",
-      "longitude": "19.71708"
+      "latitude": 52.53432,
+      "longitude": 19.71708
     },
     {
       "name": "Połaniec: Parafia św. Marcina Biskupa",
@@ -1148,8 +1148,8 @@
       "contact": "https://marcinpolaniec.pl/kontakt/",
       "others": "https://polaniec.grobonet.com/",
       "description": "",
-      "latitude": "50.436607",
-      "longitude": "21.281333"
+      "latitude": 50.436607,
+      "longitude": 21.281333
     },
     {
       "name": "Płońsk: Parafia pw św. Michała Archanioła",
@@ -1158,8 +1158,8 @@
       "contact": "https://michalplonsk.pl/kontakt/#content",
       "others": "https://michalplonsk.pl/cmentarz/#content",
       "description": "",
-      "latitude": "52.622166",
-      "longitude": "20.374054"
+      "latitude": 52.622166,
+      "longitude": 20.374054
     },
     {
       "name": "Podegrodzie: Parafia św. Jakuba",
@@ -1168,8 +1168,8 @@
       "contact": "https://parafiapodegrodzie.pl/kancelaria/#main",
       "others": "http://mogily.pl/podegrodzie",
       "description": "",
-      "latitude": "49.577355",
-      "longitude": "20.585984"
+      "latitude": 49.577355,
+      "longitude": 20.585984
     },
     {
       "name": "Przespolew: Parafia św. Katarzyny Aleksandryjskiej i MB Pocieszenia",
@@ -1178,8 +1178,8 @@
       "contact": "https://diecezja.kalisz.pl/parafia/102",
       "others": "https://www.ecmentarze.pl/cmentarz/przespolew",
       "description": "",
-      "latitude": "51.903707",
-      "longitude": "18.403508"
+      "latitude": 51.903707,
+      "longitude": 18.403508
     },
     {
       "name": "Pszczyna: Parafia Wszystkich świętych",
@@ -1188,8 +1188,8 @@
       "contact": "https://wszystkichswietych.info/wp/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "49.978648",
-      "longitude": "18.942128"
+      "latitude": 49.978648,
+      "longitude": 18.942128
     },
     {
       "name": "Radom: Parafia pw Opieki Najświętszej Maryi Panny",
@@ -1198,8 +1198,8 @@
       "contact": "https://katedra.radom.pl/kontakt/#content-main",
       "others": "",
       "description": "",
-      "latitude": "51.397049",
-      "longitude": "21.156302"
+      "latitude": 51.397049,
+      "longitude": 21.156302
     },
     {
       "name": "Radomicko: Parafia pw św. Jana Chrzciciela",
@@ -1208,8 +1208,8 @@
       "contact": "https://www.radomicko.archpoznan.pl/kontakt/",
       "others": "https://parafiaradomicko.pl/wyszukiwarka.html",
       "description": "",
-      "latitude": "51.953655",
-      "longitude": "16.543243"
+      "latitude": 51.953655,
+      "longitude": 16.543243
     },
     {
       "name": "Reda: Parafia pw Wniebowzięcia NMP i św. Katarzyny Aleksandryjskiej",
@@ -1218,8 +1218,8 @@
       "contact": "https://wnmp-reda.pl/kontakt/#content",
       "others": "",
       "description": "",
-      "latitude": "54.603729",
-      "longitude": "18.349397"
+      "latitude": 54.603729,
+      "longitude": 18.349397
     },
     {
       "name": "Ropczyce: Parafia pw Przemienienia Pańskiego",
@@ -1228,8 +1228,8 @@
       "contact": "http://www.ropczycefara.parafia.info.pl/?p=main&what=14",
       "others": "",
       "description": "",
-      "latitude": "50.053701",
-      "longitude": "21.610915"
+      "latitude": 50.053701,
+      "longitude": 21.610915
     },
     {
       "name": "Ropczyce: Parafia św. Barbary",
@@ -1238,8 +1238,8 @@
       "contact": "http://swbarbara.r-ce.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "50.061364",
-      "longitude": "21.60349"
+      "latitude": 50.061364,
+      "longitude": 21.60349
     },
     {
       "name": "Rosko: Parafia św.Stanisława Biskupa",
@@ -1248,8 +1248,8 @@
       "contact": "https://www.parafiarosko.pl/index.php?module=Strony&func=display&pageid=6#pn-maincontent",
       "others": "",
       "description": "",
-      "latitude": "52.87416",
-      "longitude": "16.31426"
+      "latitude": 52.87416,
+      "longitude": 16.31426
     },
     {
       "name": "Ruda Śląska: Parafia św. Piusa X",
@@ -1258,8 +1258,8 @@
       "contact": "http://www.piusx-rsl.pl/contact/#Content",
       "others": "http://www.piusx-rsl.pl/pogrzeb/",
       "description": "",
-      "latitude": "50.304157",
-      "longitude": "18.857421"
+      "latitude": 50.304157,
+      "longitude": 18.857421
     },
     {
       "name": "Rumia: Parafia pw Podwyższenia Krzyża Świętego",
@@ -1268,8 +1268,8 @@
       "contact": "https://www.rumiakrzyz.pl/#:~:text=kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.581243",
-      "longitude": "18.403288"
+      "latitude": 54.581243,
+      "longitude": 18.403288
     },
     {
       "name": "Ryki: Parafia Najświętszego Zbawiciela",
@@ -1278,8 +1278,8 @@
       "contact": "https://parafia-ryki.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "51.627019",
-      "longitude": "21.928789"
+      "latitude": 51.627019,
+      "longitude": 21.928789
     },
     {
       "name": "Rzeszów: Parafia św. Michała Archanioła",
@@ -1288,8 +1288,8 @@
       "contact": "https://michal.rzeszow.pl/parafia/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "50.027057",
-      "longitude": "22.025874"
+      "latitude": 50.027057,
+      "longitude": 22.025874
     },
     {
       "name": "Rzeszów, Słocina: Parafia św. Rocha",
@@ -1298,8 +1298,8 @@
       "contact": "https://roch.rzeszow.pl/kontakt/#main",
       "others": "http://www.grobonet.erzeszow.pl/",
       "description": "",
-      "latitude": "50.027438",
-      "longitude": "22.044757"
+      "latitude": 50.027438,
+      "longitude": 22.044757
     },
     {
       "name": "Sianowo: Sanktuarium Matki Bożej Sianowskiej - Królowej Kaszub",
@@ -1308,8 +1308,8 @@
       "contact": "https://sanktuariumsianowo.pl/#:~:text=Kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.387966",
-      "longitude": "18.089764"
+      "latitude": 54.387966,
+      "longitude": 18.089764
     },
     {
       "name": "Siedlce: Parafia pw. św. Teresy",
@@ -1318,8 +1318,8 @@
       "contact": "https://teresasiedlce.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "52.15635",
-      "longitude": "22.25335"
+      "latitude": 52.15635,
+      "longitude": 22.25335
     },
     {
       "name": "Sieradz: Parafia NSJ",
@@ -1328,8 +1328,8 @@
       "contact": "https://www.nsj-sieradz.pl/index.php/kontakt/#sp-component",
       "others": "",
       "description": "",
-      "latitude": "51.590056",
-      "longitude": "18.718198"
+      "latitude": 51.590056,
+      "longitude": 18.718198
     },
     {
       "name": "Słotowa: Parafia Najświętszej Maryi Panny Królowej Polski",
@@ -1338,8 +1338,8 @@
       "contact": "https://slotowa-wiz.diecezja.tarnow.pl/#adres",
       "others": "",
       "description": "",
-      "latitude": "49.945635",
-      "longitude": "21.29214"
+      "latitude": 49.945635,
+      "longitude": 21.29214
     },
     {
       "name": "Starogard Gdański: Parafia Jezusa Chrystusa Króla Wszechświata",
@@ -1348,8 +1348,8 @@
       "contact": "https://jchkwstarogard.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "53.936415",
-      "longitude": "18.501481"
+      "latitude": 53.936415,
+      "longitude": 18.501481
     },
     {
       "name": "Starogard Gdański: Parafia św. Wojciecha",
@@ -1358,8 +1358,8 @@
       "contact": "http://wojciechstarogard.pl/3-Kontakt",
       "others": "",
       "description": "",
-      "latitude": "53.961462",
-      "longitude": "18.533289"
+      "latitude": 53.961462,
+      "longitude": 18.533289
     },
     {
       "name": "Staszów: Parafia św. Barbary",
@@ -1368,8 +1368,8 @@
       "contact": "https://swbarbarastaszow.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "50.55908",
-      "longitude": "21.18148"
+      "latitude": 50.55908,
+      "longitude": 21.18148
     },
     {
       "name": "Stawiguda: Parafia św. Jakuba Apostoła Starszego",
@@ -1378,8 +1378,8 @@
       "contact": "https://parafiastawiguda.pl/#text-4",
       "others": "http://mogily.pl/stawiguda",
       "description": "",
-      "latitude": "53.65705",
-      "longitude": "20.39775"
+      "latitude": 53.65705,
+      "longitude": 20.39775
     },
     {
       "name": "Stąporków: Parafia pw Wniebowzięcia NMP",
@@ -1388,8 +1388,8 @@
       "contact": "https://diecezja.radom.pl/staporkow-parafia-pw-wniebowziecia-nmp/#:~:text=kontakt",
       "others": "https://www.ecmentarze.pl/cmentarz/staporkow",
       "description": "",
-      "latitude": "51.137608",
-      "longitude": "20.558665"
+      "latitude": 51.137608,
+      "longitude": 20.558665
     },
     {
       "name": "Straszyn: Parafia św. Jacka",
@@ -1398,8 +1398,8 @@
       "contact": "http://www.parafiastraszyn.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.275491",
-      "longitude": "18.576188"
+      "latitude": 54.275491,
+      "longitude": 18.576188
     },
     {
       "name": "Syców: Parafia pw MB Częstochowskiej",
@@ -1408,8 +1408,8 @@
       "contact": "http://www.parafiambcsycow.pl/?kontakt,2#page",
       "others": "",
       "description": "",
-      "latitude": "51.318602",
-      "longitude": "17.733484"
+      "latitude": 51.318602,
+      "longitude": 17.733484
     },
     {
       "name": "Syców: Parafia św. Apostołów Piotra i Pawła",
@@ -1418,8 +1418,8 @@
       "contact": "https://parafia-sycow.pl/kontakt/#main",
       "others": "",
       "description": "",
-      "latitude": "51.30894",
-      "longitude": "17.719705"
+      "latitude": 51.30894,
+      "longitude": 17.719705
     },
     {
       "name": "Szczekociny: Parafia Św. Bartłomieja",
@@ -1428,8 +1428,8 @@
       "contact": "https://parafiaszczekociny.pl/kontakt/#Subheader",
       "others": "",
       "description": "",
-      "latitude": "50.62584",
-      "longitude": "19.82025"
+      "latitude": 50.62584,
+      "longitude": 19.82025
     },
     {
       "name": "Świętochłowice: Parafia św. Apostołów Piotra i Pawła",
@@ -1438,8 +1438,8 @@
       "contact": "https://www.parafia-swietochlowice.pl/publikacja,40,dane_kontaktowe_parafii.html",
       "others": "https://www.parafia-swietochlowice.pl/publikacja,141,pogrzeby_w_najblizszym_czasie.html",
       "description": "",
-      "latitude": "50.29112",
-      "longitude": "18.917811"
+      "latitude": 50.29112,
+      "longitude": 18.917811
     },
     {
       "name": "Świętochłowice, Piaśniki: Parafia NSPJ",
@@ -1448,8 +1448,8 @@
       "contact": "https://www.wsercujezusa.pl/kontakt,i10.html",
       "others": "",
       "description": "",
-      "latitude": "50.30558",
-      "longitude": "18.92109"
+      "latitude": 50.30558,
+      "longitude": 18.92109
     },
     {
       "name": "Świętochłowice, Zgoda: Parafia św. Józefa Robotnika",
@@ -1458,8 +1458,8 @@
       "contact": "http://www.parafiazgoda.pl/kontakt.html",
       "others": "http://www.parafiazgoda.pl/cmentarz.html",
       "description": "",
-      "latitude": "50.283637",
-      "longitude": "18.924245"
+      "latitude": 50.283637,
+      "longitude": 18.924245
     },
     {
       "name": "Tczew: Parafia NMP Matki Kościoła",
@@ -1468,8 +1468,8 @@
       "contact": "http://www.nmp-tczew.pelplin.opoka.org.pl/index.php/kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.090351",
-      "longitude": "18.768833"
+      "latitude": 54.090351,
+      "longitude": 18.768833
     },
     {
       "name": "Tczew: Parafia pw św. Maksymiliana Marii Kolbego",
@@ -1478,8 +1478,8 @@
       "contact": "http://www.kolbetczew.pl/#:~:text=kancelaria%20parafialna",
       "others": "",
       "description": "",
-      "latitude": "54.102357",
-      "longitude": "18.803404"
+      "latitude": 54.102357,
+      "longitude": 18.803404
     },
     {
       "name": "Tczew: Parafia Podwyższenia Krzyża Świętego",
@@ -1488,8 +1488,8 @@
       "contact": "https://faratczew.pl/contact/#main",
       "others": "",
       "description": "",
-      "latitude": "54.088021",
-      "longitude": "18.799799"
+      "latitude": 54.088021,
+      "longitude": 18.799799
     },
     {
       "name": "Tczew: Parafia pw Jezusa Chrystusa Króla Wszechświata",
@@ -1498,8 +1498,8 @@
       "contact": "https://sites.google.com/view/parafia-jchkw-tczew/kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.099265",
-      "longitude": "18.770185"
+      "latitude": 54.099265,
+      "longitude": 18.770185
     },
     {
       "name": "Tczew: Parafia św. Franciszka z Asyżu",
@@ -1508,8 +1508,8 @@
       "contact": "https://parafiaswfranciszka.elsite.eu/index.php/kontakt",
       "others": "",
       "description": "",
-      "latitude": "54.070318",
-      "longitude": "18.766282"
+      "latitude": 54.070318,
+      "longitude": 18.766282
     },
     {
       "name": "Tczew: Parafia św. Józefa",
@@ -1518,8 +1518,8 @@
       "contact": "http://swjozeftczew.pl/informacje-o-parafii/",
       "others": "https://swjozeftczew.grobonet.com/index.php",
       "description": "",
-      "latitude": "54.093864",
-      "longitude": "18.789381"
+      "latitude": 54.093864,
+      "longitude": 18.789381
     },
     {
       "name": "Tereszpol: Parafia pw. MB Częstochowskiej",
@@ -1528,8 +1528,8 @@
       "contact": "https://tereszpol.zamojskolubaczowska.pl/kontakt/#content",
       "others": "",
       "description": "",
-      "latitude": "50.57175",
-      "longitude": "22.88484"
+      "latitude": 50.57175,
+      "longitude": 22.88484
     },
     {
       "name": "Toruń: Parafia św. Antoniego",
@@ -1538,8 +1538,8 @@
       "contact": "https://antoni-torun.pl/kontakt/#main-content",
       "others": "",
       "description": "",
-      "latitude": "53.04112",
-      "longitude": "18.58034"
+      "latitude": 53.04112,
+      "longitude": 18.58034
     },
     {
       "name": "Tychy: Parafia św. Maksymiliana",
@@ -1548,8 +1548,8 @@
       "contact": "http://www.mkolbe.pl/index.html#content1-24",
       "others": "",
       "description": "",
-      "latitude": "50.0845",
-      "longitude": "19.00088"
+      "latitude": 50.0845,
+      "longitude": 19.00088
     },
     {
       "name": "Tyszowce: Parafia św. Leonarda",
@@ -1558,8 +1558,8 @@
       "contact": "http://parafia.tyszowce.pl/duszpasterstwo/#content",
       "others": "",
       "description": "",
-      "latitude": "50.61047",
-      "longitude": "23.70699"
+      "latitude": 50.61047,
+      "longitude": 23.70699
     },
     {
       "name": "Wałcz: Parafia św. Antoniego",
@@ -1568,8 +1568,8 @@
       "contact": "https://walcz.kapucyni.pl/nowa/index.php/contact/#k2Container",
       "others": "",
       "description": "",
-      "latitude": "53.27103",
-      "longitude": "16.47068"
+      "latitude": 53.27103,
+      "longitude": 16.47068
     },
     {
       "name": "Warszawa: Parafia Matki Bożej Loretańskiej",
@@ -1578,8 +1578,8 @@
       "contact": "https://mbloretanska.pl/?page_id=40",
       "others": "",
       "description": "",
-      "latitude": "52.256686",
-      "longitude": "21.027703"
+      "latitude": 52.256686,
+      "longitude": 21.027703
     },
     {
       "name": "Warszawa, Bródno: Parafia św. Włodzimierza",
@@ -1588,8 +1588,8 @@
       "contact": "https://wlodzimierz.waw.pl/kontakt-i-kancelaria/",
       "others": "https://wlodzimierz.waw.pl/wirtualny-spacer/",
       "description": "",
-      "latitude": "52.292974",
-      "longitude": "21.028452"
+      "latitude": 52.292974,
+      "longitude": 21.028452
     },
     {
       "name": "Warszawa, Bródno: Sanktuarium Matki Bożej Różańcowej",
@@ -1598,8 +1598,8 @@
       "contact": "https://rozancowa.waw.pl/kontakt/",
       "others": "",
       "description": "",
-      "latitude": "52.28677",
-      "longitude": "21.023691"
+      "latitude": 52.28677,
+      "longitude": 21.023691
     },
     {
       "name": "Wieliczka: Parafia św. Klemensa",
@@ -1608,8 +1608,8 @@
       "contact": "https://wieliczkaklemens.pl/kontakt/#content_skip_link_anchor",
       "others": "",
       "description": "",
-      "latitude": "49.98368",
-      "longitude": "20.06023"
+      "latitude": 49.98368,
+      "longitude": 20.06023
     },
     {
       "name": "Włocławek: Parafia św. Jana Chrzciciela",
@@ -1618,8 +1618,8 @@
       "contact": "https://www.swjanchrzciciel.wloclawek.pl/index.php/kontakt/#sp-main-body",
       "others": "",
       "description": "",
-      "latitude": "52.661026",
-      "longitude": "19.072845"
+      "latitude": 52.661026,
+      "longitude": 19.072845
     },
     {
       "name": "Włocławek: Parafia Wniebowzięcia NMP",
@@ -1628,8 +1628,8 @@
       "contact": "https://katedrawloclawek.pl/#footerLeft",
       "others": "",
       "description": "",
-      "latitude": "52.66106",
-      "longitude": "19.067837"
+      "latitude": 52.66106,
+      "longitude": 19.067837
     },
     {
       "name": "Wola Mielecka: Parafia pw Bożej Opatrzności",
@@ -1638,8 +1638,8 @@
       "contact": "https://parafiawolamielecka.pl/kontakt/#main",
       "others": "",
       "description": "",
-      "latitude": "50.28332",
-      "longitude": "21.385958"
+      "latitude": 50.28332,
+      "longitude": 21.385958
     },
     {
       "name": "Wójcin: Parafia św. Katarzyny i św. Walentego",
@@ -1648,8 +1648,8 @@
       "contact": "https://wojcin.pl/kosciol_intencje_mszalne.php",
       "others": "https://www.ecmentarze.pl/cmentarz/wojcin",
       "description": "",
-      "latitude": "51.175153",
-      "longitude": "18.244815"
+      "latitude": 51.175153,
+      "longitude": 18.244815
     },
     {
       "name": "Września: Parafia pw Świętego Ducha",
@@ -1658,8 +1658,8 @@
       "contact": "https://www.swietyduch.wrzesnia.pl/index.php/kontakt.html/#comp-i",
       "others": "",
       "description": "",
-      "latitude": "52.322586",
-      "longitude": "17.571057"
+      "latitude": 52.322586,
+      "longitude": 17.571057
     },
     {
       "name": "Września: Parafia pw Wniebowzięcia NMP i św. Stanisława BM",
@@ -1668,8 +1668,8 @@
       "contact": "http://farawrzesnia.pl/?page_id=17/#content",
       "others": "https://www.polskie-cmentarze.pl/Spis-cmentarzy/Wojewodztwo-Wielkopolskie/Powiat-wrzesinski/Gmina-Wrzesnia/Wrzesnia/Cmentarz-Parafialny",
       "description": "",
-      "latitude": "52.326473",
-      "longitude": "17.564231"
+      "latitude": 52.326473,
+      "longitude": 17.564231
     },
     {
       "name": "Wysocko Wielkie: Parafia Podwyższenia Krzyża Św",
@@ -1678,8 +1678,8 @@
       "contact": "https://parafiawysockowielkie.pl/#:~:text=kontakt",
       "others": "https://www.ecmentarze.pl/cmentarz/wysocko-wielkie",
       "description": "",
-      "latitude": "51.62239",
-      "longitude": "17.85409"
+      "latitude": 51.62239,
+      "longitude": 17.85409
     },
     {
       "name": "Wysowa-Zdrój: Parafia pw Najświętszej Maryi Panny Wniebowziętej",
@@ -1688,8 +1688,8 @@
       "contact": "https://parafiawysowa.pl/kontakt/#main",
       "others": "https://parafiawysowa.pl/galeria/",
       "description": "",
-      "latitude": "49.441587",
-      "longitude": "21.172942"
+      "latitude": 49.441587,
+      "longitude": 21.172942
     },
     {
       "name": "Zabrze: Parafia św. Wojciecha",
@@ -1698,8 +1698,8 @@
       "contact": "https://www.swwojciech-zabrze.pl/kontakt",
       "others": "",
       "description": "",
-      "latitude": "50.323839",
-      "longitude": "18.776246"
+      "latitude": 50.323839,
+      "longitude": 18.776246
     },
     {
       "name": "Zakrzów: Parafia św. Anny",
@@ -1708,8 +1708,8 @@
       "contact": "https://zakrzowparafia.pl/#/home/#:~:text=KANCELARIA",
       "others": "",
       "description": "",
-      "latitude": "49.821286",
-      "longitude": "19.656545"
+      "latitude": 49.821286,
+      "longitude": 19.656545
     },
     {
       "name": "Zębowice: Parafia Wniebowzięcia NMP",
@@ -1718,8 +1718,8 @@
       "contact": "https://www.facebook.com/people/Parafia-Wniebowzi%C4%99cia-NMP-w-Z%C4%99bowicach/100089624980501/",
       "others": "",
       "description": "",
-      "latitude": "50.763213",
-      "longitude": "18.342603"
+      "latitude": 50.763213,
+      "longitude": 18.342603
     },
     {
       "name": "Złocieniec: Parafia p.w. Wniebowzięcia NMP",
@@ -1728,8 +1728,8 @@
       "contact": "http://www.wniebowziecia.xcr.pl/kancelaria/",
       "others": "http://mogily.pl/zlocieniec",
       "description": "",
-      "latitude": "53.53455",
-      "longitude": "16.00825"
+      "latitude": 53.53455,
+      "longitude": 16.00825
     },
     {
       "name": "Złotoria: Parafia pw św. Józefa",
@@ -1738,8 +1738,8 @@
       "contact": "https://diecezja.lomza.pl/parafie-diecezji-lomzynskiej/ad/parafie,1/zlotoria-parafia-pw-sw-jozefa,181/#:~:text=lokalizacja",
       "others": "",
       "description": "",
-      "latitude": "53.1774",
-      "longitude": "22.933555"
+      "latitude": 53.1774,
+      "longitude": 22.933555
     },
     {
       "name": "Złoty Potok: Parafia św. Jana Chrzciciela",
@@ -1748,8 +1748,8 @@
       "contact": "https://parafia-zlotypotok.pl/kontakt/#site-content",
       "others": "https://zlotypotok.grobonet.com/",
       "description": "",
-      "latitude": "50.70714",
-      "longitude": "19.43794"
+      "latitude": 50.70714,
+      "longitude": 19.43794
     },
     {
       "name": "Zrębice: Parafia św. Idziego",
@@ -1758,8 +1758,8 @@
       "contact": "https://parafia.zrebice.pl/kontakt/#main",
       "others": "",
       "description": "",
-      "latitude": "50.72115",
-      "longitude": "19.32936"
+      "latitude": 50.72115,
+      "longitude": 19.32936
     },
     {
       "name": "Żarki: Parafia św. Apostołów Szymona i Judy Tadeusza",
@@ -1768,8 +1768,8 @@
       "contact": "http://www.parafiazarki.pl/index.php/kancelaria#main",
       "others": "",
       "description": "",
-      "latitude": "50.62589",
-      "longitude": "19.36567"
+      "latitude": 50.62589,
+      "longitude": 19.36567
     },
     {
       "name": "Żuromin: Parafia św. Antoniego",
@@ -1778,8 +1778,8 @@
       "contact": "https://www.parafiazuromin.pl/",
       "others": "",
       "description": "",
-      "latitude": "53.06758",
-      "longitude": "19.91135"
+      "latitude": 53.06758,
+      "longitude": 19.91135
     },
     {
       "name": "Żydowo: Parafia św. Stanisława BM",
@@ -1788,8 +1788,8 @@
       "contact": "http://www.zydowo.parafia.info.pl/?p=main&what=4#node-",
       "others": "http://37.28.154.108/zydowo/",
       "description": "",
-      "latitude": "52.45492",
-      "longitude": "17.59133"
+      "latitude": 52.45492,
+      "longitude": 17.59133
     },
     {
       "name": "Żyraków: Parafia Trójcy Przenajświętszej",
@@ -1798,8 +1798,8 @@
       "contact": "https://zyrakow.diecezjatarnow.pl/kontakt",
       "others": "https://zyrakow-parafialny.grobonet.com/",
       "description": "",
-      "latitude": "50.08322",
-      "longitude": "21.3947"
+      "latitude": 50.08322,
+      "longitude": 21.3947
     }
   ]
 }
