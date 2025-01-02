@@ -46,7 +46,7 @@ class AppInner extends React.Component {
               <p class="lead text-body-secondary">{t('description_products')}</p>
               <p>
                 <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-primary my-2" role="button">{t('button_googleplay')}</a>
-                <a href="https://play.google.com/store/apps/details?id=github.wleap.gooffline.admob" class="btn btn-secondary my-2" role="button">{t('button_goffline')}</a>
+                <a href="https://play.google.com/store/apps/details?id=github.wleap.gooffline.admob" class="btn btn-secondary my-2" role="button">{t('button_gooffline')}</a>
               </p>
             </div>
           </div>
