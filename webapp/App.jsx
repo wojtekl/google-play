@@ -46,7 +46,7 @@ class AppInner extends React.Component {
               <p class="lead text-body-secondary">{t('description_products')}</p>
               <p>
                 <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-primary my-2" role="button">{t('button_googleplay')}</a>
-                <a class="btn btn-secondary my-2" disabled role="button" aria-disabled="true">{t('button_action')}</a>
+                <a href="https://play.google.com/store/apps/details?id=github.wleap.gooffline.admob" class="btn btn-secondary my-2" role="button">{t('button_goffline')}</a>
               </p>
             </div>
           </div>
@@ -74,6 +74,12 @@ class AppInner extends React.Component {
                 description="description_busstop"
                 urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.busstop"
                 small="name_busstop"
+              />
+              <Card
+                image="https://github.com/wojtekl/google-play/raw/refs/heads/main/talkietalkie/TalkieTalkie/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+                description="description_talkietalkie"
+                urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.talkietalkie.admob"
+                small="name_talkietalkie"
               />
             </div>
           </div>
