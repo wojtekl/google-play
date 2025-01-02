@@ -34,7 +34,7 @@ switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
 
 function get() {
   global $country, $identyfikator, $repository;
-  $result = $repository -> getCenyAll($country);
+  $result = $repository -> getItems($country);
   $list = "[";
   foreach ($result as $row) {
     $list .= "[\"${row["PRODUKT"]}\", \"${row["SKLEP"]}\", \"${row["CENA"]}\", 0],";
@@ -55,7 +55,7 @@ function post() {
     $result = $repository -> getSelected($selected);
   }
   else {
-    $result = $repository -> getCenyAll($country);
+    $result = $repository -> getItems($country);
   }
   $list = "[";
   foreach ($result as $row) {

@@ -34,7 +34,7 @@ switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
 
 function get() {
   global $country, $identyfikator, $repository;
-  $result = $repository -> getCeny(trim($_GET["name"]));
+  $result = $repository -> getItem(trim($_GET["name"]));
   $list = "[";
   foreach ($result as $row) {
     $list .= "{\"store\": \"${row["SKLEP"]}\", \"price\": \"${row["CENA"]}\", \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": \"${row["ID"]}\"},";
@@ -51,7 +51,7 @@ function post() {
   $coupon = trim($_POST["coupon"]);
   $bulk = trim($_POST["bulk"]);
   if (isset($identyfikator) && isset($item) && isset($store) && isset($price) && isset($coupon) && isset($bulk)) {
-    $repository -> insertCena($item, $store, $price, $country, $identyfikator, $coupon ? 1 : 0, $bulk ? 1 : 0);
+    $repository -> insertPrice($item, $store, $price, $country, $identyfikator, $coupon ? 1 : 0, $bulk ? 1 : 0);
   }
 }
 
