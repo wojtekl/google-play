@@ -15,12 +15,12 @@ class NewsInner extends React.Component {
             <Nav className="me-auto">
               <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
-              <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
-              <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://play.google.com/store/apps/details?id=github.wleap.myparish"><Image src={t('url_get')} height="40px" /></Nav.Link>
+              <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
+              <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
+              <Nav.Link href="https://play.google.com/store/apps/details?id=github.wleap.myparish" rel="external"><Image src={t('url_get')} style={{maxHeight: "40px"}} /></Nav.Link>
               <Nav.Link disabled>
                 <p>
-                  <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA">
+                  <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA" rel="external">
                     <img src="https://achecks.org/images/icon_W2_aa.jpg" alt="WCAG 2.0 (Level AA)" height="32" width="102" />
                   </a>
                 </p>
@@ -31,9 +31,9 @@ class NewsInner extends React.Component {
       </Navbar>
       <Container>
         <ListGroup>
-          <ListGroup.Item action href="https://m.niedziela.pl/">Niedziela</ListGroup.Item>
-          <ListGroup.Item action href="https://www.gosc.pl/mobile">Gość Niedzielny</ListGroup.Item>
-          <ListGroup.Item action href="https://rycerzniepokalanej.pl/">Rycerz Niepokalanej</ListGroup.Item>
+          <ListGroup.Item action href="https://m.niedziela.pl/" rel="external">Niedziela</ListGroup.Item>
+          <ListGroup.Item action href="https://www.gosc.pl/mobile" rel="external">Gość Niedzielny</ListGroup.Item>
+          <ListGroup.Item action href="https://rycerzniepokalanej.pl/" rel="external">Rycerz Niepokalanej</ListGroup.Item>
         </ListGroup>
       </Container>
     </>

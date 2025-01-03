@@ -7,12 +7,9 @@ const List = () => {
   const navigate = useNavigate()
   const { t } = useTranslation()
 
-  const locale = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(3).toLocaleLowerCase()
-  const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone
-  const formatDay = { weekday: "long", timezone: timezone }
   const dayOfMonth = new Date().getDate()
   const month = new Date().getMonth() + 1
-  const isSunday = (0 === new Date().getDay()) || (1 === month && (1 === dayOfMonth || 6 === dayOfMonth)) || (12 === month && (25 === dayOfMonth || 26 === dayOfMonth)) ? true : false
+  const isSunday = (0 === new Date().getDay()) || (1 === month && (1 === dayOfMonth || 6 === dayOfMonth)) || (11 === month && 1 === dayOfMonth) || (12 === month && (25 === dayOfMonth || 26 === dayOfMonth)) ? true : false
 
   const all = clients.clients.map(i => {
     let incoming = ''
@@ -85,12 +82,12 @@ const List = () => {
           <Nav className="me-auto">
             <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
             <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
-            <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
-            <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
-            <Nav.Link href="https://play.google.com/store/apps/details?id=github.wleap.myparish"><Image src={t('url_get')} height="40px" /></Nav.Link>
+            <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
+            <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
+            <Nav.Link href="https://play.google.com/store/apps/details?id=github.wleap.myparish" rel="external"><Image src={t('url_get')} style={{maxHeight: "40px"}} /></Nav.Link>
             <Nav.Link disabled>
                 <p>
-                  <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA">
+                  <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA" rel="external">
                     <img src="https://achecks.org/images/icon_W2_aa.jpg" alt="WCAG 2.0 (Level AA)" height="32" width="102" />
                   </a>
                 </p>
