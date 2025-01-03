@@ -36,7 +36,7 @@ class ModalInner extends React.Component {
             </div>
             <div class="form-group">
               <label for="exampleInputPrice1">{t('label_price')}</label>
-              <input type="text" class="form-control" id="exampleInputPrice1" aria-describedby="priceHelp" name="price" />
+              <input type="number" min="0.05" step="0.01" class="form-control" id="exampleInputPrice1" aria-describedby="priceHelp" name="price" />
               <small id="priceHelp" class="form-text text-muted"> Użyj kropki jako separatora </small>
             </div>
             <div class="form-group">

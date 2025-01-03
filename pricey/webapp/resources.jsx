@@ -53,8 +53,8 @@ const resources = {
       "button_save": "Zachowaj",
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-pl",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
-      "meta_description": "Zachowuj ceny produktów, zaproś przyjaciół, sprawdzaj co inni przesłali, przeglądaj historię lub obserwuj wzrost kosztów życia",
-      "meta_keywords": "zakupy, cena, lista"
+      "meta_description": "Zapisuj ceny produktów w sklepach, zaproś znajomych, sprawdzaj co oni przesłali, porównuj promocje oraz ceny zakupów w czasie",
+      "meta_keywords": "zakupy, cena, lista, sklep, koszt"
     }
   }
 }

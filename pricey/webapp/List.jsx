@@ -77,9 +77,9 @@ class ListInner extends React.Component {
             <Nav className="me-auto">
               <Nav.Link onClick={this.handleShow}>{!selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
               <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link>
-              <Nav.Link href="https://wlap.pl">{t('nav_aboutus')}</Nav.Link>
-              <Nav.Link href={t('url_privacy')}>{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://rb.gy/sqezhd"><Image src={t('url_get')} height="40px" /></Nav.Link>
+              <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
+              <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
+              <Nav.Link href="https://rb.gy/sqezhd" rel="external"><Image src={t('url_get')} height="40px" /></Nav.Link>
               <Nav.Link disabled>
                 <p>
                   <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA">

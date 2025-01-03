@@ -1,0 +1,11 @@
+{
+  "short_name": "Pricey",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://github.com/wojtekl/google-play/blob/main/pricey/Pricey/app/src/main/ic_launcher-playstore.png?raw=true",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone"
+}
