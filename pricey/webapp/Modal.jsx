@@ -24,8 +24,9 @@ class ModalInner extends React.Component {
         <BModal.Header closeButton>
           <BModal.Title> {!item ? t('button_new_product') : `${t('label_item')}: ${item}`} </BModal.Title>
         </BModal.Header>
+        <form id="form_item" onsubmit={this.handleClick}>
         <BModal.Body>
-          <form id="form_item" onsubmit={this.handleClick}>
+          
             <div class="form-group">
               <label for="exampleInputName1">{t('label_name')}</label>
               <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} required minlength="5" maxlength="100" />
@@ -56,12 +57,13 @@ class ModalInner extends React.Component {
               <label for="exampleInputBulk1" class="form-check-label">{t('label_bulk')}</label>
               <small id="couponHelp" class="form-text text-muted"> Przy zakupie większej ilości </small>
             </div>
-          </form>
+          
         </BModal.Body>
         <BModal.Footer>
           <Button variant="secondary" onClick={handleClose}> {t('button_cancel')} </Button>
           <Button type="submit" variant="primary"> {t('button_save')} </Button>
         </BModal.Footer>
+        </form>
       </BModal>
     )
   }
