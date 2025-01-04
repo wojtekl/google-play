@@ -28,7 +28,7 @@ class ModalInner extends React.Component {
           <BModal.Body>
             <div class="form-group">
               <label for="exampleInputName1">{t('label_name')}</label>
-              <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} required minlength="5" maxlength="100" />
+              <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} required minlength="5" maxlength="100" autocomplete="off" />
               <small id="nameHelp" class="form-text text-muted">{t('help_name')}</small>
             </div>
             <div class="form-group">

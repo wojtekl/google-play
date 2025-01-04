@@ -101,7 +101,7 @@ class ListInner extends React.Component {
       <Container>
         {!selected && <Row className="mt-3">
           <form class="form-inline my-2" role="search">
-            <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} maxlength="25" />
+            <input class="form-control mr-sm-2" type="search" name="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} maxlength="25" />
           </form>
         </Row>}
         <Row className="mt-3">

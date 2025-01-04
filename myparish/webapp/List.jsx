@@ -98,7 +98,7 @@ const List = () => {
     </Navbar>
     <Container>
       <form class="form-inline my-2">
-        <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
+        <input class="form-control mr-sm-2" type="search" name="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
         <div class="form-check form-switch">
           <input type="checkbox" class="form-check-input" id="switchLive" onChange={handleSwitchLive} />
           <label class="form-check-label" for="switchLive">{t('label_live')}</label>
