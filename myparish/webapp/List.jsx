@@ -46,7 +46,7 @@ const List = () => {
       preFiltered = preFiltered.filter(i => (true === i.live) && !!i.incoming)
       preFiltered.sort((a, b) => a.incoming.localeCompare(b.incoming))
     }
-    setFiltered(!phrase ? preFiltered : preFiltered.filter(i => i.name.toLowerCase().includes(phrase)))
+    setFiltered(2 < phrase.length ? preFiltered.filter(i => i.name.toLowerCase().includes(phrase)) : preFiltered)
   }
 
   const handleClick = (name) => {
