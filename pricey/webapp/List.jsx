@@ -44,10 +44,8 @@ class ListInner extends React.Component {
 
   handleFilter = (event) => {
     const phrase = event.target.value.trim().toLowerCase()
-    if (1 !== phrase.length && 2 < phrase.length) {
-      const { list } = this.state
-      this.setState({ filtered: list.filter(i => i.item.toLowerCase().includes(phrase)) })
-    }
+    const { list } = this.state
+    this.setState({ filtered: 2 < phrase.length ? list.filter(i => i.item.toLowerCase().includes(phrase)) : list })
   }
 
   handleChange = (event) => {
@@ -131,6 +129,9 @@ class ListInner extends React.Component {
                   {properties.map(property => {
                     if ('posted' === property) {
                       return <td><DateFormatter timestamp={row[property]} /></td>
+                    }
+                    else if ('price' === property) {
+                      return <td><NumberFormatter value={row[property]} /></td>
                     }
                     else if ('coupon' === property || 'bulk' === property) {
                       return <td><input type="checkbox" class="form-check-input" name={property} checked={"1" === row[property]} readonly aria-label={property} /></td>
