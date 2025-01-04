@@ -35,7 +35,9 @@ class ListInner extends React.Component {
   handleClick = () => {
     const { replace, back } = this.props
     const { selected } = this.state
-    axios.get(`item?lang=${lang}&name=${selected}`).then((response) => {
+    const searchParams = new URLSearchParams(window.location.search)
+    searchParams.append('name', selected)
+    axios.get(`item?${searchParams.toString()}`).then((response) => {
       replace(<List properties={columns_details} list={response.data} replace={replace} back={back} selected={selected} />)
     })
   }
@@ -56,7 +58,9 @@ class ListInner extends React.Component {
   }
 
   handleCopy = () => {
-    window.location.href = `/?${window.location.search.substring(1)}&selected=${store.getState().value.join(',')}`
+    const searchParams = new URLSearchParams(window.location.search)
+    searchParams.append('selected', store.getState().value.join(','))
+    window.location.href = `/?${searchParams.toString()}`
   }
 
   handleShow = () => {

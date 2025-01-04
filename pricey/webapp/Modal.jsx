@@ -58,7 +58,7 @@ class ModalInner extends React.Component {
         </BModal.Body>
         <BModal.Footer>
           <Button variant="secondary" onClick={handleClose}> {t('button_cancel')} </Button>
-          <Button variant="primary" onClick={this.handleClick}> {t('button_save')} </Button>
+          <Button type="submit" variant="primary" onClick={this.handleClick}> {t('button_save')} </Button>
         </BModal.Footer>
       </BModal>
     )
