@@ -37,7 +37,7 @@ function get() {
   $result = $repository -> getItem(trim($_GET["name"]));
   $list = "[";
   foreach ($result as $row) {
-    $list .= "{\"store\": \"${row["SKLEP"]}\", \"price\": \"${row["CENA"]}\", \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": \"${row["ID"]}\"},";
+    $list .= "{\"store\": \"${row["SKLEP"]}\", \"price\": ${row["CENA"]}, \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": ${row["ID"]}},";
   }
   $list .= "]";
   echo str_replace(",]", "]", $list);
