@@ -41,8 +41,11 @@ class ListInner extends React.Component {
   }
 
   handleFilter = (event) => {
-    const { list } = this.state
-    this.setState({ filtered: list.filter(i => i.item.toLowerCase().includes(event.target.value.toLowerCase())) })
+    const phrase = event.target.value.trim().toLowerCase()
+    if (1 < phrase.length) {
+      const { list } = this.state
+      this.setState({ filtered: list.filter(i => i.item.toLowerCase().includes(phrase)) })
+    }
   }
 
   handleChange = (event) => {
@@ -76,7 +79,7 @@ class ListInner extends React.Component {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link onClick={this.handleShow}>{!selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
-              <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link>
+              {!selected ? <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link> : <Nav.Link href="/" rel="bookmark">{t('nav_home')}</Nav.Link>}
               <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
               <Nav.Link href="https://rb.gy/sqezhd" rel="external"><Image src={t('url_get')} style={{maxHeight: "40px"}} /></Nav.Link>
@@ -94,7 +97,7 @@ class ListInner extends React.Component {
       <Container>
         {!selected && <Row className="mt-3">
           <form class="form-inline my-2" role="search">
-            <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} />
+            <input class="form-control mr-sm-2" type="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} maxlength="25" />
           </form>
         </Row>}
         <Row className="mt-3">

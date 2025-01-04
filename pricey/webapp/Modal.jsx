@@ -26,17 +26,17 @@ class ModalInner extends React.Component {
           <form id="form_item">
             <div class="form-group">
               <label for="exampleInputName1">{t('label_name')}</label>
-              <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} />
+              <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} required minlength="5" maxlength="100" />
               <small id="nameHelp" class="form-text text-muted"> Upewnij się że produkt jeszcze nie istnieje </small>
             </div>
             <div class="form-group">
               <label for="exampleInputStore1">{t('label_store')}</label>
-              <input type="text" class="form-control" id="exampleInputStore1" aria-describedby="storeHelp" name="store" value={store} />
+              <input type="text" class="form-control" id="exampleInputStore1" aria-describedby="storeHelp" name="store" value={store} required maxlength="50" />
               <small id="storeHelp" class="form-text text-muted"> Sprawdź nazwę sklepu przy innych produktach </small>
             </div>
             <div class="form-group">
               <label for="exampleInputPrice1">{t('label_price')}</label>
-              <input type="number" min="0.05" step="0.01" class="form-control" id="exampleInputPrice1" aria-describedby="priceHelp" name="price" />
+              <input type="number" min="0.05" max="500" step="0.01" class="form-control" id="exampleInputPrice1" aria-describedby="priceHelp" name="price" required />
               <small id="priceHelp" class="form-text text-muted"> Użyj kropki jako separatora </small>
             </div>
             <div class="form-group">
