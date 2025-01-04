@@ -130,9 +130,6 @@ class ListInner extends React.Component {
                     if ('posted' === property) {
                       return <td><DateFormatter timestamp={row[property]} /></td>
                     }
-                    else if ('price' === property) {
-                      return <td><NumberFormatter value={row[property]} /></td>
-                    }
                     else if ('coupon' === property || 'bulk' === property) {
                       return <td><input type="checkbox" class="form-check-input" name={property} checked={"1" === row[property]} readonly aria-label={property} /></td>
                     }
