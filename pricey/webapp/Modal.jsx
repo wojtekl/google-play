@@ -7,6 +7,7 @@ class ModalInner extends React.Component {
 
   handleClick = (event) => {
     event.preventDefault()
+    console.log('submituje')
     const { handleClose } = this.props
     const form = document.querySelector('#form_item')
     axios.post(`item?lang=${lang}`, form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
@@ -24,7 +25,7 @@ class ModalInner extends React.Component {
         <BModal.Header closeButton>
           <BModal.Title> {!item ? t('button_new_product') : `${t('label_item')}: ${item}`} </BModal.Title>
         </BModal.Header>
-        <form id="form_item" onsubmit={this.handleClick}>
+        <form id="form_item" onSubmit={this.handleClick}>
         <BModal.Body>
           
             <div class="form-group">
