@@ -71,6 +71,8 @@ class ListInner extends React.Component {
     const { t, selected, properties, expandable, list, back } = this.props
     const { filtered, show } = this.state
 
+    const isYourList = new URLSearchParams(new URL(window.location).search).has('selected')
+
     return (<>
       <Navbar expand="md">
         <Container>
@@ -79,7 +81,7 @@ class ListInner extends React.Component {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link onClick={this.handleShow}>{!selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
-              {!selected ? <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link> : <Nav.Link href="/" rel="bookmark">{t('nav_home')}</Nav.Link>}
+              {!isYourList ? <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link> : <Nav.Link href="/" rel="bookmark">{t('nav_home')}</Nav.Link>}
               <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
               <Nav.Link href="https://rb.gy/sqezhd" rel="external"><Image src={t('url_get')} style={{maxHeight: "40px"}} /></Nav.Link>
