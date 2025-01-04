@@ -141,7 +141,7 @@ class ListInner extends React.Component {
             </tbody>
           </Table>
         </Row>
-        <Modal item={selected} show={show} handleClose={this.handleClose} storeName={itemStore} />
+        <Modal item={selected} show={show} handleClose={this.handleClose} storeName={storeName} />
       </Container>
     </>)
   }
