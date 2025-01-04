@@ -5,13 +5,15 @@ const BModal = ReactBootstrap.Modal
 
 class ModalInner extends React.Component {
 
-  handleClick = () => {
+  handleClick = (event) => {
+    event.preventDefault()
     const { handleClose } = this.props
     const form = document.querySelector('#form_item')
     axios.post(`item?lang=${lang}`, form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
       form.reset()
       handleClose()
     })
+    return false
   }
 
   render() {
@@ -23,7 +25,7 @@ class ModalInner extends React.Component {
           <BModal.Title> {!item ? t('button_new_product') : `${t('label_item')}: ${item}`} </BModal.Title>
         </BModal.Header>
         <BModal.Body>
-          <form id="form_item">
+          <form id="form_item" onSubmit={this.handleClick}>
             <div class="form-group">
               <label for="exampleInputName1">{t('label_name')}</label>
               <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} required minlength="5" maxlength="100" />
@@ -58,7 +60,7 @@ class ModalInner extends React.Component {
         </BModal.Body>
         <BModal.Footer>
           <Button variant="secondary" onClick={handleClose}> {t('button_cancel')} </Button>
-          <Button type="submit" variant="primary" onClick={this.handleClick}> {t('button_save')} </Button>
+          <Button type="submit" variant="primary"> {t('button_save')} </Button>
         </BModal.Footer>
       </BModal>
     )
