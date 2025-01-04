@@ -42,7 +42,7 @@ class ListInner extends React.Component {
 
   handleFilter = (event) => {
     const phrase = event.target.value.trim().toLowerCase()
-    if (1 !== phrase.length) {
+    if (1 !== phrase.length && 2 < phrase.length) {
       const { list } = this.state
       this.setState({ filtered: list.filter(i => i.item.toLowerCase().includes(phrase)) })
     }
