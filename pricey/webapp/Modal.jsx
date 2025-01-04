@@ -25,7 +25,7 @@ class ModalInner extends React.Component {
           <BModal.Title> {!item ? t('button_new_product') : `${t('label_item')}: ${item}`} </BModal.Title>
         </BModal.Header>
         <BModal.Body>
-          <form id="form_item" onSubmit={this.handleClick}>
+          <form id="form_item" onsubmit={this.handleClick}>
             <div class="form-group">
               <label for="exampleInputName1">{t('label_name')}</label>
               <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} required minlength="5" maxlength="100" />
