@@ -15,7 +15,7 @@ class ModalInner extends React.Component {
   }
 
   render() {
-    const { show, handleClose, t, item, store } = this.props
+    const { show, handleClose, t, item, storeName } = this.props
 
     return (
       <BModal id="exampleModal" show={show} size="sm" aria-labelledby="exampleModalLabel" onHide={handleClose} centered>
@@ -31,7 +31,7 @@ class ModalInner extends React.Component {
             </div>
             <div class="form-group">
               <label for="exampleInputStore1">{t('label_store')}</label>
-              <input type="text" class="form-control" id="exampleInputStore1" aria-describedby="storeHelp" name="store" value={store} required maxlength="50" />
+              <input type="text" class="form-control" id="exampleInputStore1" aria-describedby="storeHelp" name="store" value={storeName} required maxlength="50" />
               <small id="storeHelp" class="form-text text-muted"> Sprawdź nazwę sklepu przy innych produktach </small>
             </div>
             <div class="form-group">
