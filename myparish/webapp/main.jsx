@@ -18,13 +18,18 @@ const Navbar = ReactBootstrap.Navbar
 const Nav = ReactBootstrap.Nav
 
 
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js')
+}
+
 const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px" aria-label="Marker default"></i>', className: "markerDefault", size: [20, 23], iconAnchor: [10, 11] })
 const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: red" aria-label="Marker live"></i>', className: "markerLive", size: [20, 23], iconAnchor: [10, 11] })
 const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: blue" aria-label="Marker active"></i>', className: "markerActive", size: [20, 23], iconAnchor: [10, 11] })
 
-const initialState = {
+const state = localStorage.getItem('redux')
+const initialState = !state ? {
   value: null
-}
+} : JSON.parse(state)
 
 const selectedReducer = (state = initialState, action) => {
   switch (action.type) {
@@ -49,6 +54,7 @@ i18n.use(initReactI18next).init({
 })
 
 const store = Redux.createStore(selectedReducer)
+store.subscribe(() => { localStorage.setItem('redux', JSON.stringify(store.getState())) })
 
 const container = document.getElementById('root')
 
