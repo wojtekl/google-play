@@ -6,6 +6,8 @@ class NewsInner extends React.Component {
   render() {
     const { t } = this.props
 
+    const selected = clients.clients.find(i => i.name === store.getState().value)
+
     return <>
       <Navbar expand="md">
         <Container>
@@ -13,6 +15,7 @@ class NewsInner extends React.Component {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
+              {selected && <Nav.Link href={`#/selected/${selected.name}`}>{t('nav_your')}</Nav.Link>}
               <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
               <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>

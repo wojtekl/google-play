@@ -31,6 +31,8 @@ const List = () => {
     }
   })
 
+  const selected = clients.clients.find(i => i.name === store.getState().value)
+
   const [filtered, setFiltered] = useState(all)
   const [phrase, setPhrase] = useState('')
   const [active, setActive] = useState(false)
@@ -80,6 +82,7 @@ const List = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
+            {selected && <Nav.Link href={`#/selected/${selected.name}`}>{t('nav_your')}</Nav.Link>}
             <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
             <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
             <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>

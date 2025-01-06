@@ -10,7 +10,9 @@ class AppInner extends React.Component {
     document.getElementsByTagName('meta').description.content = t('meta_description')
     document.getElementsByTagName('meta').keywords.content = t('meta_keywords')
 
-    this.state = {}
+    this.state = {
+      selected: clients.clients.find(i => i.name === store.getState().value)
+    }
   }
 
   getList = () => {
@@ -44,6 +46,8 @@ class AppInner extends React.Component {
   render() {
     const { t } = this.props
 
+    const { selected } = this.state
+
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
 
     return <>
@@ -53,6 +57,7 @@ class AppInner extends React.Component {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
+              {selected && <Nav.Link href={`#/selected/${selected.name}`}>{t('nav_your')}</Nav.Link>}
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
               <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
               <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
@@ -76,7 +81,7 @@ class AppInner extends React.Component {
   componentDidMount() {
     const { t } = this.props
 
-    const selected = clients.clients.find(i => i.name === store.getState().value)
+    const { selected } = this.state
 
     const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 9)
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
