@@ -10,7 +10,7 @@ const Image = ReactBootstrap.Image
 
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('https://raw.githubusercontent.com/wojtekl/google-play/main/pricey/webapp/sw.js')
+  navigator.serviceWorker.register('/sw.js')
 }
 
 const state = localStorage.getItem('redux')
