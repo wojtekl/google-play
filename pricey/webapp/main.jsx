@@ -9,9 +9,10 @@ const Form = ReactBootstrap.Form
 const Image = ReactBootstrap.Image
 
 
-const initialState = {
+const state = localStorage.getItem('redux')
+const initialState = !state ? {
   value: []
-}
+} : JSON.parse(state)
 
 const selectedReducer = (state = initialState, action) => {
   switch (action.type) {
@@ -38,6 +39,7 @@ i18n.use(initReactI18next).init({
 const storeName = new URLSearchParams(new URL(window.location).search).get('store') ?? null
 
 const store = Redux.createStore(selectedReducer)
+store.subscribe(() => { localStorage.setItem('redux', JSON.stringify(store.getState())) })
 
 const container = document.getElementById('root')
 

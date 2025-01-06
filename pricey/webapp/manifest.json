@@ -1,4 +1,5 @@
 {
+  "name": "Pricey by wlap.pl",
   "short_name": "Pricey",
   "start_url": "https://pricey.wlap.pl/",
   "icons": [
@@ -11,9 +12,23 @@
       "sizes": "192x192"
     },
     {
-      "src": "https://github.com/wojtekl/google-play/blob/main/pricey/Pricey/app/src/main/ic_launcher-playstore.png?raw=true",
+      "src": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/ic_launcher-playstore.png",
       "sizes": "512x512"
     }
   ],
-  "display": "standalone"
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/webapp/s_1.png",
+      "sizes": "1439x2881",
+      "types": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/webapp/s_2.png",
+      "sizes": "1439x2881",
+      "types": "image/png"
+    }
+  ]
 }
