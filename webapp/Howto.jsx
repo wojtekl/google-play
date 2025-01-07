@@ -68,46 +68,48 @@ class HowtoInner extends React.Component {
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <div class="col-md-3 col-sm-6">
-                <div id="carouselExample2" class="carousel slide">
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_1.png" class="img-fluid" alt={t('alt_android_1')} />
-                        <figcaption class="figcaption">{t('caption_1')}</figcaption>
-                      </figure>
+              <div class="row">
+                <div class="col-md-3 col-sm-6">
+                  <div id="carouselExample2" class="carousel slide">
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_1.png" class="img-fluid" alt={t('alt_android_1')} />
+                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
+                        </figure>
+                      </div>
+                      <div class="carousel-item">
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_2.png" class="img-fluid" alt={t('alt_android_2')} />
+                          <figcaption class="figcaption">{t('caption_2')}</figcaption>
+                        </figure>
+                      </div>
+                      <div class="carousel-item">
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_3.png" class="img-fluid" alt={t('alt_android_3')} />
+                          <figcaption class="figcaption">{t('caption_3')}</figcaption>
+                        </figure>
+                      </div>
+                      <div class="carousel-item">
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_4.png" class="img-fluid" alt={t('alt_android_4')} />
+                          <figcaption class="figcaption">{t('caption_4')}</figcaption>
+                        </figure>
+                      </div>
                     </div>
-                    <div class="carousel-item">
-                      <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_2.png" class="img-fluid" alt={t('alt_android_2')} />
-                        <figcaption class="figcaption">{t('caption_2')}</figcaption>
-                      </figure>
-                    </div>
-                    <div class="carousel-item">
-                      <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_3.png" class="img-fluid" alt={t('alt_android_3')} />
-                        <figcaption class="figcaption">{t('caption_3')}</figcaption>
-                      </figure>
-                    </div>
-                    <div class="carousel-item">
-                      <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_4.png" class="img-fluid" alt={t('alt_android_4')} />
-                        <figcaption class="figcaption">{t('caption_4')}</figcaption>
-                      </figure>
-                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample2" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample2" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
                   </div>
-                  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample2" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                  </button>
-                  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample2" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                  </button>
                 </div>
-              </div>
-              <div class="col-md-9 col-sm-6">
-                <strong>{t('accordion_intro_android')}</strong>{t('accordion_contd_android')}
+                <div class="col-md-9 col-sm-6">
+                  <strong>{t('accordion_intro_android')}</strong>{t('accordion_contd_android')}
+                </div>
               </div>
             </div>
           </div>
@@ -118,33 +120,34 @@ class HowtoInner extends React.Component {
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <div class="col-md-9 col-sm-6">
-                <strong>{t('accordion_intro_windows')}</strong>{t('accordion_contd_windows')}
-              </div>
-              <div class="col-md-3 col-sm-6">
+              <div class="row">
+                <div class="col-md-9 col-sm-6">
+                  <strong>{t('accordion_intro_windows')}</strong>{t('accordion_contd_windows')}
+                </div>
+                <div class="col-md-3 col-sm-6">
                   <div id="carouselExample3" class="carousel slide">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
                         <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_1.png" class="img-fluid" alt={t('alt_windows_1')} />
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_1.png" class="img-fluid" alt={t('alt_windows_1')} />
                           <figcaption class="figcaption">{t('caption_1')}</figcaption>
                         </figure>
                       </div>
                       <div class="carousel-item">
                         <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_2.png" class="img-fluid" alt={t('alt_windows_2')} />
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_2.png" class="img-fluid" alt={t('alt_windows_2')} />
                           <figcaption class="figcaption">{t('caption_2')}</figcaption>
                         </figure>
                       </div>
                       <div class="carousel-item">
                         <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_3.png" class="img-fluid" alt={t('alt_windows_3')} />
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_3.png" class="img-fluid" alt={t('alt_windows_3')} />
                           <figcaption class="figcaption">{t('caption_3')}</figcaption>
                         </figure>
                       </div>
                       <div class="carousel-item">
                         <figure class="figure">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_4.png" class="img-fluid" alt={t('alt_windows_4')} />
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_4.png" class="img-fluid" alt={t('alt_windows_4')} />
                           <figcaption class="figcaption">{t('caption_4')}</figcaption>
                         </figure>
                       </div>
@@ -159,6 +162,7 @@ class HowtoInner extends React.Component {
                     </button>
                   </div>
                 </div>
+              </div>
             </div>
           </div>
         </div>
