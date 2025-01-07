@@ -17,23 +17,23 @@ class HowtoInner extends React.Component {
             <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
           </div>
           <div class="col-md-3 col-sm-6">
-            <Carousel id="carouselIphone" gallery={gallery} images={[`iphone_1.png`, `iphone_2.png`, `iphone_3.png`, `iphone_4.png`]} />
+            <Carousel id="iphone" gallery={gallery} images={['1.png', '2.png', '3.png', '4.png']} />
           </div>
         </AccordionItem>
         <AccordionItem id="android" parent="accordionExample">
           <div class="col-md-3 col-sm-6">
-            <Carousel id="carouselAndroid" gallery={gallery} images={[`android_1.png`, `android_2.png`, `android_3.png`, `android_4.png`]} />
+            <Carousel id="android" gallery={gallery} images={['1.png', '2.png', '3.png', '4.png']} />
           </div>
           <div class="col-md-9 col-sm-6">
             <strong>{t('accordion_intro_android')}</strong>{t('accordion_contd_android')}
           </div>
         </AccordionItem>
         <AccordionItem id="windows" parent="accordionExample">
-          <div class="col-md-9 col-sm-6">
+          <div class="col-md-6 col-sm-6">
             <strong>{t('accordion_intro_windows')}</strong>{t('accordion_contd_windows')}
           </div>
-          <div class="col-md-3 col-sm-6">
-            <Carousel id="carouselWindows" gallery={gallery} images={[`windows_1.png`, `windows_2.png`, `windows_3.png`, `windows_4.png`]} />
+          <div class="col-md-6 col-sm-6">
+            <Carousel id="windows" gallery={gallery} images={[`1.png`, '2.png', '3.png', '4.png']} />
           </div>
         </AccordionItem>
       </div>
