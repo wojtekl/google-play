@@ -5,167 +5,37 @@ class HowtoInner extends React.Component {
   render() {
     const { t } = this.props
 
+    const gallery = 'https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/'
+
     return <div class="container">
       <h1 class="text-body-emphasis">{t('header_install')}</h1>
       <p class="fs-5 col-md-8 mb-5">{t('description_install')}</p>
       <hr class="col-3 col-md-2 mb-5"></hr>
       <div class="accordion" id="accordionExample">
-        <div class="accordion-item">
-          <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controlls="collapseOne">{t('accordion_header_iphone')}</button>
-          </h2>
-          <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-              <div class="row">
-                <div class="col-md-9 col-sm-6">
-                  <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
-                </div>
-                <div class="col-md-3 col-sm-6">
-                  <div id="carouselExample" class="carousel slide">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="d-block img-fluid" alt={t('alt_iphone_1')} />
-                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" class="d-block img-fluid" alt={t('alt_iphone_2')} />
-                          <figcaption class="figcaption">{t('caption_2')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" class="d-block img-fluid" alt={t('alt_iphone_3')} />
-                          <figcaption class="figcaption">{t('caption_3')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" class="d-block img-fluid" alt={t('alt_iphone_4')} />
-                          <figcaption class="figcaption">{t('caption_4')}</figcaption>
-                        </figure>
-                      </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span>
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
+        <AccordionItem id="iphone" parent="accordionExample">
+          <div class="col-md-9 col-sm-6">
+            <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
           </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controlls="collapseTwo">{t('accordion_header_android')}</button>
-          </h2>
-          <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-              <div class="row">
-                <div class="col-md-3 col-sm-6">
-                  <div id="carouselExample2" class="carousel slide">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_1.png" class="img-fluid" alt={t('alt_android_1')} />
-                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_2.png" class="img-fluid" alt={t('alt_android_2')} />
-                          <figcaption class="figcaption">{t('caption_2')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_3.png" class="img-fluid" alt={t('alt_android_3')} />
-                          <figcaption class="figcaption">{t('caption_3')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_4.png" class="img-fluid" alt={t('alt_android_4')} />
-                          <figcaption class="figcaption">{t('caption_4')}</figcaption>
-                        </figure>
-                      </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample2" data-bs-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample2" data-bs-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span>
-                    </button>
-                  </div>
-                </div>
-                <div class="col-md-9 col-sm-6">
-                  <strong>{t('accordion_intro_android')}</strong>{t('accordion_contd_android')}
-                </div>
-              </div>
-            </div>
+          <div class="col-md-3 col-sm-6">
+            <Carousel id="carouselIphone" gallery={gallery} images={[`iphone_1.png`, `iphone_2.png`, `iphone_3.png`, `iphone_4.png`]} />
           </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controlls="collapseThree">{t('accordion_header_windows')}</button>
-          </h2>
-          <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-              <div class="row">
-                <div class="col-md-9 col-sm-6">
-                  <strong>{t('accordion_intro_windows')}</strong>{t('accordion_contd_windows')}
-                </div>
-                <div class="col-md-3 col-sm-6">
-                  <div id="carouselExample3" class="carousel slide">
-                    <div class="carousel-inner">
-                      <div class="carousel-item active">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_1.png" class="img-fluid" alt={t('alt_windows_1')} />
-                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_2.png" class="img-fluid" alt={t('alt_windows_2')} />
-                          <figcaption class="figcaption">{t('caption_2')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_3.png" class="img-fluid" alt={t('alt_windows_3')} />
-                          <figcaption class="figcaption">{t('caption_3')}</figcaption>
-                        </figure>
-                      </div>
-                      <div class="carousel-item">
-                        <figure class="figure">
-                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/windows_4.png" class="img-fluid" alt={t('alt_windows_4')} />
-                          <figcaption class="figcaption">{t('caption_4')}</figcaption>
-                        </figure>
-                      </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample3" data-bs-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample3" data-bs-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span>
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
+        </AccordionItem>
+        <AccordionItem id="android" parent="accordionExample">
+          <div class="col-md-3 col-sm-6">
+            <Carousel id="carouselAndroid" gallery={gallery} images={[`android_1.png`, `android_2.png`, `android_3.png`, `android_4.png`]} />
           </div>
-        </div>
+          <div class="col-md-9 col-sm-6">
+            <strong>{t('accordion_intro_android')}</strong>{t('accordion_contd_android')}
+          </div>
+        </AccordionItem>
+        <AccordionItem id="windows" parent="accordionExample">
+          <div class="col-md-9 col-sm-6">
+            <strong>{t('accordion_intro_windows')}</strong>{t('accordion_contd_windows')}
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <Carousel id="carouselWindows" gallery={gallery} images={[`windows_1.png`, `windows_2.png`, `windows_3.png`, `windows_4.png`]} />
+          </div>
+        </AccordionItem>
       </div>
     </div>
   }
