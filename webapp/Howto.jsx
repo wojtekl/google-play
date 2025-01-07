@@ -16,33 +16,35 @@ class HowtoInner extends React.Component {
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
             <div class="accordion-body">
-              <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
               <div class="row">
                 <div class="col-4">
-                  <figure class="figure">
-                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="img-fluid" alt={t('alt_iphone_1')} />
-                    <figcaption class="figcaption"></figcaption>
-                  </figure>
+                  <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
                 </div>
                 <div class="col-4">
-                  <figure class="figure">
-                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" class="img-fluid" alt={t('alt_iphone_2')} />
-                    <figcaption class="figcaption"></figcaption>
-                  </figure>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-4">
-                  <figure class="figure">
-                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" class="img-fluid" alt={t('alt_iphone_3')} />
-                    <figcaption class="figcaption"></figcaption>
-                  </figure>
-                </div>
-                <div class="col-4">
-                  <figure class="figure">
-                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" class="img-fluid" alt={t('alt_iphone_4')} />
-                    <figcaption class="figcaption"></figcaption>
-                  </figure>
+                  <div id="carouselExample" class="carousel slide">
+                    <div class="carousel-inner">
+                      <div class="carousel-item">
+                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="d-block img-fluid" alt={t('alt_iphone_1')} />
+                      </div>
+                      <div class="carousel-item">
+                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" class="d-block img-fluid" alt={t('alt_iphone_2')} />
+                      </div>
+                      <div class="carousel-item">
+                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" class="d-block img-fluid" alt={t('alt_iphone_3')} />
+                      </div>
+                      <div class="carousel-item">
+                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" class="d-block img-fluid" alt={t('alt_iphone_4')} />
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
                 </div>
               </div>
             </div>
