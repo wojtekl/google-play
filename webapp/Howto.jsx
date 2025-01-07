@@ -18,13 +18,13 @@ class HowtoInner extends React.Component {
             <div class="accordion-body">
               <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
               <div class="row">
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="img-fluid" alt={t('alt_iphone_1')} />
                     <figcaption class="figcaption"></figcaption>
                   </figure>
                 </div>
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" class="img-fluid" alt={t('alt_iphone_2')} />
                     <figcaption class="figcaption"></figcaption>
@@ -32,13 +32,13 @@ class HowtoInner extends React.Component {
                 </div>
               </div>
               <div class="row">
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" class="img-fluid" alt={t('alt_iphone_3')} />
                     <figcaption class="figcaption"></figcaption>
                   </figure>
                 </div>
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" class="img-fluid" alt={t('alt_iphone_4')} />
                     <figcaption class="figcaption"></figcaption>
@@ -56,13 +56,13 @@ class HowtoInner extends React.Component {
             <div class="accordion-body">
               <strong>{t('accordion_intro_android')}</strong>{t('accordion_contd_android')}
               <div class="row">
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_1.png" class="img-fluid" alt={t('alt_android_1')} />
                     <figcaption class="figcaption"></figcaption>
                   </figure>
                 </div>
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_2.png" class="img-fluid" alt={t('alt_android_2')} />
                     <figcaption class="figcaption"></figcaption>
@@ -70,13 +70,13 @@ class HowtoInner extends React.Component {
                 </div>
               </div>
               <div class="row">
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_3.png" class="img-fluid" alt={t('alt_android_3')} />
                     <figcaption class="figcaption"></figcaption>
                   </figure>
                 </div>
-                <div class="col">
+                <div class="col-4">
                   <figure class="figure">
                     <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/android_4.png" class="img-fluid" alt={t('alt_android_4')} />
                     <figcaption class="figcaption"></figcaption>
