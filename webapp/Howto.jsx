@@ -17,10 +17,10 @@ class HowtoInner extends React.Component {
           <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <div class="row">
-                <div class="col-4">
+                <div class="col-9 col-sm-6">
                   <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
                 </div>
-                <div class="col-4">
+                <div class="col-3 col-sm-6">
                   <div id="carouselExample" class="carousel slide">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
