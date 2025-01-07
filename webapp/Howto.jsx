@@ -17,22 +17,34 @@ class HowtoInner extends React.Component {
           <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
             <div class="accordion-body">
               <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
-              <figure class="figure">
-                <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="img-fluid" alt={t('alt_iphone_1')} />
-                <figcaption class="figcaption"></figcaption>
-              </figure>
-              <figure class="figure">
-                <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" alt={t('alt_iphone_2')} />
-                <figcaption class="figcaption"></figcaption>
-              </figure>
-              <figure class="figure">
-                <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" alt={t('alt_iphone_3')} />
-                <figcaption class="figcaption"></figcaption>
-              </figure>
-              <figure class="figure">
-                <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" alt={t('alt_iphone_4')} />
-                <figcaption class="figcaption"></figcaption>
-              </figure>
+              <div class="row">
+                <div class="col">
+                  <figure class="figure">
+                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="img-fluid" alt={t('alt_iphone_1')} />
+                    <figcaption class="figcaption"></figcaption>
+                  </figure>
+                </div>
+                <div class="col">
+                  <figure class="figure">
+                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" alt={t('alt_iphone_2')} />
+                    <figcaption class="figcaption"></figcaption>
+                  </figure>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col">
+                  <figure class="figure">
+                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" alt={t('alt_iphone_3')} />
+                    <figcaption class="figcaption"></figcaption>
+                  </figure>
+                </div>
+                <div class="col">
+                  <figure class="figure">
+                    <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" alt={t('alt_iphone_4')} />
+                    <figcaption class="figcaption"></figcaption>
+                  </figure>
+                </div>
+              </div>
             </div>
           </div>
         </div>
