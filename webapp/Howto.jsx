@@ -23,7 +23,7 @@ class HowtoInner extends React.Component {
                 <div class="col-4">
                   <div id="carouselExample" class="carousel slide">
                     <div class="carousel-inner">
-                      <div class="carousel-item">
+                      <div class="carousel-item active">
                         <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="d-block img-fluid" alt={t('alt_iphone_1')} />
                       </div>
                       <div class="carousel-item">
