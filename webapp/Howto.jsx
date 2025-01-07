@@ -12,7 +12,7 @@ class HowtoInner extends React.Component {
       <p class="fs-5 col-md-8 mb-5">{t('description_install')}</p>
       <hr class="col-3 col-md-2 mb-5"></hr>
       <div class="accordion" id="accordionExample">
-        <AccordionItem id="iphone" parent="accordionExample">
+        <AccordionItem id="iphone" parent="accordionExample" show={true}>
           <div class="col-md-9 col-sm-6">
             <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
           </div>
