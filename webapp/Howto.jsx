@@ -24,16 +24,28 @@ class HowtoInner extends React.Component {
                   <div id="carouselExample" class="carousel slide">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="d-block img-fluid" alt={t('alt_iphone_1')} />
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_1.png" class="d-block img-fluid" alt={t('alt_iphone_1')} />
+                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
+                        </figure>
                       </div>
                       <div class="carousel-item">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" class="d-block img-fluid" alt={t('alt_iphone_2')} />
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_2.png" class="d-block img-fluid" alt={t('alt_iphone_2')} />
+                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
+                        </figure>
                       </div>
                       <div class="carousel-item">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" class="d-block img-fluid" alt={t('alt_iphone_3')} />
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_3.png" class="d-block img-fluid" alt={t('alt_iphone_3')} />
+                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
+                        </figure>
                       </div>
                       <div class="carousel-item">
-                        <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" class="d-block img-fluid" alt={t('alt_iphone_4')} />
+                        <figure class="figure">
+                          <img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/webapp/iphone_4.png" class="d-block img-fluid" alt={t('alt_iphone_4')} />
+                          <figcaption class="figcaption">{t('caption_1')}</figcaption>
+                        </figure>
                       </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
