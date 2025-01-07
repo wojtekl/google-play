@@ -34,7 +34,7 @@ const resources = {
       "title_offer": "Offer",
       "subtitle_products": "Products",
       "subtitle_offer": "Services",
-      "header_install": "How to install PWA appks",
+      "header_install": "How to install PWA apps",
       "description_install": "Select an item below to read installation steps for the platform on an exmaple browser. In other browsers this process looks simmilar but menu items and buttons might be named differently.",
       "accordion_header_iphone": "iPhone (Safari)",
       "accordion_intro_iphone": "Start by opening https://wlap.pl/ in Safari",
