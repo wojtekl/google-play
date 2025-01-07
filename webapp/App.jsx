@@ -1,4 +1,5 @@
-const withTranslation = ReactI18next.withTranslation;
+const withTranslation = ReactI18next.withTranslation
+
 
 class AppInner extends React.Component {
   render() {

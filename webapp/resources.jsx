@@ -33,7 +33,18 @@ const resources = {
       "button_back": "Back",
       "title_offer": "Offer",
       "subtitle_products": "Products",
-      "subtitle_offer": "Services"
+      "subtitle_offer": "Services",
+      "header_install": "How to install PWA appks",
+      "description_install": "Select an item below to read installation steps for the platform on an exmaple browser. In other browsers this process looks simmilar but menu items and buttons might be named differently.",
+      "accordion_header_iphone": "iPhone (Safari)",
+      "accordion_intro_iphone": "Start by opening https://wlap.pl/ in Safari",
+      "accordion_contd_iphone": "",
+      "accordion_header_android": "Android (e.g. Chrome)",
+      "accordion_intro_android": "Start by opening https://wlap.pl/ in a browser",
+      "accordion_contd_android": "",
+      "accordion_header_windows": "Windows (e.g. Chrome)",
+      "accordion_intro_windows": "Start by opening https://wlap.pl/ in a browser",
+      "accordion_contd_windows": ""
     }
   },
   pl: {
@@ -70,7 +81,18 @@ const resources = {
       "title_offer": "Oferta",
       "subtitle_products": "Produkty",
       "subtitle_offer": "Usługi",
-      "button_back": "Powrót"
+      "button_back": "Powrót",
+      "header_install": "Jak zainstalować aplikację typu PWA",
+      "description_install": "Poniżej przedstawiamy instrukcje instalacji na wybranych platformach przy użyciu przykładowych przeglądarek. Proces wygląda podobnie w innych przeglądarkach różnić mogą się nazwy menu i przycisków.",
+      "accordion_header_iphone": "iPhone (Safari)",
+      "accordion_intro_iphone": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w Safari",
+      "accordion_contd_iphone": "",
+      "accordion_header_android": "Android (Chrome)",
+      "accordion_intro_android": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w przeglądarce",
+      "accordion_contd_android": "",
+      "accordion_header_windows": "Windows (Chrome)",
+      "accordion_intro_windows": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w przeglądarce",
+      "accordion_contd_windows": ""
     }
   }
 }

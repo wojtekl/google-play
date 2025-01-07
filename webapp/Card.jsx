@@ -1,4 +1,5 @@
-const withTranslation = ReactI18next.withTranslation;
+const withTranslation = ReactI18next.withTranslation
+
 
 class CardInner extends React.Component {
   render() {
