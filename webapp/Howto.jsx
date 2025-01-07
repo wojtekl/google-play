@@ -39,4 +39,4 @@ class HowtoInner extends React.Component {
   }
 }
 
-const Howto = withTranslation(HowtoInner)
+const Howto = withTranslation()(HowtoInner)
