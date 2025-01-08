@@ -48,6 +48,11 @@ class ListInner extends React.Component {
     this.setState({ filtered: 2 < phrase.length ? list.filter(i => i.item.toLowerCase().includes(phrase)) : list })
   }
 
+  handleSearch = (event) => {
+    event.preventDefault()
+    return false
+  }
+
   handleChange = (event) => {
     const { list } = this.props
     const { selected } = this.state
@@ -100,7 +105,7 @@ class ListInner extends React.Component {
       </Navbar>
       <Container>
         {!selected && <Row className="mt-3">
-          <form class="form-inline my-2" role="search">
+          <form class="form-inline my-2" role="search" onSubmit={this.handleSearch}>
             <input class="form-control mr-sm-2" type="search" name="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} maxlength="25" />
           </form>
         </Row>}
