@@ -51,6 +51,7 @@ class AppInner extends React.Component {
   }
 
   render() {
+    const { t } = this.props
     const { warning, source } = this.state
     return !warning ? source : <>
   <div class="alert alert-warning" role="alert">{t('message_warning')}</div>
