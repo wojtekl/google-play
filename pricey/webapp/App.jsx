@@ -7,9 +7,6 @@ class AppInner extends React.Component {
   constructor(props) {
     super(props)
 
-    this.state = {
-      warning: store.getState().warning
-    }
     const { t } = this.props
     document.title = t('title_app')
     document.getElementsByTagName('meta').description.content = t('meta_description')
@@ -22,7 +19,8 @@ class AppInner extends React.Component {
             <Spinner animation="border" variant="warning" role="status" />
           </Row>
         </Container>
-      )
+      ),
+      warning: store.getState().warning
     }
   }
 
@@ -53,8 +51,8 @@ class AppInner extends React.Component {
   }
 
   render() {
-    const { warning } = this.state
-    return !warning ? this.state.source : <>
+    const { warning, source } = this.state
+    return !warning ? source : <>
   <div class="alert alert-warning" role="alert">{t('message_warning')}</div>
   <button type="button" class="btn btn-primary" onClick={this.handleGotit}>{t('button_gotit')}</button>
 </>
