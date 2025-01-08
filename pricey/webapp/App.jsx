@@ -7,6 +7,9 @@ class AppInner extends React.Component {
   constructor(props) {
     super(props)
 
+    this.state = {
+      warning: store.getState().warning
+    }
     const { t } = this.props
     document.title = t('title_app')
     document.getElementsByTagName('meta').description.content = t('meta_description')
@@ -31,6 +34,11 @@ class AppInner extends React.Component {
     this.setState({ source: <App /> })
   }
 
+  handleGotit = () => {
+    this.setState({ warning: false })
+    store.dispatch({ type: 'warning/set' })
+  }
+
   componentWillMount() {
     const self = this
     const formData = new FormData()
@@ -45,7 +53,11 @@ class AppInner extends React.Component {
   }
 
   render() {
-    return this.state.source
+    const { warning } = this.state
+    return !warning ? this.state.source : <>
+  <div class="alert alert-warning" role="alert">{t('message_warning')}</div>
+  <button type="button" class="btn btn-primary" onClick={this.handleGotit}>{t('button_gotit')}</button>
+</>
   }
 }
 

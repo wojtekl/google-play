@@ -15,7 +15,8 @@ if ('serviceWorker' in navigator) {
 
 const state = localStorage.getItem('redux')
 const initialState = !state ? {
-  value: []
+  value: [],
+  warning: true
 } : JSON.parse(state)
 
 const selectedReducer = (state = initialState, action) => {
@@ -24,6 +25,8 @@ const selectedReducer = (state = initialState, action) => {
       return { ...state, value: state.value.concat([action.payload]) }
     case 'selected/removed':
       return { ...state, value: state.value.filter(i => i != action.payload) }
+    case 'warning/set':
+      return { ...state, warning: false }
     default:
       return state
   }
