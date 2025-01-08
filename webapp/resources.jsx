@@ -90,7 +90,7 @@ const resources = {
       "description_install": "Poniżej przedstawiamy instrukcje instalacji na wybranych platformach przy użyciu przykładowych przeglądarek. Proces wygląda podobnie w innych przeglądarkach różnić mogą się nazwy menu i przycisków.",
       "accordion_header_iphone": "iPhone (Safari)",
       "accordion_intro_iphone": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w Safari",
-      "accordion_contd_iphone": "",
+      "accordion_contd_iphone": "Zobaczysz obraz jak na Ekranie 1. Otwórz menu i wybierz 'Dodaj do ekranu głównego' patrz Ekran 2, a następnie 'Dodaj' jak na Ekranie 3. Po wykonaniu tych kroków na ekranie głównym zobaczysz obraz jak na Ekranie 4 po prawej.",
       "accordion_header_android": "Android (Chrome)",
       "accordion_intro_android": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w przeglądarce",
       "accordion_contd_android": "",
