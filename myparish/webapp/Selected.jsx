@@ -16,6 +16,8 @@ const Selected = () => {
 
   const selected = clients.clients.find(i => i.name === name)
 
+  const saved = name === store.getState().value
+
   return (<>
     <Navbar expand="md">
       <Container>
@@ -51,7 +53,7 @@ const Selected = () => {
         {selected.other && <ListGroup.Item action href={selected.other} rel="external">{t('list_other')}</ListGroup.Item>}
         {selected.live && <ListGroup.Item action href={selected.live} rel="external">{t('list_live')}</ListGroup.Item>}
         <ListGroup.Item action href={`https://www.openstreetmap.org/directions?from=&to=${selected.latitude}%2C${selected.longitude}`} rel="external">{t('list_directions')}</ListGroup.Item>
-        <ListGroup.Item action onClick={handleSelect}>{t('list_select')}</ListGroup.Item>
+        {!saved && <ListGroup.Item action onClick={handleSelect}>{t('list_select')}</ListGroup.Item>}
       </ListGroup> : <p>{t('label_missing')}</p>}
     </Container>
   </>)
