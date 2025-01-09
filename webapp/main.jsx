@@ -1,13 +1,13 @@
 
-const Router = ReactRouterDOM.HashRouter;
-const Routes = ReactRouterDOM.Routes;
-const Route = ReactRouterDOM.Route;
-const useNavigate = ReactRouterDOM.useNavigate;
-const NavLink = ReactRouterDOM.NavLink;
+const Router = ReactRouterDOM.HashRouter
+const Routes = ReactRouterDOM.Routes
+const Route = ReactRouterDOM.Route
+const useNavigate = ReactRouterDOM.useNavigate
+const NavLink = ReactRouterDOM.NavLink
 
-const i18n = i18next;
-const initReactI18next = ReactI18next.initReactI18next;
-const useTranslation = ReactI18next.useTranslation;
+const i18n = i18next
+const initReactI18next = ReactI18next.initReactI18next
+const useTranslation = ReactI18next.useTranslation
 
 
 const lang = new URLSearchParams(new URL(window.location).search).get("lang") ?? navigator.language.substring(0, 2).toLocaleLowerCase();
