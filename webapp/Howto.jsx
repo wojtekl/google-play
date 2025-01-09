@@ -47,7 +47,7 @@ class HowtoInner extends React.Component {
           <hr class="col-3 col-md-2 mb-5"></hr>
           <div class="accordion" id="accordionExample">
             <AccordionItem id="iphone" parent="accordionExample" show={true}>
-              <div class="col-md-9 col-sm-6">
+              <div class="col-md-10 col-sm-6">
                 <strong>{t('accordion_intro_iphone')}</strong>
                 <ul>
                   <li>{t('accordion_contd1_iphone')}</li>
@@ -56,15 +56,15 @@ class HowtoInner extends React.Component {
                   <li>{t('accordion_contd4_iphone')}</li>
                 </ul>
               </div>
-              <div class="col-md-3 col-sm-6" data-bs-theme="dark">
+              <div class="col-md-2 col-sm-6" data-bs-theme="dark">
                 <Carousel id="iphone" gallery={gallery} images={['1.png', '2.png', '3.png', '4.png']} />
               </div>
             </AccordionItem>
             <AccordionItem id="android" parent="accordionExample">
-              <div class="col-md-3 col-sm-6" data-bs-theme="dark">
+              <div class="col-md-2 col-sm-6" data-bs-theme="dark">
                 <Carousel id="android" gallery={gallery} images={['1.png', '2.png', '3.png', '4.png']} />
               </div>
-              <div class="col-md-9 col-sm-6">
+              <div class="col-md-10 col-sm-6">
                 <ul>
                   <strong>{t('accordion_intro_android')}</strong>
                   <li>{t('accordion_contd1_android')}</li>
