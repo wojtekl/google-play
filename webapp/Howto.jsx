@@ -48,7 +48,7 @@ class HowtoInner extends React.Component {
           <div class="accordion" id="accordionExample">
             <AccordionItem id="iphone" parent="accordionExample" show={true}>
               <div class="col-md-9 col-sm-6">
-                <strong><Trans i18nKey="accordion_intro_iphone" /></strong><Trans i18nKey="accordion_contd_iphone" />
+                <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
               </div>
               <div class="col-md-3 col-sm-6" data-bs-theme="dark">
                 <Carousel id="iphone" gallery={gallery} images={['1.png', '2.png', '3.png', '4.png']} />
