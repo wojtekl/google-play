@@ -89,14 +89,23 @@ const resources = {
       "header_install": "Jak zainstalować aplikację typu PWA",
       "description_install": "Poniżej przedstawiamy instrukcje instalacji na wybranych platformach przy użyciu przykładowych przeglądarek. Proces wygląda podobnie w innych przeglądarkach różnić mogą się nazwy menu i przycisków.",
       "accordion_header_iphone": "iPhone (Safari)",
-      "accordion_intro_iphone": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w Safari\n",
-      "accordion_contd_iphone": "Zobaczysz obraz jak na Ekranie 1.\nOtwórz menu i wybierz 'Dodaj do ekranu głównego' patrz Ekran 2,\na następnie 'Dodaj' jak na Ekranie 3. Po wykonaniu tych kroków na ekranie głównym zobaczysz obraz jak na Ekranie 4 po prawej.",
+      "accordion_intro_iphone": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w Safari",
+      "accordion_contd1_iphone": "Zobaczysz obraz jak na Ekranie 1.",
+      "accordion_contd2_iphone": "Otwórz menu i wybierz 'Dodaj do ekranu głównego' patrz Ekran 2,",
+      "accordion_contd3_iphone": "a następnie 'Dodaj' jak na Ekranie 3.",
+      "accordion_contd4_iphone": "Po wykonaniu tych kroków na ekranie głównym zobaczysz obraz jak na Ekranie 4 po prawej.",
       "accordion_header_android": "Android (Chrome)",
       "accordion_intro_android": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w przeglądarce",
-      "accordion_contd_android": "",
+      "accordion_contd1_android": "",
+      "accordion_contd2_android": "",
+      "accordion_contd3_android": "",
+      "accordion_contd4_android": "",
       "accordion_header_windows": "Windows (Chrome)",
       "accordion_intro_windows": "Instalację rozpocznij od otwarcia strony https://wlap.pl/ w przeglądarce",
-      "accordion_contd_windows": ""
+      "accordion_contd1_windows": "",
+      "accordion_contd2_windows": "",
+      "accordion_contd3_windows": "",
+      "accordion_contd4_windows": ""
     }
   }
 }

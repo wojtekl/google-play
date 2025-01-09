@@ -48,7 +48,13 @@ class HowtoInner extends React.Component {
           <div class="accordion" id="accordionExample">
             <AccordionItem id="iphone" parent="accordionExample" show={true}>
               <div class="col-md-9 col-sm-6">
-                <strong>{t('accordion_intro_iphone')}</strong>{t('accordion_contd_iphone')}
+                <strong>{t('accordion_intro_iphone')}</strong>
+                <ul class="list-unstyled">
+                  <li>{t('accordion_contd1_iphone')}</li>
+                  <li>{t('accordion_contd2_iphone')}</li>
+                  <li>{t('accordion_contd3_iphone')}</li>
+                  <li>{t('accordion_contd4_iphone')}</li>
+                </ul>
               </div>
               <div class="col-md-3 col-sm-6" data-bs-theme="dark">
                 <Carousel id="iphone" gallery={gallery} images={['1.png', '2.png', '3.png', '4.png']} />
@@ -59,12 +65,24 @@ class HowtoInner extends React.Component {
                 <Carousel id="android" gallery={gallery} images={['1.png', '2.png', '3.png', '4.png']} />
               </div>
               <div class="col-md-9 col-sm-6">
-                <strong>{t('accordion_intro_android')}</strong>{t('accordion_contd_android')}
+                <ul class="list-unstyled">
+                  <strong>{t('accordion_intro_android')}</strong>
+                  <li>{t('accordion_contd1_android')}</li>
+                  <li>{t('accordion_contd2_android')}</li>
+                  <li>{t('accordion_contd3_android')}</li>
+                  <li>{t('accordion_contd4_android')}</li>
+                </ul>
               </div>
             </AccordionItem>
             <AccordionItem id="windows" parent="accordionExample">
               <div class="col-md-6 col-sm-6">
-                <strong>{t('accordion_intro_windows')}</strong>{t('accordion_contd_windows')}
+                <ul class="list-unstyled">
+                  <strong>{t('accordion_intro_windows')}</strong>
+                  <li>{t('accordion_contd1_windows')}</li>
+                  <li>{t('accordion_contd2_windows')}</li>
+                  <li>{t('accordion_contd3_windows')}</li>
+                  <li>{t('accordion_contd4_windows')}</li>
+                </ul>
               </div>
               <div class="col-md-6 col-sm-6" data-bs-theme="dark">
                 <Carousel id="windows" gallery={gallery} images={[`1.png`, '2.png', '3.png', '4.png']} />
