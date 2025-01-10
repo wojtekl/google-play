@@ -3,7 +3,7 @@ const resources = {
     translation: {
       "label_loading": "Loading...",
       "label_item": "Item",
-      "title_app": "Pricey the app by wlap.pl",
+      "title_app": "Pricey by wlap.pl",
       "nav_home": "Home",
       "nav_yourlist": "Your list",
       "nav_aboutus": "About us",
@@ -40,7 +40,7 @@ const resources = {
     translation: {
       "label_loading": "Wczytuję...",
       "label_item": "Produkt",
-      "title_app": "apka Pricey od wlap.pl",
+      "title_app": "Pricey od wlap.pl",
       "nav_home": "Strona główna",
       "nav_yourlist": "Twoja lista",
       "nav_aboutus": "O nas",
