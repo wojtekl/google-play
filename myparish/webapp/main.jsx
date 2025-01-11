@@ -2,16 +2,13 @@ const Router = ReactRouterDOM.HashRouter
 const Routes = ReactRouterDOM.Routes
 const Route = ReactRouterDOM.Route
 const useNavigate = ReactRouterDOM.useNavigate
-const useParams = ReactRouterDOM.useParams
-const NavLink = ReactRouterDOM.NavLink
 const Provider = ReactRedux.Provider
 const i18n = i18next
 const initReactI18next = ReactI18next.initReactI18next
 const useTranslation = ReactI18next.useTranslation
+const withTranslation = ReactI18next.withTranslation
 
-const Button = ReactBootstrap.Button
 const Container = ReactBootstrap.Container
-const Form = ReactBootstrap.Form
 const Image = ReactBootstrap.Image
 const ListGroup = ReactBootstrap.ListGroup
 const Navbar = ReactBootstrap.Navbar

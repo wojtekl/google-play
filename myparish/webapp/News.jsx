@@ -1,6 +1,3 @@
-const withTranslation = ReactI18next.withTranslation
-
-
 class NewsInner extends React.Component {
 
   render() {

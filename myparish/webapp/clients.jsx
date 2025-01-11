@@ -1,6 +1,5 @@
 const clients = {
-  "updated": 1732896680765,
-  "clients": [
+  clients: [
     {
       "name": "Bartąg: Parafia Świętego Jana Ewangelisty",
       "schedule": "https://parafiabartag.pl/int/#content",

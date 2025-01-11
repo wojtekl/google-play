@@ -1,3 +1,5 @@
+const useParams = ReactRouterDOM.useParams
+
 const Breadcrumb = ReactBootstrap.Breadcrumb
 
 
