@@ -2,6 +2,7 @@ const withTranslation = ReactI18next.withTranslation
 
 
 class AppInner extends React.Component {
+
   render() {
     const { t } = this.props
 

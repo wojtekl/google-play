@@ -2,6 +2,7 @@ const withTranslation = ReactI18next.withTranslation
 
 
 class AccordionItemInner extends React.Component {
+
   render() {
     const { id, parent, show = false, children, t } = this.props
 

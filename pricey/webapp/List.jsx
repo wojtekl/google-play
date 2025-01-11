@@ -63,7 +63,7 @@ class ListInner extends React.Component {
   }
 
   render() {
-    const { t, selected, properties, expandable, list, back } = this.props
+    const { selected, properties, expandable, list, back, t } = this.props
     const { filtered, show } = this.state
 
     const isYourList = new URLSearchParams(new URL(window.location).search).has('selected')

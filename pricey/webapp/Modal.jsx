@@ -17,7 +17,7 @@ class ModalInner extends React.Component {
   }
 
   render() {
-    const { show, handleClose, t, item, storeName } = this.props
+    const { show, handleClose, item, storeName, t } = this.props
 
     return (
       <BModal id="exampleModal" show={show} size="sm" aria-labelledby="exampleModalLabel" onHide={handleClose} centered>

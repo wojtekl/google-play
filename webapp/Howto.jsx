@@ -2,6 +2,7 @@ const withTranslation = ReactI18next.withTranslation
 
 
 class HowtoInner extends React.Component {
+
   render() {
     const { t } = this.props
 

@@ -2,6 +2,7 @@ const withTranslation = ReactI18next.withTranslation
 
 
 class CarouselInner extends React.Component {
+
   render() {
     const { id, gallery, images, t } = this.props
 
