@@ -10,7 +10,7 @@ const Selected = () => {
 
   const handleClick = () => {
     navigate(-1)
-  };
+  }
 
   const handleSelect = () => {
     store.dispatch({ type: 'selected/added', payload: name })

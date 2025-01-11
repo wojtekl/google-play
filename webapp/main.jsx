@@ -6,7 +6,7 @@ const Route = ReactRouterDOM.Route
 const initReactI18next = ReactI18next.initReactI18next
 
 
-const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase();
+const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
 
 i18next.use(initReactI18next).init({
   resources: resources,
@@ -24,4 +24,4 @@ ReactDOM.render((
       <Route path="howto" element={<Howto />} />
     </Routes>
   </Router>
-), document.getElementById('app'));
+), document.getElementById('app'))
