@@ -6,7 +6,6 @@ const Provider = ReactRedux.Provider
 const i18n = i18next
 const initReactI18next = ReactI18next.initReactI18next
 const useTranslation = ReactI18next.useTranslation
-const withTranslation = ReactI18next.withTranslation
 
 const Container = ReactBootstrap.Container
 const Image = ReactBootstrap.Image
