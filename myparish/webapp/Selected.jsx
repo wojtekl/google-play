@@ -9,7 +9,7 @@ const Selected = () => {
   const { t } = useTranslation()
 
   const handleClick = () => {
-    navigate(-1);
+    navigate(-1)
   };
 
   const handleSelect = () => {
