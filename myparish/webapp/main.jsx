@@ -22,7 +22,7 @@ if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/sw.js')
 }
 
-const markerDefault =  L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px" aria-label="Marker default"></i>', className: "markerDefault", size: [20, 23], iconAnchor: [10, 11] })
+const markerDefault = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px" aria-label="Marker default"></i>', className: "markerDefault", size: [20, 23], iconAnchor: [10, 11] })
 const markerLive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: red" aria-label="Marker live"></i>', className: "markerLive", size: [20, 23], iconAnchor: [10, 11] })
 const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="font-size: 20px; color: blue" aria-label="Marker active"></i>', className: "markerActive", size: [20, 23], iconAnchor: [10, 11] })
 
@@ -47,7 +47,7 @@ const lang = new URLSearchParams(new URL(window.location).search).get('lang') ??
 i18n.use(initReactI18next).init({
   resources: resources,
   lng: lang,
-  fallbacking: "en",
+  fallbacking: "pl",
   interpolation: {
     escapeValue: false
   }

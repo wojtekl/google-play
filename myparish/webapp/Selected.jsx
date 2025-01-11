@@ -21,7 +21,7 @@ const Selected = () => {
   return (<>
     <Navbar expand="md">
       <Container>
-        <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
+        <Navbar.Brand><img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
@@ -30,13 +30,6 @@ const Selected = () => {
             <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
             <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
             <Nav.Link href="https://play.google.com/store/apps/details?id=github.wleap.myparish" rel="external"><Image src={t('url_get')} style={{ maxHeight: "40px" }} /></Nav.Link>
-            <Nav.Link disabled>
-              <p>
-                <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA" rel="external">
-                  <img src="https://achecks.org/images/icon_W2_aa.jpg" alt="WCAG 2.0 (Level AA)" height="32" width="102" />
-                </a>
-              </p>
-            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

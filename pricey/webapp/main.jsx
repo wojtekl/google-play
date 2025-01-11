@@ -10,7 +10,7 @@ const Image = ReactBootstrap.Image
 
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('./sw.js')
+  navigator.serviceWorker.register('/sw.js')
 }
 
 const state = localStorage.getItem('redux')
@@ -37,7 +37,7 @@ const lang = new URLSearchParams(new URL(window.location).search).get('lang') ??
 i18n.use(initReactI18next).init({
   resources: resources,
   lng: lang,
-  fallbacking: "en",
+  fallbacking: "pl",
   interpolation: {
     escapeValue: false
   }
@@ -53,5 +53,3 @@ const container = document.getElementById('root')
 const root = ReactDOM.createRoot(container)
 
 root.render(<Provider store={store}><App /></Provider>)
-
-const { t } = useTranslation()
