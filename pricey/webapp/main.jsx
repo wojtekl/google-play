@@ -10,7 +10,7 @@ const Image = ReactBootstrap.Image
 
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/sw.js')
+  navigator.serviceWorker.register('./sw.js')
 }
 
 const state = localStorage.getItem('redux')
@@ -53,3 +53,5 @@ const container = document.getElementById('root')
 const root = ReactDOM.createRoot(container)
 
 root.render(<Provider store={store}><App /></Provider>)
+
+const { t } = useTranslation()
