@@ -16,7 +16,7 @@ class ListInner extends React.Component {
   state = {
     list: this.props.list,
     selected: null,
-    filtered: list,
+    filtered: this.props.list,
     show: false
   }
 
