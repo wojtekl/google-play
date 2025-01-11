@@ -4,31 +4,23 @@ const Spinner = ReactBootstrap.Spinner
 
 
 class AppInner extends React.Component {
-  constructor(props) {
-    super(props)
 
-    const { t } = this.props
-    document.title = t('title_app')
-    document.getElementsByTagName('meta').description.content = t('meta_description')
-    document.getElementsByTagName('meta').keywords.content = t('meta_keywords')
-
-    this.state = {
-      source: (
-        <Container fluid>
-          <Row className="mt-3">
-            <Spinner animation="border" variant="warning" role="status" />
-          </Row>
-        </Container>
-      ),
-      warning: store.getState().warning
-    }
+  state = {
+    source: (
+      <Container fluid>
+        <Row className="mt-3">
+          <Spinner animation="border" variant="warning" role="status" />
+        </Row>
+      </Container>
+    ),
+    warning: store.getState().warning
   }
 
-  replace = (source) => {
+  handleReplace = (source) => {
     this.setState({ source: source })
   }
 
-  back = () => {
+  handleBack = () => {
     this.setState({ source: <App /> })
   }
 
@@ -37,26 +29,31 @@ class AppInner extends React.Component {
     store.dispatch({ type: 'warning/set' })
   }
 
-  componentWillMount() {
-    const self = this
+  componentDidMount() {
     const formData = new FormData()
     formData.append('lang', lang)
     const selected = new URLSearchParams(new URL(window.location).search).get('selected')
     if (selected) {
       formData.append('selected', selected)
     }
+    const parent = this
     axios.post(`items?lang=${lang}`, formData).then(function (response) {
-      self.replace(<List properties={columns_list} list={response.data} expandable={true} replace={self.replace} back={self.back} />)
+      parent.handleReplace(<List properties={columns_list} list={response.data} expandable={true} replace={parent.handleReplace} back={parent.handleBack} />)
     })
+
+    const { t } = this.props
+    document.title = t('title_app')
+    document.getElementsByTagName('meta').description.content = t('meta_description')
+    document.getElementsByTagName('meta').keywords.content = t('meta_keywords')
   }
 
   render() {
     const { t } = this.props
     const { warning, source } = this.state
     return !warning ? source : <>
-  <div class="alert alert-warning" role="alert">{t('message_warning')}</div>
-  <button type="button" class="btn btn-primary" onClick={this.handleGotit}>{t('button_gotit')}</button>
-</>
+      <div class="alert alert-warning" role="alert">{t('message_warning')}</div>
+      <button type="button" class="btn btn-primary" onClick={this.handleGotit}>{t('button_gotit')}</button>
+    </>
   }
 }
 

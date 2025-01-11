@@ -10,26 +10,14 @@ const Table = ReactBootstrap.Table
 
 const columns_list = ['item', 'store', 'price', 'posted']
 const columns_details = ['store', 'price', 'posted', 'coupon', 'bulk']
-const t_columns = {
-  item: "label_item",
-  store: "label_store",
-  price: "label_price",
-  posted: "label_posted",
-  coupon: "label_coupon",
-  bulk: "label_bulk"
-}
 
 class ListInner extends React.Component {
-  constructor(props) {
-    super(props)
 
-    const { list } = props
-    this.state = {
-      list: list,
-      selected: null,
-      filtered: list,
-      show: false
-    }
+  state = {
+    list: this.props.list,
+    selected: null,
+    filtered: list,
+    show: false
   }
 
   handleClick = () => {
@@ -83,7 +71,7 @@ class ListInner extends React.Component {
     return (<>
       <Navbar expand="md">
         <Container>
-          <Navbar.Brand><img src="https://github.com/wojtekl/google-play/raw/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
+          <Navbar.Brand><img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
@@ -91,14 +79,7 @@ class ListInner extends React.Component {
               {!isYourList ? <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link> : <Nav.Link href="/" rel="bookmark">{t('nav_home')}</Nav.Link>}
               <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://rb.gy/sqezhd" rel="external"><Image src={t('url_get')} style={{maxHeight: "40px"}} /></Nav.Link>
-              <Nav.Link disabled>
-                <p>
-                  <a href="https://achecks.org/checker/index.php?uri=referer&gid=WCAG2-AA">
-                    <img src="https://achecks.org/images/icon_W2_aa.jpg" alt="WCAG 2.0 (Level AA)" height="32" width="102" />
-                  </a>
-                </p>
-              </Nav.Link>
+              <Nav.Link href="https://rb.gy/sqezhd" rel="external"><Image src={t('url_get')} style={{ maxHeight: "40px" }} /></Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
@@ -121,7 +102,7 @@ class ListInner extends React.Component {
               <tr>
                 <th> X </th>
                 {properties.map(property => {
-                  return (<th> {String(t(t_columns[property])).toUpperCase()} </th>)
+                  return (<th> {String(t(`label_${property}`)).toUpperCase()} </th>)
                 })}
                 {expandable && <th> {t('label_more').toUpperCase()} </th>}
               </tr>
