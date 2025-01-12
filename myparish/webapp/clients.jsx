@@ -1547,6 +1547,32 @@ const clients = {
       "longitude": 18.942128
     },
     {
+      "name": "Racibórz: Parafia Wniebowzięcia NMP",
+      "schedule": "https://farny-raciborz.pl/parafia/intencje-ogloszenia/",
+      "announcement": "https://farny-raciborz.pl/parafia/intencje-ogloszenia/#:~:text=ogłoszenia",
+      "contact": "https://farny-raciborz.pl/kontakt/",
+      "other": "https://acjeruzalem.pl/",
+      "live": "https://www.youtube.com/@parafiawniebowziecianmpwra6077/streams",
+      "week": ["06:30*", "18:00"],
+      "sunday": ["07:00", "09:00", "10:30", "12:00", "14:00*", "19:00"],
+      "description": "",
+      "latitude": 50.091092,
+      "longitude": 18.220533
+    },
+    {
+      "name": "Racibórz, Ostróg: Parafia św. Jana Chrzciciela",
+      "schedule": "http://www.parafiaostrog.pl/site/strony/3-intencje-mszy-sw--.html#main_site",
+      "announcement": "http://www.parafiaostrog.pl/site/artykuly/77-ogloszenia-.html#main_site",
+      "contact": "http://www.parafiaostrog.pl/site/strony/5-kontakt.html#main_site",
+      "other": "",
+      "live": "https://www.raciborz24.pl/kamera/kosciol-ostrog",
+      "week": ["06:45", "18:00"],
+      "sunday": ["07:30", "09:00", "10:30", "12:00", "14:00", "17:00"],
+      "description": "",
+      "latitude": 50.098032,
+      "longitude": 18.223341
+    },
+    {
       "name": "Radom: Parafia pw Opieki Najświętszej Maryi Panny",
       "schedule": "https://katedra.radom.pl/KateraRadomska/bez-kategorii/#content-main",
       "announcement": "https://katedra.radom.pl/ogloszenia/#content-main",
