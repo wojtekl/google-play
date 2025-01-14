@@ -69,7 +69,7 @@ const resources = {
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
       "meta_description": "Zapisuj ceny produktów w sklepach, zaproś znajomych, sprawdzaj co oni przesłali, porównuj promocje oraz ceny zakupów w czasie",
       "meta_keywords": "pwa, apka zakupy, cena, lista, sklep, koszt",
-      "message_warning": "Dane zawarte w tej aplikacji mają wyłącznie charakter informacyjny i nie są podstawą do dochodzenia. Dokładamy wszelkich starań aby były aktualne ale nie można zagwarantować że zawsze będą odzwierciedlały stan rzeczywisty. Jeśli doceniasz pracę osób które dostarczają te dane możesz do nich dołączyć lub ofiarować datek na rozwój tej aplikacji.",
+      "message_warning": "Dane zawarte w tej aplikacji mają wyłącznie charakter informacyjny i nie są podstawą do dochodzenia. Dokładamy wszelkich starań aby były aktualne ale nie można zagwarantować że zawsze będą odzwierciedlały stan rzeczywisty. Jeśli doceniasz pracę osób które dostarczają te dane również możesz je tutaj umieszczać, pokazać tę aplikację znajomym, korzystać z wersji mobilnej zawierającej reklamy lub ofiarować chociaż niewielką kwotę na utrzymanie i rozwój.",
       "button_gotit": "Rozumiem"
     }
   }
