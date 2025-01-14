@@ -20,12 +20,12 @@ const Selected = () => {
 
   const selected = clients.clients.find(i => i.name === name)
 
-  const urls = 'pl' === lang ? {
+  const urls = 'pl' === lang ? selected : {
     ...selected,
     schedule: `${translate}${selected.schedule}`,
     announcement: `${translate}${selected.announcement}`,
     contact: `${translate}${selected.contact}`
-  } : selected
+  }
 
   const saved = name === store.getState().value
 
