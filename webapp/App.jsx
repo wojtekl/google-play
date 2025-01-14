@@ -65,7 +65,7 @@ class AppInner extends React.Component {
                 small="name_pricey"
               />
               <Card
-                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_myparish"
                 urlButtonOnline="https://parafia.wlap.pl"
                 urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.myparish"
