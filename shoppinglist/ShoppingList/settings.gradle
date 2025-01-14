@@ -1,2 +1,0 @@
-include ':app', ':commons-debug'
-rootProject.name='ShoppingList'

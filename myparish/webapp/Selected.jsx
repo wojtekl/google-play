@@ -8,6 +8,8 @@ const Selected = () => {
   const navigate = useNavigate()
   const { t } = useTranslation()
 
+  const translate = 'https://translate.google.com/translate?js=n&sl=pl&tl=en&u='
+
   const handleClick = () => {
     navigate(-1)
   }
@@ -17,6 +19,13 @@ const Selected = () => {
   }
 
   const selected = clients.clients.find(i => i.name === name)
+
+  const urls = 'pl' === lang ? {
+    ...selected,
+    schedule: `${translate}${selected.schedule}`,
+    announcement: `${translate}${selected.announcement}`,
+    contact: `${translate}${selected.contact}`
+  } : selected
 
   const saved = name === store.getState().value
 
@@ -42,9 +51,9 @@ const Selected = () => {
         {selected && <Breadcrumb.Item active>{selected.name}</Breadcrumb.Item>}
       </Breadcrumb>
       {selected ? <ListGroup>
-        <ListGroup.Item action href={selected.schedule} rel="external">{t('list_schedule')}</ListGroup.Item>
-        <ListGroup.Item action href={selected.announcement} rel="external">{t('list_announcement')}</ListGroup.Item>
-        <ListGroup.Item action href={selected.contact} rel="external">{t('list_contact')}</ListGroup.Item>
+        <ListGroup.Item action href={urls.schedule} rel="external">{t('list_schedule')}</ListGroup.Item>
+        <ListGroup.Item action href={urls.announcement} rel="external">{t('list_announcement')}</ListGroup.Item>
+        <ListGroup.Item action href={urls.contact} rel="external">{t('list_contact')}</ListGroup.Item>
         {selected.other && <ListGroup.Item action href={selected.other} rel="external">{t('list_other')}</ListGroup.Item>}
         {selected.live && <ListGroup.Item action href={selected.live} rel="external">{t('list_live')}</ListGroup.Item>}
         <ListGroup.Item action href={`https://www.openstreetmap.org/directions?from=&to=${selected.latitude}%2C${selected.longitude}`} rel="external">{t('list_directions')}</ListGroup.Item>
