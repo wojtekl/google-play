@@ -1,18 +1,18 @@
 {
-  "name": "MojaParafia od wlap.pl",
-  "short_name": "MojaParafia",
+  "name": "Moja Parafia od wlap.pl",
+  "short_name": "Moja Parafia",
   "start_url": "https://parafia.wlap.pl/",
   "icons": [
     {
-      "src": "https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+      "src": "https://github.com/wojtekl/google-play/raw/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
       "sizes": "48x48"
     },
     {
-      "src": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MyParish/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+      "src": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
       "sizes": "192x192"
     },
     {
-      "src": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MyParish/app/src/main/ic_launcher-playstore.png",
+      "src": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/ic_launcher-playstore.png",
       "sizes": "512x512"
     }
   ],

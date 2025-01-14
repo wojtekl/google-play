@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Parish</string>
+    <string name="title_activity_main">My Parish</string>
+
+    <string name="app_url" translatable="false">https://parafia.wlap.pl/</string>
+
+    <string name="ad_app_id" translatable="false">ca-app-pub-4377490341302105~4928953797</string>
+    <string name="app_open_ad_unit_id" translatable="false">ca-app-pub-4377490341302105/5570188811</string>
+</resources>

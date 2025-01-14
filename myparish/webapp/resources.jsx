@@ -1,7 +1,7 @@
 const resources = {
   en: {
     translation: {
-      "title_app": "MyParish by wlap.pl",
+      "title_app": "My Parish by wlap.pl",
       "see_link": "See",
       "list_schedule": "Schedule",
       "list_announcement": "Announcement",
