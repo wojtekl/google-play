@@ -61,7 +61,7 @@ class AppInner extends React.Component {
                 image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_pricey"
                 urlButtonOnline="https://pricey.wlap.pl"
-                urlButtonGet="https://rb.gy/sqezhd"
+                urlButtonGet="https://play.google.com/store/apps/details?id=pl.wlap.pricey"
                 small="name_pricey"
               />
               <Card

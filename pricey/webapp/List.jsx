@@ -79,7 +79,7 @@ class ListInner extends React.Component {
               {!isYourList ? <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link> : <Nav.Link href="/" rel="bookmark">{t('nav_home')}</Nav.Link>}
               <Nav.Link href="https://wlap.pl" rel="author">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://rb.gy/sqezhd" rel="external"><Image src={t('url_get')} style={{ maxHeight: "40px" }} /></Nav.Link>
+              <Nav.Link href="https://play.google.com/store/apps/details?id=pl.wlap.pricey" rel="external"><Image src={t('url_get')} style={{ maxHeight: "40px" }} /></Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
