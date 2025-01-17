@@ -43,6 +43,11 @@ function get() {
 
 function post() {
   global $country, $repository;
+
+  if(isset($_POST["lang"])) {
+    $country = strtolower(trim($_POST["lang"]));
+  }
+
   $item = trim($_POST["name"]);
   $store = strtolower(trim($_POST["store"]));
   $price = trim($_POST["price"]);
