@@ -42,7 +42,10 @@ class ModalInner extends React.Component {
               <small id="priceHelp" class="form-text text-muted">{t('help_decimal')}</small>
             </div>
             <div class="form-group">
-              <input type="hidden" class="form-control" id="exampleInputId1" aria-describedby="idHelp" name="identyfikator" value="web" />
+              <input type="hidden" class="form-control" id="exampleHiddenId1" aria-label="identyfikator" name="identyfikator" value="web" />
+            </div>
+            <div class="form-group">
+              <input type="hidden" class="form-control" id="exampleHiddenCountry1" aria-label="country" name="country" value={lang} />
             </div>
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />

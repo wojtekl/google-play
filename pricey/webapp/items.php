@@ -12,10 +12,6 @@ if (isset($httpAcceptLanguage[0])) {
   $country = strtolower(substr(trim($httpAcceptLanguage[0]), 3));
 }
 
-if(isset($_GET["lang"])) {
-  $country = strtolower(trim($_GET["lang"]));
-}
-
 switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
   case "post":
     post();
@@ -32,6 +28,11 @@ switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
 
 function get() {
   global $country, $repository;
+  
+  if(isset($_GET["lang"])) {
+    $country = strtolower(trim($_GET["lang"]));
+  }
+  
   $selected = trim($_GET["selected"]);
   $result = [];
   if ("" != $selected) {
@@ -50,20 +51,6 @@ function get() {
 
 function post() {
   global $country, $repository;
-  $selected = trim($_POST["selected"]);
-  $result = [];
-  if ("" != $selected) {
-    $result = $repository -> getSelected($selected);
-  }
-  else {
-    $result = $repository -> getItems($country);
-  }
-  $list = "[";
-  foreach ($result as $row) {
-    $list .= "{\"item\": \"${row["PRODUKT"]}\", \"store\": \"${row["SKLEP"]}\", \"price\": ${row["CENA"]}, \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": ${row["ID"]}, \"lowest\": ${row["LOWEST"]}},";
-  }
-  $list .= "]";
-  echo str_replace(",]", "]", $list);
 }
 
 function put() {
