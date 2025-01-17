@@ -16,8 +16,6 @@ if(isset($_GET["lang"])) {
   $country = strtolower(trim($_GET["lang"]));
 }
 
-$identyfikator = strtolower(trim($_GET["identyfikator"]));
-
 switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
   case "post":
     post();
@@ -33,25 +31,10 @@ switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
 }
 
 function get() {
-  global $country, $identyfikator, $repository;
-  $result = $repository -> getItems($country);
-  $list = "[";
-  foreach ($result as $row) {
-    $list .= "[\"${row["PRODUKT"]}\", \"${row["SKLEP"]}\", \"${row["CENA"]}\", 0],";
-  }
-  $list .= "]";
-  echo str_replace(",]", "]", $list);
-}
-
-function post() {
-  global $country, $identyfikator, $repository;
-  $timestamp= trim($_GET["timestamp"]);
-  $selected = trim($_POST["selected"]);
+  global $country, $repository;
+  $selected = trim($_GET["selected"]);
   $result = [];
-  if ("" != $timestamp) {
-    $result = $repository -> getUpdate($timestamp, $country);
-  }
-  elseif ("" != $selected) {
+  if ("" != $selected) {
     $result = $repository -> getSelected($selected);
   }
   else {
@@ -59,18 +42,36 @@ function post() {
   }
   $list = "[";
   foreach ($result as $row) {
-    $list .= "{\"item\": \"${row["PRODUKT"]}\", \"store\": \"${row["SKLEP"]}\", \"price\": ${row["CENA"]}, \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": ${row["ID"]}},";
+    $list .= "{\"item\": \"${row["PRODUKT"]}\", \"store\": \"${row["SKLEP"]}\", \"price\": ${row["CENA"]}, \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": ${row["ID"]}, \"lowest\": ${row["LOWEST"]}},";
+  }
+  $list .= "]";
+  echo str_replace(",]", "]", $list);
+}
+
+function post() {
+  global $country, $repository;
+  $selected = trim($_POST["selected"]);
+  $result = [];
+  if ("" != $selected) {
+    $result = $repository -> getSelected($selected);
+  }
+  else {
+    $result = $repository -> getItems($country);
+  }
+  $list = "[";
+  foreach ($result as $row) {
+    $list .= "{\"item\": \"${row["PRODUKT"]}\", \"store\": \"${row["SKLEP"]}\", \"price\": ${row["CENA"]}, \"posted\": \"${row["DODANO"]}\", \"coupon\": \"${row["COUPON"]}\", \"bulk\": \"${row["BULK"]}\", \"id\": ${row["ID"]}, \"lowest\": ${row["LOWEST"]}},";
   }
   $list .= "]";
   echo str_replace(",]", "]", $list);
 }
 
 function put() {
-  global $country, $identyfikator, $repository;
+  global $country, $repository;
 }
 
 function delete() {
-  global $country, $identyfikator, $repository;
+  global $country, $repository;
 }
 
 ?>

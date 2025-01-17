@@ -57,9 +57,9 @@ class MyApplication : Application(), Application.ActivityLifecycleCallbacks, Lif
 
     override fun onActivityStarted(activity: Activity) {
         // Updating the currentActivity only when an ad is not showing.
-        //if (!appOpenAdManager.isShowingAd) {
-        currentActivity = activity
-        //}
+        if (!appOpenAdManager.isShowingAd) {
+            currentActivity = activity
+        }
     }
 
     override fun onActivityResumed(activity: Activity) {}
@@ -70,8 +70,7 @@ class MyApplication : Application(), Application.ActivityLifecycleCallbacks, Lif
 
     override fun onActivitySaveInstanceState(activity: Activity, outState: Bundle) {}
 
-    override fun onActivityDestroyed(activity: Activity) {}
-    /* endregion */
+    override fun onActivityDestroyed(activity: Activity) {}/* endregion */
 
     interface OnShowAdCompleteListener {
         fun onShowAdComplete()
@@ -96,8 +95,9 @@ class MyApplication : Application(), Application.ActivityLifecycleCallbacks, Lif
 
             isLoadingAd = true
             val request = AdRequest.Builder().build()
-            AppOpenAd.load(
-                context, getString(R.string.app_open_ad_unit_id), request,
+            AppOpenAd.load(context,
+                getString(R.string.app_open_ad_unit_id),
+                request,
                 AppOpenAd.APP_OPEN_AD_ORIENTATION_PORTRAIT,
                 object : AppOpenAd.AppOpenAdLoadCallback() {
 
@@ -117,8 +117,7 @@ class MyApplication : Application(), Application.ActivityLifecycleCallbacks, Lif
 
         /** Show the ad if one isn't already showing. */
         fun showAdIfAvailable(
-            activity: Activity,
-            onShowAdCompleteListener: OnShowAdCompleteListener
+            activity: Activity, onShowAdCompleteListener: OnShowAdCompleteListener
         ) {
             // If the app open ad is already showing, do not show the ad again.
             if (isShowingAd) {
@@ -132,46 +131,43 @@ class MyApplication : Application(), Application.ActivityLifecycleCallbacks, Lif
                 return
             }
 
-            appOpenAd?.setFullScreenContentCallback(
-                object : FullScreenContentCallback() {
+            appOpenAd?.setFullScreenContentCallback(object : FullScreenContentCallback() {
 
-                    override fun onAdDismissedFullScreenContent() {
-                        // Called when full screen content is dismissed.
-                        // Set the reference to null so isAdAvailable() returns false.
-                        appOpenAd = null
-                        isShowingAd = false
+                override fun onAdDismissedFullScreenContent() {
+                    // Called when full screen content is dismissed.
+                    // Set the reference to null so isAdAvailable() returns false.
+                    appOpenAd = null
+                    isShowingAd = false
 
-                        onShowAdCompleteListener.onShowAdComplete()
-                        loadAd(activity)
-                    }
+                    onShowAdCompleteListener.onShowAdComplete()
+                    loadAd(activity)
+                }
 
-                    override fun onAdFailedToShowFullScreenContent(adError: AdError) {
-                        // Called when fullscreen content failed to show.
-                        // Set the reference to null so isAdAvailable() returns false.
-                        appOpenAd = null
-                        isShowingAd = false
+                override fun onAdFailedToShowFullScreenContent(adError: AdError) {
+                    // Called when fullscreen content failed to show.
+                    // Set the reference to null so isAdAvailable() returns false.
+                    appOpenAd = null
+                    isShowingAd = false
 
-                        onShowAdCompleteListener.onShowAdComplete()
-                        loadAd(activity)
-                    }
+                    onShowAdCompleteListener.onShowAdComplete()
+                    loadAd(activity)
+                }
 
-                    override fun onAdShowedFullScreenContent() {
-                        // Called when fullscreen content is shown.
-                    }
-                })
+                override fun onAdShowedFullScreenContent() {
+                    // Called when fullscreen content is shown.
+                }
+            })
             isShowingAd = true
             appOpenAd?.show(activity)
         }
 
         /** Show the ad if one isn't already showing. */
         fun showAdIfAvailable(activity: Activity) {
-            showAdIfAvailable(
-                activity,
-                object : OnShowAdCompleteListener {
-                    override fun onShowAdComplete() {
-                        // Empty because the user will go back to the activity that shows the ad.
-                    }
-                })
+            showAdIfAvailable(activity, object : OnShowAdCompleteListener {
+                override fun onShowAdComplete() {
+                    // Empty because the user will go back to the activity that shows the ad.
+                }
+            })
         }
 
         private fun wasLoadTimeLessThanNHoursAgo(numHours: Long): Boolean {
@@ -189,15 +185,10 @@ class MyApplication : Application(), Application.ActivityLifecycleCallbacks, Lif
     private fun requestConsent() {
         val params = ConsentRequestParameters.Builder().build()
         consentInformation = UserMessagingPlatform.getConsentInformation(this@MyApplication)
-        consentInformation.requestConsentInfoUpdate(
-            currentActivity,
-            params,
-            {
-                UserMessagingPlatform.loadAndShowConsentFormIfRequired(
-                    currentActivity,
-                    { formError -> { } })
-            },
-            { requestConsentError -> { } }
-        )
+        consentInformation.requestConsentInfoUpdate(currentActivity, params, {
+            UserMessagingPlatform.loadAndShowConsentFormIfRequired(
+                currentActivity,
+                { formError -> { } })
+        }, { requestConsentError -> { } })
     }
 }

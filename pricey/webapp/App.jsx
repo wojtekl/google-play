@@ -33,11 +33,14 @@ class AppInner extends React.Component {
     const formData = new FormData()
     formData.append('lang', lang)
     const selected = new URLSearchParams(new URL(window.location).search).get('selected')
+    const searchParams = new URLSearchParams()
+    searchParams.append('lang', lang)
     if (selected) {
       formData.append('selected', selected)
+      searchParams.append('selected', selected)
     }
     const parent = this
-    axios.post(`items?lang=${lang}`, formData).then(function (response) {
+    axios.get(`items?${searchParams.toString()}`).then(function (response) {
       parent.handleReplace(<List properties={columns_list} list={response.data} expandable={true} replace={parent.handleReplace} back={parent.handleBack} />)
     })
 

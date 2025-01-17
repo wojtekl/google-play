@@ -16,8 +16,6 @@ if(isset($_GET["lang"])) {
   $country = strtolower(trim($_GET["lang"]));
 }
 
-$identyfikator = strtolower(trim($_POST["identyfikator"]));
-
 switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
   case "post":
     post();
@@ -33,7 +31,7 @@ switch (strtolower(trim($_SERVER["REQUEST_METHOD"]))) {
 }
 
 function get() {
-  global $country, $identyfikator, $repository;
+  global $country, $repository;
   $result = $repository -> getItem(trim($_GET["name"]));
   $list = "[";
   foreach ($result as $row) {
@@ -44,23 +42,24 @@ function get() {
 }
 
 function post() {
-  global $country, $identyfikator, $repository;
+  global $country, $repository;
   $item = trim($_POST["name"]);
   $store = strtolower(trim($_POST["store"]));
   $price = trim($_POST["price"]);
   $coupon = trim($_POST["coupon"]);
   $bulk = trim($_POST["bulk"]);
+  $identyfikator = strtolower(trim($_POST["identyfikator"]));
   if (isset($identyfikator) && isset($item) && isset($store) && isset($price) && isset($coupon) && isset($bulk)) {
     $repository -> insertPrice($item, $store, $price, $country, $identyfikator, $coupon ? 1 : 0, $bulk ? 1 : 0);
   }
 }
 
 function put() {
-  global $country, $identyfikator, $repository;
+  global $country, $repository;
 }
 
 function delete() {
-  global $country, $identyfikator, $repository;
+  global $country, $repository;
 }
 
 ?>
