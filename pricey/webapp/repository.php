@@ -35,7 +35,7 @@ class Repository {
   }
 
   public function getSelected($selected) {
-    return $this -> execute("SELECT `ID`, `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK` FROM `CENA` WHERE `ID` IN ($selected) ORDER BY `SKLEP`, `PRODUKT`");
+    return $this -> execute("SELECT `ID`, `PRODUKT`, `SKLEP`, `CENA`, `DODANO`, `COUPON`, `BULK`, 0 AS `LOWEST` FROM `CENA` WHERE `ID` IN ($selected) ORDER BY `SKLEP`, `PRODUKT`");
   }
   
   public function getItems($country) {
