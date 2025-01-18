@@ -23,7 +23,8 @@ const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="fon
 
 const state = localStorage.getItem('redux')
 const initialState = !state ? {
-  value: null
+  value: null,
+  lang: navigator.language.substring(0, 2).toLocaleLowerCase()
 } : JSON.parse(state)
 
 const selectedReducer = (state = initialState, action) => {
@@ -32,13 +33,14 @@ const selectedReducer = (state = initialState, action) => {
       return { ...state, value: action.payload }
     case 'selected/removed':
       return { ...state, value: null }
+    case 'lang/set':
+      return { ...state, lang: action.payload }
     default:
       return state
   }
 }
 
-const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
-
+const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? initialState.lang
 i18next.use(initReactI18next).init({
   resources: resources,
   lng: lang,
@@ -50,6 +52,7 @@ i18next.use(initReactI18next).init({
 
 const store = Redux.createStore(selectedReducer)
 store.subscribe(() => { localStorage.setItem('redux', JSON.stringify(store.getState())) })
+store.dispatch({ type: 'lang/set', payload: lang })
 
 const container = document.getElementById('root')
 

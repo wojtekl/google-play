@@ -27,8 +27,8 @@ const selectedReducer = (state = initialState, action) => {
       return { ...state, value: state.value.filter(i => i != action.payload) }
     case 'warning/set':
       return { ...state, warning: false }
-      case 'lang/set':
-        return { ...state, lang: action.payload }
+    case 'lang/set':
+      return { ...state, lang: action.payload }
     default:
       return state
   }
