@@ -21,7 +21,7 @@ ReactDOM.render((
   <Router>
     <Routes>
       <Route path="/" element={<App />} />
-      <Route path="howto" element={<Howto />} />
+      <Route path="/howto" element={<Howto />} />
     </Routes>
   </Router>
 ), document.getElementById('app'))
