@@ -9,7 +9,7 @@ class ModalInner extends React.Component {
     event.preventDefault()
     const { handleClose } = this.props
     const form = document.querySelector('#form_item')
-    axios.post(`item?lang=${lang}`, form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
+    axios.post('item', form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
       form.reset()
       handleClose()
     })
@@ -45,7 +45,7 @@ class ModalInner extends React.Component {
               <input type="hidden" class="form-control" id="exampleHiddenId1" aria-label="identyfikator" name="identyfikator" value="web" />
             </div>
             <div class="form-group">
-              <input type="hidden" class="form-control" id="exampleHiddenCountry1" aria-label="country" name="country" value={lang} />
+              <input type="hidden" class="form-control" id="exampleHiddenCountry1" aria-label="country" name="country" value={store.getState().lang} />
             </div>
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />

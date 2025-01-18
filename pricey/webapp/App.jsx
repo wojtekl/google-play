@@ -30,13 +30,10 @@ class AppInner extends React.Component {
   }
 
   componentDidMount() {
-    const formData = new FormData()
-    formData.append('lang', lang)
-    const selected = new URLSearchParams(new URL(window.location).search).get('selected')
     const searchParams = new URLSearchParams()
-    searchParams.append('lang', lang)
+    searchParams.append('lang', store.getState().lang)
+    const selected = new URLSearchParams(new URL(window.location).search).get('selected')
     if (selected) {
-      formData.append('selected', selected)
       searchParams.append('selected', selected)
     }
     const parent = this

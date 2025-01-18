@@ -17,13 +17,15 @@ class ListInner extends React.Component {
     list: this.props.list,
     selected: null,
     filtered: this.props.list,
-    show: false
+    show: false,
+    lang: store.getState().lang
   }
 
   handleClick = () => {
     const { replace, back } = this.props
-    const { selected } = this.state
-    const searchParams = new URLSearchParams(window.location.search)
+    const { selected, lang } = this.state
+    const searchParams = new URLSearchParams()
+    searchParams.append('lang', lang)
     searchParams.append('name', selected)
     axios.get(`item?${searchParams.toString()}`).then((response) => {
       replace(<List properties={columns_details} list={response.data} replace={replace} back={back} selected={selected} />)
@@ -49,7 +51,7 @@ class ListInner extends React.Component {
   }
 
   handleCopy = () => {
-    const searchParams = new URLSearchParams(window.location.search)
+    const searchParams = new URLSearchParams()
     searchParams.append('selected', store.getState().value.join(','))
     window.location.href = `/?${searchParams.toString()}`
   }
@@ -62,9 +64,16 @@ class ListInner extends React.Component {
     this.setState({ show: false })
   }
 
+  handleLang = () => {
+    const { lang } = this.state
+    const newLang = 'pl' === lang ? 'pl' : 'en'
+    store.dispatch({ type: 'lang/set', payload: newLang })
+    this.setState({ lang: newLang })
+  }
+
   render() {
     const { selected, properties, expandable, list, back, t } = this.props
-    const { filtered, show } = this.state
+    const { filtered, show, lang } = this.state
 
     const isYourList = new URLSearchParams(new URL(window.location).search).has('selected')
 
@@ -81,6 +90,7 @@ class ListInner extends React.Component {
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
               <Nav.Link href="https://play.google.com/store/apps/details?id=pl.wlap.pricey" rel="external"><Image src={t('url_get')} style={{ maxHeight: "40px" }} /></Nav.Link>
               <Nav.Link href="https://wlap.pl/#/howto">{t('nav_iphone')}</Nav.Link>
+              <Nav.Link onClick={this.handleLang}>{'pl' === lang ? 'en' : 'pl'}</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
