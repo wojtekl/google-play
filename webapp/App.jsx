@@ -47,7 +47,7 @@ class AppInner extends React.Component {
               <h1 class="fw-light">{t('title_products')}</h1>
               <p class="lead text-body-secondary">{t('description_products')}</p>
               <p>
-                <a href="howto" class="btn btn-primary my-2" role="button" rel="external">{t('button_howto')}</a>
+                <a href="/howto/" class="btn btn-primary my-2" role="button" rel="external">{t('button_howto')}</a>
                 <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-secondary my-2" role="button" rel="external">{t('button_googleplay')}</a>
               </p>
             </div>
