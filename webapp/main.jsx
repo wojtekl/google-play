@@ -1,5 +1,5 @@
 
-const Router = ReactRouterDOM.HashRouter
+const Router = ReactRouterDOM.BrowserRouter
 const Routes = ReactRouterDOM.Routes
 const Route = ReactRouterDOM.Route
 
@@ -11,7 +11,7 @@ const lang = new URLSearchParams(new URL(window.location).search).get('lang') ??
 i18next.use(initReactI18next).init({
   resources: resources,
   lng: lang,
-  fallbacking: "en",
+  fallbacking: "pl",
   interpolation: {
     escapeValue: false
   }

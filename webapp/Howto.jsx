@@ -98,7 +98,7 @@ class HowtoInner extends React.Component {
             <a href="#">{t('button_backtotop')}</a>
           </p>
           <p class="mb-1">{t('description_copyright')}</p>
-          <p class="mb-0"><a href="#/">{t('button_home')}</a></p>
+          <p class="mb-0"><a href="/">{t('button_home')}</a></p>
         </div>
       </footer>
     </>

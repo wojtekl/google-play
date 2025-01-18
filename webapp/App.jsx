@@ -47,7 +47,7 @@ class AppInner extends React.Component {
               <h1 class="fw-light">{t('title_products')}</h1>
               <p class="lead text-body-secondary">{t('description_products')}</p>
               <p>
-                <a href="#/howto" class="btn btn-primary my-2" role="button" rel="external">{t('button_howto')}</a>
+                <a href="howto" class="btn btn-primary my-2" role="button" rel="external">{t('button_howto')}</a>
                 <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-secondary my-2" role="button" rel="external">{t('button_googleplay')}</a>
               </p>
             </div>
@@ -60,14 +60,14 @@ class AppInner extends React.Component {
               <Card
                 image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_pricey"
-                urlButtonOnline="https://pricey.wlap.pl"
+                urlButtonOnline="https://pricey.wlap.pl/"
                 urlButtonGet="https://play.google.com/store/apps/details?id=pl.wlap.pricey"
                 small="name_pricey"
               />
               <Card
                 image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_myparish"
-                urlButtonOnline="https://parafia.wlap.pl"
+                urlButtonOnline="https://parafia.wlap.pl/"
                 urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.myparish"
                 small="name_myparish"
               />
