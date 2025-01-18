@@ -66,7 +66,7 @@ class ListInner extends React.Component {
 
   handleLang = () => {
     const { lang } = this.state
-    const newLang = 'pl' === lang ? 'pl' : 'en'
+    const newLang = 'pl' === lang ? 'en' : 'pl'
     store.dispatch({ type: 'lang/set', payload: newLang })
     this.setState({ lang: newLang })
   }
