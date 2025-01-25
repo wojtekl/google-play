@@ -53,6 +53,19 @@ const clients = {
       "longitude": 23.122541
     },
     {
+      "name": "Bielsko-Biała, Komorowice: Parafia św. Jana Chrzciciela",
+      "schedule": "https://www.komorowice.bielsko.pl/aktualnosci/intencje/",
+      "announcement": "https://www.komorowice.bielsko.pl/aktualnosci/ogloszenia/",
+      "contact": "https://www.komorowice.bielsko.pl/kontakt/",
+      "other": "https://www.komorowice.bielsko.pl/cmentarz-2/",
+      "live": "https://www.youtube.com/@komorowice.bielsko/featured",
+      "week": ["06:30", "08:15", "18:00"],
+      "sunday": ["06:30", "07:30", "09:00", "10:30", "12:00", "16:30", "18:00"],
+      "description": "",
+      "latitude": 49.854208,
+      "longitude": 19.041973
+    },
+    {
       "name": "Bolewice: Parafia pw Chrystusa Króla",
       "schedule": "http://www.parafiabolewice.pl/Og%C5%82oszenia/Intencjemszalne/tabid/80/Default.aspx#main",
       "announcement": "http://www.parafiabolewice.pl/Og%C5%82oszenia/Og%C5%82oszeniaparafialne/tabid/74/Default.aspx#main",
@@ -246,6 +259,19 @@ const clients = {
       "description": "",
       "latitude": 53.53663,
       "longitude": 17.23504
+    },
+    {
+      "name": "Dębica: Parafia pw Miłosierdzia Bożego",
+      "schedule": "https://debicamilosierdzia.parafialnastrona.pl/intencje-i-nabozenstwa",
+      "announcement": "https://debicamilosierdzia.parafialnastrona.pl/ogloszenia",
+      "contact": "https://debicamilosierdzia.parafialnastrona.pl/kontakt",
+      "other": "https://debicamilosierdzia.parafialnastrona.pl/zmarli",
+      "live": "https://www.youtube.com/@parafiamiosierdziabozegode9211/streams",
+      "week": ["06:00", "07:00", "08:00*", "18:00"],
+      "sunday": ["06:30", "08:00", "09:30", "11:00", "13:00", "15:00", "18:00"],
+      "description": "",
+      "latitude": 50.048977,
+      "longitude": 21.426467
     },
     {
       "name": "Działoszyn: Parafia pw św. Marii Magdaleny",
@@ -571,6 +597,19 @@ const clients = {
       "description": "",
       "latitude": 49.52496,
       "longitude": 18.85674
+    },
+    {
+      "name": "Jelenia Góra, Sobieszów: Parafia pw Świętego Marcina",
+      "schedule": "https://parafiasobieszow.pl/index.php/intencje",
+      "announcement": "https://parafiasobieszow.pl/index.php/ogloszenia",
+      "contact": "https://parafiasobieszow.pl/index.php/kontakt",
+      "other": "http://cmentarz.jgora.pl/rom/map.phtml",
+      "live": "",
+      "week": ["07:00*", "18:00*"],
+      "sunday": ["08:00", "10:30", "18:00"],
+      "description": "",
+      "latitude": 50.845405,
+      "longitude": 15.639663
     },
     {
       "name": "Jędrzejów: Parafia Trójcy Świętej",
@@ -1495,6 +1534,19 @@ const clients = {
       "longitude": 21.281333
     },
     {
+      "name": "Poznań: Parafia pw św. Rocha",
+      "schedule": "https://swroch.archpoznan.pl/msze-sw-i-nabozenstwa",
+      "announcement": "https://swroch.archpoznan.pl/ogloszenia",
+      "contact": "https://swroch.archpoznan.pl/kontakt",
+      "other": "",
+      "live": "https://www.youtube.com/@parafiasw.rochawpoznaniu5822/streams",
+      "week": ["07:00", "08:00*", "18:00"],
+      "sunday": ["07:00", "08:00", "09:30", "11:00", "12:15", "15:00*", "18:00", "20:00"],
+      "description": "",
+      "latitude": 52.400113,
+      "longitude": 16.949107
+    },
+    {
       "name": "Płońsk: Parafia pw św. Michała Archanioła",
       "schedule": "https://michalplonsk.pl/intencje/#content",
       "announcement": "https://michalplonsk.pl/category/ogloszenia-parafialne/",
@@ -2106,6 +2158,19 @@ const clients = {
       "longitude": 21.023691
     },
     {
+      "name": "Warszawa, Ursynów: Parafia św. Ojca Pio",
+      "schedule": "http://www.opio.pl/index.php?option=com_content&task=blogcategory&id=26&Itemid=50",
+      "announcement": "http://www.opio.pl/index.php?option=com_content&task=blogcategory&id=34&Itemid=51",
+      "contact": "http://www.opio.pl/index.php?option=com_content&task=view&id=79&Itemid=40",
+      "other": "",
+      "live": "https://www.youtube.com/c/Parafia%C5%9BwOjcaPioWarszawaKabaty/streams",
+      "week": ["07:00*", "08:00", "15:00", "19:00"],
+      "sunday": ["07:30", "09:00", "10:30", "11:45", "13:00", "15:00*", "18:30", "20:00"],
+      "description": "",
+      "latitude": 52.130837,
+      "longitude": 21.055188
+    },
+    {
       "name": "Wieliczka: Parafia św. Klemensa",
       "schedule": "https://www.wieliczkaklemens.pl/category/intencje/?latest#content_skip_link_anchor",
       "announcement": "https://www.wieliczkaklemens.pl/category/ogloszenia-parafialne/?latest#content_skip_link_anchor",
@@ -2117,6 +2182,19 @@ const clients = {
       "description": "",
       "latitude": 49.98368,
       "longitude": 20.06023
+    },
+    {
+      "name": "Władysławowo: Parafia pw Wniebowzięcia Najświętszej Maryi Panny",
+      "schedule": "https://parafiawladyslawowo.pl/intencje-mszalne",
+      "announcement": "https://parafiawladyslawowo.pl/aktualnosci",
+      "contact": "https://parafiawladyslawowo.pl/kontakt",
+      "other": "",
+      "live": "https://parafiawladyslawowo.pl/kamery-live",
+      "week": ["06:30", "07:00", "09:00", "18:00"],
+      "sunday": ["06:30", "08:00", "09:30", "11:00", "12:30", "14:00", "18:00"],
+      "description": "",
+      "latitude": 54.797481,
+      "longitude": 18.396311
     },
     {
       "name": "Włocławek: Parafia św. Jana Chrzciciela",
