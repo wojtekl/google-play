@@ -30,6 +30,7 @@ class NewsInner extends React.Component {
           <ListGroup.Item action href="https://m.niedziela.pl/" rel="external">Niedziela</ListGroup.Item>
           <ListGroup.Item action href="https://www.gosc.pl/mobile" rel="external">Gość Niedzielny</ListGroup.Item>
           <ListGroup.Item action href="https://rycerzniepokalanej.pl/" rel="external">Rycerz Niepokalanej</ListGroup.Item>
+          <ListGroup.Item action href="https://biblia.deon.pl/" rel="external">Biblia Tysiąclecia</ListGroup.Item>
         </ListGroup>
       </Container>
     </>
