@@ -61,21 +61,13 @@ class AppInner extends React.Component {
                 image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_pricey"
                 urlButtonOnline="https://cennik.wlap.pl/"
-                urlButtonGet="https://play.google.com/store/apps/details?id=pl.wlap.pricey"
                 small="name_pricey"
               />
               <Card
                 image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_myparish"
                 urlButtonOnline="https://parafia.wlap.pl/"
-                urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.myparish"
                 small="name_myparish"
-              />
-              <Card
-                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/busstop/BusStop/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
-                description="description_busstop"
-                urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.busstop"
-                small="name_busstop"
               />
               <Card
                 image="https://github.com/wojtekl/google-play/raw/refs/heads/main/talkietalkie/TalkieTalkie/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
