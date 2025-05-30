@@ -32,7 +32,7 @@ const resources = {
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-en",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png",
       "meta_description": "Record grocery prices, invite your firends, check what others submit, look up the history or observe cost of living rise",
-      "meta_keywords": "pwa, app, groceries, shopping, price, list",
+      "meta_keywords": "pwa, app, application, groceries, shopping, price, cost, list, shop, market, supermarket",
       "message_warning": "Data seen in this application is for information purposes only and are not meant to be used in trade. We do all we can to keep them up to date but we can't guarantee for them to be always accurate. If you appreciate the work we do you can help us or give a donation.",
       "button_gotit": "Got it"
     }
@@ -41,7 +41,7 @@ const resources = {
     translation: {
       "label_loading": "Wczytuję...",
       "label_item": "Produkt",
-      "title_app": "Pricey od wlap.pl",
+      "title_app": "Cennik od wlap.pl",
       "nav_home": "Strona główna",
       "nav_yourlist": "Twoja lista",
       "nav_aboutus": "O nas",
@@ -70,7 +70,7 @@ const resources = {
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-pl",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
       "meta_description": "Zapisuj ceny produktów w sklepach, zaproś znajomych, sprawdzaj co oni przesłali, porównuj promocje oraz ceny zakupów w czasie",
-      "meta_keywords": "pwa, apka zakupy, cena, lista, sklep, koszt",
+      "meta_keywords": "pwa, apka, aplikacja, zakupy, cena, cennik, koszt, lista, sklep, market, supermarket",
       "message_warning": "Dane zawarte w tej aplikacji mają wyłącznie charakter informacyjny i nie są podstawą do dochodzenia. Dokładamy wszelkich starań aby były aktualne ale nie można zagwarantować że zawsze będą odzwierciedlały stan rzeczywisty. Jeśli doceniasz pracę osób które dostarczają te dane również możesz je tutaj umieszczać, pokazać tę aplikację znajomym, korzystać z wersji mobilnej zawierającej reklamy lub ofiarować chociaż niewielką kwotę na utrzymanie i rozwój.",
       "button_gotit": "Rozumiem"
     }
