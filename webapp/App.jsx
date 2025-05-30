@@ -72,7 +72,7 @@ class AppInner extends React.Component {
               <Card
                 image="https://github.com/wojtekl/google-play/raw/refs/heads/main/talkietalkie/TalkieTalkie/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_talkietalkie"
-                urlButtonGet="https://play.google.com/store/apps/details?id=github.wleap.talkietalkie.admob"
+                urlButtonGet="https://github.com/wojtekl/google-play/raw/main/talkietalkie/TalkieTalkie/app/release/app-release.apk"
                 small="name_talkietalkie"
               />
             </div>
