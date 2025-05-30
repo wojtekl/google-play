@@ -48,7 +48,7 @@ class AppInner extends React.Component {
               <p class="lead text-body-secondary">{t('description_products')}</p>
               <p>
                 <a href="/howto/" class="btn btn-primary my-2" role="button" rel="external">{t('button_howto')}</a>
-                <a href="https://play.google.com/store/apps/dev?id=5731012165048810814" class="btn btn-secondary my-2" role="button" rel="external">{t('button_googleplay')}</a>
+                <a href="" class="btn btn-secondary my-2 d-none" role="button" rel="external">{t('')}</a>
               </p>
             </div>
           </div>
@@ -60,7 +60,7 @@ class AppInner extends React.Component {
               <Card
                 image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_pricey"
-                urlButtonOnline="https://pricey.wlap.pl/"
+                urlButtonOnline="https://cennik.wlap.pl/"
                 urlButtonGet="https://play.google.com/store/apps/details?id=pl.wlap.pricey"
                 small="name_pricey"
               />
