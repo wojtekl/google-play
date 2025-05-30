@@ -1,7 +1,7 @@
 {
-  "name": "Pricey od wlap.pl",
-  "short_name": "Pricey",
-  "start_url": "https://pricey.wlap.pl/",
+  "name": "Cennik od wlap.pl",
+  "short_name": "Cennik",
+  "start_url": "https://cennik.wlap.pl/",
   "icons": [
     {
       "src": "https://github.com/wojtekl/google-play/raw/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
