@@ -148,4 +148,4 @@ class ListInner extends React.Component {
   }
 }
 
-const List = withTranslation()(ListInner)
+const List = React.memo(withTranslation()(ListInner))
