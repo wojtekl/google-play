@@ -56,11 +56,11 @@ class ListInner extends React.Component {
     window.location.href = `/?${searchParams.toString()}`
   }
 
-  handleShow = React.useCallback(() => {
+  handleShow = React.useCallback()(() => {
     this.setState({ show: true })
   }, [])
 
-  handleClose = React.useCallback(() => {
+  handleClose = React.useCallback()(() => {
     this.setState({ show: false })
   }, [])
 
