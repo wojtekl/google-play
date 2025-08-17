@@ -3,7 +3,7 @@ const useParams = ReactRouterDOM.useParams
 const Breadcrumb = ReactBootstrap.Breadcrumb
 
 
-const Selected = () => {
+const Selected = React.memo(() => {
   const { name } = useParams()
   const navigate = useNavigate()
   const { t } = useTranslation()
@@ -61,4 +61,4 @@ const Selected = () => {
       </ListGroup> : <p>{t('label_missing')}</p>}
     </Container>
   </>)
-}
+})
