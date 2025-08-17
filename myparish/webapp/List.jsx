@@ -51,9 +51,9 @@ const List = React.memo(() => {
     setFiltered(2 < phrase.length ? preFiltered.filter(i => i.name.toLowerCase().includes(phrase)) : preFiltered)
   }
 
-  const handleClick = (name) => {
+  const handleClick = React.useCallback((name) => {
     navigate(`/selected/${name}`)
-  }
+  }, [name])
 
   const handleFilter = (event) => {
     const p = event.target.value.toLowerCase().trim()
