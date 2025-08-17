@@ -3,7 +3,7 @@ const useState = React.useState
 const Badge = ReactBootstrap.Badge
 
 
-const List = () => {
+const List = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
 
@@ -109,4 +109,4 @@ const List = () => {
       </ListGroup>
     </Container>
   </>
-}
+})
