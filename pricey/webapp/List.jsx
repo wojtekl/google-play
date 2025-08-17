@@ -11,7 +11,7 @@ const Table = ReactBootstrap.Table
 const columns_list = ['item', 'store', 'price', 'posted']
 const columns_details = ['store', 'price', 'posted', 'coupon', 'bulk']
 
-class ListInner extends React.PureComponent {
+class ListInner extends React.Component {
 
   state = {
     list: this.props.list,
