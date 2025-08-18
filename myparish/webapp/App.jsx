@@ -1,7 +1,7 @@
 const withTranslation = ReactI18next.withTranslation
 
 
-class AppInner extends React.Component {
+class AppInner extends React.PureComponent {
 
   state = {
     selected: clients.clients.find(i => i.name === store.getState().value)
