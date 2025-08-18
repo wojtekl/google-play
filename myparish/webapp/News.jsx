@@ -1,7 +1,7 @@
 const withTranslation = ReactI18next.withTranslation
 
 
-class NewsInner extends React.Component {
+class NewsInner extends React.PureComponent {
 
   render() {
     const { t } = this.props
