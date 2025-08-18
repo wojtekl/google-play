@@ -3,7 +3,7 @@ const withTranslation = ReactI18next.withTranslation
 const Spinner = ReactBootstrap.Spinner
 
 
-class AppInner extends React.Component {
+class AppInner extends React.PureComponent {
 
   state = {
     source: (
