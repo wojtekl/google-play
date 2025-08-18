@@ -3,7 +3,7 @@ const withTranslation = ReactI18next.withTranslation
 const BModal = ReactBootstrap.Modal
 
 
-class ModalInner extends React.Component {
+class ModalInner extends React.PureComponent {
 
   handleSubmit = (event) => {
     event.preventDefault()
