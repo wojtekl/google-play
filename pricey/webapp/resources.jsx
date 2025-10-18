@@ -72,7 +72,7 @@ const resources = {
       "meta_description": "Zapisuj ceny produktów w sklepach, zaproś znajomych, sprawdzaj co oni przesłali, porównuj promocje oraz ceny zakupów w czasie",
       "meta_keywords": "pwa, apka, aplikacja, zakupy, cena, cennik, koszt, lista, sklep, market, supermarket",
       "message_warning": "Dane prezentowane w aplikacji mają charakter wyłącznie informacyjny i pochodzą od użytkowników którzy zyskują za to dostęp do nowych funkcji. Odwiedź tiktok.com/@czarna.marchewka aby poznać wszystkie możliwości. Pliki cookies są wykorzystywane do personalizacji a szczegóły znajdziesz w Polityce Prywatności.",
-      "button_gotit": "Rozumiem"
+      "button_gotit": "Wchodzę"
     }
   }
 }
