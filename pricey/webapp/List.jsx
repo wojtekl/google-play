@@ -142,7 +142,7 @@ class ListInner extends React.PureComponent {
             </tbody>
           </Table>
         </Row>
-        <Modal item={selected} show={show} handleClose={this.handleClose} storeName={storeName} />
+        <Modal item={selected} show={show} handleClose={this.handleClose} storeName={storeName} day={day} />
       </Container>
     </>)
   }
