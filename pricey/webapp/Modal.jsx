@@ -17,7 +17,7 @@ class ModalInner extends React.PureComponent {
   }
 
   render() {
-    const { show, handleClose, item, storeName, t } = this.props
+    const { show, handleClose, item, storeName, day, t } = this.props
 
     return (
       <BModal id="exampleModal" show={show} size="sm" aria-labelledby="exampleModalLabel" onHide={handleClose} centered>
@@ -46,6 +46,9 @@ class ModalInner extends React.PureComponent {
             </div>
             <div class="form-group">
               <input type="hidden" class="form-control" id="exampleHiddenCountry1" aria-label="country" name="country" value={store.getState().lang} />
+            </div>
+            <div class="form-group">
+              <input type="hidden" class="form-control" id="exampleHiddenDay1" aria-label="day" name="day" value={day} />
             </div>
             <div class="form-group form-check">
               <input type="checkbox" class="form-check-input" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
