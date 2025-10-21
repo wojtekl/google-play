@@ -88,7 +88,7 @@ class ListInner extends React.PureComponent {
               {!isYourList ? <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link> : <Nav.Link href="/" rel="bookmark">{t('nav_home')}</Nav.Link>}
               <Nav.Link href="https://wlap.pl/" rel="author">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://wlap.pl/howto/">{t('nav_install')}</Nav.Link>
+              <Nav.Link href="https://www.tiktok.com/@czarna.marchewka/">{t('nav_install')}</Nav.Link>
               <Nav.Link onClick={this.handleLang}>{'pl' === lang ? 'en' : 'pl'}</Nav.Link>
             </Nav>
           </Navbar.Collapse>
