@@ -51,8 +51,15 @@ class AppInner extends React.PureComponent {
     const { t } = this.props
     const { warning, source } = this.state
     return !warning ? source : <>
-      <div class="alert alert-warning" role="alert">{t('message_warning')}</div>
-      <button type="button" class="btn btn-primary" onClick={this.handleGotit}>{t('button_gotit')}</button>
+      <div class="px-4 py-5 my-5 text-center">
+        <h1 class="display-5 fw-bold"></h1>
+        <div class="col-lg-6 mx-auto">
+          <p class="lead m-4">{t('message_warning')}</p>
+          <div class="d-grip gap-2 d-sm-flex justify-content-sm-center">
+            <button type="button" class="btn btn-primary btn-lg px-4 gap-3" onClick={this.handleGotit}>{t('button_gotit')}</button>
+          </div>
+        </div>
+      </div>
     </>
   }
 }
