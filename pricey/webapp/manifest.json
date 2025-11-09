@@ -1,6 +1,7 @@
 {
-  "name": "Cennik od wlap.pl",
+  "name": "cennik.wlap.pl",
   "short_name": "Cennik",
+  "description": "porównujemy ceny pomiędzy sklepami - zobacz ile produkt kosztował tydzień, miesiąc, a nawet rok temu",
   "start_url": "https://cennik.wlap.pl/",
   "icons": [
     {
@@ -30,5 +31,6 @@
       "sizes": "1439x2881",
       "types": "image/png"
     }
-  ]
+  ],
+  "prefer_related_applications": false
 }
