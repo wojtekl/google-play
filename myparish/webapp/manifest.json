@@ -1,6 +1,7 @@
 {
-  "name": "Moja Parafia od wlap.pl",
-  "short_name": "Moja Parafia",
+  "name": "mapa kościołów - parafia.wlap.pl",
+  "short_name": "Parafia",
+  "description": "mapa i wyszukiwarka kościołów, witryny parafii, cmentarze, prasa i transmisje online",
   "start_url": "https://parafia.wlap.pl/",
   "icons": [
     {
@@ -30,5 +31,6 @@
       "sizes": "1439x2881",
       "types": "image/png"
     }
-  ]
+  ],
+  "prefer_related_applications": false
 }
