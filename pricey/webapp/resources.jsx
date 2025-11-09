@@ -3,7 +3,7 @@ const resources = {
     translation: {
       "label_loading": "Loading...",
       "label_item": "Item",
-      "title_app": "we compare grocery prices - cennik.wlap.pl",
+      "title_app": "we compare prices - cennik.wlap.pl",
       "nav_home": "Home",
       "nav_yourlist": "Your list",
       "nav_aboutus": "About us",
@@ -41,7 +41,7 @@ const resources = {
     translation: {
       "label_loading": "Wczytuję...",
       "label_item": "Produkt",
-      "title_app": "porównujemy ceny pomiędzy sklepami - cennik.wlap.pl",
+      "title_app": "porównujemy ceny - cennik.wlap.pl",
       "nav_home": "Strona główna",
       "nav_yourlist": "Twoja lista",
       "nav_aboutus": "O nas",
