@@ -70,7 +70,7 @@ const resources = {
       "url_privacy": "https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/data/privacy-policy-pl",
       "url_get": "https://play.google.com/intl/en_us/badges/static/images/badges/pl_badge_web_generic.png",
       "meta_description": "porównujemy ceny pomiędzy sklepami - zobacz ile produkt kosztował tydzień, miesiąc, a nawet rok temu - zainstaluj na iPhone/Android",
-      "meta_keywords": "zakupy, promocje, porównaj, cena, aplikacja, sklep, market, tydzień, miesiąc, rok, apka, pwa",
+      "meta_keywords": "zakupy, promocje, porównaj, cena, aplikacja, sklep, market, tydzień, miesiąc, rok, iphone, apple, android, samsung, apka, pwa",
       "message_warning": "Dane prezentowane w aplikacji mają charakter wyłącznie informacyjny. Dołącz do nas na tiktok.com/@czarna.marchewka aby odkryć wszystkie funkcje. Pliki cookies są wykorzystywane do personalizacji, a szczegóły znajdziesz w Polityce Prywatności.",
       "button_gotit": "Wchodzę"
     }
