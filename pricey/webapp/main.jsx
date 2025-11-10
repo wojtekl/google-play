@@ -44,8 +44,8 @@ i18next.use(initReactI18next).init({
   }
 })
 
-const storeName = new URLSearchParams(new URL(window.location).search).get('store') ?? null
-const day = new URLSearchParams(new URL(window.location).search).get('day') ?? 0
+const storeName = new URLSearchParams(new URL(window.location).search).get('store') ?? undefined
+const day = new URLSearchParams(new URL(window.location).search).get('day') ?? undefined
 
 const store = Redux.createStore(selectedReducer)
 store.subscribe(() => { localStorage.setItem('redux', JSON.stringify(store.getState())) })
