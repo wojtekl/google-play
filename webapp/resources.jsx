@@ -69,7 +69,7 @@ const resources = {
       "subtitle_contact": "Kontakt",
       "description_contact": "Pytania oraz zlecenia proszę kierować na adres e-mail",
       "link_emailus": "Napisz do nas",
-      "title_products": "Aplikacje mobilne i internetowe",
+      "title_products": "O nas",
       "description_products": "tworzymy internetowe aplikacje mobilne na iPhone oraz Android",
       "button_googleplay": "Sklep Play",
       "button_howto": "Przewodnik",
