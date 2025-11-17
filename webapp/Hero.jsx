@@ -17,7 +17,7 @@ const Hero = () => {
       <div class="col-lg-6 mx-auto">
         <p class="lead m-4">{t(description)}</p>
         <div class="d-grip gap-2 d-sm-flex justify-content-sm-center">
-          <button type="button" class="btn btn-primary btn-lg px-4 gap-3" onClick={this.handleClick}>{t('button_gotit')}</button>
+          <button type="button" class="btn btn-primary btn-lg px-4 gap-3" onClick={handleClick}>{t('button_gotit')}</button>
         </div>
       </div>
     </div>
