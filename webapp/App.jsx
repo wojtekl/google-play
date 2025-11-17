@@ -54,26 +54,21 @@ class AppInner extends React.Component {
           </div>
         </section>
 
+        <Hero
+          image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+          description="description_pricey"
+          urlButtonOnline="https://cennik.wlap.pl/"
+          small="name_pricey"
+        />
+
         <div class="album py-5 bg-body-tertiary">
           <div class="container">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-              <Card
-                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
-                description="description_pricey"
-                urlButtonOnline="https://cennik.wlap.pl/"
-                small="name_pricey"
-              />
               <Card
                 image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
                 description="description_myparish"
                 urlButtonOnline="https://parafia.wlap.pl/"
                 small="name_myparish"
-              />
-              <Card
-                image="https://github.com/wojtekl/google-play/raw/refs/heads/main/talkietalkie/TalkieTalkie/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
-                description="description_talkietalkie"
-                urlButtonGet="https://github.com/wojtekl/google-play/raw/main/talkietalkie/TalkieTalkie/app/release/app-release.apk"
-                small="name_talkietalkie"
               />
             </div>
           </div>
