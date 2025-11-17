@@ -1,4 +1,5 @@
 const useParams = ReactRouterDOM.useParams
+const useNavigate = ReactRouterDOM.useNavigate
 
 const Hero = () => {
   const { image, description, urlButtonOnline, small } = useParams()
