@@ -61,18 +61,12 @@ class AppInner extends React.Component {
           small="name_pricey"
         />
 
-        <div class="album py-5 bg-body-tertiary">
-          <div class="container">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-              <Card
-                image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
-                description="description_myparish"
-                urlButtonOnline="https://parafia.wlap.pl/"
-                small="name_myparish"
-              />
-            </div>
-          </div>
-        </div>
+        <Hero
+          image="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+          description="description_myparish"
+          urlButtonOnline="https://parafia.wlap.pl/"
+          small="name_myparish"
+        />
       </main>
 
       <footer class="text-body-secondary py-5">
