@@ -65,6 +65,7 @@ root.render(<Provider store={store}>
       <Route path="selected/:name" element={<Selected />} />
       <Route path="list" element={<List />} />
       <Route path="news" element={<News />} />
+      <Route path="manage" element={<Manage />} />
     </Routes>
   </Router>
 </Provider>)
