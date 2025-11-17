@@ -1,9 +1,8 @@
-const useParams = ReactRouterDOM.useParams
 const useNavigate = ReactRouterDOM.useNavigate
 const useTranslation = ReactI18next.useTranslation
 
-const Hero = () => {
-  const { image, description, urlButtonOnline, small } = useParams()
+const Hero = (props) => {
+  const { image, description, urlButtonOnline, small } = props
   const navigate = useNavigate()
   const { t } = useTranslation()
 
