@@ -1,5 +1,6 @@
 const Signin = () => {
-  return <main class="form-signin w-100 m-auto">
+  return <div class="d-flex align-items-center py-4 bg-body-tertiary">
+    <main class="form-signin w-100 m-auto">
     <form>
       <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
       <div class="form-floating">
@@ -18,4 +19,5 @@ const Signin = () => {
       <p class="mt-5 mb-3 text-body-secondary">C 2025</p>
     </form>
   </main>
+  </div>
 }
