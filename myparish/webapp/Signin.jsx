@@ -1,6 +1,6 @@
 const Signin = () => {
   return <div class="d-flex align-items-center py-4 bg-body-tertiary">
-    <main class="form-signin w-100 m-auto">
+    <main class="form-signin w-100 m-auto" style={{maxWidth: '330px', padding: '1rem'}}>
     <form>
       <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
       <div class="form-floating">
