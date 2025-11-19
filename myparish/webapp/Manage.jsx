@@ -1,8 +1,14 @@
 const Manage = () => {
-  const [selectedTab, setSelectedTab] = useState(0)
+  const [selectedTab, setSelectedTab] = useState('')
 
-  const switchTab = () => {
-    setSelectedTab(1)
+  const switchTab = (e) => {
+    setSelectedTab(e.target.id)
+  }
+
+  const DisplayTab = () => {
+    if (selectedTab === 'currentMonthBT') return <Tab1 />
+    else if (selectedTab === 'dashboardBT') return 'Dashboard'
+    else return 'Błąd'
   }
   
   return <>
@@ -10,7 +16,7 @@ const Manage = () => {
       <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6 text-white" href="#">Nazwa parafii</a>
       <ul class="navbar-nav flex-row d-md-none">
         <li class="nav-item text-nowrap">
-          <button class="nav-link px-3 text-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSearch" aria-controls="navbarSearch" aria-expanded="false" aria-label="Toggle search"></button>
+          <button class="nav-link px-3 text-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-list"></i></button>
         </li>
       </ul>
     </header>
@@ -25,7 +31,7 @@ const Manage = () => {
           <div class="offcanvas-body d-md-flex flex-column p-0 pt-lg-3 overflow-y-auto">
             <ul class="nav flex-column">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2 active" aria-current="page" href="#"> Dashboard </a>
+                <a class="nav-link d-flex align-items-center gap-2 active" aria-current="page" onClick={switchTab} id="dashboardBT"> Dashboard </a>
               </li>
             </ul>
             <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
@@ -34,20 +40,20 @@ const Manage = () => {
             </h6>
             <ul class="nav flex-column mb-auto">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab}>Current month</a>
+                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="currentMonthBT">Current month</a>
               </li>
             </ul>
             <hr class="my-3" />
             <ul class="nav flex-column mb-auto">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2" href="#">Settings</a>
+                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="settingsBT">Settings</a>
               </li>
             </ul>
           </div>
         </div>
       </div>
       <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-        {1 === selectedTab ? <Tab1 /> : <p>Brak</p>}
+        <DisplayTab />
       </main>
     </div>
   </div></>
