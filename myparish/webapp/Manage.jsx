@@ -34,7 +34,7 @@ const Manage = () => {
             </h6>
             <ul class="nav flex-column mb-auto">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2" href="#" onClick={switchTab}>Current month</a>
+                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab}>Current month</a>
               </li>
             </ul>
             <hr class="my-3" />
