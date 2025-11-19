@@ -18,13 +18,12 @@ const Manage = () => {
         <li class="nav-item text-nowrap">
           <button class="nav-link px-3 text-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-list" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu"></i></button>
         </li>
-        <li class="nav-item text-nowrap"><a class="btn btn-primary" data-bs-toggle="offcanvas" href="#sidebarMenu" role="button" aria-controls="sidebarMenu">menu</a></li>
       </ul>
     </header>
     <div class="container-fluid">
     <div class="row">
       <div class="sidebar border border-right col-md-3 col-lg-2 p-0 bg-body-tertiary">
-        <div class="offcanvas offcanvas-start bg-body-tertiary" tabindex="-1" id="sidebarMenu" aria-labelledby="sidebarMenuLabel">
+        <div class="offcanvas-md offcanvas-end bg-body-tertiary" tabindex="-1" id="sidebarMenu" aria-labelledby="sidebarMenuLabel">
           <div class="offcanvas-header">
             <h5 class="offcanvas-title" id="sidebarMenuLabel">Nazwa Parafii</h5>
             <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#sidebarMenu" aria-label="Close"></button>
