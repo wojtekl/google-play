@@ -13,8 +13,8 @@ const Dashboard = () => {
       <table class="table table-stripped table-sm">
         <thead>
           <tr>
-            <td>Head1</td>
-            <td>Head2</td>
+            <th scope="col">Head1</th>
+            <th scope="col">Head2</th>
           </tr>
         </thead>
         <tbody>
