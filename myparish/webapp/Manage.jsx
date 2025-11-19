@@ -1,4 +1,10 @@
 const Manage = () => {
+  const [selectedTab, setSelectedTab] = useState(0)
+
+  const switchTab = () => {
+    setSelectedTab(1)
+  }
+  
   return <>
     <header class="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow" data-bs-theme="dark">
       <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6 text-white" href="#">Nazwa parafii</a>
@@ -28,7 +34,7 @@ const Manage = () => {
             </h6>
             <ul class="nav flex-column mb-auto">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2" href="#">Current month</a>
+                <a class="nav-link d-flex align-items-center gap-2" href="#" onClick={switchTab}>Current month</a>
               </li>
             </ul>
             <hr class="my-3" />
@@ -41,16 +47,7 @@ const Manage = () => {
         </div>
       </div>
       <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-        <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-          <h1 class="h2">Dashboard</h1>
-          <div class="btn-toolbar mb-2 mb-md-0">
-            <div class="btn-group me-2">
-              <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
-            </div>
-          </div>
-        </div>
-        <h2>Section Title</h2>
-        <div class="table-responsive small"></div>
+        {if (1 === selectedTab) <Tab1 /> else <p>Brak</p>}
       </main>
     </div>
   </div></>
