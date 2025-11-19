@@ -11,6 +11,7 @@ const Image = ReactBootstrap.Image
 const ListGroup = ReactBootstrap.ListGroup
 const Navbar = ReactBootstrap.Navbar
 const Nav = ReactBootstrap.Nav
+const Offcanvas = ReactBootstrap.Offcanvas
 
 
 if ('serviceWorker' in navigator) {
