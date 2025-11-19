@@ -32,22 +32,25 @@ const Manage = () => {
           <div class="offcanvas-body d-md-flex flex-column p-0 pt-lg-3 overflow-y-auto">
             <ul class="nav flex-column">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2 active" aria-current="page" onClick={switchTab} id="dashboardBT"> Dashboard </a>
+                <a class="nav-link d-flex align-items-center gap-2 active" aria-current="page" onClick={switchTab} id="dashboardBT"><i class="bi bi-house-fill"></i> Dashboard </a>
               </li>
             </ul>
             <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
-              <span> Saved reports</span>
-              <a class="link-secondary" href="#" aira-label="Add a new report"></a>
+              <span> Saved reports </span>
+              <a class="link-secondary" href="#" aira-label="Add a new report"><i class="bi bi-plus-circle"></i></a>
             </h6>
             <ul class="nav flex-column mb-auto">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="currentMonthBT">Current month</a>
+                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="currentMonthBT"><i class="bi bi-file-earmark-text"></i> Current month </a>
               </li>
             </ul>
             <hr class="my-3" />
             <ul class="nav flex-column mb-auto">
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="settingsBT">Settings</a>
+                <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="settingsBT"><i class="bi bi-gear-wide-connected"></i> Settings </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link d-flex align-items-center gap-2" onClick={() => {alert('logout')}} id="signout"><i class="bi bi-door-closed"></i> Sign out </a>
               </li>
             </ul>
           </div>
