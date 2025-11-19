@@ -1,13 +1,14 @@
 const Manage = () => {
-  const [selectedTab, setSelectedTab] = useState('')
+  const [selectedTab, setSelectedTab] = useState('dashboardBT')
 
   const switchTab = (e) => {
     setSelectedTab(e.target.id)
   }
 
   const DisplayTab = () => {
-    if (selectedTab === 'currentMonthBT') return <Tab1 />
-    else if (selectedTab === 'dashboardBT') return 'Dashboard'
+    if (selectedTab === 'dashboardBT') return <Dashboard />
+    else if (selectedTab === 'currentMonthBT') return <Tab2 />
+      else if (selectedTab === 'settingsBT') return <Settings />
     else return 'Błąd'
   }
   
