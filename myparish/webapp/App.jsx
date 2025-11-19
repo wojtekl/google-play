@@ -54,7 +54,7 @@ class AppInner extends React.PureComponent {
               <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
               <Nav.Link href="https://wlap.pl/" rel="author">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://wlap.pl/howto/">{t('nav_install')}</Nav.Link>
+              <Nav.Link href="https://www.facebook.com/3parafia.wlap.pl3/reels/">{t('nav_install')}</Nav.Link>
               <Nav.Link href="#/manage">{t('nav_manage')}</Nav.Link>
             </Nav>
           </Navbar.Collapse>
