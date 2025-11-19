@@ -49,7 +49,7 @@ const Manage = () => {
                 <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="settingsBT">Settings</a>
               </li>
             </ul>
-          </div>div>
+          </div>
         </div>
       </div>
       <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
