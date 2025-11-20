@@ -9,7 +9,7 @@ const Reader = () => {
   useEffect(() => {
       const postData = {
         type: "msza",
-        tenant: name
+        tenant: `${name}`
       }
       axios.post(`api/scheduled-week`, postData).then((response) => setScheduledWeek(response.data))
     }, [])
