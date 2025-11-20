@@ -1,3 +1,6 @@
+const useParams = ReactRouterDOM.useParams
+
 const Reader = () => {
-  return <div>domyslne</div>
+  const { name } = useParams()
+  return <div>{name}</div>
 }
