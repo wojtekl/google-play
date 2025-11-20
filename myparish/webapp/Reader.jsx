@@ -14,7 +14,7 @@ const Reader = () => {
       axios.post(`api/scheduled-week`, postData).then((response) => setScheduledWeek(response.data))
     }, [])
   
-  return <div class="table-responsive small">
+  return <><h2>{name}</h2><div class="table-responsive small">
       <table class="table table-stripped table-sm">
         <thead>
           <tr>
@@ -35,5 +35,5 @@ const Reader = () => {
           })}
         </tbody>
       </table>
-    </div>
+    </div></>
 }
