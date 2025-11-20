@@ -18,7 +18,7 @@ const Modal = () => {
           <div class="modal-content">
             <div class="modal-header">
               <h5 class="modal-title" id="exampleModalLabel">{"newProduct"}</h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
@@ -57,8 +57,8 @@ const Modal = () => {
               </form>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">{"cancel"}</button>
-              <button type="button" class="btn btn-primary" data-dismiss="modal" onClick={handleSubmit}>{"save"}</button>
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{"cancel"}</button>
+              <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onClick={handleSubmit}>{"save"}</button>
             </div>
           </div>
         </div>
