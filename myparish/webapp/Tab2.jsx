@@ -1,4 +1,14 @@
 const Tab2 = () => {
+  const [scheduledWeek, setScheduledWeek] = useState([])
+  
+  const postData = {
+    type: "msza",
+    tenant: "test"
+  }
+  axios.get(`scheduled`, postData).then((response) => {
+    setScheduledWeek(response.data)
+  })
+  
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
       <h1 class="h2">Tab2</h1>
@@ -18,10 +28,12 @@ const Tab2 = () => {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td>Col1</td>
-            <td>Col1</td>
-          </tr>
+          {scheduledWeek.map(s => {
+            return <tr>
+              <td>{s['description']}</td>
+              <td>{s['scheduled']}</td>
+            </tr>
+          })}
         </tbody>
       </table>
     </div>
