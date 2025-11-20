@@ -11,7 +11,7 @@ const Reader = () => {
         type: "msza",
         tenant: `${name}`
       }
-      axios.post(`api/scheduled-week`, postData).then((response) => setScheduledWeek(response.data))
+      axios.post(`api/scheduled-week`, postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => setScheduledWeek(response.data))
     }, [name])
   
   return <><h2>{name}</h2><div class="table-responsive small">
