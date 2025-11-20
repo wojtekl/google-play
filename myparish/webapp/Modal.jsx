@@ -26,7 +26,7 @@ const Modal = () => {
               <form class="dane">
                 <div class="form-group">
                   <label for="exampleInputNazwa1">{localise.name}</label>
-                  <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={} />
+                  <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={""} />
                   <small id="nazwaHelp" class="form-text text-muted">Upewnij się że produkt jeszcze nie istnieje</small>
                 </div>
                 <div class="form-group">
