@@ -17,7 +17,7 @@ const Modal = () => {
         <div class="modal-dialog modal-dialog-centered modal-sm">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLabel">{!this.props.item ? localise.newProduct : `${localise.produkt}: ${this.props.item}`}</h5>
+              <h5 class="modal-title" id="exampleModalLabel">{localise.newProduct}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
@@ -26,7 +26,7 @@ const Modal = () => {
               <form class="dane">
                 <div class="form-group">
                   <label for="exampleInputNazwa1">{localise.name}</label>
-                  <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={this.props.item} />
+                  <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={} />
                   <small id="nazwaHelp" class="form-text text-muted">Upewnij się że produkt jeszcze nie istnieje</small>
                 </div>
                 <div class="form-group">
