@@ -6,10 +6,10 @@ const Modal = () => {
     event.preventDefault()
     //const { handleClose } = this.props
     const form = document.querySelector('#form_item')
-    //axios.post('item', form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
+    axios.put('scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
       form.reset()
       //handleClose()
-    //})
+    })
     return false
   }
 
@@ -23,21 +23,26 @@ const Modal = () => {
               </button>
             </div>
             <div class="modal-body">
-              <form class="dane">
+              <form class="dane" id="form_item">
                 <div class="form-group">
                   <label for="exampleInputNazwa1">{"name"}</label>
-                  <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="nazwa" value={""} />
+                  <input type="text" class="form-control" id="exampleInputNazwa1" aria-describedby="nazwaHelp" name="description" value={""} />
                   <small id="nazwaHelp" class="form-text text-muted">Upewnij się że produkt jeszcze nie istnieje</small>
                 </div>
                 <div class="form-group">
                   <label for="exampleInputSklep1">{"store"}</label>
-                  <input type="text" class="form-control" id="exampleInputSklep1" aria-describedby="sklepHelp" name="sklep" />
+                  <input type="text" class="form-control" id="exampleInputSklep1" aria-describedby="sklepHelp" name="scheduled" />
                   <small id="sklepHelp" class="form-text text-muted">Sprawdź nazwę sklepu przy innych produktach</small>
                 </div>
                 <div class="form-group">
                   <label for="exampleInputCena1">{"price"}</label>
-                  <input type="text" class="form-control" id="exampleInputCena1" aria-describedby="cenaHelp" name="cena" />
+                  <input type="text" class="form-control" id="exampleInputCena1" aria-describedby="cenaHelp" name="value" />
                   <small id="cenaHelp" class="form-text text-muted">Użyj kropki jako separatora</small>
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputNotes1">{"notes"}</label>
+                  <input type="text" class="form-control" id="exampleInputNotes1" aria-describedby="notesHelp" name="notes" />
+                  <small id="notesHelp" class="form-text text-muted">Sprawdź nazwę sklepu przy innych produktach</small>
                 </div>
                 <div class="form-group">
                   <label for="exampleInputId1">Id</label>
