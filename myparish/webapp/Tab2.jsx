@@ -9,7 +9,7 @@ const Tab2 = () => {
         type: "msza",
         tenant: "test"
       }
-      axios.post(`api/scheduled`, postData).then((response) => setScheduledWeek(response.data))
+      axios.post(`api/scheduled-week`, postData).then((response) => setScheduledWeek(response.data))
     }, [])
   
   return <>
