@@ -1,13 +1,15 @@
+const useEffect = React.useEffect
+
 const Tab2 = () => {
   const [scheduledWeek, setScheduledWeek] = useState([])
   
-  const postData = {
-    type: "msza",
-    tenant: "test"
-  }
-  axios.post(`scheduled`, postData).then((response) => {
-    setScheduledWeek(response.data)
-  })
+  useEffect(() => {
+      const postData = {
+        type: "msza",
+        tenant: "test"
+      }
+      axios.post(`scheduled`, postData).then((response) => setScheduledWeek(response.data))
+    }, [])
   
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
