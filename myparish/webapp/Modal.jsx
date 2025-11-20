@@ -6,7 +6,7 @@ const Modal = () => {
     event.preventDefault()
     //const { handleClose } = this.props
     const form = document.querySelector('#form_item')
-    axios.put(`scheduled.php`, form).then(() => {
+    axios.put(`scheduled.php`, form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
       //handleClose()
     })
