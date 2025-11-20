@@ -48,11 +48,6 @@ const Modal = () => {
                   <input type="hidden" class="form-control" id="exampleInputId1" aria-describedby="idHelp" name="identyfikator" value="web" />
                   <small id="identyfikatorHelp" class="form-text text-muted">Generowany automatycznie</small>
                 </div>
-                <div class="form-group">
-                  <label for="exampleInputCoupon1">{"coupon"}</label>
-                  <input type="checkbox" class="form-control" id="exampleInputCoupon1" aria-describedby="couponHelp" name="coupon" />
-                  <small id="couponHelp" class="form-text text-muted">Cena z kartą</small>
-                </div>
               </form>
             </div>
             <div class="modal-footer">
