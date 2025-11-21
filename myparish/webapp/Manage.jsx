@@ -4,6 +4,13 @@ const Manage = () => {
   const [tenant, setTenant] = useState('')
   const { navigate } = useNavigate()
 
+  const handleSignout = () => {
+    axios.get(`api/signin-delete`).then((response) => {
+        setTenant('')
+        navigate('/signin')
+      })
+  }
+
   const switchTab = (e) => {
     setSelectedTab(e.target.id)
   }
@@ -60,7 +67,7 @@ const Manage = () => {
                 <a class="nav-link d-flex align-items-center gap-2" onClick={switchTab} id="settingsBT"><i class="bi bi-gear-wide-connected"></i> {t('label_settings')} </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link d-flex align-items-center gap-2" onClick={() => {alert('logout')}} id="signout"><i class="bi bi-door-closed"></i> {t('label_signout')} </a>
+                <a class="nav-link d-flex align-items-center gap-2" onClick={handleSignout} id="signout"><i class="bi bi-door-closed"></i> {t('label_signout')} </a>
               </li>
             </ul>
           </div>
