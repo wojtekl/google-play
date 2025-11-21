@@ -16,9 +16,9 @@ const Manage = () => {
   }
 
   useEffect(() => {
-      axios.get(`api/signin`).then((response) => 
-          if(trim(response.data) != '') setTenant(response.data)
-        else navigate('/signin')
+      axios.get(`api/signin`).then((response) => {
+        setTenant(response.data)
+        if (trim(response.data) == '') navigate('/signin')
       })
     }, [])
   
