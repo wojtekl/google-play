@@ -1,7 +1,6 @@
 const Signin = () => {
   const handleSubmit = (event) => {
     event.preventDefault()
-    alert("login")
       const form = document.querySelector('#form_submit')
       axios.post(`api/signin`, form).then((response) => navigate('/manage'))
     }
