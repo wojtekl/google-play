@@ -2,7 +2,7 @@ const Manage = () => {
   const { t } = useTranslation()
   const [selectedTab, setSelectedTab] = useState('dashboardBT')
   const [tenant, setTenant] = useState('')
-  const { navigate } = useNavigate()
+  const navigate = useNavigate()
 
   const handleSignout = () => {
     axios.get(`api/signin-delete`).then((response) => {
