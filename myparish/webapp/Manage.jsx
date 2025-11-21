@@ -17,10 +17,11 @@ const Manage = () => {
 
   useEffect(() => {
       axios.get(`api/signin`).then((response) => {
-        if(trim(response.data) != '') setTenant(response.data)
+        alert(response.data)
+          if(trim(response.data) != '') setTenant(response.data)
         else navigate('/signin')
       })
-    }, [tenant])
+    }, [])
   
   return <>
     <header class="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow" data-bs-theme="dark">
