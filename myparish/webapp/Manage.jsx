@@ -1,6 +1,8 @@
 const Manage = () => {
   const { t } = useTranslation()
   const [selectedTab, setSelectedTab] = useState('dashboardBT')
+  const [tenant, setTenant] = useState()
+  const { navigate } = useNavigate()
 
   const switchTab = (e) => {
     setSelectedTab(e.target.id)
@@ -12,10 +14,17 @@ const Manage = () => {
       else if (selectedTab === 'settingsBT') return <Settings />
     else return 'Błąd'
   }
+
+  useEffect(() => {
+      axios.get(`api/signin`).then((response) => {
+        if(response.data != '') setTenant(response.data))
+        else navigate('/signin')
+      }
+    }, [tenant])
   
   return <>
     <header class="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow" data-bs-theme="dark">
-      <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6 text-white" href="#">{t('label_nazwa')}</a>
+      <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6 text-white" href="#">{tenant}</a>
       <ul class="navbar-nav flex-row d-md-none">
         <li class="nav-item text-nowrap">
           <button class="nav-link px-3 text-white" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-list" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu"></i></button>
