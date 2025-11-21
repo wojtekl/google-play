@@ -1,5 +1,6 @@
 const Signin = () => {
-  const handleSubmit = () => {
+  const handleSubmit = (event) => {
+    event.preventDefault()
     alert("login")
       const form = document.querySelector('#form_submit')
       axios.post(`api/signin`, form).then((response) => navigate('/manage'))
@@ -7,7 +8,7 @@ const Signin = () => {
   
   return <div class="d-flex align-items-center py-4 bg-body-tertiary">
     <main class="form-signin w-100 m-auto" style={{maxWidth: '330px', padding: '1rem'}}>
-    <form onsubmit={handleSubmit} id="form_submit">
+    <form onSubmit={handleSubmit} id="form_submit">
       <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
       <div class="form-floating">
         <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" name="username" />
