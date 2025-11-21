@@ -1,7 +1,7 @@
 const Manage = () => {
   const { t } = useTranslation()
   const [selectedTab, setSelectedTab] = useState('dashboardBT')
-  const [tenant, setTenant] = useState()
+  const [tenant, setTenant] = useState('')
   const { navigate } = useNavigate()
 
   const switchTab = (e) => {
@@ -16,8 +16,7 @@ const Manage = () => {
   }
 
   useEffect(() => {
-      axios.get(`api/signin`).then((response) => {
-        alert(response.data)
+      axios.get(`api/signin`).then((response) => 
           if(trim(response.data) != '') setTenant(response.data)
         else navigate('/signin')
       })
