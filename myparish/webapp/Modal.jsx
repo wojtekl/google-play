@@ -30,7 +30,7 @@ const Modal = () => {
                 </div>
                 <div class="form-group">
                   <label for="exampleInputScheduled1">{t('label_scheduled')}</label>
-                  <input type="text" class="form-control" id="exampleInputScheduled1" aria-describedby="schedulehHelp" name="scheduled" />
+                  <input type="date" class="form-control" id="exampleInputScheduled1" aria-describedby="schedulehHelp" name="scheduled" />
                   <small id="scheduledHelp" class="form-text text-muted">Sprawdź nazwę sklepu przy innych produktach</small>
                 </div>
                 <div class="form-group">
