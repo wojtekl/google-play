@@ -4,8 +4,7 @@ const CurrentWeek = () => {
   
   useEffect(() => {
     const postData = {
-      type: "msza",
-      tenant: "test"
+      type: "msza"
     }
     axios.post('api/scheduled-week', postData).then((response) => {
       setCurrentWeek(response.data)
