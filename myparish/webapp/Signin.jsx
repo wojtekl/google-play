@@ -1,5 +1,6 @@
 const Signin = () => {
   const navigate = useNavigate()
+  const { t } = useTranslation()
   
   const handleSubmit = (event) => {
     event.preventDefault()
