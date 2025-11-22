@@ -8,8 +8,8 @@ const CurrentWeek = () => {
       tenant: "test"
     }
     axios.post('api/scheduled-week', postData).then((response) => {
-      setCurrentWeek(response.data))
-    }
+      setCurrentWeek(response.data)
+    })
   }, [])
   
   return <>
