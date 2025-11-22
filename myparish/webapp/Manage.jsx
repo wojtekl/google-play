@@ -5,19 +5,21 @@ const Manage = () => {
   const { t } = useTranslation()
   
   const [selectedTab, setSelectedTab] = useState('dashboardLink')
-  const [tenant, setTenant] = useState('demo')
+  const [tenant, setTenant] = useState(store.getState().tenant)
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
-      setTenant(response.data)
       if (!response.data) {
         navigate('/signin')
       }
+      store.dispatch({ type: 'tenant/set', payload: response.data })
+      setTenant(response.data)
     })
   }, [])
 
   const handleSignout = () => {
     axios.get('api/signin-delete').then((response) => {
+      store.dispatch({ type: 'tenant/set', payload: 'demo' })
       setTenant('demo')
       navigate('/signin')
     })
