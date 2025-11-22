@@ -1,26 +1,26 @@
 const Dashboard = () => {
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-      <h1 class="h2">Dashboard</h1>
+      <h1 class="h2">{t('label_dashboard')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary">{t('label_edit')}</button>
         </div>
       </div>
     </div>
-    <h2>Section Title</h2>
+    <h2>{t('label_section')}</h2>
     <div class="table-responsive small">
       <table class="table table-stripped table-sm">
         <thead>
           <tr>
-            <th scope="col">Head1</th>
-            <th scope="col">Head2</th>
+            <th scope="col">#</th>
+            <th scope="col">{t('label_header')}</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>Col1</td>
-            <td>Col1</td>
+            <td>1</td>
+            <td>value</td>
           </tr>
         </tbody>
       </table>
