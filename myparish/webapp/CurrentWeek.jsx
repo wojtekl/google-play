@@ -38,7 +38,7 @@ const CurrentWeek = () => {
             return <tr>
               <td>{i}</td>
               <td>{e['description']}</td>
-              <td>{e['scheduled']}</td>
+              <td><DateFormatter timestamp={e['scheduled']} /></td>
               <td>{e['value']}</td>
               <td>{e['notes']}</td>
             </tr>
