@@ -8,8 +8,7 @@ const Reader = () => {
 
   useEffect(() => {
     const postData = {
-      type: "msza",
-      tenant: `${tenant}`
+      type: "msza"
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       setCurrentWeek(response.data)
