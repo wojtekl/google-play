@@ -22,6 +22,7 @@ const Manage = () => {
   }
 
   const handleSwitchTab = (e) => {
+    e.preventDefault()
     setSelectedTab(e.target.id)
   }
 
