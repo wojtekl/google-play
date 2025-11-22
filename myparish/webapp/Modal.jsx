@@ -20,7 +20,7 @@ const Modal = () => {
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label={t('label_close')}></button>
         </div>
         <div class="modal-body">
-          <form class="dane" id="form_item">
+          <form class="dane" id="form_item" onSubmit={handleSubmit}>
             <div class="form-group">
               <label for="exampleInputDescription1">{t('label_description')}</label>
               <input type="text" class="form-control" id="exampleInputDescription1" aria-describedby="descriptionHelp" name="description" />
@@ -33,7 +33,7 @@ const Modal = () => {
             </div>
             <div class="form-group">
               <label for="exampleInputValue1">{t('label_value')}</label>
-              <input type="value" class="form-control" id="exampleInputValue1" aria-describedby="valueHelp" name="value" />
+              <input type="number" min="10.00" max="500" step="0.01" class="form-control" id="exampleInputValue1" aria-describedby="valueHelp" name="value" />
               <small id="valueHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
@@ -50,7 +50,7 @@ const Modal = () => {
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{t('label_cancel')}</button>
-          <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onClick={handleSubmit}>{t('label_save')}</button>
+          <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">{t('label_save')}</button>
         </div>
       </div>
     </div>
