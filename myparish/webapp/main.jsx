@@ -68,7 +68,7 @@ root.render(<Provider store={store}>
       <Route path="news" element={<News />} />
       <Route path="manage" element={<Manage />} />
       <Route path="signin" element={<Signin />} />
-      <Route path=":name" element={<Reader />} />
+      <Route path=":tenant" element={<Reader />} />
     </Routes>
   </Router>
 </Provider>)
