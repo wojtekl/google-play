@@ -25,7 +25,8 @@ const markerActive = L.divIcon({ html: '<i class="bi bi-geo-alt-fill" style="fon
 const state = localStorage.getItem('redux')
 const initialState = !state ? {
   value: null,
-  lang: navigator.language.substring(0, 2).toLocaleLowerCase()
+  lang: navigator.language.substring(0, 2).toLocaleLowerCase(),
+  tenant: null
 } : JSON.parse(state)
 
 const selectedReducer = (state = initialState, action) => {
@@ -36,6 +37,8 @@ const selectedReducer = (state = initialState, action) => {
       return { ...state, value: null }
     case 'lang/set':
       return { ...state, lang: action.payload }
+    case 'tenant/set':
+      return { ...state, tenant: action.payload }
     default:
       return state
   }
