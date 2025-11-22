@@ -6,7 +6,7 @@ const CurrentWeek = () => {
     const postData = {
       type: "msza"
     }
-    axios.post('api/scheduled-week', postData).then((response) => {
+    axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       setCurrentWeek(response.data)
     })
   }, [])
