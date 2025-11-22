@@ -26,7 +26,7 @@ const state = localStorage.getItem('redux')
 const initialState = !state ? {
   value: null,
   lang: navigator.language.substring(0, 2).toLocaleLowerCase(),
-  tenant: null
+  tenant: 'demo'
 } : JSON.parse(state)
 
 const selectedReducer = (state = initialState, action) => {
