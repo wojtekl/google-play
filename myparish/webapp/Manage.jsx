@@ -1,3 +1,5 @@
+const useEffect = React.useEffect
+
 const Manage = () => {
   const navigate = useNavigate()
   const { t } = useTranslation()
