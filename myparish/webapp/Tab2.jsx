@@ -1,44 +1,46 @@
-const useEffect = React.useEffect
-
-const Tab2 = () => {
+const CurrentWeek = () => {
   const { t } = useTranslation()
-  const [scheduledWeek, setScheduledWeek] = useState([])
+  const [currentWeek, setCurrentWeek] = useState([])
   
   useEffect(() => {
-      const postData = {
-        type: "msza",
-        tenant: "test"
-      }
-      axios.post(`api/scheduled-week`, postData).then((response) => setScheduledWeek(response.data))
-    }, [])
+    const postData = {
+      type: "msza",
+      tenant: "test"
+    }
+    axios.post('api/scheduled-week', postData).then((response) => {
+      setCurrentWeek(response.data))
+    }
+  }, [])
   
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-      <h1 class="h2">{t('label_scheduled')}</h1>
+      <h1 class="h2">{t('label_currentweek')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
           <button type="button" class="btn btn-sm btn-outline-secondary">{t('label_edit')}</button>
         </div>
       </div>
     </div>
-    <h2>{t('label_week')}</h2>
+    <h2>{t('label_currentweek')}</h2>
     <div class="table-responsive small">
       <table class="table table-stripped table-sm">
         <thead>
           <tr>
-            <td>{t('label_description')}</td>
-            <td>{t('label_scheduled')}</td>
-            <td>{t('label_value')}</td>
-            <td>{t('label_notes')}</td>
+            <th scope="col">#</th>
+            <th scope="col">{t('label_description')}</th>
+            <th scope="col">{t('label_scheduled')}</th>
+            <th scope="col">{t('label_value')}</th>
+            <th scope="col">{t('label_notes')}</th>
           </tr>
         </thead>
         <tbody>
-          {scheduledWeek.map(s => {
+          {currentWeek.map((e, i) => {
             return <tr>
-              <td>{s['description']}</td>
-              <td>{s['scheduled']}</td>
-              <td>{s['value']}</td>
-              <td>{s['notes']}</td>
+              <td>{i}</td>
+              <td>{e['description']}</td>
+              <td>{e['scheduled']}</td>
+              <td>{e['value']}</td>
+              <td>{e['notes']}</td>
             </tr>
           })}
         </tbody>
