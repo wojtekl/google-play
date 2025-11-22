@@ -5,8 +5,8 @@ const Signin = () => {
     event.preventDefault()
     const form = document.querySelector('#form_submit')
     axios.post('api/signin', form).then((response) => {
-      navigate('/manage'))
-    }
+      navigate('/manage')
+    })
   }
   
   return <div class="d-flex align-items-center py-4 bg-body-tertiary">
