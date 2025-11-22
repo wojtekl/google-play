@@ -30,7 +30,7 @@ const Manage = () => {
 
   const DisplayTab = () => {
     if ('currentWeekLink' === selectedTab) {
-      return <Tab2 />
+      return <CurrentWeek />
     }
     else if ('settingsLink' === selectedTab) {
       return <Settings />
