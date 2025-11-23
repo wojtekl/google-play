@@ -30,6 +30,7 @@ const CurrentWeek = () => {
             <th scope="col">{t('label_scheduled')}</th>
             <th scope="col">{t('label_value')}</th>
             <th scope="col">{t('label_notes')}</th>
+            <th scope="col">{t('label_actions')}</th>
           </tr>
         </thead>
         <tbody>
@@ -40,6 +41,7 @@ const CurrentWeek = () => {
               <td><DateFormatter timestamp={e['scheduled']} /></td>
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
+              <td><Button variant="link" size="sm" disabled={!enabled} data-bs-toggle="modal" data-bs-target="#exampleModal">{t('label_edit')}</Button></td>
             </tr>
           })}
         </tbody>
