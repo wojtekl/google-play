@@ -1,6 +1,7 @@
 const Modal = (props) => {
   const { t } = useTranslation()
   const { modalId, itemId } = props
+  const { item, setItem } = useState()
 
   const handleSubmit = (event) => {
     event.preventDefault()
@@ -14,15 +15,14 @@ const Modal = (props) => {
   }
 
   useEffect(() => {
-    alert(itemId)
     if (!itemId) {
       return
     }
     
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
-    axios.get(`scheduled?${searchParams.toString()}`).then((response) => {
-      alert(response.data)
+    axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
+      setItem(response.data)
     })
   }, [itemId])
 
@@ -37,7 +37,7 @@ const Modal = (props) => {
           <form class="dane" id="form_item" onSubmit={handleSubmit}>
             <div class="form-group">
               <label for="exampleInputDescription1">{t('label_description')}</label>
-              <input type="text" class="form-control" id="exampleInputDescription1" aria-describedby="descriptionHelp" name="description" />
+              <input type="text" class="form-control" id="exampleInputDescription1" aria-describedby="descriptionHelp" name="description" value={item['description']} />
               <small id="descriptionHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
