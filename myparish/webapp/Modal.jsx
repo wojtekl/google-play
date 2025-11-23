@@ -36,7 +36,7 @@ const Modal = (props) => {
           <form class="dane" id="form_item" onSubmit={handleSubmit}>
             <div class="form-group">
               <label for={`${modalId}InputDescription2`}>{t('label_description')}</label>
-              <input type="text" class="form-control" id={`${modalId}InputDescription2`} aria-describedby="descriptionHelp" name="description" />
+              <input type="text" class="form-control" id={`${modalId}InputDescription2`} aria-describedby="descriptionHelp" name={`${modalId}description`} />
               <small id="descriptionHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
