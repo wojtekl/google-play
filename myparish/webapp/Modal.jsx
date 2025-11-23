@@ -1,7 +1,9 @@
 const Modal = (props) => {
   const { t } = useTranslation()
   const { modalId, itemId } = props
-  const { item, setItem } = useState()
+  const { item, setItem } = useState({
+    description: ''
+  })
 
   const handleSubmit = (event) => {
     event.preventDefault()
