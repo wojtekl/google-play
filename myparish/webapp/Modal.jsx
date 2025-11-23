@@ -24,7 +24,7 @@ const Modal = (props) => {
     axios.get(`scheduled?${searchParams.toString()}`).then((response) => {
       alert(response.data)
     })
-  }, [])
+  }, [itemId])
 
   return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-sm">
