@@ -21,7 +21,7 @@ const Modal = (props) => {
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      document.querySelector(`#${modalId}InputDescription2`).value = response.data['description']
+      document.getElementById(`#${modalId}InputDescription2`).value = response.data['description']
     })
   }, [itemId])
 
