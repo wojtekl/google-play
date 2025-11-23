@@ -1,6 +1,7 @@
 const CurrentWeek = () => {
   const { t } = useTranslation()
   const [currentWeek, setCurrentWeek] = useState([])
+  const [selected, setSelected] = useState()
 
   const handleSelect = () => {}
   
@@ -43,11 +44,12 @@ const CurrentWeek = () => {
               <td><DateFormatter timestamp={e['scheduled']} /></td>
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
-              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick={() => { store.dispatch({ type: 'selected/set', payload: e['id'] }) }}>{t('label_edit')}</button></td>
+              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal" onClick={() => { setSelected(e['id']) }}>{t('label_edit')}</button></td>
             </tr>
           })}
         </tbody>
       </table>
+      <Modal modalId="editModal" itemId={selected} />
     </div>
   </>
 }
