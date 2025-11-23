@@ -21,7 +21,7 @@ const Modal = (props) => {
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      document.querySelector('#exampleInputDescription1').value = response.data['description']
+      document.querySelector('#exampleInputDescription2').value = response.data['description']
     })
   }, [itemId])
 
@@ -35,13 +35,13 @@ const Modal = (props) => {
         <div class="modal-body">
           <form class="dane" id="form_item" onSubmit={handleSubmit}>
             <div class="form-group">
-              <label for="exampleInputDescription1">{t('label_description')}</label>
-              <input type="text" class="form-control" id="exampleInputDescription1" aria-describedby="descriptionHelp" name="description" />
+              <label for="exampleInputDescription2">{t('label_description')}</label>
+              <input type="text" class="form-control" id="exampleInputDescription2" aria-describedby="descriptionHelp" name="description" />
               <small id="descriptionHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
-              <label for="exampleInputScheduled1">{t('label_scheduled')}</label>
-              <input type="datetime-local" class="form-control" id="exampleInputScheduled1" aria-describedby="schedulehHelp" name="scheduled" />
+              <label for="exampleInputScheduled2">{t('label_scheduled')}</label>
+              <input type="datetime-local" class="form-control" id="exampleInputScheduled2" aria-describedby="schedulehHelp" name="scheduled" />
               <small id="scheduledHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
