@@ -21,7 +21,7 @@ const Modal = (props) => {
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      document.querySelector('#exampleInputDescription2').value = response.data['description']
+      document.querySelector(`#${modalId}InputDescription2`).value = response.data['description']
     })
   }, [itemId])
 
@@ -35,8 +35,8 @@ const Modal = (props) => {
         <div class="modal-body">
           <form class="dane" id="form_item" onSubmit={handleSubmit}>
             <div class="form-group">
-              <label for="exampleInputDescription2">{t('label_description')}</label>
-              <input type="text" class="form-control" id="exampleInputDescription2" aria-describedby="descriptionHelp" name="description" />
+              <label for={`${modalId}InputDescription2`}>{t('label_description')}</label>
+              <input type="text" class="form-control" id={`${modalId}InputDescription2`} aria-describedby="descriptionHelp" name="description" />
               <small id="descriptionHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
