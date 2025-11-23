@@ -1,9 +1,7 @@
 const Modal = (props) => {
   const { t } = useTranslation()
   const { modalId, itemId } = props
-  const { item, setItem } = useState({
-    description: ''
-  })
+  const { item, setItem } = useState()
 
   const handleSubmit = (event) => {
     event.preventDefault()
@@ -24,7 +22,7 @@ const Modal = (props) => {
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      setItem(response.data)
+      document.querySelector('#exampleInputDescription1').value = response.data['description']
     })
   }, [itemId])
 
