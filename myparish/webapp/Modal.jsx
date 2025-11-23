@@ -1,5 +1,6 @@
-const Modal = () => {
+const Modal = (props) => {
   const { t } = useTranslation()
+  const { modalId, itemId } = props
 
   const handleSubmit = (event) => {
     event.preventDefault()
@@ -12,7 +13,16 @@ const Modal = () => {
     return false
   }
 
-  return <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  useEffect(() => {
+    const postData = {
+      type: "msza"
+    }
+    //axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+    //  setCurrentWeek(response.data)
+    //})
+  }, [])
+
+  return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-sm">
       <div class="modal-content">
         <div class="modal-header">
