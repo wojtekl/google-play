@@ -14,6 +14,7 @@ const Modal = (props) => {
   }
 
   useEffect(() => {
+    alert(itemId)
     if (!itemId) {
       return
     }
