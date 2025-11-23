@@ -14,12 +14,15 @@ const Modal = (props) => {
   }
 
   useEffect(() => {
-    const postData = {
-      type: "msza"
+    if (!itemId) {
+      return
     }
-    //axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-    //  setCurrentWeek(response.data)
-    //})
+    
+    const searchParams = new URLSearchParams()
+    searchParams.append('id', itemId)
+    axios.get(`scheduled?${searchParams.toString()}`).then((response) => {
+      alert(response.data)
+    })
   }, [])
 
   return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
