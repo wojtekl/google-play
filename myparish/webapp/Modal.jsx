@@ -1,7 +1,6 @@
 const Modal = (props) => {
   const { t } = useTranslation()
   const { modalId, itemId } = props
-  const { item, setItem } = useState()
 
   const handleSubmit = (event) => {
     event.preventDefault()
@@ -37,7 +36,7 @@ const Modal = (props) => {
           <form class="dane" id="form_item" onSubmit={handleSubmit}>
             <div class="form-group">
               <label for="exampleInputDescription1">{t('label_description')}</label>
-              <input type="text" class="form-control" id="exampleInputDescription1" aria-describedby="descriptionHelp" name="description" value={item['description']} />
+              <input type="text" class="form-control" id="exampleInputDescription1" aria-describedby="descriptionHelp" name="description" />
               <small id="descriptionHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
