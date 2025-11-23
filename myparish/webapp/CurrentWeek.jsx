@@ -1,7 +1,7 @@
 const CurrentWeek = () => {
   const { t } = useTranslation()
   const [currentWeek, setCurrentWeek] = useState([])
-  const [selected, setSelected] = useState(null)
+  const [selected, setSelected] = useState()
 
   const handleSelect = () => {}
   
