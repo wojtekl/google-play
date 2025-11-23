@@ -93,6 +93,6 @@ const Manage = () => {
         </main>
       </div>
     </div>
-    <Modal />
+    <Modal modalId="exampleModal" />
   </>
 }
