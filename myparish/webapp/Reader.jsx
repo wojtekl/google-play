@@ -88,7 +88,7 @@ const Reader = () => {
     <footer class="text-body-secondary py-5">
       <div class="container">
         <p class="float-end mb-1">
-          <a href="#">{t('label_backtotop')}</a>
+          <a href=`#/${tenant}`>{t('label_backtotop')}</a>
         </p>
         <p class="mb-1">{t('label_copyright')}</p>
         <p class="mb-0"><a href="/">{t('label_home')}</a></p>
