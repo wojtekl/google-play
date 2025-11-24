@@ -50,5 +50,6 @@ const CurrentWeek = () => {
         </tbody>
       </table>
     </div>
+    <Modal modalId="editItem" itemId={selected} />
   </>
 }
