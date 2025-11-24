@@ -5,6 +5,7 @@ const Modal = (props) => {
   const handleSubmit = (event) => {
     event.preventDefault()
     const form = document.querySelector(`#form_${modalId}`)
+    alert('zapis')
     
     axios.post(!modalId ? 'api/scheduled-put' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
