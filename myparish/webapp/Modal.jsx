@@ -6,8 +6,9 @@ const Modal = (props) => {
     event.preventDefault()
     const form = document.querySelector(`#form_${modalId}`)
     
-    axios.post(!itemId ? 'api/scheduled-put' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
-      form.reset()
+    axios.post(!itemId ? 'api/scheduled-put' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+      alert(response.data)
+        form.reset()
     })
     
     return false
