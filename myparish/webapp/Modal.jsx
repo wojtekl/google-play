@@ -7,7 +7,7 @@ const Modal = (props) => {
     alert('zapis')
     const form = document.querySelector(`#form_${modalId}`)
     
-    axios.post(!modalId ? 'api/scheduled-put' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
+    axios.post('api/scheduled-put', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
     })
     
@@ -22,11 +22,11 @@ const Modal = (props) => {
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      document.getElementById(`${modalId}InputId`).value = response.data['id']
-      document.getElementById(`${modalId}InputDescription`).value = response.data['description']
-      document.getElementById(`${modalId}InputScheduled`).value = response.data['scheduled']
-      document.getElementById(`${modalId}InputValue`).value = response.data['value']
-      document.getElementById(`${modalId}InputNotes`).value = response.data['notes']
+      //document.getElementById(`${modalId}InputId`).value = response.data['id']
+      //document.getElementById(`${modalId}InputDescription`).value = response.data['description']
+      //document.getElementById(`${modalId}InputScheduled`).value = response.data['scheduled']
+      //document.getElementById(`${modalId}InputValue`).value = response.data['value']
+      //document.getElementById(`${modalId}InputNotes`).value = response.data['notes']
     })
   }, [itemId])
 
