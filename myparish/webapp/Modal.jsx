@@ -33,10 +33,10 @@ const Modal = (props) => {
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label={t('label_close')}></button>
         </div>
         <div class="modal-body">
-          <form class="dane" id="form_item" onSubmit={handleSubmit}>
+          <form class="dane" id={`form_${modalId}`} onSubmit={handleSubmit}>
             <div class="form-group">
               <label for={`${modalId}InputDescription2`}>{t('label_description')}</label>
-              <input type="text" class="form-control" id={`${modalId}InputDescription2`} aria-describedby="descriptionHelp" name={`${modalId}description`} />
+              <input type="text" class="form-control" id={`${modalId}InputDescription2`} aria-describedby="descriptionHelp" name="description" />
               <small id="descriptionHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
