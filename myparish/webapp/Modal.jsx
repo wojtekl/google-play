@@ -5,7 +5,7 @@ const Modal = (props) => {
   const handleSubmit = (event) => {
     event.preventDefault()
     alert('zapis')
-    const form = document.querySelector(`#form_${modalId}`)
+    const form = document.querySelector('#form_submit')
     
     axios.post('api/scheduled-put', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
@@ -38,7 +38,7 @@ const Modal = (props) => {
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label={t('label_close')}></button>
         </div>
         <div class="modal-body">
-          <form class="dane" id={`form_${modalId}`} onSubmit={handleSubmit}>
+          <form class="dane" id="form_submit" onSubmit={handleSubmit}>
             <div class="form-group">
               <label for={`${modalId}InputDescription`}>{t('label_description')}</label>
               <input type="text" class="form-control" id={`${modalId}InputDescription`} aria-describedby={`${modalId}descriptionHelp`} name="description" />
