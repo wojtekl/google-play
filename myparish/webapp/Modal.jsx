@@ -30,7 +30,7 @@ const Modal = (props) => {
     })
   }, [itemId])*/
 
-  return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby={`modalIdLabel`} aria-hidden="true">
+  return <div class="modal fade" id={`modalId`} tabindex="-1" aria-labelledby={`modalIdLabel`} aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-sm">
       <div class="modal-content">
         <div class="modal-header">
