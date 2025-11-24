@@ -44,7 +44,7 @@ const CurrentWeek = () => {
               <td><DateFormatter timestamp={e['scheduled']} /></td>
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
-              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editItemModal" onClick={() => { setSelected(e['id']) }}>{t('label_edit')}</button></td>
+              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editItem" onClick={() => { setSelected(e['id']) }}>{t('label_edit')}</button></td>
             </tr>
           })}
         </tbody>
