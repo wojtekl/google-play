@@ -15,7 +15,7 @@ const Modal = (props) => {
   }
 
   useEffect(() => {
-    if (!itemId) {
+    /*if (!itemId) {
       return
     }
     
@@ -27,7 +27,7 @@ const Modal = (props) => {
       //document.getElementById(`${modalId}InputScheduled`).value = response.data['scheduled']
       //document.getElementById(`${modalId}InputValue`).value = response.data['value']
       //document.getElementById(`${modalId}InputNotes`).value = response.data['notes']
-    })
+    })*/
   }, [itemId])
 
   return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
