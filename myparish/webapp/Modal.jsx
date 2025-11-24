@@ -1,6 +1,6 @@
 const Modal = (props) => {
   const { t } = useTranslation()
-  const { modalId, itemId } = props
+  //const { modalId, itemId } = props
 
   const handleSubmit = (event) => {
     event.preventDefault()
@@ -30,11 +30,11 @@ const Modal = (props) => {
     })
   }, [itemId])*/
 
-  return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby={`${modalId}Label`} aria-hidden="true">
+  return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby={`modalIdLabel`} aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-sm">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title fs-5" id={`${modalId}Label`}>{t('label_scheduled')}</h1>
+          <h1 class="modal-title fs-5" id={`modalIdLabel`}>{t('label_scheduled')}</h1>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label={t('label_close')}></button>
         </div>
         <div class="modal-body">
