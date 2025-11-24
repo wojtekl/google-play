@@ -21,14 +21,14 @@ const Reader = () => {
         <div class="container">
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
-              <h4>{t('title_contact')}</h4>
-              <p class="text-body-secondary">{t('description_contact')}</p>
+              <h4>{t('label_contact_title')}</h4>
+              <p class="text-body-secondary">{t('label_contact_description')}</p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
-              <h4>{t('subtitle_contact')}</h4>
+              <h4>{t('label_contact_subtitle')}</h4>
               <ul class="list-unstyled">
                 <li>
-                  <a href="mailto:wleap.zhulp@slmails.com" class="text-white">{t('link_emailus')}</a>
+                  <a href="mailto:test@test.pl" class="text-white">{t('label_emailus')}</a>
                 </li>
               </ul>
             </div>
@@ -42,7 +42,7 @@ const Reader = () => {
           </a>
           <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent"
-            aria-expanded="false" aria-label="Toggle navigation">
+            aria-expanded="false" aria-label={t('label_toggle_navigation')}>
             <span class="navbar-toggler-icon"></span>
           </button>
         </div>
@@ -50,8 +50,8 @@ const Reader = () => {
     </header>
     <main>
       <div class="container">
-        <h1 class="text-body-emphasis">{t('header_install')}</h1>
-        <p class="fs-5 col-md-8 mb-5">{t('description_install')}</p>
+        <h1 class="text-body-emphasis">{t('label_header')}</h1>
+        <p class="fs-5 col-md-8 mb-5">{t('label_description')}</p>
         <hr class="col-3 col-md-2 mb-5"></hr>
         <div class="accordion" id="accordionExample">
           <AccordionItem id="scheduled" parent="accordionExample" show={true}>
@@ -88,10 +88,10 @@ const Reader = () => {
     <footer class="text-body-secondary py-5">
       <div class="container">
         <p class="float-end mb-1">
-          <a href="#">{t('button_backtotop')}</a>
+          <a href="#">{t('label_backtotop')}</a>
         </p>
-        <p class="mb-1">{t('description_copyright')}</p>
-        <p class="mb-0"><a href="/">{t('button_home')}</a></p>
+        <p class="mb-1">{t('label_copyright')}</p>
+        <p class="mb-0"><a href="/">{t('label_home')}</a></p>
       </div>
     </footer>
   </>
