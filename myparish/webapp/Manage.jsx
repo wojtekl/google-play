@@ -67,7 +67,7 @@ const Manage = () => {
               </ul>
               <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
                 <span>{t('label_scheduled_event')}</span>
-                <a class="link-secondary" href="#" aria-label={t('label_add_scheduled')} data-bs-toggle="modal" data-bs-target="#exampleModal">
+                <a class="link-secondary" href="#" aria-label={t('label_add_scheduled')} data-bs-toggle="modal" data-bs-target="#newScheduledModal">
                   <i class="bi bi-plus-circle"></i>
                 </a>
               </h6>
@@ -93,6 +93,6 @@ const Manage = () => {
         </main>
       </div>
     </div>
-    <Modal />
+    <Modal modalId="newScheduledModal" />
   </>
 }
