@@ -5,9 +5,8 @@ const Modal = (props) => {
   const handleSubmit = (event) => {
     event.preventDefault()
     const form = document.querySelector(`#form_${modalId}`)
-    alert('zapis')
     
-    axios.post(!modalId ? 'api/scheduled-put' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
+    axios.post(!itemId ? 'api/scheduled-put' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
     })
     
@@ -16,7 +15,6 @@ const Modal = (props) => {
 
   useEffect(() => {
     if (!itemId) {
-      document.getElementById(`${modalId}InputId`).value = 'web'
       return
     }
     
