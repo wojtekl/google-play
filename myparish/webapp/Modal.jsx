@@ -5,8 +5,8 @@ const Modal = (props) => {
   const handleSubmit = (event) => {
     event.preventDefault()
     alert('debug')
-    alert(document.getElementById(`${modalId}InputDescription2`).value)
-    const form = document.querySelector('#form_item')
+    //alert(document.getElementById(`${modalId}InputDescription2`).value)
+    const form = document.querySelector(`#form_${modalId}`)
     
     axios.post('api/scheduled-put', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
