@@ -4,8 +4,8 @@ const Modal = (props) => {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    const form = document.querySelector(`#form_${modalId}`)
     alert('zapis')
+    const form = document.querySelector(`#form_${modalId}`)
     
     axios.post(!modalId ? 'api/scheduled-put' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
@@ -67,8 +67,8 @@ const Modal = (props) => {
           </form>
         </div>
         <div class="modal-footer">
-          <button type="reset" class="btn btn-secondary" data-bs-dismiss="modal">{t('label_cancel')}</button>
-          <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">{t('label_save')}</button>
+          <button type="button" class="btn btn-secondary">{t('label_cancel')}</button>
+          <button type="submit" class="btn btn-primary">{t('label_save')}</button>
         </div>
       </div>
     </div>
