@@ -4,6 +4,7 @@ const Modal = (props) => {
 
   const handleSubmit = (event) => {
     event.preventDefault()
+    alert(document.getElementById(`${modalId}InputDescription2`).value)
     const form = document.querySelector('#form_item')
     
     axios.post('api/scheduled-put', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
@@ -21,7 +22,7 @@ const Modal = (props) => {
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      document.getElementById(`${modalId}InputDescription2`).setAttribute('value', response.data['description'])
+      document.getElementById(`${modalId}InputDescription2`).value = response.data['description']
     })
   }, [itemId])
 
