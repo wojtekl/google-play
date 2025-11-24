@@ -16,13 +16,14 @@ const Modal = (props) => {
 
   useEffect(() => {
     if (!itemId) {
+      document.getElementById(`${modalId}InputId`).value = 'web'
       return
     }
     
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      document.getElementById(`${modalId}InputId`).value = response.data['id']
+      document.getElementById(`${modalId}InputId`).value = itemId
       document.getElementById(`${modalId}InputDescription`).value = response.data['description']
       document.getElementById(`${modalId}InputScheduled`).value = response.data['scheduled']
       document.getElementById(`${modalId}InputValue`).value = response.data['value']
