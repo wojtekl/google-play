@@ -1,74 +1,56 @@
-const Modal = (props) => {
+const Modal = () => {
   const { t } = useTranslation()
-  //const { modalId, itemId } = props
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    alert('zapis')
-    /*const form = document.querySelector('#form_submit')
+    const form = document.querySelector('#form_item')
     
     axios.post('api/scheduled-put', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
       form.reset()
-    })*/
+    })
     
     return false
   }
 
-  /*useEffect(() => {
-    if (!itemId) {
-      return
-    }
-    
-    const searchParams = new URLSearchParams()
-    searchParams.append('id', itemId)
-    axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
-      document.getElementById(`${modalId}InputId`).value = response.data['id']
-      document.getElementById(`${modalId}InputDescription`).value = response.data['description']
-      document.getElementById(`${modalId}InputScheduled`).value = response.data['scheduled']
-      document.getElementById(`${modalId}InputValue`).value = response.data['value']
-      document.getElementById(`${modalId}InputNotes`).value = response.data['notes']
-    })
-  }, [itemId])*/
-
-  return <div class="modal fade" id={`modalId`} tabindex="-1" aria-labelledby={`modalIdLabel`} aria-hidden="true">
+  return <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-sm">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title fs-5" id={`modalIdLabel`}>{t('label_scheduled')}</h1>
+          <h1 class="modal-title fs-5" id="exampleModalLabel">{t('label_scheduled')}</h1>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label={t('label_close')}></button>
         </div>
         <div class="modal-body">
-          <form class="dane" id="form_submit" onSubmit={handleSubmit}>
+          <form class="dane" id="form_item" onSubmit={handleSubmit}>
             <div class="form-group">
-              <label for={`modalIdInputDescription`}>{t('label_description')}</label>
-              <input type="text" class="form-control" id={`modalIdInputDescription`} aria-describedby={`modalIddescriptionHelp`} name="description" />
-              <small id={`modalIddescriptionHelp`} class="form-text text-muted">{t('')}</small>
+              <label for="exampleInputDescription1">{t('label_description')}</label>
+              <input type="text" class="form-control" id="exampleInputDescription1" aria-describedby="descriptionHelp" name="description" />
+              <small id="descriptionHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
-              <label for={`modalIdInputScheduled`}>{t('label_scheduled')}</label>
-              <input type="datetime-local" class="form-control" id={`modalIdInputScheduled`} aria-describedby={`modalIdschedulehHelp`} name="scheduled" />
-              <small id={`modalIdschedulehHelp`} class="form-text text-muted">{t('')}</small>
+              <label for="exampleInputScheduled1">{t('label_scheduled')}</label>
+              <input type="datetime-local" class="form-control" id="exampleInputScheduled1" aria-describedby="schedulehHelp" name="scheduled" />
+              <small id="scheduledHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
-              <label for={`modalIdInputValue`}>{t('label_value')}</label>
-              <input type="number" min="10.00" max="500" step="0.01" class="form-control" id={`modalIdInputValue`} aria-describedby={`modalIdvalueHelp`} name="value" />
-              <small id={`modalIdvalueHelp`} class="form-text text-muted">{t('')}</small>
+              <label for="exampleInputValue1">{t('label_value')}</label>
+              <input type="number" min="10.00" max="500" step="0.01" class="form-control" id="exampleInputValue1" aria-describedby="valueHelp" name="value" />
+              <small id="valueHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
-              <label for={`modalIdInputNotes`}>{t('notes')}</label>
-              <input type="text" class="form-control" id={`modalIdInputNotes`} aria-describedby={`modalIdnotesHelp`} name="notes" />
-              <small id={`modalIdnotesHelp`} class="form-text text-muted">{t('')}</small>
+              <label for="exampleInputNotes1">{t('notes')}</label>
+              <input type="text" class="form-control" id="exampleInputNotes1" aria-describedby="notesHelp" name="notes" />
+              <small id="notesHelp" class="form-text text-muted">{t('')}</small>
             </div>
             <div class="form-group">
-              <label for={`modalIdInputId`}>{t('label_id')}</label>
-              <input type="hidden" class="form-control" id={`modalIdInputId`} aria-describedby={`modalIdIdHelp`} name="id" />
-              <small id={`modalIdIdHelp`} class="form-text text-muted">{t('')}</small>
+              <label for="exampleInputId1">{t('label_id')}</label>
+              <input type="hidden" class="form-control" id="exampleInputId1" aria-describedby="idHelp" name="id" value="web" />
+              <small id="idHelp" class="form-text text-muted">{t('')}</small>
             </div>
           </form>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{t('label_cancel')}</button>
-          <button type="submit" class="btn btn-primary">{t('label_save')}</button>
+          <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">{t('label_save')}</button>
         </div>
       </div>
     </div>
