@@ -1,8 +1,8 @@
 const Modal = () => {
   const { t } = useTranslation()
 
-  const handleSubmit = (event) => {
-    event.preventDefault()
+  const handleSubmit = () => {
+    //event.preventDefault()
     const form = document.querySelector('#form_item')
     
     axios.post('api/scheduled-put', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then(() => {
@@ -50,7 +50,7 @@ const Modal = () => {
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{t('label_cancel')}</button>
-          <button type="submit" class="btn btn-primary" data-bs-dismiss="modal">{t('label_save')}</button>
+          <button type="submit" class="btn btn-primary" data-bs-dismiss="modal" >{t('label_save')}</button>
         </div>
       </div>
     </div>
