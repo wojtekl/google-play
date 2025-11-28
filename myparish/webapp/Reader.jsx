@@ -6,7 +6,15 @@ const Reader = () => {
   const { tenant } = useParams()
   const [currentWeek, setCurrentWeek] = useState([])
 
-  const dayOfWeek = ['Poniedziałek', 'Wtorek', 'Środa', 'Czwartek', 'Piątek', 'Sobota', 'Niedziela']
+  const dayOfWeek = [
+    { order: 2, name: 'Poniedziałek'}, 
+    { order: 3, name: 'Wtorek'}, 
+    { order: 4, name: 'Środa'}, 
+    { order: 5, name: 'Czwartek'}, 
+    { order: 6, name: 'Piątek'}, 
+    { order: 7, name: 'Sobota'}, 
+    { order: 1, name: 'Niedziela'}
+  ]
 
   useEffect(() => {
     const postData = {
@@ -70,8 +78,8 @@ const Reader = () => {
                   {dayOfWeek.map((e, i) => 
                     <tr>
                       <td>{i + 1}</td>
-                      <td>{e}</td>
-                      <td>-</td>
+                      <td>{e.name}</td>
+                      <td>{currentWeek.filter(f => f.dayOfWeek === e.order).map(g => <p>{g.description}</p>)}</td>
                     </tr>
                   )}
                 </tbody>
