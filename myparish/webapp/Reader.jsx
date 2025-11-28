@@ -7,13 +7,13 @@ const Reader = () => {
   const [currentWeek, setCurrentWeek] = useState([])
 
   const dayOfWeek = [
-    { order: 2, name: 'Poniedziałek'}, 
-    { order: 3, name: 'Wtorek'}, 
-    { order: 4, name: 'Środa'}, 
-    { order: 5, name: 'Czwartek'}, 
-    { order: 6, name: 'Piątek'}, 
-    { order: 7, name: 'Sobota'}, 
-    { order: 1, name: 'Niedziela'}
+    { order: '2', name: 'Poniedziałek'}, 
+    { order: '3', name: 'Wtorek'}, 
+    { order: '4', name: 'Środa'}, 
+    { order: '5', name: 'Czwartek'}, 
+    { order: '6', name: 'Piątek'}, 
+    { order: '7', name: 'Sobota'}, 
+    { order: '1', name: 'Niedziela'}
   ]
 
   useEffect(() => {
@@ -79,7 +79,7 @@ const Reader = () => {
                     <tr>
                       <td>{i + 1}</td>
                       <td>{e.name}</td>
-                      <td>{currentWeek.filter(f => f.dayOfWeek === e.order).length}</td>
+                      <td>{currentWeek.filter(f => f.dayOfWeek === e.order).map(g => <p>{g.description}</p>)}</td>
                     </tr>
                   )}
                 </tbody>
