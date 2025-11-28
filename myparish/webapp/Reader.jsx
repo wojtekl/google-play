@@ -6,6 +6,8 @@ const Reader = () => {
   const { tenant } = useParams()
   const [currentWeek, setCurrentWeek] = useState([])
 
+  const dayOfWeek = ['Poniedziałek', 'Wtorek', 'Środa', 'Czwartek', 'Piątek', 'Sobota', 'Niedziela']
+
   useEffect(() => {
     const postData = {
       type: "msza"
@@ -65,11 +67,11 @@ const Reader = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {currentWeek.map((e, i) => {
+                  {dayOfWeek.map((e, i) => {
                     return <tr>
                       <td>{i + 1}</td>
-                      <td><DateFormatter timestamp={e['scheduled']} /></td>
-                      <td>{e['description']}</td>
+                      <td>{e}</td>
+                      <td>-</td>
                     </tr>
                   })}
                 </tbody>
