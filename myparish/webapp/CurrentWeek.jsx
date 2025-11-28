@@ -49,7 +49,7 @@ const CurrentWeek = () => {
               <td><button type="button" class="btn btn-sm btn-outline-secondary" onClick={() => {
                 const searchParams = new URLSearchParams()
                 searchParams.append('id', e['id'])
-                axios.post(`api/scheduled-delete?${searchParams.toString()}`).then((response) => {
+                axios.get(`api/scheduled-delete?${searchParams.toString()}`).then((response) => {
                   setRefresh(true)
                 })
               }}>{t('label_delete')}</button></td>
