@@ -67,13 +67,13 @@ const Reader = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {dayOfWeek.map((e, i) => {
-                    return <tr>
+                  {dayOfWeek.map((e, i) => 
+                    <tr>
                       <td>{i + 1}</td>
                       <td>{e}</td>
                       <td>-</td>
                     </tr>
-                  })}
+                  )}
                 </tbody>
               </table>
             </div>
