@@ -18,6 +18,7 @@ const Reader = () => {
 
   useEffect(() => {
     const postData = {
+      tenant: tenant,
       type: "msza"
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
