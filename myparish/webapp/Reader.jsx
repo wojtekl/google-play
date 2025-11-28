@@ -7,13 +7,13 @@ const Reader = () => {
   const [currentWeek, setCurrentWeek] = useState([])
 
   const dayOfWeek = [
-    { order: '2', name: 'Poniedziałek'}, 
-    { order: '3', name: 'Wtorek'}, 
-    { order: '4', name: 'Środa'}, 
-    { order: '5', name: 'Czwartek'}, 
-    { order: '6', name: 'Piątek'}, 
-    { order: '7', name: 'Sobota'}, 
-    { order: '1', name: 'Niedziela'}
+    { order: '2', name: t('label_monday')}, 
+    { order: '3', name: t('label_tuesday')}, 
+    { order: '4', name: t('label_wednesday')}, 
+    { order: '5', name: t('label_thursday')}, 
+    { order: '6', name: t('label_friday')}, 
+    { order: '7', name: t('label_saturday')}, 
+    { order: '1', name: t('label_sunday')}
   ]
 
   useEffect(() => {
