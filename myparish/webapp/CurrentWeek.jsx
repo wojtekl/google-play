@@ -2,6 +2,7 @@ const CurrentWeek = () => {
   const { t } = useTranslation()
   const [currentWeek, setCurrentWeek] = useState([])
   const [selected, setSelected] = useState()
+  const [refresh, setRefresh] = useState()
 
   const handleSelect = () => {}
   
@@ -12,7 +13,7 @@ const CurrentWeek = () => {
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       setCurrentWeek(response.data)
     })
-  }, [])
+  }, [refresh])
   
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
@@ -45,6 +46,11 @@ const CurrentWeek = () => {
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
               <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" onClick={() => { setSelected(e['id']) }}>{t('label_edit')}</button></td>
+              <td><button type="button" class="btn btn-sm btn-outline-secondary" onClick={() => {
+                axios.post('api/scheduled-delete').then((response) => {
+                  setRefresh(true)
+                })
+              }}>{t('label_delete')}</button></td>
             </tr>
           })}
         </tbody>
