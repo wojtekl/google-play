@@ -50,8 +50,8 @@ const Reader = () => {
     </header>
     <main>
       <div class="container">
-        <h1 class="text-body-emphasis">{t('label_header')}</h1>
-        <p class="fs-5 col-md-8 mb-5">{t('label_description')}</p>
+        <h1 class="text-body-emphasis">{t('label_reader_header')}</h1>
+        <p class="fs-5 col-md-8 mb-5">{t('label_reader_description')}</p>
         <hr class="col-3 col-md-2 mb-5"></hr>
         <div class="accordion" id="accordionExample">
           <AccordionItem id="scheduled" parent="accordionExample" show={true}>
@@ -60,20 +60,16 @@ const Reader = () => {
                 <thead>
                   <tr>
                     <th scope="col">#</th>
-                    <th scope="col">{t('label_description')}</th>
                     <th scope="col">{t('label_scheduled')}</th>
-                    <th scope="col">{t('label_value')}</th>
-                    <th scope="col">{t('label_notes')}</th>
+                    <th scope="col">{t('label_description')}</th>
                   </tr>
                 </thead>
                 <tbody>
                   {currentWeek.map((e, i) => {
                     return <tr>
-                      <td>{i}</td>
-                      <td>{e['description']}</td>
+                      <td>{i + 1}</td>
                       <td><DateFormatter timestamp={e['scheduled']} /></td>
-                      <td><NumberFormatter value={e['value']} /></td>
-                      <td>{e['notes']}</td>
+                      <td>{e['description']}</td>
                     </tr>
                   })}
                 </tbody>
