@@ -5,7 +5,7 @@ const Dashboard = () => {
   const [tenant, setTenant] = useState(store.getState().tenant)
   const [disabled, setDisabled] = useState(true)
 
-  const handleEdit = () => {
+  const handleDisabled = () => {
     setDisabled(!disabled)
   }
 
@@ -40,7 +40,7 @@ const Dashboard = () => {
       <h1 class="h2">{t('label_dashboard')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleEdit}>{disabled ? t('label_edit') : t('label_cancel')}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i>}</button>
         </div>
       </div>
     </div>
