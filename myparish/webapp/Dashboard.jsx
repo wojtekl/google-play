@@ -31,11 +31,11 @@ const Dashboard = () => {
         <legend>{t('label_contact')}</legend>
         <div class="mb-3">
           <label for="disabledTextInput" class="form-label">{t('label_description')}</label>
-          <input type="text" id="disabledTextInput" class="form-control" placeholder={contact.description} />
+          <input type="text" id="disabledTextInput" class="form-control" placeholder={contact?.description} />
         </div>
         <div class="mb-3">
           <label for="disabledSelect" class="form-label">{t('label_street')}</label>
-          <input type="text" id="disabledSelect" class="form-control" placeholder={contact.street} />
+          <input type="text" id="disabledSelect" class="form-control" placeholder={contact?.street} />
         </div>
         <div class="mb-3">
           <div class="form-check">
