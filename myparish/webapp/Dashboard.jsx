@@ -25,6 +25,13 @@ const Dashboard = () => {
     searchParams.append('tenant', tenant)
     axios.get(`api/contact?${searchParams.toString()}`).then((response) => {
       setContact(response.data)
+      document.getElementById('contactDescription').value = contact.description
+      document.getElementById('contactStreet').value = contact.street
+      document.getElementById('contactNumber').value = contact.number
+      document.getElementById('contactCity').value = contact.city
+      document.getElementById('contactPostalcode').value = contact.postalcode
+      document.getElementById('contactEmail').value = contact.email
+      document.getElementById('contactPhone').value = contact.phone
     })
   }, [tenant])
   
