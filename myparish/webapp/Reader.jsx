@@ -42,7 +42,7 @@ const Reader = () => {
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
               <h4>{t('label_contact_title')}</h4>
-              <p class="text-body-secondary">{`${contact?.street} ${contact?.number} ${contact?.city} ${contact?.postalcode} ${contact?.phone}`}</p>
+              <p class="text-body-secondary">{`${contact?.street} ${contact?.number}\n${contact?.city} ${contact?.postalcode}\n${t('label_phone')}:${contact?.phone}`}</p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
               <h4>{t('label_contact_subtitle')}</h4>
