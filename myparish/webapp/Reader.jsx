@@ -58,7 +58,7 @@ const Reader = () => {
       <div class="navbar navbar-dark bg-dark shadow-sm">
         <div class="container">
           <a class="navbar-brand d-flex align-items-center">
-            <strong>{`${t('label_tenant')}: ${tenant}`}</strong>
+            <strong>{`${t('label_tenant')}: ${contact?.description}`}</strong>
           </a>
           <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent"
