@@ -2,7 +2,7 @@ const ConfirmModal = (props) => {
   const { t } = useTranslation()
   const { onOk } = props
   
-  return <div class="modal" id="deleteModal" tabindex="-1">
+  return <div class="modal" id="confirmModal" tabindex="-1">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
