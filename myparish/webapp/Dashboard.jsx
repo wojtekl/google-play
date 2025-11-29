@@ -9,6 +9,17 @@ const Dashboard = () => {
     setDisabled(!disabled)
   }
 
+  const handleSubmit = (event) => {
+    event.preventDefault()
+    const form = document.querySelector(`#form_contact`)
+    
+    axios.post('api/contact', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+      alert(response.data)
+    })
+    
+    return false
+  }
+
   useEffect(() => {
     const searchParams = new URLSearchParams()
     searchParams.append('tenant', tenant)
@@ -26,7 +37,7 @@ const Dashboard = () => {
         </div>
       </div>
     </div>
-    <form>
+    <form id="form_contact">
       <fieldset disabled={disabled}>
         <legend>{t('label_contact')}</legend>
         <div class="mb-3">
@@ -57,7 +68,7 @@ const Dashboard = () => {
           <label for="contactPhone" class="form-label">{t('label_phone')}</label>
           <input type="tel" id="contactPhone" class="form-control" placeholder={contact?.phone} name="phone" />
         </div>
-        <button type="submit" class="btn btn-primary">{t('label_submit')}</button>
+        <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>
       </fieldset>
     </form>
     <h2>{t('label_section')}</h2>
