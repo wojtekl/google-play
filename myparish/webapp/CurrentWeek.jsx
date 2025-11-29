@@ -67,5 +67,6 @@ const CurrentWeek = () => {
       </table>
     </div>
     <Modal modalId="editScheduledModal" itemId={selected} />
+    <DeleteModal onOk={() => alert('tak')}} />
   </>
 }
