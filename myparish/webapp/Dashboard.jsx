@@ -30,22 +30,34 @@ const Dashboard = () => {
       <fieldset disabled={disabled}>
         <legend>{t('label_contact')}</legend>
         <div class="mb-3">
-          <label for="disabledTextInput" class="form-label">{t('label_description')}</label>
-          <input type="text" id="disabledTextInput" class="form-control" placeholder={contact?.description} />
+          <label for="contactDescription" class="form-label">{t('label_description')}</label>
+          <input type="text" id="contactDescription" class="form-control" placeholder={contact?.description} name="description" />
         </div>
         <div class="mb-3">
-          <label for="disabledSelect" class="form-label">{t('label_street')}</label>
-          <input type="text" id="disabledSelect" class="form-control" placeholder={contact?.street} />
+          <label for="contactStreet" class="form-label">{t('label_street')}</label>
+          <input type="text" id="contactStreet" class="form-control" placeholder={contact?.street} name="street" />
         </div>
         <div class="mb-3">
-          <div class="form-check">
-            <input class="form-check-input" type="checkbox" id="disabledFieldsetCheck" disabled />
-            <label class="form-check-label" for="disabledFieldsetCheck">
-              Can’t check this
-            </label>
-          </div>
+          <label for="contactNumber" class="form-label">{t('label_number')}</label>
+          <input type="text" id="contactNumber" class="form-control" placeholder={contact?.number} name="number" />
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <div class="mb-3">
+          <label for="contactCity" class="form-label">{t('label_city')}</label>
+          <input type="text" id="contactCity" class="form-control" placeholder={contact?.city} name="city" />
+        </div>
+        <div class="mb-3">
+          <label for="contactPostalcode" class="form-label">{t('label_postalcode')}</label>
+          <input type="text" id="contactPostalcode" class="form-control" placeholder={contact?.postalcode} name="postalcode" />
+        </div>
+        <div class="mb-3">
+          <label for="contactEmail" class="form-label">{t('label_email')}</label>
+          <input type="email" id="contactEmail" class="form-control" placeholder={contact?.email} name="email" />
+        </div>
+        <div class="mb-3">
+          <label for="contactPhone" class="form-label">{t('label_phone')}</label>
+          <input type="tel" id="contactPhone" class="form-control" placeholder={contact?.phone} name="phone" />
+        </div>
+        <button type="submit" class="btn btn-primary">{t('label_submit')}</button>
       </fieldset>
     </form>
     <h2>{t('label_section')}</h2>
