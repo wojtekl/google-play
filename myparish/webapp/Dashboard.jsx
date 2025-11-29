@@ -3,6 +3,7 @@ const Dashboard = () => {
   
   const [contact, setContact] = useState()
   const [tenant, setTenant] = useState(store.getState().tenant)
+  const [disabled, setDisabled] = useState(true)
 
   useEffect(() => {
     const searchParams = new URLSearchParams()
@@ -21,7 +22,30 @@ const Dashboard = () => {
         </div>
       </div>
     </div>
-    <div>{contact?.description}</div>
+    <form>
+      <fieldset {disabled ? 'disabled' : ''}>
+        <legend>Disabled fieldset example</legend>
+        <div class="mb-3">
+          <label for="disabledTextInput" class="form-label">Disabled input</label>
+          <input type="text" id="disabledTextInput" class="form-control" placeholder={contact.description}>
+        </div>
+        <div class="mb-3">
+          <label for="disabledSelect" class="form-label">Disabled select menu</label>
+          <select id="disabledSelect" class="form-select">
+            <option>Disabled select</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="disabledFieldsetCheck" disabled>
+            <label class="form-check-label" for="disabledFieldsetCheck">
+              Can’t check this
+            </label>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </fieldset>
+    </form>
     <h2>{t('label_section')}</h2>
     <div class="table-responsive small">
       <table class="table table-stripped table-sm">
