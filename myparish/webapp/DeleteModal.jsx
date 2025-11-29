@@ -1,4 +1,4 @@
-const DeleteModal = (props) => {
+const ConfirmModal = (props) => {
   const { t } = useTranslation()
   const { onOk } = props
   
