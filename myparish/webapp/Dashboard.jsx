@@ -1,6 +1,17 @@
 const Dashboard = () => {
   const { t } = useTranslation()
   
+  const [contact, setContact] = useState()
+  const [tenant, setTenant] = useState(store.getState().tenant)
+
+  useEffect(() => {
+    const searchParams = new URLSearchParams()
+    searchParams.append('tenant', tenant)
+    axios.get(`api/contact?${searchParams.toString()}`).then((response) => {
+      setContact(response.data)
+    })
+  }, [tenant])
+  
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
       <h1 class="h2">{t('label_dashboard')}</h1>
@@ -10,6 +21,7 @@ const Dashboard = () => {
         </div>
       </div>
     </div>
+    <div>{contact?.description}</div>
     <h2>{t('label_section')}</h2>
     <div class="table-responsive small">
       <table class="table table-stripped table-sm">
