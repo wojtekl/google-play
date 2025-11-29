@@ -5,6 +5,10 @@ const Dashboard = () => {
   const [tenant, setTenant] = useState(store.getState().tenant)
   const [disabled, setDisabled] = useState(true)
 
+  const handleEdit = () => {
+    setDisabled(!disabled)
+  }
+
   useEffect(() => {
     const searchParams = new URLSearchParams()
     searchParams.append('tenant', tenant)
@@ -18,12 +22,12 @@ const Dashboard = () => {
       <h1 class="h2">{t('label_dashboard')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary">{t('label_edit')}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleEdit}>{disabled ? t('label_edit') : t('label_cancel')}</button>
         </div>
       </div>
     </div>
     <form>
-      <fieldset {disabled ? 'disabled' : ''}>
+      <fieldset disabled={disabled}>
         <legend>Disabled fieldset example</legend>
         <div class="mb-3">
           <label for="disabledTextInput" class="form-label">Disabled input</label>
