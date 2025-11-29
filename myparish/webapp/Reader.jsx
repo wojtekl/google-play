@@ -5,6 +5,7 @@ const Reader = () => {
   const { t } = useTranslation()
   const { tenant } = useParams()
   const [currentWeek, setCurrentWeek] = useState([])
+  const [contact, setContact] = useState()
 
   const dayOfWeek = [
     { order: '2', name: t('label_monday')}, 
@@ -15,6 +16,14 @@ const Reader = () => {
     { order: '7', name: t('label_saturday')}, 
     { order: '1', name: t('label_sunday')}
   ]
+
+  useEffect(() => {
+    const searchParams = new URLSearchParams()
+    searchParams.append('tenant', tenant)
+    axios.get(`api/contact?${searchParams.toString()}`).then((response) => {
+      setContact(response.data)
+    })
+  }, [tenant])
 
   useEffect(() => {
     const postData = {
@@ -33,13 +42,13 @@ const Reader = () => {
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
               <h4>{t('label_contact_title')}</h4>
-              <p class="text-body-secondary">{t('label_contact_description')}</p>
+              <p class="text-body-secondary">{`${contact.street} ${contact.number} ${contact.city} ${contact.postalcode} ${contact.phone}`}</p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
               <h4>{t('label_contact_subtitle')}</h4>
               <ul class="list-unstyled">
                 <li>
-                  <a href="mailto:test@test.pl" class="text-white">{t('label_emailus')}</a>
+                  <a href={`mailto:${contact.email}`} class="text-white">{t('label_emailus')}</a>
                 </li>
               </ul>
             </div>
