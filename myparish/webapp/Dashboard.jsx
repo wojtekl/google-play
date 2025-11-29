@@ -75,7 +75,7 @@ const Dashboard = () => {
           <label for="contactPhone" class="form-label">{t('label_phone')}</label>
           <input type="tel" id="contactPhone" class="form-control" placeholder={contact?.phone} name="phone" />
         </div>
-        <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>
+        {!disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>}
       </fieldset>
     </form>
     <h2>{t('label_section')}</h2>
