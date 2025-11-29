@@ -3,8 +3,13 @@ const CurrentWeek = () => {
   const [currentWeek, setCurrentWeek] = useState([])
   const [selected, setSelected] = useState()
   const [refresh, setRefresh] = useState()
+  const [disabled, setDisabled] = useState(true)
 
   const handleSelect = () => {}
+
+  const handleDisabled = () => {
+    setDisabled(!disabled)
+  }
   
   useEffect(() => {
 
@@ -23,7 +28,7 @@ const CurrentWeek = () => {
       <h1 class="h2">{t('label_currentweek')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary">{t('label_edit')}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i>}</button>
         </div>
       </div>
     </div>
@@ -48,14 +53,14 @@ const CurrentWeek = () => {
               <td><DateFormatter timestamp={e['scheduled']} /></td>
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
-              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" onClick={() => { setSelected(e['id']) }}>{t('label_edit')}</button></td>
+              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-pencil-square"></i></button></td>
               <td><button type="button" class="btn btn-sm btn-outline-secondary" onClick={() => {
                 const searchParams = new URLSearchParams()
                 searchParams.append('id', e['id'])
                 axios.get(`api/scheduled-delete?${searchParams.toString()}`).then((response) => {
                   setRefresh(true)
                 })
-              }}>{t('label_delete')}</button></td>
+              }}><i class="bi bi-trash"></i></button></td>
             </tr>
           })}
         </tbody>
