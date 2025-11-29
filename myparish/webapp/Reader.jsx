@@ -28,7 +28,8 @@ const Reader = () => {
   useEffect(() => {
     const postData = {
       tenant: tenant,
-      type: "msza"
+      type: "msza",
+      today: '2025-12-24' // new Date().toISOString().split('T')[0]
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       setCurrentWeek(response.data)
