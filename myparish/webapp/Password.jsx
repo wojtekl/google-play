@@ -8,7 +8,9 @@ const Password = () => {
     searchParams.append('password', document.querySelector(`#floatingPassword`).value)
     axios.get(`api/password?${searchParams.toString()}`).then((response) => {
       alert(response.data)
-      navigate('/signin')
+      if (response.data) {
+        navigate('/signin')
+      }
     })
   }
   
