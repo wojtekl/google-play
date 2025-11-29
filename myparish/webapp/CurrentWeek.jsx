@@ -54,19 +54,18 @@ const CurrentWeek = () => {
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
               <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-pencil-square"></i></button></td>
-              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#deleteModal" onEdit={() => {
-                const searchParams = new URLSearchParams()
-                searchParams.append('id', e['id'])
-                axios.get(`api/scheduled-delete?${searchParams.toString()}`).then((response) => {
-                  setRefresh(true)
-                })
-              }}><i class="bi bi-trash"></i></button></td>
+              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-trash"></i></button></td>
             </tr>
           })}
         </tbody>
       </table>
     </div>
     <Modal modalId="editScheduledModal" itemId={selected} />
-    <DeleteModal onOk={() => alert('tak')} />
+    <ConfirmModal onOk={() => {
+      const searchParams = new URLSearchParams()
+      searchParams.append('id', selected)
+      axios.get(`api/scheduled-delete?${searchParams.toString()}`).then((response) => {
+        setRefresh(true)
+    })}} />
   </>
 }
