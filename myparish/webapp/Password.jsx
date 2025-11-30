@@ -2,7 +2,8 @@ const Password = () => {
   const navigate = useNavigate()
   const { t } = useTranslation()
   
-  const handleSubmit = () => {
+  const handleSubmit = (event) => {
+    event.preventDefault()
     const postData = {
       code: new URLSearchParams(new URL(window.location).search).get('code'),
       tenant: document.querySelector(`#floatingInput`).value,
