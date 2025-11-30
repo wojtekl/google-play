@@ -3,11 +3,12 @@ const Password = () => {
   const { t } = useTranslation()
   
   const handleSubmit = () => {
-    const searchParams = new URLSearchParams()
-    searchParams.append('code', new URLSearchParams(new URL(window.location).search).get('code'))
-    searchParams.append('tenant', document.querySelector(`#floatingInput`).value)
-    searchParams.append('password', document.querySelector(`#floatingPassword`).value)
-    axios.post(`api/signin-cd?${searchParams.toString()}`).then((response) => {
+    const postData = {
+      code: new URLSearchParams(new URL(window.location).search).get('code'),
+      tenant: document.querySelector(`#floatingInput`).value,
+      password: document.querySelector(`#floatingPassword`).value
+    }
+    axios.post('api/signin-cd', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       alert(response.data)
       if (response.data) {
         navigate('/signin')
