@@ -5,8 +5,9 @@ const Password = () => {
   const handleSubmit = () => {
     const searchParams = new URLSearchParams()
     searchParams.append('code', new URLSearchParams(new URL(window.location).search).get('code'))
+    searchParams.append('password', document.querySelector(`#floatingInput`).value)
     searchParams.append('password', document.querySelector(`#floatingPassword`).value)
-    axios.get(`api/password?${searchParams.toString()}`).then((response) => {
+    axios.get(`api/signin-cd?${searchParams.toString()}`).then((response) => {
       alert(response.data)
       if (response.data) {
         navigate('/signin')
