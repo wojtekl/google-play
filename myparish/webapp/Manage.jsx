@@ -9,6 +9,7 @@ const Manage = () => {
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
+      console.log(response.data, response)
       if (!response.data || response.data == '{}') {
         navigate('/signin')
       }
