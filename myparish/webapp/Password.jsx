@@ -12,8 +12,8 @@ const Password = () => {
     axios.post('api/signin-cd', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       alert(response.data)
       if (response.data) {
+        window.history.replaceState({}, document.title, 'parafia.wlap.pl/#/password')
         navigate('/signin')
-        window.history.pushState({}, 'parafia.wlap.pl/#/signin')
       }
     })
   }
