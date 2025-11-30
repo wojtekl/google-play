@@ -22,7 +22,8 @@ const Manage = () => {
   const handleSignout = () => {
     axios.get('api/signin-cd').then((response) => {
       store.dispatch({ type: 'tenant/set', payload: 'demo' })
-      setTenant('demo')
+      store.dispatch({ type: 'tenant/set', payload: undefined })
+      setTenant(undefined)
       navigate('/signin')
     })
   }
