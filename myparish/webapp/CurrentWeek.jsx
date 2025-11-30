@@ -15,7 +15,7 @@ const CurrentWeek = () => {
 
     const postData = {
       tenant: store.getState().tenant,
-      type: "msza",
+      type: "eucharystia",
       today: '2025-12-24' // new Date().toISOString().split('T')[0]
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
@@ -64,7 +64,7 @@ const CurrentWeek = () => {
     <ConfirmModal onOk={() => {
       const searchParams = new URLSearchParams()
       searchParams.append('id', selected)
-      axios.get(`api/scheduled-delete?${searchParams.toString()}`).then((response) => {
+      axios.get(`api/scheduled-cd?${searchParams.toString()}`).then((response) => {
         setRefresh(true)
     })}} />
   </>
