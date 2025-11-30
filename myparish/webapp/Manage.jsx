@@ -12,8 +12,10 @@ const Manage = () => {
       if (response.data.length < 3) {
         navigate('/signin')
       }
-      store.dispatch({ type: 'tenant/set', payload: response.data })
-      setTenant(response.data)
+      else {
+        store.dispatch({ type: 'tenant/set', payload: response.data })
+        setTenant(response.data)
+      }
     })
   }, [])
 
