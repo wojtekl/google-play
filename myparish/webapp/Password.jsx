@@ -12,7 +12,7 @@ const Password = () => {
     axios.post('api/signin-cd', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       alert(response.data)
       if (response.data) {
-        navigate('/signin')
+        navigate({ pathname: '/signin', search: undefined })
       }
     })
   }
