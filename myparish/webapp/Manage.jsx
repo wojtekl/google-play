@@ -9,7 +9,8 @@ const Manage = () => {
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
-      if (response.data.length < 3) {
+      if (response.data.length < 4) {
+        alert(response.data.length)
         navigate('/signin')
       }
       else {
@@ -21,9 +22,8 @@ const Manage = () => {
 
   const handleSignout = () => {
     axios.get('api/signin-cd').then((response) => {
-      store.dispatch({ type: 'tenant/set', payload: 'demo' })
-      store.dispatch({ type: 'tenant/set', payload: undefined })
-      setTenant(undefined)
+      store.dispatch({ type: 'tenant/set', payload: null })
+      setTenant(null)
       navigate('/signin')
     })
   }
