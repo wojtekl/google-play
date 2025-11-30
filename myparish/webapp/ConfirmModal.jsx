@@ -14,7 +14,7 @@ const ConfirmModal = (props) => {
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">{t('label_cancel')}</button>
-          <button type="button" class="btn btn-primary" onClick={onOk}>{t('label_ok')}</button>
+          <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onClick={onOk}>{t('label_ok')}</button>
         </div>
       </div>
     </div>
