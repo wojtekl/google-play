@@ -17,6 +17,10 @@ const Reader = () => {
     { order: '1', name: t('label_sunday')}
   ]
 
+  const handleSubmit = (event) => {
+    event.preventDefault()
+  }
+
   useEffect(() => {
     const searchParams = new URLSearchParams()
     searchParams.append('tenant', tenant)
@@ -100,7 +104,22 @@ const Reader = () => {
             </div>
           </AccordionItem>
           <AccordionItem id="announcements" parent="accordionExample"></AccordionItem>
-          <AccordionItem id="contact" parent="accordionExample"></AccordionItem>
+          <AccordionItem id="order" parent="accordionExample">
+            <form id="form_order">
+              <fieldset>
+                <legend>{t('label_order')}</legend>
+                <div class="mb-3">
+                  <label for="orderDescription" class="form-label">{t('label_description')}</label>
+                  <input type="text" id="orderDescription" class="form-control" placeholder={} name="description" />
+                </div>
+                <div class="mb-3">
+                  <label for="orderFrom" class="form-label">{t('label_from')}</label>
+                  <input type="text" id="orderFrom" class="form-control" placeholder={} name="from" />
+                </div>
+                <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>
+              </fieldset>
+            </form>
+          </AccordionItem>
         </div>
       </div>
     </main>
