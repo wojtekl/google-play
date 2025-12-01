@@ -119,15 +119,15 @@ const Reader = () => {
                 <legend>{t('label_order')}</legend>
                 <div class="mb-3">
                   <label for="orderDescription" class="form-label">{t('label_description')}</label>
-                  <input type="text" id="orderDescription" class="form-control" placeholder={} name="description" />
+                  <input type="text" id="orderDescription" class="form-control" placeholder="" name="description" />
                 </div>
                 <div class="mb-3">
                   <label for="orderFrom" class="form-label">{t('label_from')}</label>
-                  <input type="text" id="orderFrom" class="form-control" placeholder={} name="notes" />
+                  <input type="text" id="orderFrom" class="form-control" placeholder="" name="notes" />
                 </div>
                 <div class="mb-3">
                   <label for="orderTenant" class="form-label">{t('label_tenant')}</label>
-                  <input type="hidden" id="orderTenant" class="form-control" placeholder={} name="tenant" value={tenant} />
+                  <input type="hidden" id="orderTenant" class="form-control" placeholder="" name="tenant" value={tenant} />
                 </div>
                 <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>
               </fieldset>
