@@ -19,6 +19,15 @@ const Reader = () => {
 
   const handleSubmit = (event) => {
     event.preventDefault()
+
+    const form = document.querySelector(`#form_order`)
+    
+    axios.post('api/scheduled-cd', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+      alert(response.data)
+      form.reset()
+    })
+    
+    return false
   }
 
   useEffect(() => {
@@ -114,7 +123,11 @@ const Reader = () => {
                 </div>
                 <div class="mb-3">
                   <label for="orderFrom" class="form-label">{t('label_from')}</label>
-                  <input type="text" id="orderFrom" class="form-control" placeholder={} name="from" />
+                  <input type="text" id="orderFrom" class="form-control" placeholder={} name="notes" />
+                </div>
+                <div class="mb-3">
+                  <label for="orderTenant" class="form-label">{t('label_tenant')}</label>
+                  <input type="hidden" id="orderTenant" class="form-control" placeholder={} name="tenant" value={tenant} />
                 </div>
                 <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>
               </fieldset>
