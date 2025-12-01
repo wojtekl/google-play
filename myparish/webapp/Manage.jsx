@@ -41,7 +41,7 @@ const Manage = () => {
       return <CurrentWeek date={ new Date().toISOString().split('T')[0] } />
     }
     else if ('orderLink' === selectedTab) {
-      return <Settings />
+      return <CurrentWeek />
     }
     else if ('settingsLink' === selectedTab) {
       return <Settings />
