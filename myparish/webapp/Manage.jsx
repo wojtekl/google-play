@@ -40,6 +40,9 @@ const Manage = () => {
     else if ('nextWeekLink' === selectedTab) {
       return <CurrentWeek date={'2025-12-03' // new Date().toISOString().split('T')[0]} />
     }
+    else if ('orderLink' === selectedTab) {
+      return <Settings />
+    }
     else if ('settingsLink' === selectedTab) {
       return <Settings />
     }
@@ -83,6 +86,9 @@ const Manage = () => {
                 </li>
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#" id="nextWeekLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_next_week')} </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link d-flex align-items-center gap-2" href="#" id="orderLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_order')} </a>
                 </li>
               </ul>
               <hr class="my-3" />
