@@ -43,6 +43,9 @@ const Manage = () => {
     else if ('orderLink' === selectedTab) {
       return <CurrentWeek />
     }
+    else if ('visitLink' === selectedTab) {
+      return <Settings />
+    }
     else if ('settingsLink' === selectedTab) {
       return <Settings />
     }
@@ -88,7 +91,22 @@ const Manage = () => {
                   <a class="nav-link d-flex align-items-center gap-2" href="#" id="nextWeekLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_next_week')} </a>
                 </li>
                 <li class="nav-item">
+                  <a class="nav-link d-flex align-items-center gap-2" href="#" id="yearLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_year')} </a>
+                </li>
+                <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#" id="orderLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_order')} </a>
+                </li>
+              </ul>
+              <hr class="my-3" />
+              <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
+                <span>{t('label_visit')}</span>
+                <a class="link-secondary" href="#" aria-label={t('label_add_visit')} data-bs-toggle="modal" data-bs-target="#newVisitModal">
+                  <i class="bi bi-plus-circle"></i>
+                </a>
+              </h6>
+              <ul class="nav flex-column mb-auto">
+                <li class="nav-item">
+                  <a class="nav-link d-flex align-items-center gap-2" href="#" id="visitLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_visit')} </a>
                 </li>
               </ul>
               <hr class="my-3" />
