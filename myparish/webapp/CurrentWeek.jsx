@@ -1,5 +1,6 @@
-const CurrentWeek = () => {
+const CurrentWeek = (props) => {
   const { t } = useTranslation()
+  const { date } = props
   const [currentWeek, setCurrentWeek] = useState([])
   const [selected, setSelected] = useState()
   const [refresh, setRefresh] = useState()
@@ -16,7 +17,7 @@ const CurrentWeek = () => {
     const postData = {
       tenant: store.getState().tenant,
       type: "eucharystia",
-      today: '2025-12-24' // new Date().toISOString().split('T')[0]
+      today: date
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       setCurrentWeek(response.data)
