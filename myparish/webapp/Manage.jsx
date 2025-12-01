@@ -35,10 +35,10 @@ const Manage = () => {
 
   const DisplayTab = () => {
     if ('currentWeekLink' === selectedTab) {
-      return <CurrentWeek date={'2025-12-24' // new Date().toISOString().split('T')[0]} />
+      return <CurrentWeek date={'2025-12-24'} />
     }
     else if ('nextWeekLink' === selectedTab) {
-      return <CurrentWeek date={'2025-12-03' // new Date().toISOString().split('T')[0]} />
+      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } />
     }
     else if ('orderLink' === selectedTab) {
       return <Settings />
