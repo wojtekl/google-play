@@ -41,7 +41,7 @@ const Weeks = () => {
         <tbody>{weeks.map(w => 
         <tr>
             <td>1</td>
-            <td>{w.start}</td>
+            <td><DateFormatter timestamp={w.start} /></td>
             <td>{w.month}</td>
           </tr>
           )
