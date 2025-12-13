@@ -79,6 +79,7 @@ const resources = {
       "label_scheduled": "Intencje",
       "label_description": "Opis",
       "label_order": "Zamów mszę",
+      "label_announcements": "Ogłoszenia",
       "label_from": "Od",
       "label_submit": "Wykonaj",
       "label_backtotop": "Do góry",
@@ -87,7 +88,22 @@ const resources = {
       "label_please_sign_in": "Zaloguj się",
       "label_password": "Hasło",
       "label_remember_me": "Zapamiętaj",
-      "label_sign_in": "Zaloguj"
+      "label_sign_in": "Zaloguj",
+      "label_dashboard": "Kontakt",
+      "label_street": "Ulica",
+      "label_number": "Numer domu",
+      "label_city": "Miejscowość",
+      "label_postalcode": "Kod pocztowy",
+      "label_email": "e-mail",
+      "label_delete_title": "Usunąć?",
+      "label_close": "Zamknij",
+      "label_delete": "Usuń",
+      "label_cancel": "Zaniechaj",
+      "label_ok": "OK",
+      "label_currentweek": "Ten tydzień",
+      "label_value": "Ofiara",
+      "label_notes": "Notatki",
+      "label_actions": "Akcje",
     }
   }
 }
