@@ -7,8 +7,9 @@ const Weeks = () => {
   currentYear.setDate(1)
   currentYear.setDate(currentYear.getDate() - currentYear.getDay())
   const weeks = new Array()
-  while(currentYear.getFullYear() == 2025) {
+  while(currentYear.getFullYear() < 2026) {
     weeks.push(currentYear.getUTCDate())
+    console.log(currentYear.getUTCDate(), weeks.length)
     currentYear.setDate(currentYear.getDate() + 7)
   }
 
