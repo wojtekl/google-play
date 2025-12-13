@@ -5,11 +5,14 @@ const Weeks = () => {
   currentYear.setHours(0, 0, 0, 0)
   currentYear.setMonth(0)
   currentYear.setDate(1)
-  currentYear.setDate(currentYear.getDate() - currentYear.getDay())
+  currentYear.setDate(currentYear.getDate() - currentYear.getDay() + 1)
+  const nextYear = new Date().getFullYear() + 1
   const weeks = new Array()
-  while(currentYear.getFullYear() < 2026) {
-    weeks.push(currentYear.getUTCDate())
-    console.log(currentYear.getUTCDate(), weeks.length)
+  while(currentYear.getFullYear() < nextYear) {
+    weeks.push({
+      start: currentYear.toISOString(),
+      month: currentYear.getMonth() + 1
+    })
     currentYear.setDate(currentYear.getDate() + 7)
   }
 
@@ -29,12 +32,14 @@ const Weeks = () => {
           <tr>
             <th scope="col">#</th>
             <th scope="col">{t('label_header')}</th>
+            <th scope="col">{t('label_month')}</th>
           </tr>
         </thead>
         <tbody>{weeks.map(w => 
         <tr>
             <td>1</td>
-            <td>{w}</td>
+            <td>{w.start}</td>
+            <td>{w.month}</td>
           </tr>
           )
         }
