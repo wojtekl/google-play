@@ -4,7 +4,7 @@ const Weeks = () => {
   const currentYear = new Date()
   currentYear.setHours(0, 0, 0, 0)
   currentYear.setMonth(0)
-  currentYear.setDay(1)
+  currentYear.setDate(1)
   currentYear.setDate(currentYear.getDate() - currentYear.getDay())
   const weeks = new Array()
   while(currentYear.getFullYear() == 2025) {
