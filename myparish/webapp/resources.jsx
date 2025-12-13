@@ -76,7 +76,7 @@ const resources = {
       "label_toggle_navigation": "Nawigacja",
       "label_reader_header": "Strona parafii",
       "label_reader_description": "",
-      "label_scheduled": "Intencje",
+      "label_scheduled": "Termin",
       "label_description": "Opis",
       "label_order": "Zamów mszę",
       "label_announcements": "Ogłoszenia",
@@ -104,6 +104,15 @@ const resources = {
       "label_value": "Ofiara",
       "label_notes": "Notatki",
       "label_actions": "Akcje",
+      "label_scheduled_event": "Intencje",
+      "label_add_scheduled": "Dodaj",
+      "label_next_week": "Następny tydzień",
+      "label_year": "Rok",
+      "label_visit": "Wizyta duszpasterska",
+      "label_add_visit": "Dodaj",
+      "label_settings": "Ustawienia",
+      "label_signout": "Wyloguj",
+      "label_contact": "Dane kontaktowe",
     }
   }
 }
