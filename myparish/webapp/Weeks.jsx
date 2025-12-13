@@ -1,17 +1,20 @@
 const Weeks = () => {
   const { t } = useTranslation()
 
+  const months = [t('label_january'), t('label_february'), t('label_march'), t('label_april'), t('label_may'), t('label_june'), t('label_july'), t('label_august'), t('label_september'), t('label_october'), t('label_november'), t('label_december')]
+
   const currentYear = new Date()
   currentYear.setHours(0, 0, 0, 0)
   currentYear.setMonth(0)
   currentYear.setDate(1)
   currentYear.setDate(currentYear.getDate() - currentYear.getDay() + 1)
+  
   const nextYear = new Date().getFullYear() + 1
   const weeks = new Array()
   while(currentYear.getFullYear() < nextYear) {
     weeks.push({
       start: currentYear.toISOString(),
-      month: currentYear.getMonth() + 1
+      month: months[currentYear.getMonth()]
     })
     currentYear.setDate(currentYear.getDate() + 7)
   }
