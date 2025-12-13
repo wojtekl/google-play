@@ -8,7 +8,7 @@ const Weeks = () => {
   currentYear.setHours(0, 0, 0, 0)
   currentYear.setMonth(0)
   currentYear.setDate(1)
-  currentYear.setDate(currentYear.getDate() - currentYear.getDay())
+  currentYear.setDate(currentYear.getDate() - currentYear.getDay() + 1)
   
   const nextYear = new Date().getFullYear() + 1
   const weeks = new Array()
