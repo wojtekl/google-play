@@ -114,6 +114,18 @@ const resources = {
       "label_settings": "Ustawienia",
       "label_signout": "Wyloguj",
       "label_contact": "Dane kontaktowe",
+      "label_january": "styczeń",
+      "label_february": "luty",
+      "label_march": "marzec",
+      "label_april": "kwiecień",
+      "label_may": "maj",
+      "label_june": "czerwiec",
+      "label_july": "lipiec",
+      "label_august": "sierpień",
+      "label_september": "wrzesień",
+      "label_october": "październik",
+      "label_november": "listopad",
+      "label_december": "grudzień"
     }
   }
 }
