@@ -9,8 +9,9 @@ const Manage = () => {
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
-      console.log(response.data, response)
       if (!response.data) {
+        store.dispatch({ type: 'tenant/set', payload: undefined })
+        setTenant(undefined)
         navigate('/signin')
       }
       else {
@@ -35,19 +36,19 @@ const Manage = () => {
 
   const DisplayTab = () => {
     if ('currentWeekLink' === selectedTab) {
-      return <CurrentWeek date={'2025-12-24'} type={'eucharystia'} />
+      return <CurrentWeek date={'2025-12-24'} type="eucharystia" />
     }
     else if ('nextWeekLink' === selectedTab) {
-      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type={'eucharystia'} />
+      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type="eucharystia" />
     }
     else if ('yearLink' === selectedTab) {
       return <Weeks />
     }
     else if ('orderLink' === selectedTab) {
-      return <CurrentWeek type={'eucharystia'} />
+      return <CurrentWeek type="eucharystia" />
     }
     else if ('departureLink' === selectedTab) {
-      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type={'eucharystia'} />
+      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type="eucharystia" />
     }
     else if ('visitLink' === selectedTab) {
       return <Settings />
@@ -145,5 +146,6 @@ const Manage = () => {
       </div>
     </div>
     <Modal modalId="newScheduledModal" type="eucharystia" />
+    <Modal modalId="newDepartureModal" type="pogrzeb" />
   </>
 }
