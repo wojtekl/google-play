@@ -46,6 +46,9 @@ const Manage = () => {
     else if ('orderLink' === selectedTab) {
       return <CurrentWeek />
     }
+    else if ('departureLink' === selectedTab) {
+      return <Departure />
+    }
     else if ('visitLink' === selectedTab) {
       return <Settings />
     }
@@ -110,6 +113,18 @@ const Manage = () => {
               <ul class="nav flex-column mb-auto">
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#" id="visitLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_visit')} </a>
+                </li>
+              </ul>
+              <hr class="my-3" />
+              <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
+                <span>{t('label_departure')}</span>
+                <a class="link-secondary" href="#" aria-label={t('label_add_departure')} data-bs-toggle="modal" data-bs-target="#newDepartureModal">
+                  <i class="bi bi-plus-circle"></i>
+                </a>
+              </h6>
+              <ul class="nav flex-column mb-auto">
+                <li class="nav-item">
+                  <a class="nav-link d-flex align-items-center gap-2" href="#" id="departureLink" onClick={handleSwitchTab}><i class="bi bi-file-earmark-text"></i> {t('label_departure')} </a>
                 </li>
               </ul>
               <hr class="my-3" />
