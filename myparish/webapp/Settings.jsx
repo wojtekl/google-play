@@ -43,7 +43,7 @@ const Settings = () => {
         <legend>{t('label_settings')}</legend>
         <div class="mb-3">
           <label for="settingsSchedule" class="form-label">{t('label_schedule')}</label>
-          <input type="text" id="settingsSchedule" class="form-control" placeholder={settings?.schedule} name="schedule" />
+          <textarea id="settingsSchedule" class="form-control" rows="4" name="schedule" />
         </div>
         {!disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>}
       </fieldset>
