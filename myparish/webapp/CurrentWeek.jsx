@@ -14,7 +14,10 @@ const CurrentWeek = (props) => {
 
   const getTitle = () => {
     if ('eucharystia' === type) {
-      if ((new Date().toISOString().split('T')[0]) === date) {
+      if (!date) {
+        return t('label_order')
+      }
+      else if ((new Date().toISOString().split('T')[0]) === date) {
         return t('label_currentWeek')
       }
       else {
@@ -33,8 +36,8 @@ const CurrentWeek = (props) => {
       today: date
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      console.debug(response.data)
       setCurrentWeek(response.data)
+      console.debug(response.data)
     })
   }, [refresh])
   
