@@ -7,6 +7,7 @@ const Reader = () => {
   const [currentWeek, setCurrentWeek] = useState([])
   const [contact, setContact] = useState()
   const [departure, setDeparture] = useState([])
+  const [settings, setSettings] = useState()
 
   const dayOfWeek = [
     { order: '2', name: t('label_monday')}, 
@@ -64,6 +65,15 @@ const Reader = () => {
     })
   }, [tenant])
 
+  useEffect(() => {
+    const searchParams = new URLSearchParams()
+    searchParams.append('tenant', tenant)
+    axios.get(`api/settings?${searchParams.toString()}`).then((response) => {
+      setSettings(response.data)
+      console.debug(response.data)
+    })
+  }, [tenant])
+
   return <>
     <header>
       <div class=" text-bg-dark collapse" id="navbarToggleExternalContent" data-bs-theme="dark">
@@ -102,7 +112,7 @@ const Reader = () => {
     <main>
       <div class="container">
         <h1 class="text-body-emphasis">{t('label_reader_header')}</h1>
-        <p class="fs-5 col-md-8 mb-5">{t('label_reader_description')}</p>
+        <p class="fs-5 col-md-8 mb-5">{`${t('label_reader_description')}:${settings.schedule}`}</p>
         <hr class="col-3 col-md-2 mb-5"></hr>
         <div class="accordion" id="accordionExample">
           <AccordionItem id="scheduled" parent="accordionExample" show={true}>
