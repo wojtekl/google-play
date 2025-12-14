@@ -24,8 +24,8 @@ const Reader = () => {
     const form = document.querySelector(`#form_order`)
     
     axios.post('api/scheduled-cd', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      console.debug(response.data)
       form.reset()
+      console.debug(response.data)
     })
     
     return false
@@ -35,8 +35,8 @@ const Reader = () => {
     const searchParams = new URLSearchParams()
     searchParams.append('tenant', tenant)
     axios.get(`api/contact?${searchParams.toString()}`).then((response) => {
-      console.debug(response.data)
       setContact(response.data)
+      console.debug(response.data)
     })
   }, [tenant])
 
@@ -47,8 +47,8 @@ const Reader = () => {
       today: '2025-12-24' // new Date().toISOString().split('T')[0]
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      console.debug(response.data)
       setCurrentWeek(response.data)
+      console.debug(response.data)
     })
   }, [tenant])
 
@@ -59,8 +59,8 @@ const Reader = () => {
       today: '2025-12-14' // new Date().toISOString().split('T')[0]
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      console.debug(response.data)
       setDeparture(response.data)
+      console.debug(response.data)
     })
   }, [tenant])
 
@@ -141,8 +141,10 @@ const Reader = () => {
                   <input type="text" id="orderFrom" class="form-control" placeholder="" name="notes" />
                 </div>
                 <div class="mb-3">
-                  <label for="orderTenant" class="form-label">{t('label_tenant')}</label>
                   <input type="hidden" id="orderTenant" class="form-control" placeholder="" name="tenant" value={tenant} />
+                </div>
+                <div class="mb-3">
+                  <input type="hidden" id="orderType" class="form-control" placeholder="" name="type" value="eucharystia" />
                 </div>
                 <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>
               </fieldset>
