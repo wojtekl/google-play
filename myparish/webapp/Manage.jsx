@@ -9,6 +9,7 @@ const Manage = () => {
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
+      console.debug(response.data)
       if (!response.data) {
         store.dispatch({ type: 'tenant/set', payload: undefined })
         setTenant(undefined)
@@ -23,8 +24,9 @@ const Manage = () => {
 
   const handleSignout = () => {
     axios.get('api/signin-cd').then((response) => {
-      store.dispatch({ type: 'tenant/set', payload: null })
-      setTenant(null)
+      console.debug(response.data)
+      store.dispatch({ type: 'tenant/set', payload: undefined })
+      setTenant(undefined)
       navigate('/signin')
     })
   }
