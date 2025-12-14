@@ -63,12 +63,10 @@ const Modal = (props) => {
               <small id={`${modalId}notesHelp`} class="form-text text-muted">{t('label_help_notes')}</small>
             </div>
             <div class="form-group">
-              <label for={`${modalId}InputId`}>{t('label_id')}</label>
               <input type="hidden" class="form-control" id={`${modalId}InputId`} aria-describedby={`${modalId}idHelp`} name="id" />
               <small id={`${modalId}idHelp`} class="form-text text-muted">{t('label_help_id')}</small>
             </div>
             <div class="form-group">
-              <label for={`${modalId}InputType`}>{t('label_type')}</label>
               <input type="hidden" class="form-control" id={`${modalId}InputType`} aria-describedby={`${modalId}TypeHelp`} name="type" />
               <small id={`${modalId}typeHelp`} class="form-text text-muted">{t('label_help_type')}</small>
             </div>
