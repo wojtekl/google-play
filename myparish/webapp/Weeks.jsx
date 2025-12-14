@@ -43,9 +43,9 @@ const Weeks = () => {
             <th scope="col">{t('label_actions')}</th>
           </tr>
         </thead>
-        <tbody>{weeks.map(w => 
+        <tbody>{weeks.map((w, i) => 
         <tr>
-            <td>1</td>
+            <td>{i + 1}</td>
             <td><DateFormatter timestamp={w.start} /></td>
             <td>{w.month}</td>
             <td><button type="button" class="btn btn-sm btn-outline-secondary" onClick={() => { setSelectedWeek(w.start) }}><i class="bi bi-pencil-square"></i></button></td>
