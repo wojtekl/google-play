@@ -148,6 +148,6 @@ const Manage = () => {
       </div>
     </div>
     <Modal modalId="newScheduledModal" type="eucharystia" />
-    <Modal modalId="newDepartureModal" type="pogrzeb" />
+    <Modal modalId="newDepartureModal" type="departure" />
   </>
 }
