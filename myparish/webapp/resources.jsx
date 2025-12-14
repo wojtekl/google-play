@@ -134,6 +134,7 @@ const resources = {
       "label_save": "Zapisz",
       "label_back": "Powrót",
       "label_nodate": "Brak daty",
+      "label_schedule": "Godziny sprawowania"
     }
   }
 }
