@@ -10,7 +10,7 @@ const Password = () => {
       password: document.querySelector(`#floatingPassword`).value
     }
     axios.post('api/signin-cd', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      alert(response.data)
+      console.debug(response.data)
       if (response.data) {
         navigate('/signin')
         window.history.replaceState({}, document.title, 'https://parafia.wlap.pl/#/signin')
