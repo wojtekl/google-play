@@ -21,7 +21,7 @@ const CurrentWeek = (props) => {
         return t('label_nextWeek')
       }
     }
-    else if ('pogrzeb' === type) {
+    else if ('departure' === type) {
       return t('label_departure')
     }
   }
