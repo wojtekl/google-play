@@ -14,7 +14,6 @@ const Signin = () => {
     axios.get('api/signin').then((response) => {
       if (response.data) {
         store.dispatch({ type: 'tenant/set', payload: response.data })
-        setTenant(response.data)
         navigate('/manage')
       }
       console.debug(response.data)
