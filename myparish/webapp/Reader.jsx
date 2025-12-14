@@ -6,6 +6,7 @@ const Reader = () => {
   const { tenant } = useParams()
   const [currentWeek, setCurrentWeek] = useState([])
   const [contact, setContact] = useState()
+  const [departure, setDeparture] = useState([])
 
   const dayOfWeek = [
     { order: '2', name: t('label_monday')}, 
@@ -23,7 +24,7 @@ const Reader = () => {
     const form = document.querySelector(`#form_order`)
     
     axios.post('api/scheduled-cd', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      alert(response.data)
+      console.debug(response.data)
       form.reset()
     })
     
@@ -34,6 +35,7 @@ const Reader = () => {
     const searchParams = new URLSearchParams()
     searchParams.append('tenant', tenant)
     axios.get(`api/contact?${searchParams.toString()}`).then((response) => {
+      console.debug(response.data)
       setContact(response.data)
     })
   }, [tenant])
@@ -41,11 +43,24 @@ const Reader = () => {
   useEffect(() => {
     const postData = {
       tenant: tenant,
-      type: "msza",
+      type: "eucharystia",
       today: '2025-12-24' // new Date().toISOString().split('T')[0]
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+      console.debug(response.data)
       setCurrentWeek(response.data)
+    })
+  }, [tenant])
+
+  useEffect(() => {
+    const postData = {
+      tenant: tenant,
+      type: "departure",
+      today: '2025-12-14' // new Date().toISOString().split('T')[0]
+    }
+    axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+      console.debug(response.data)
+      setDeparture(response.data)
     })
   }, [tenant])
 
@@ -132,6 +147,28 @@ const Reader = () => {
                 <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>
               </fieldset>
             </form>
+          </AccordionItem>
+          <AccordionItem id="departure" parent="accordionExample" show={true}>
+            <div class="table-responsive small">
+              <table class="table table-stripped table-sm">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">{t('label_scheduled')}</th>
+                    <th scope="col">{t('label_description')}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {dayOfWeek.map((e, i) => 
+                    <tr>
+                      <td>{i + 1}</td>
+                      <td>{e.name}</td>
+                      <td>{departure.filter(f => f.dayOfWeek === e.order).map(g => <p>{`${g.time} ${g.description}`}</p>)}</td>
+                    </tr>
+                  )}
+                </tbody>
+              </table>
+            </div>
           </AccordionItem>
         </div>
       </div>
