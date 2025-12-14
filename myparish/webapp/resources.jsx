@@ -76,7 +76,7 @@ const resources = {
       "label_toggle_navigation": "Nawigacja",
       "label_reader_header": "Strona parafii",
       "label_reader_description": "",
-      "label_scheduled": "Termin",
+      "label_scheduled": "Intencje",
       "label_description": "Opis",
       "label_order": "Zamów mszę",
       "label_announcements": "Ogłoszenia",
