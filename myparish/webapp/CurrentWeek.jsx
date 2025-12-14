@@ -63,7 +63,7 @@ const CurrentWeek = (props) => {
         <tbody>
           {currentWeek.map((e, i) => {
             return <tr>
-              <td>{i}</td>
+              <td>{i + 1}</td>
               <td>{e['description']}</td>
               <td><DateFormatter timestamp={e['scheduled']} /></td>
               <td><NumberFormatter value={e['value']} /></td>
