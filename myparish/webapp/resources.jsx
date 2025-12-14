@@ -74,7 +74,7 @@ const resources = {
       "label_emailus": "Napisz",
       "label_tenant": "Parafia",
       "label_toggle_navigation": "Nawigacja",
-      "label_reader_header": "Strona parafii",
+      "label_reader_header": "Msze święte",
       "label_reader_description": "",
       "label_scheduled": "Intencje",
       "label_description": "Opis",
