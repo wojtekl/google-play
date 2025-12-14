@@ -9,6 +9,17 @@ const Signin = () => {
       navigate('/manage')
     })
   }
+
+  useEffect(() => {
+    axios.get('api/signin').then((response) => {
+      if (response.data) {
+        store.dispatch({ type: 'tenant/set', payload: response.data })
+        setTenant(response.data)
+        navigate('/manage')
+      }
+      console.debug(response.data)
+    })
+  }, [])
   
   return <div class="d-flex align-items-center py-4 bg-body-tertiary">
     <main class="form-signin w-100 m-auto" style={{maxWidth: '330px', padding: '1rem'}}>
