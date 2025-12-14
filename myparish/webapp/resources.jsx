@@ -131,7 +131,8 @@ const resources = {
       "label_weeks": "Tygodnie",
       "label_nextWeek": "Następny tydzień",
       "label_currentWeek": "Ten tydzień",
-      "label_save": "Zapisz"
+      "label_save": "Zapisz",
+      "label_back": "Powrót"
     }
   }
 }
