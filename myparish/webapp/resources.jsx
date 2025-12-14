@@ -125,7 +125,12 @@ const resources = {
       "label_september": "wrzesień",
       "label_october": "październik",
       "label_november": "listopad",
-      "label_december": "grudzień"
+      "label_december": "grudzień",
+      "label_departure": "Pogrzeb",
+      "label_type": "Type",
+      "label_weeks": "Tygodnie",
+      "label_nextWeek": "Następny tydzień",
+      "label_currentWeek": "Ten tydzień"
     }
   }
 }
