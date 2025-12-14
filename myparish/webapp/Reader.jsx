@@ -112,7 +112,7 @@ const Reader = () => {
     <main>
       <div class="container">
         <h1 class="text-body-emphasis">{t('label_reader_header')}</h1>
-        <p class="fs-5 col-md-8 mb-5">{`${t('label_reader_description')}:${settings.schedule}`}</p>
+        <p class="fs-5 col-md-8 mb-5">{`${t('label_reader_description')}:${settings?.schedule}`}</p>
         <hr class="col-3 col-md-2 mb-5"></hr>
         <div class="accordion" id="accordionExample">
           <AccordionItem id="scheduled" parent="accordionExample" show={true}>
