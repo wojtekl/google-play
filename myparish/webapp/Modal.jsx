@@ -7,8 +7,8 @@ const Modal = (props) => {
     const form = document.querySelector(`#form_${modalId}`)
     
     axios.post(!itemId ? 'api/scheduled-cd' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      alert(response.data)
-        form.reset()
+      console.debug(response.data)
+      form.reset()
     })
     
     return false
@@ -16,13 +16,14 @@ const Modal = (props) => {
 
   useEffect(() => {
     if (!itemId) {
-      document.getElementById(`${modalId}InputType`).value = response.data['type']
+      document.getElementById(`${modalId}InputType`).value = type
       return
     }
     
     const searchParams = new URLSearchParams()
     searchParams.append('id', itemId)
     axios.get(`api/scheduled?${searchParams.toString()}`).then((response) => {
+      console.debug(response.data)
       document.getElementById(`${modalId}InputId`).value = itemId
       document.getElementById(`${modalId}InputDescription`).value = response.data['description']
       document.getElementById(`${modalId}InputScheduled`).value = response.data['scheduled']
@@ -44,32 +45,32 @@ const Modal = (props) => {
             <div class="form-group">
               <label for={`${modalId}InputDescription`}>{t('label_description')}</label>
               <input type="text" class="form-control" id={`${modalId}InputDescription`} aria-describedby={`${modalId}descriptionHelp`} name="description" />
-              <small id={`${modalId}descriptionHelp`} class="form-text text-muted">{t('')}</small>
+              <small id={`${modalId}descriptionHelp`} class="form-text text-muted">{t('label_help_description')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputScheduled`}>{t('label_scheduled')}</label>
               <input type="datetime-local" class="form-control" id={`${modalId}InputScheduled`} aria-describedby={`${modalId}schedulehHelp`} name="scheduled" />
-              <small id={`${modalId}schedulehHelp`} class="form-text text-muted">{t('')}</small>
+              <small id={`${modalId}schedulehHelp`} class="form-text text-muted">{t('label_help_scheduled')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputValue`}>{t('label_value')}</label>
               <input type="number" min="10.00" max="500" step="0.01" class="form-control" id={`${modalId}InputValue`} aria-describedby={`${modalId}valueHelp`} name="value" />
-              <small id={`${modalId}valueHelp`} class="form-text text-muted">{t('')}</small>
+              <small id={`${modalId}valueHelp`} class="form-text text-muted">{t('label_help_value')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputNotes`}>{t('notes')}</label>
               <input type="text" class="form-control" id={`${modalId}InputNotes`} aria-describedby={`${modalId}notesHelp`} name="notes" />
-              <small id={`${modalId}notesHelp`} class="form-text text-muted">{t('')}</small>
+              <small id={`${modalId}notesHelp`} class="form-text text-muted">{t('label_help_notes')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputId`}>{t('label_id')}</label>
               <input type="hidden" class="form-control" id={`${modalId}InputId`} aria-describedby={`${modalId}idHelp`} name="id" />
-              <small id={`${modalId}idHelp`} class="form-text text-muted">{t('')}</small>
+              <small id={`${modalId}idHelp`} class="form-text text-muted">{t('label_help_id')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputType`}>{t('label_type')}</label>
               <input type="hidden" class="form-control" id={`${modalId}InputType`} aria-describedby={`${modalId}TypeHelp`} name="type" />
-              <small id={`${modalId}typeHelp`} class="form-text text-muted">{t('')}</small>
+              <small id={`${modalId}typeHelp`} class="form-text text-muted">{t('label_help_type')}</small>
             </div>
           </form>
         </div>
