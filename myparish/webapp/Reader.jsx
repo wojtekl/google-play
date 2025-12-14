@@ -161,11 +161,11 @@ const Reader = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {dayOfWeek.map((e, i) => 
+                  {departure.map((e, i) => 
                     <tr>
                       <td>{i + 1}</td>
-                      <td>{e.name}</td>
-                      <td>{departure.filter(f => f.dayOfWeek === e.order).map(g => <p>{`${g.time} ${g.description}`}</p>)}</td>
+                      <td>{e.time}</td>
+                      <td>{e.description}</p>)}</td>
                     </tr>
                   )}
                 </tbody>
