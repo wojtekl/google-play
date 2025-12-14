@@ -14,7 +14,7 @@ const Dashboard = () => {
     const form = document.querySelector(`#form_contact`)
     
     axios.post('api/contact', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      alert(response.data)
+      console.debug(response.data)
     })
     
     return false
