@@ -2442,6 +2442,19 @@ const clients = {
       "description": "",
       "latitude": 50.08322,
       "longitude": 21.39470
+    },
+    {
+      "name": "Ź Bejrut: Parafia św. Charbela",
+      "schedule": "https://parafia.wlap.pl/?i=1#/swCharbel+Bejrut",
+      "announcement": "https://parafia.wlap.pl/?i=1#/swCharbel+Bejrut",
+      "contact": "https://parafia.wlap.pl/?i=1#/swCharbel+Bejrut",
+      "other": "",
+      "live": "",
+      "week": [],
+      "sunday": [],
+      "description": "",
+      "latitude": 0.0,
+      "longitude": 0.0
     }
   ]
 }
