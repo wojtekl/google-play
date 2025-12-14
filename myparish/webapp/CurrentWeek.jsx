@@ -61,7 +61,7 @@ const CurrentWeek = (props) => {
         </tbody>
       </table>
     </div>
-    <Modal modalId="editScheduledModal" itemId={selected} />
+    <Modal modalId="editScheduledModal" itemId={selected} type="eucharystia" />
     <ConfirmModal onOk={() => {
       const searchParams = new URLSearchParams()
       searchParams.append('id', selected)
