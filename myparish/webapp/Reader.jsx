@@ -165,7 +165,7 @@ const Reader = () => {
                     <tr>
                       <td>{i + 1}</td>
                       <td>{e.time}</td>
-                      <td>{e.description}</p>)}</td>
+                      <td>{e.description}</td>
                     </tr>
                   )}
                 </tbody>
