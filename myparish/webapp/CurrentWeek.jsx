@@ -11,29 +11,43 @@ const CurrentWeek = (props) => {
   const handleDisabled = () => {
     setDisabled(!disabled)
   }
+
+  const getTitle = () => {
+    if ('eucharystia' === type) {
+      if ((new Date().toISOString().split('T')[0]) === date) {
+        return t('label_currentWeek')
+      }
+      else {
+        return t('label_nextWeek')
+      }
+    }
+    else if ('pogrzeb' === type) {
+      return t('label_departure')
+    }
+  }
   
   useEffect(() => {
-
     const postData = {
       tenant: store.getState().tenant,
       type: type,
       today: date
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+      console.debug(response.data)
       setCurrentWeek(response.data)
     })
   }, [refresh])
   
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-      <h1 class="h2">{t('label_currentweek')}</h1>
+      <h1 class="h2">{getTitle()}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
           <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i>}</button>
         </div>
       </div>
     </div>
-    <h2>{t('label_currentweek')}</h2>
+    <h2>{getTitle()}</h2>
     <div class="table-responsive small">
       <table class="table table-stripped table-sm">
         <thead>
@@ -61,7 +75,7 @@ const CurrentWeek = (props) => {
         </tbody>
       </table>
     </div>
-    <Modal modalId="editScheduledModal" itemId={selected} type="eucharystia" />
+    <Modal modalId="editScheduledModal" itemId={selected} type={type} />
     <ConfirmModal onOk={() => {
       const searchParams = new URLSearchParams()
       searchParams.append('id', selected)
