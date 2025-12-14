@@ -13,11 +13,15 @@ const Weeks = () => {
   const nextYear = new Date().getFullYear() + 1
   const weeks = new Array()
   while(currentYear.getFullYear() < nextYear) {
+    const start = currentYear.toISOString().split('T')[0]
+    const month = months[currentYear.getMonth()]
+    currentYear.setDate(currentYear.getDate() + 6)
+    const nextMonth = months[currentYear.getMonth()]
     weeks.push({
-      start: currentYear.toISOString().split('T')[0],
-      month: months[currentYear.getMonth()]
+      start: start,
+      month: nextMonth === month ? month : `${month}/${nextMonth}`
     })
-    currentYear.setDate(currentYear.getDate() + 7)
+    currentYear.setDate(currentYear.getDate() + 1)
   }
 
   return selectedWeek ? <>
