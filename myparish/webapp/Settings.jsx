@@ -2,6 +2,7 @@ const Settings = () => {
   const { t } = useTranslation()
 
   const [settings, setSettings] = useState()
+  const [tenant, setTenant] = useState(store.getState().tenant)
   const [disabled, setDisabled] = useState(true)
 
   const handleDisabled = () => {
