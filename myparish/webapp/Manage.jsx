@@ -35,19 +35,19 @@ const Manage = () => {
 
   const DisplayTab = () => {
     if ('currentWeekLink' === selectedTab) {
-      return <CurrentWeek date={'2025-12-24'} />
+      return <CurrentWeek date={'2025-12-24'} type={'eucharystia'} />
     }
     else if ('nextWeekLink' === selectedTab) {
-      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } />
+      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type={'eucharystia'} />
     }
     else if ('yearLink' === selectedTab) {
       return <Weeks />
     }
     else if ('orderLink' === selectedTab) {
-      return <CurrentWeek />
+      return <CurrentWeek type={'eucharystia'} />
     }
     else if ('departureLink' === selectedTab) {
-      return <Departure />
+      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type={'eucharystia'} />
     }
     else if ('visitLink' === selectedTab) {
       return <Settings />
