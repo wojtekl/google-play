@@ -1,6 +1,6 @@
 const Modal = (props) => {
   const { t } = useTranslation()
-  const { modalId, itemId } = props
+  const { modalId, itemId, type } = props
 
   const handleSubmit = (event) => {
     event.preventDefault()
@@ -16,6 +16,7 @@ const Modal = (props) => {
 
   useEffect(() => {
     if (!itemId) {
+      document.getElementById(`${modalId}InputType`).value = response.data['type']
       return
     }
     
@@ -27,6 +28,7 @@ const Modal = (props) => {
       document.getElementById(`${modalId}InputScheduled`).value = response.data['scheduled']
       document.getElementById(`${modalId}InputValue`).value = response.data['value']
       document.getElementById(`${modalId}InputNotes`).value = response.data['notes']
+      document.getElementById(`${modalId}InputType`).value = response.data['type']
     })
   }, [itemId])
 
@@ -63,6 +65,11 @@ const Modal = (props) => {
               <label for={`${modalId}InputId`}>{t('label_id')}</label>
               <input type="hidden" class="form-control" id={`${modalId}InputId`} aria-describedby={`${modalId}idHelp`} name="id" />
               <small id={`${modalId}idHelp`} class="form-text text-muted">{t('')}</small>
+            </div>
+            <div class="form-group">
+              <label for={`${modalId}InputType`}>{t('label_type')}</label>
+              <input type="hidden" class="form-control" id={`${modalId}InputType`} aria-describedby={`${modalId}TypeHelp`} name="type" />
+              <small id={`${modalId}typeHelp`} class="form-text text-muted">{t('')}</small>
             </div>
           </form>
         </div>
