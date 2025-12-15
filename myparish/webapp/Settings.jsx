@@ -45,6 +45,10 @@ const Settings = () => {
           <label for="settingsSchedule" class="form-label">{t('label_schedule')}</label>
           <textarea id="settingsSchedule" class="form-control" rows="4" name="schedule" />
         </div>
+        <div class="mb-3 form-check">
+          <input type="checkbox" class="form-check-input" id="settingsShowVisits" name="showVisits" />
+          <label class="form-check-label" for="settingsShowVisits">t('label_show_visits')</label>
+        </div>
         {!disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>}
       </fieldset>
     </form>
