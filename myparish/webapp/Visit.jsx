@@ -9,7 +9,7 @@ const Visit = () => {
     //searchParams.append('tenant', itemId)
     axios.get(`api/visit?${searchParams.toString()}`).then((response) => {
       console.debug(response.data)
-      setDonations(response.data)
+      //setDonations(response.data)
     })
   }, [])
 
