@@ -26,7 +26,7 @@ const Settings = () => {
     axios.get(`api/settings?${searchParams.toString()}`).then((response) => {
       setSettings(response.data)
       document.getElementById('settingsSchedule').value = response.data.schedule
-      document.getElementById('settingsShowVisits').checked = response.data.showVisits
+      document.getElementById('settingsShowVisits').checked = 0 == response.data.showVisits ? false : true
     })
   }, [tenant])
 
