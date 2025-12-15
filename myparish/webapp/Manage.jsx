@@ -53,7 +53,7 @@ const Manage = () => {
       return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type="departure" />
     }
     else if ('visitLink' === selectedTab) {
-      return <Settings />
+      return <Visit />
     }
     else if ('settingsLink' === selectedTab) {
       return <Settings />
