@@ -1,8 +1,8 @@
 const Dashboard = () => {
   const { t } = useTranslation()
   
-  const [contact, setContact] = useState()
   const [tenant, setTenant] = useState(store.getState().tenant)
+  const [contact, setContact] = useState()
   const [disabled, setDisabled] = useState(true)
 
   const handleDisabled = () => {
@@ -44,7 +44,7 @@ const Dashboard = () => {
         </div>
       </div>
     </div>
-    <form id="form_contact">
+    <form id="form_contact" enctype="multipart/form-data">
       <fieldset disabled={disabled}>
         <legend>{t('label_contact')}</legend>
         <div class="mb-3">
