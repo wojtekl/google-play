@@ -4,12 +4,11 @@ const Manage = () => {
   const navigate = useNavigate()
   const { t } = useTranslation()
   
-  const [selectedTab, setSelectedTab] = useState('dashboardLink')
   const [tenant, setTenant] = useState(store.getState().tenant)
+  const [selectedTab, setSelectedTab] = useState('dashboardLink')
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
-      console.debug(response.data)
       if (!response.data) {
         store.dispatch({ type: 'tenant/set', payload: undefined })
         setTenant(undefined)
@@ -19,15 +18,16 @@ const Manage = () => {
         store.dispatch({ type: 'tenant/set', payload: response.data })
         setTenant(response.data)
       }
+      console.debug(response.data)
     })
   }, [])
 
   const handleSignout = () => {
     axios.get('api/signin-cd').then((response) => {
-      console.debug(response.data)
       store.dispatch({ type: 'tenant/set', payload: undefined })
       setTenant(undefined)
       navigate('/signin')
+      console.debug(response.data)
     })
   }
 
