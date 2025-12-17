@@ -1,8 +1,8 @@
 const Settings = () => {
   const { t } = useTranslation()
 
-  const [settings, setSettings] = useState()
   const [tenant, setTenant] = useState(store.getState().tenant)
+  const [settings, setSettings] = useState()
   const [disabled, setDisabled] = useState(true)
 
   const handleDisabled = () => {
@@ -39,7 +39,7 @@ const Settings = () => {
         </div>
       </div>
     </div>
-    <form id="form_settings">
+    <form id="form_settings" enctype="multipart/form-data">
       <fieldset disabled={disabled}>
         <legend>{t('label_settings')}</legend>
         <div class="mb-3">
