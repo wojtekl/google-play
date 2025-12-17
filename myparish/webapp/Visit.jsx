@@ -9,8 +9,8 @@ const Visit = () => {
     const searchParams = new URLSearchParams()
     searchParams.append('tenant', tenant)
     axios.get(`api/visit?${searchParams.toString()}`).then((response) => {
-      console.debug(response.data)
       setDonations(response.data)
+      console.debug(response.data)
     })
   }, [])
 
