@@ -8,6 +8,7 @@ const Reader = () => {
   const [contact, setContact] = useState()
   const [departure, setDeparture] = useState([])
   const [settings, setSettings] = useState()
+  const [visit, setVisit] = useState([])
 
   const dayOfWeek = [
     { order: '2', name: t('label_monday')}, 
@@ -70,6 +71,15 @@ const Reader = () => {
     searchParams.append('tenant', tenant)
     axios.get(`api/settings?${searchParams.toString()}`).then((response) => {
       setSettings(response.data)
+      console.debug(response.data)
+    })
+  }, [tenant])
+
+  useEffect(() => {
+    const searchParams = new URLSearchParams()
+    searchParams.append('tenant', tenant)
+    axios.get(`api/visit?${searchParams.toString()}`).then((response) => {
+      setVisit(response.data)
       console.debug(response.data)
     })
   }, [tenant])
@@ -176,6 +186,28 @@ const Reader = () => {
                       <td>{i + 1}</td>
                       <td>{e.time}</td>
                       <td>{e.description}</td>
+                    </tr>
+                  )}
+                </tbody>
+              </table>
+            </div>
+          </AccordionItem>
+          <AccordionItem id="visit" parent="accordionExample" show={true}>
+            <div class="table-responsive small">
+              <table class="table table-stripped table-sm">
+                <thead>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">{t('label_firstname')}</th>
+                    <th scope="col">{t('label_surname')}</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {visit.map((e, i) => 
+                    <tr>
+                      <td>{i + 1}</td>
+                      <td>{e.firstname}</td>
+                      <td>{e.surname}</td>
                     </tr>
                   )}
                 </tbody>
