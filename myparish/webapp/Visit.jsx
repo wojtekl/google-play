@@ -48,7 +48,7 @@ const Visit = () => {
         </tbody>
       </table>
     </div>
-    <ConfirmModal onOk={() => {
+    <ConfirmModal title="label_delete" onOk={() => {
       const searchParams = new URLSearchParams()
       searchParams.append('id', selected)
       axios.get(`api/visit-cd?${searchParams.toString()}`).then((response) => {
