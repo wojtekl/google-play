@@ -1,15 +1,16 @@
 const Visit = () => {
   const { t } = useTranslation()
+  const [tenant, setTenant] = useState(store.getState().tenant)
   const [donations, setDonations] = useState([])
   const [selected, setSelected] = useState()
   const [refresh, setRefresh] = useState()
 
   useEffect(() => {
     const searchParams = new URLSearchParams()
-    //searchParams.append('tenant', itemId)
+    searchParams.append('tenant', tenant)
     axios.get(`api/visit?${searchParams.toString()}`).then((response) => {
       console.debug(response.data)
-      //setDonations(response.data)
+      setDonations(response.data)
     })
   }, [])
 
