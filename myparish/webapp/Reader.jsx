@@ -149,7 +149,7 @@ const Reader = () => {
           </AccordionItem>
           <AccordionItem id="announcements" parent="accordionExample"></AccordionItem>
           <AccordionItem id="order" parent="accordionExample">
-            <form id="form_order">
+            <form id="form_order" enctype="multipart/form-data">
               <fieldset>
                 <legend>{t('label_order')}</legend>
                 <div class="mb-3">
