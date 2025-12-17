@@ -7,8 +7,8 @@ const VisitModal = (props) => {
     const form = document.querySelector(`#form_${modalId}`)
     
     axios.post('api/visit-cd', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      console.debug(response.data)
       form.reset()
+      console.debug(response.data)
     })
     
     return false
@@ -22,7 +22,7 @@ const VisitModal = (props) => {
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label={t('label_close')}></button>
         </div>
         <div class="modal-body">
-          <form class="dane" id={`form_${modalId}`} onSubmit={handleSubmit}>
+          <form class="dane" id={`form_${modalId}`} onSubmit={handleSubmit} enctype="multipart/form-data">
             <div class="form-group">
               <label for={`${modalId}InputFirstname`}>{t('label_firstname')}</label>
               <input type="text" class="form-control" id={`${modalId}InputFirstname`} aria-describedby={`${modalId}HelpFirstname`} name="firstname" />
