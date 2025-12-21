@@ -4,13 +4,8 @@ const CurrentWeek = (props) => {
   const [currentWeek, setCurrentWeek] = useState([])
   const [selected, setSelected] = useState()
   const [refresh, setRefresh] = useState()
-  const [disabled, setDisabled] = useState(true)
 
   const handleSelect = () => {}
-
-  const handleDisabled = () => {
-    setDisabled(!disabled)
-  }
 
   const getTitle = () => {
     if ('eucharystia' === type) {
@@ -30,7 +25,8 @@ const CurrentWeek = (props) => {
   }
   
   useEffect(() => {
-    const postData = {
+    if (refresh) {
+      const postData = {
       tenant: store.getState().tenant,
       type: type,
       today: date
@@ -39,14 +35,16 @@ const CurrentWeek = (props) => {
       setCurrentWeek(response.data)
       console.debug(response.data)
     })
+    setRefresh(false)
+    }
   }, [refresh])
   
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-      <h1 class="h2">{getTitle()}</h1>
+      <h1 class="h2">{t('label_statistics')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i>}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={() => { setRefresh(true) }}>{t('label_refresh')}</button>
         </div>
       </div>
     </div>
