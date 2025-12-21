@@ -23,7 +23,7 @@ const Visit = () => {
         </div>
       </div>
     </div>
-    <h2>{t('label_visits')}</h2>
+    <h2>{t('label_visit')}</h2>
     <div class="table-responsive small">
       <table class="table table-stripped table-sm">
         <thead>
@@ -31,15 +31,21 @@ const Visit = () => {
             <th scope="col">#</th>
             <th scope="col">{t('label_firstname')}</th>
             <th scope="col">{t('label_surname')}</th>
+            <th scope="col">{t('label_street')}</th>
+            <th scope="col">{t('label_number')}</th>
+            <th scope="col">{t('label_city')}</th>
             <th scope="col">{t('label_donation')}</th>
             <th scope="col">{t('label_actions')}</th>
           </tr>
         </thead>
-        <tbody>{donations.map((e, i) => 
+        <tbody>{ donations.map((e, i) => 
         <tr>
             <td>{i + 1}</td>
             <td>{e.firstname}</td>
             <td>{e.surname}</td>
+            <td>{e.street}</td>
+            <td>{e.number}</td>
+            <td>{e.city}</td>
             <td>{e.donation}</td>
             <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-trash"></i></button></td>
           </tr>
