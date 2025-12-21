@@ -13,10 +13,10 @@ const CurrentWeek = (props) => {
         return t('label_order')
       }
       else if ((new Date().toISOString().split('T')[0]) === date) {
-        return t('label_currentWeek')
+        return t('label_current_week')
       }
       else {
-        return t('label_nextweek')
+        return t('label_next_week')
       }
     }
     else if ('departure' === type) {
