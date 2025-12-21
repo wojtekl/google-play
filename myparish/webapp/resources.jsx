@@ -141,7 +141,8 @@ const resources = {
       "label_month": "Miesiąc",
       "label_begining": "Początek",
       "label_date": "Data",
-      "label_day": "Dzień"
+      "label_day": "Dzień",
+      "label_title_confirm": "Potwierdź"
     }
   }
 }
