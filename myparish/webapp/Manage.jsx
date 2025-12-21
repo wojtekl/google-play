@@ -38,10 +38,12 @@ const Manage = () => {
 
   const DisplayTab = () => {
     if ('currentWeekLink' === selectedTab) {
-      return <CurrentWeek date={'2025-12-24'} type="eucharystia" />
+      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type="eucharystia" />
     }
     else if ('nextWeekLink' === selectedTab) {
-      return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type="eucharystia" />
+      const nextWeek = new Date()
+      nextWeek.setDate(nextWeek.getDate() + 7)
+      return <CurrentWeek date={ nextWeek.split('T')[0] } type="eucharystia" />
     }
     else if ('yearLink' === selectedTab) {
       return <Weeks />
