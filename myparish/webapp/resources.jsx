@@ -140,7 +140,8 @@ const resources = {
       "label_refresh": "Odśwież",
       "label_month": "Miesiąc",
       "label_begining": "Początek",
-      "label_date": "Data"
+      "label_date": "Data",
+      "label_day": "Dzień"
     }
   }
 }
