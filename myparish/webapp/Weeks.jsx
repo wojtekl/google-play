@@ -2,8 +2,6 @@ const Weeks = () => {
   const { t } = useTranslation()
   const [selectedWeek, setSelectedWeek] = useState()
 
-  const months = [t('label_january'), t('label_february'), t('label_march'), t('label_april'), t('label_may'), t('label_june'), t('label_july'), t('label_august'), t('label_september'), t('label_october'), t('label_november'), t('label_december')]
-
   const currentYear = new Date()
   currentYear.setHours(0, 0, 0, 0)
   currentYear.setMonth(0)
@@ -29,20 +27,20 @@ const Weeks = () => {
     <CurrentWeek date={selectedWeek} type={'eucharystia'} />
   </> : <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-      <h1 class="h2">{t('label_weeks')}</h1>
+      <h1 class="h2">{t('label_statistics')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary">{t('label_edit')}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary">{t('label_refresh')}</button>
         </div>
       </div>
     </div>
-    <h2>{t('label_section')}</h2>
+    <h2>{t('label_weeks')}</h2>
     <div class="table-responsive small">
       <table class="table table-stripped table-sm">
         <thead>
           <tr>
             <th scope="col">#</th>
-            <th scope="col">{t('label_header')}</th>
+            <th scope="col">{t('label_begining')}</th>
             <th scope="col">{t('label_month')}</th>
             <th scope="col">{t('label_actions')}</th>
           </tr>
