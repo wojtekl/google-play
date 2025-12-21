@@ -54,8 +54,8 @@ const CurrentWeek = (props) => {
         <thead>
           <tr>
             <th scope="col">#</th>
-            <th scope="col">{t('label_description')}</th>
             <th scope="col">{t('label_date')}</th>
+            <th scope="col">{t('label_description')}</th>
             <th scope="col">{t('label_donation')}</th>
             <th scope="col">{t('label_notes')}</th>
             <th scope="col">{t('label_actions')}</th>
@@ -65,8 +65,8 @@ const CurrentWeek = (props) => {
           {currentWeek.map((e, i) => {
             return <tr>
               <td>{i + 1}</td>
-              <td>{e['description']}</td>
               <td><DateFormatter timestamp={e['scheduled']} /></td>
+              <td>{e['description']}</td>
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
               <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-pencil-square"></i></button></td>
