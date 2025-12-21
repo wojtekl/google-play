@@ -4,8 +4,8 @@ const VisitModal = (props) => {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    const form = document.querySelector(`#form_${modalId}`)
     
+    const form = document.querySelector(`#form_${modalId}`)
     axios.post('api/visit-cd', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       form.reset()
       console.debug(response.data)
