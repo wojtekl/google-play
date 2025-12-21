@@ -43,7 +43,7 @@ const Manage = () => {
     else if ('nextWeekLink' === selectedTab) {
       const nextWeek = new Date()
       nextWeek.setDate(nextWeek.getDate() + 7)
-      return <CurrentWeek date={ nextWeek.split('T')[0] } type="eucharystia" />
+      return <CurrentWeek date={ nextWeek.toISOString().split('T')[0] } type="eucharystia" />
     }
     else if ('yearLink' === selectedTab) {
       return <Weeks />
