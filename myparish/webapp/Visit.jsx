@@ -35,6 +35,7 @@ const Visit = () => {
             <th scope="col">{t('label_number')}</th>
             <th scope="col">{t('label_city')}</th>
             <th scope="col">{t('label_donation')}</th>
+            <th scope="col">{t('label_date')}</th>
             <th scope="col">{t('label_actions')}</th>
           </tr>
         </thead>
@@ -47,6 +48,7 @@ const Visit = () => {
             <td>{e.number}</td>
             <td>{e.city}</td>
             <td>{e.donation}</td>
+            <td><DateFormatter timestamp={e.created} format="date" /></td>
             <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-trash"></i></button></td>
           </tr>
           )
