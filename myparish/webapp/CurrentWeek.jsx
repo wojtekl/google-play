@@ -55,8 +55,8 @@ const CurrentWeek = (props) => {
           <tr>
             <th scope="col">#</th>
             <th scope="col">{t('label_description')}</th>
-            <th scope="col">{t('label_scheduled')}</th>
-            <th scope="col">{t('label_value')}</th>
+            <th scope="col">{t('label_date')}</th>
+            <th scope="col">{t('label_donation')}</th>
             <th scope="col">{t('label_notes')}</th>
             <th scope="col">{t('label_actions')}</th>
           </tr>
