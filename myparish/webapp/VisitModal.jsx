@@ -26,7 +26,7 @@ const VisitModal = (props) => {
             <div class="form-group">
               <label for={`${modalId}InputFirstname`}>{t('label_firstname')}</label>
               <input type="text" class="form-control" id={`${modalId}InputFirstname`} aria-describedby={`${modalId}HelpFirstname`} name="firstname" />
-              <small id={`${modalId}HelpFirstname`} class="form-text text-muted">{t('label_help_firstname')}</small>
+              <small id={`${modalId}HelpFirstname`} class="form-text text-muted">{t('help_firstname')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputSurname`}>{t('label_surname')}</label>
@@ -36,22 +36,22 @@ const VisitModal = (props) => {
             <div class="form-group">
               <label for={`${modalId}InputStreet`}>{t('label_street')}</label>
               <input type="text" class="form-control" id={`${modalId}InputStreet`} aria-describedby={`${modalId}HelpStreet`} name="street" />
-              <small id={`${modalId}HelpStreet`} class="form-text text-muted">{t('label_help_street')}</small>
+              <small id={`${modalId}HelpStreet`} class="form-text text-muted">{t('help_street')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputNumber`}>{t('label_number')}</label>
               <input type="text" class="form-control" id={`${modalId}InputNumber`} aria-describedby={`${modalId}HelpNumber`} name="number" />
-              <small id={`${modalId}HelpNumber`} class="form-text text-muted">{t('label_help_number')}</small>
+              <small id={`${modalId}HelpNumber`} class="form-text text-muted">{t('help_number')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputCity`}>{t('label_city')}</label>
               <input type="text" class="form-control" id={`${modalId}InputCity`} aria-describedby={`${modalId}HelpCity`} name="city" />
-              <small id={`${modalId}HelpCity`} class="form-text text-muted">{t('label_help_city')}</small>
+              <small id={`${modalId}HelpCity`} class="form-text text-muted">{t('help_city')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputDonation`}>{t('label_donation')}</label>
               <input type="number" min="10.00" max="500" step="0.01" class="form-control" id={`${modalId}InputDonation`} aria-describedby={`${modalId}HelpDonation`} name="donation" />
-              <small id={`${modalId}HelpDonation`} class="form-text text-muted">{t('label_help_donation')}</small>
+              <small id={`${modalId}HelpDonation`} class="form-text text-muted">{t('help_donation')}</small>
             </div>
           </form>
         </div>
