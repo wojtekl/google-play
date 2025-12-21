@@ -50,7 +50,7 @@ const Weeks = () => {
         <tbody>{weeks.map((w, i) => 
         <tr>
             <td>{i + 1}</td>
-            <td><DateFormatter timestamp={w.start} /></td>
+            <td><DateFormatter timestamp={w.start} format="date" /></td>
             <td>{w.month}</td>
             <td><button type="button" class="btn btn-sm btn-outline-secondary" onClick={() => { setSelectedWeek(w.start) }}><i class="bi bi-pencil-square"></i></button></td>
           </tr>
