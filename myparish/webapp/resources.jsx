@@ -100,7 +100,6 @@ const resources = {
       "label_delete": "Usuń",
       "label_cancel": "Zaniechaj",
       "label_ok": "OK",
-      "label_currentweek": "Ten tydzień",
       "label_value": "Ofiara",
       "label_notes": "Notatki",
       "label_actions": "Akcje",
@@ -129,13 +128,11 @@ const resources = {
       "label_departure": "Pogrzeb",
       "label_type": "Type",
       "label_weeks": "Tygodnie",
-      "label_nextWeek": "Następny tydzień",
-      "label_currentWeek": "Ten tydzień",
       "label_save": "Zapisz",
       "label_back": "Powrót",
       "label_nodate": "Brak daty",
       "label_schedule": "Godziny sprawowania",
-      "label_showVisits": "Wyświetlaj wizyty duszpasterskie",
+      "label_show_visit": "Wyświetlaj wizyty duszpasterskie",
       "label_firstname": "Imię",
       "label_surname": "Nazwisko",
       "label_donation": "Ofiara",
@@ -143,8 +140,7 @@ const resources = {
       "label_refresh": "Odśwież",
       "label_month": "Miesiąc",
       "label_begining": "Początek",
-      "label_nextweek": "Nadchodzący tydzień",
-      
+      "label_date": "Data"
     }
   }
 }
