@@ -31,7 +31,7 @@ const VisitModal = (props) => {
             <div class="form-group">
               <label for={`${modalId}InputSurname`}>{t('label_surname')}</label>
               <input type="text" class="form-control" id={`${modalId}InputSurname`} aria-describedby={`${modalId}HelpSurname`} name="surname" />
-              <small id={`${modalId}HelpSurname`} class="form-text text-muted">{t('label_help_surname')}</small>
+              <small id={`${modalId}HelpSurname`} class="form-text text-muted">{t('help_surname')}</small>
             </div>
             <div class="form-group">
               <label for={`${modalId}InputStreet`}>{t('label_street')}</label>
