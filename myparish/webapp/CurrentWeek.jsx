@@ -3,7 +3,7 @@ const CurrentWeek = (props) => {
   const { date, type } = props
   const [currentWeek, setCurrentWeek] = useState([])
   const [selected, setSelected] = useState()
-  const [refresh, setRefresh] = useState()
+  const [refresh, setRefresh] = useState(true)
 
   const handleSelect = () => {}
 
