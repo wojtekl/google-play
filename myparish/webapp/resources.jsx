@@ -134,7 +134,19 @@ const resources = {
       "label_save": "Zapisz",
       "label_back": "Powrót",
       "label_nodate": "Brak daty",
-      "label_schedule": "Godziny sprawowania"
+      "label_schedule": "Godziny sprawowania",
+      "label_showVisits": "Wyświetlaj wizyty duszpasterskie",
+      "label_firstname": "Imię",
+      "label_surname": "Nazwisko",
+      "label_donation": "Ofiara",
+      "label_statistics": "Statystyki",
+      "label_refresh": "Odśwież",
+      "label_month: "Miesiąc",
+      "label_begining": "Początek",
+      "label_nextweek": "Nadchodzący tydzień",
+      
     }
   }
 }
+
+const months = [t('label_january'), t('label_february'), t('label_march'), t('label_april'), t('label_may'), t('label_june'), t('label_july'), t('label_august'), t('label_september'), t('label_october'), t('label_november'), t('label_december')]
