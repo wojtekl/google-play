@@ -2,6 +2,8 @@ const Weeks = () => {
   const { t } = useTranslation()
   const [selectedWeek, setSelectedWeek] = useState()
 
+  const months = [t('label_january'), t('label_february'), t('label_march'), t('label_april'), t('label_may'), t('label_june'), t('label_july'), t('label_august'), t('label_september'), t('label_october'), t('label_november'), t('label_december')]
+
   const currentYear = new Date()
   currentYear.setHours(0, 0, 0, 0)
   currentYear.setMonth(0)
