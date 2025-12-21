@@ -141,7 +141,7 @@ const resources = {
       "label_donation": "Ofiara",
       "label_statistics": "Statystyki",
       "label_refresh": "Odśwież",
-      "label_month: "Miesiąc",
+      "label_month": "Miesiąc",
       "label_begining": "Początek",
       "label_nextweek": "Nadchodzący tydzień",
       
