@@ -15,7 +15,7 @@ const Settings = () => {
     //const form = document.querySelector(`#form_settings`)
     const form = {
       schedule: document.getElementById('settingsSchedule').value,
-      showVisits: document.getElementById('settingsShowVisits').checked
+      showVisits: document.getElementById('settingsShowVisits').checked ? 1 : 0
     }
     axios.post('api/settings', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       console.debug(response.data)
