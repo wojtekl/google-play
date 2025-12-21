@@ -48,7 +48,7 @@ const Settings = () => {
         </div>
         <div class="mb-3 form-check">
           <input type="checkbox" class="form-check-input" id="settingsShowVisits" name="showVisits" />
-          <label class="form-check-label" for="settingsShowVisits">{t('label_showVisits')}</label>
+          <label class="form-check-label" for="settingsShowVisits">{t('label_show_visits')}</label>
         </div>
         {!disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>}
       </fieldset>
