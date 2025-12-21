@@ -5,7 +5,13 @@ const CurrentWeek = (props) => {
   const [selected, setSelected] = useState()
   const [refresh, setRefresh] = useState(true)
 
-  const handleSelect = () => {}
+  const handleSelect = (event) => {
+    setSelected(event.target.id.split('-')[1])
+  }
+
+  const handleRefresh = () => {
+    setRefresh(true)
+  }
 
   const getTitle = () => {
     if ('eucharystia' === type) {
@@ -27,15 +33,15 @@ const CurrentWeek = (props) => {
   useEffect(() => {
     if (refresh) {
       const postData = {
-      tenant: store.getState().tenant,
-      type: type,
-      today: date
-    }
-    axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
-      setCurrentWeek(response.data)
-      console.debug(response.data)
-    })
-    setRefresh(false)
+        tenant: store.getState().tenant,
+        type: type,
+        today: date
+      }
+      axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+        setCurrentWeek(response.data)
+        console.debug(response.data)
+      })
+      setRefresh(false)
     }
   }, [refresh])
   
@@ -44,7 +50,7 @@ const CurrentWeek = (props) => {
       <h1 class="h2">{t('label_statistics')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={() => { setRefresh(true) }}>{t('label_refresh')}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleRefresh}>{t('label_refresh')}</button>
         </div>
       </div>
     </div>
@@ -69,8 +75,10 @@ const CurrentWeek = (props) => {
               <td>{e['description']}</td>
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
-              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-pencil-square"></i></button></td>
-              <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-trash"></i></button></td>
+              <td>
+                <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" id={`scheduledEdit-${e['id']}`} onClick={handleSelect}><i class="bi bi-pencil-square"></i></button>
+                <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" id={`scheduledDelete-${e['id']}`} onClick={handleSelect}><i class="bi bi-trash"></i></button>
+              </td>
             </tr>
           })}
         </tbody>
@@ -81,7 +89,7 @@ const CurrentWeek = (props) => {
       const searchParams = new URLSearchParams()
       searchParams.append('id', selected)
       axios.get(`api/scheduled-cd?${searchParams.toString()}`).then((response) => {
-        setRefresh(true)
+        handleRefresh()
     })}} />
   </>
 }
