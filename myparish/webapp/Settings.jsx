@@ -12,7 +12,11 @@ const Settings = () => {
   const handleSubmit = (event) => {
     event.preventDefault()
     
-    const form = document.querySelector(`#form_settings`)
+    //const form = document.querySelector(`#form_settings`)
+    const form = {
+      schedule: document.getElementById('settingsSchedule').value,
+      showVisits: document.getElementById('settingsShowVisits').checked
+    }
     axios.post('api/settings', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       console.debug(response.data)
     })
