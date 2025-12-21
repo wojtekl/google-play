@@ -11,8 +11,8 @@ const Dashboard = () => {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    const form = document.querySelector(`#form_contact`)
     
+    const form = document.querySelector(`#form_contact`)
     axios.post('api/contact', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       console.debug(response.data)
     })
@@ -40,7 +40,7 @@ const Dashboard = () => {
       <h1 class="h2">{t('label_dashboard')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i>}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{ disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i> }</button>
         </div>
       </div>
     </div>
@@ -75,25 +75,8 @@ const Dashboard = () => {
           <label for="contactPhone" class="form-label">{t('label_phone')}</label>
           <input type="tel" id="contactPhone" class="form-control" placeholder={contact?.phone} name="phone" />
         </div>
-        {!disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>}
+        { !disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button> }
       </fieldset>
     </form>
-    <h2>{t('label_section')}</h2>
-    <div class="table-responsive small">
-      <table class="table table-stripped table-sm">
-        <thead>
-          <tr>
-            <th scope="col">#</th>
-            <th scope="col">{t('label_header')}</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1</td>
-            <td>value</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
   </>
 }
