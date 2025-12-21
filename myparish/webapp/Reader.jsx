@@ -24,7 +24,6 @@ const Reader = () => {
     event.preventDefault()
 
     const form = document.querySelector(`#form_order`)
-    
     axios.post('api/scheduled-cd', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       form.reset()
       console.debug(response.data)
@@ -131,7 +130,7 @@ const Reader = () => {
                 <thead>
                   <tr>
                     <th scope="col">#</th>
-                    <th scope="col">{t('label_scheduled')}</th>
+                    <th scope="col">{t('label_day')}</th>
                     <th scope="col">{t('label_description')}</th>
                   </tr>
                 </thead>
@@ -176,7 +175,7 @@ const Reader = () => {
                 <thead>
                   <tr>
                     <th scope="col">#</th>
-                    <th scope="col">{t('label_scheduled')}</th>
+                    <th scope="col">{t('label_date')}</th>
                     <th scope="col">{t('label_description')}</th>
                   </tr>
                 </thead>
@@ -184,7 +183,7 @@ const Reader = () => {
                   {departure.map((e, i) => 
                     <tr>
                       <td>{i + 1}</td>
-                      <td>{e.time}</td>
+                      <td><DateFormatter timestamp={e.scheduled} /></td>
                       <td>{e.description}</td>
                     </tr>
                   )}
@@ -200,6 +199,10 @@ const Reader = () => {
                     <th scope="col">#</th>
                     <th scope="col">{t('label_firstname')}</th>
                     <th scope="col">{t('label_surname')}</th>
+                    <th scope="col">{t('label_street')}</th>
+                    <th scope="col">{t('label_number')}</th>
+                    <th scope="col">{t('label_city')}</th>
+                    <th scope="col">{t('label_donation')}</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -208,6 +211,10 @@ const Reader = () => {
                       <td>{i + 1}</td>
                       <td>{e.firstname}</td>
                       <td>{e.surname}</td>
+                      <td>{e.street}</td>
+                      <td>{e.number}</td>
+                      <td>{e.city}</td>
+                      <td>{e.donation}</td>
                     </tr>
                   )}
                 </tbody>
