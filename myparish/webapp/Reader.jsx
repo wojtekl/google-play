@@ -216,7 +216,7 @@ const Reader = () => {
                       <td>{e.number}</td>
                       <td>{e.city}</td>
                       <td>{e.donation}</td>
-                      <td>{e.created}</td>
+                      <td><DateFormatter timestamp={e.created} format="date" /></td>
                     </tr>
                   )}
                 </tbody>
