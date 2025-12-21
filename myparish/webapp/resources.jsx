@@ -142,7 +142,19 @@ const resources = {
       "label_begining": "Początek",
       "label_date": "Data",
       "label_day": "Dzień",
-      "label_title_confirm": "Potwierdź"
+      "label_title_confirm": "Potwierdź",
+      "help_description": "",
+      "help_scheduled": "",
+      "help_value": "",
+      "help_notes": "",
+      "help_id": "",
+      "help_type": "",
+      "help_firstname": "",
+      "help_surname": "",
+      "help_street": "",
+      "help_number": "",
+      "help_city": "",
+      "help_donation": ""
     }
   }
 }
