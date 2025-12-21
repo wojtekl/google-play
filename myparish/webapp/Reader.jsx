@@ -191,7 +191,7 @@ const Reader = () => {
               </table>
             </div>
           </AccordionItem>
-          <AccordionItem id="visit" parent="accordionExample">
+          { settings.showVisits && <AccordionItem id="visit" parent="accordionExample">
             <div class="table-responsive small">
               <table class="table table-stripped table-sm">
                 <thead>
@@ -221,6 +221,7 @@ const Reader = () => {
               </table>
             </div>
           </AccordionItem>
+          }
         </div>
       </div>
     </main>
