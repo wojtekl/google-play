@@ -4,8 +4,8 @@ const Modal = (props) => {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    const form = document.querySelector(`#form_${modalId}`)
     
+    const form = document.querySelector(`#form_${modalId}`)
     axios.post(!itemId ? 'api/scheduled-cd' : 'api/scheduled', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       form.reset()
       console.debug(response.data)
@@ -48,17 +48,17 @@ const Modal = (props) => {
               <small id={`${modalId}HelpDescription`} class="form-text text-muted">{t('label_help_description')}</small>
             </div>
             <div class="form-group">
-              <label for={`${modalId}InputScheduled`}>{t('label_scheduled')}</label>
+              <label for={`${modalId}InputScheduled`}>{t('label_date')}</label>
               <input type="datetime-local" class="form-control" id={`${modalId}InputScheduled`} aria-describedby={`${modalId}HelpScheduled`} name="scheduled" />
               <small id={`${modalId}HelpScheduled`} class="form-text text-muted">{t('label_help_scheduled')}</small>
             </div>
             <div class="form-group">
-              <label for={`${modalId}InputValue`}>{t('label_value')}</label>
+              <label for={`${modalId}InputValue`}>{t('label_donation')}</label>
               <input type="number" min="10.00" max="500" step="0.01" class="form-control" id={`${modalId}InputValue`} aria-describedby={`${modalId}valueHelp`} name="value" />
               <small id={`${modalId}valueHelp`} class="form-text text-muted">{t('label_help_value')}</small>
             </div>
             <div class="form-group">
-              <label for={`${modalId}InputNotes`}>{t('notes')}</label>
+              <label for={`${modalId}InputNotes`}>{t('label_notes')}</label>
               <input type="text" class="form-control" id={`${modalId}InputNotes`} aria-describedby={`${modalId}HelpNotes`} name="notes" />
               <small id={`${modalId}HelpNotes`} class="form-text text-muted">{t('label_help_notes')}</small>
             </div>
