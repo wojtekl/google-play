@@ -45,7 +45,7 @@ const Reader = () => {
     const postData = {
       tenant: tenant,
       type: "eucharystia",
-      today: '2025-12-24' // new Date().toISOString().split('T')[0]
+      today: new Date().toISOString().split('T')[0]
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       setCurrentWeek(response.data)
@@ -57,7 +57,7 @@ const Reader = () => {
     const postData = {
       tenant: tenant,
       type: "departure",
-      today: '2025-12-14' // new Date().toISOString().split('T')[0]
+      today: new Date().toISOString().split('T')[0]
     }
     axios.post('api/scheduled-week', postData, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       setDeparture(response.data)
@@ -203,6 +203,7 @@ const Reader = () => {
                     <th scope="col">{t('label_number')}</th>
                     <th scope="col">{t('label_city')}</th>
                     <th scope="col">{t('label_donation')}</th>
+                    <th scope="col">{t('label_date')}</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -215,6 +216,7 @@ const Reader = () => {
                       <td>{e.number}</td>
                       <td>{e.city}</td>
                       <td>{e.donation}</td>
+                      <td>{e.created}</td>
                     </tr>
                   )}
                 </tbody>
