@@ -11,8 +11,8 @@ const Settings = () => {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    const form = document.querySelector(`#form_settings`)
     
+    const form = document.querySelector(`#form_settings`)
     axios.post('api/settings', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
       console.debug(response.data)
     })
@@ -35,7 +35,7 @@ const Settings = () => {
       <h1 class="h2">{t('label_settings')}</h1>
       <div class="btn-toolbar mb-2 mb-md-0">
         <div class="btn-group me-2">
-          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i>}</button>
+          <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleDisabled}>{ disabled ? <i class="bi bi-unlock"></i> : <i class="bi bi-lock"></i> }</button>
         </div>
       </div>
     </div>
@@ -48,7 +48,7 @@ const Settings = () => {
         </div>
         <div class="mb-3 form-check">
           <input type="checkbox" class="form-check-input" id="settingsShowVisits" name="showVisits" />
-          <label class="form-check-label" for="settingsShowVisits">{t('label_show_visits')}</label>
+          <label class="form-check-label" for="settingsShowVisits">{t('label_showVisits')}</label>
         </div>
         {!disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button>}
       </fieldset>
