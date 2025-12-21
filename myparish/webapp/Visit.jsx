@@ -47,7 +47,7 @@ const Visit = () => {
             <td>{e.street}</td>
             <td>{e.number}</td>
             <td>{e.city}</td>
-            <td>{e.donation}</td>
+            <td><NumberFormatter value={e.donation} /></td>
             <td><DateFormatter timestamp={e.created} format="date" /></td>
             <td><button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" onClick={() => { setSelected(e['id']) }}><i class="bi bi-trash"></i></button></td>
           </tr>
