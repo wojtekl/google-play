@@ -53,6 +53,24 @@ const CurrentWeek = (props) => {
           <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleRefresh}>{t('label_refresh')}</button>
         </div>
       </div>
+      <div>
+        <div class="col-sm-6">
+          <label for="" class="form-label">{t('label_liczba_eucharystii')}</label>
+          <input type="text" class="form-control" />
+        </div>
+        <div class="col-sm-6">
+          <label for="" class="form-label">{t('label_')}</label>
+          <input type="text" class="form-control" />
+        </div>
+        <div class="col-sm-6">
+          <label for="" class="form-label">{t('label_')}</label>
+          <input type="text" class="form-control" />
+        </div>
+        <div class="col-sm-6">
+          <label for="" class="form-label">{t('label_')}</label>
+          <input type="text" class="form-control" />
+        </div>
+      </div>
     </div>
     <h2>{getTitle()}</h2>
     <div class="table-responsive small">
