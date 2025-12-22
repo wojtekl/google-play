@@ -53,7 +53,7 @@ const CurrentWeek = (props) => {
           <button type="button" class="btn btn-sm btn-outline-secondary" onClick={handleRefresh}>{t('label_refresh')}</button>
         </div>
       </div>
-      <div>
+      <div class="row">
         <div class="col-sm-6">
           <label for="" class="form-label">{t('label_liczba_eucharystii')}</label>
           <input type="text" class="form-control" />
