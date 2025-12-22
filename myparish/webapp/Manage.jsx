@@ -37,10 +37,10 @@ const Manage = () => {
   }
 
   const DisplayTab = () => {
-    if (!tenant) {
-      return <></>
+    if ('dashboardLink' === selectedTab) {
+      return <Dashboard />
     }
-    if ('currentWeekLink' === selectedTab) {
+    else if ('currentWeekLink' === selectedTab) {
       return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type="eucharystia" />
     }
     else if ('nextWeekLink' === selectedTab) {
@@ -63,7 +63,7 @@ const Manage = () => {
     else if ('settingsLink' === selectedTab) {
       return <Settings />
     }
-    return <Dashboard />
+    return <></>
   }
   
   return !tenant ? <></> : <>
