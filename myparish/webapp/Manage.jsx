@@ -37,6 +37,9 @@ const Manage = () => {
   }
 
   const DisplayTab = () => {
+    if (!tenant) {
+      return <></>
+    }
     if ('currentWeekLink' === selectedTab) {
       return <CurrentWeek date={ new Date().toISOString().split('T')[0] } type="eucharystia" />
     }
