@@ -6,6 +6,7 @@ const CurrentWeek = (props) => {
   const [refresh, setRefresh] = useState(true)
 
   const handleSelect = (event) => {
+    console.debug(event.target.id.split('-')[1])
     setSelected(event.target.id.split('-')[1])
   }
 
