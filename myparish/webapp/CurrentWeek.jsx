@@ -5,10 +5,7 @@ const CurrentWeek = (props) => {
   const [selected, setSelected] = useState()
   const [refresh, setRefresh] = useState(true)
 
-  const handleSelect = (event) => {
-    console.debug(event.target.id.split('-')[1])
-    setSelected(event.target.id.split('-')[1])
-  }
+  const handleSelect = (event) => {}
 
   const handleRefresh = () => {
     setRefresh(true)
@@ -95,8 +92,8 @@ const CurrentWeek = (props) => {
               <td><NumberFormatter value={e['value']} /></td>
               <td>{e['notes']}</td>
               <td>
-                <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" id={`scheduledEdit-${e['id']}`} onClick={handleSelect}><i class="bi bi-pencil-square"></i></button>
-                <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" id={`scheduledDelete-${e['id']}`} onClick={handleSelect}><i class="bi bi-trash"></i></button>
+                <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editScheduledModal" onClick={ () => { setSelected(e['id']) } }><i class="bi bi-pencil-square"></i></button>
+                <button type="button" class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#confirmModal" onClick={ () => { setSelected(e['id']) } }><i class="bi bi-trash"></i></button>
               </td>
             </tr>
           })}
