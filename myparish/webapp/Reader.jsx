@@ -245,8 +245,8 @@ const Reader = () => {
                   <input type="text" id="bookFirstname" class="form-control" placeholder="" name="firstname" />
                 </div>
                 <div class="mb-3">
-                  <label for="bookLastname" class="form-label">{t('label_lastname')}</label>
-                  <input type="text" id="bookLastname" class="form-control" placeholder="" name="lastname" />
+                  <label for="bookSurname" class="form-label">{t('label_surname')}</label>
+                  <input type="text" id="bookSurname" class="form-control" placeholder="" name="surname" />
                 </div>
                 <div class="mb-3">
                   <label for="bookStreet" class="form-label">{t('label_street')}</label>
