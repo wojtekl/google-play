@@ -32,5 +32,10 @@
       "types": "image/png"
     }
   ],
-  "prefer_related_applications": false
+  "prefer_related_applications": false,
+  "url_handlers": [
+    {
+      "origin": "https://parafia.wlap.pl"
+    }
+  ]
 }
