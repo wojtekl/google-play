@@ -16,7 +16,7 @@ async function networkFirst(request) {
 
 self.addEventListener("fetch", (event) => {
   const url = new URL(event.request.url);
-  if ("GET" === event.request.method) {
+  if (/api/.test(url.pathname)/* "GET" === event.request.method */) {
     event.respondWith(networkFirst(event.request));
   }
 });
