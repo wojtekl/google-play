@@ -32,6 +32,18 @@ const Reader = () => {
     return false
   }
 
+  const handleBook = (event) => {
+    event.preventDefault()
+
+    const form = document.querySelector(`#form_book`)
+    axios.post('api/visit-cd', form, { headers: { 'Content-Type': 'multipart/form-data' }}).then((response) => {
+      form.reset()
+      console.debug(response.data)
+    })
+    
+    return false
+  }
+
   useEffect(() => {
     const searchParams = new URLSearchParams()
     searchParams.append('tenant', tenant)
@@ -224,6 +236,37 @@ const Reader = () => {
             </div>
           </AccordionItem>
           }
+          <AccordionItem id="book" parent="accordionExample">
+            <form id="form_book" enctype="multipart/form-data">
+              <fieldset>
+                <legend>{t('label_book')}</legend>
+                <div class="mb-3">
+                  <label for="bookFirstname" class="form-label">{t('label_firstname')}</label>
+                  <input type="text" id="bookFirstname" class="form-control" placeholder="" name="firstname" />
+                </div>
+                <div class="mb-3">
+                  <label for="bookLastname" class="form-label">{t('label_lastname')}</label>
+                  <input type="text" id="bookLastname" class="form-control" placeholder="" name="lastname" />
+                </div>
+                <div class="mb-3">
+                  <label for="bookStreet" class="form-label">{t('label_street')}</label>
+                  <input type="text" id="bookStreet" class="form-control" placeholder="" name="street" />
+                </div>
+                <div class="mb-3">
+                  <label for="bookNumber" class="form-label">{t('label_number')}</label>
+                  <input type="text" id="bookNumber" class="form-control" placeholder="" name="number" />
+                </div>
+                <div class="mb-3">
+                  <label for="bookCity" class="form-label">{t('label_city')}</label>
+                  <input type="text" id="bookCity" class="form-control" placeholder="" name="city" />
+                </div>
+                <div class="mb-3">
+                  <input type="hidden" id="orderTenant" class="form-control" placeholder="" name="tenant" value={tenant} />
+                </div>
+                <button type="submit" class="btn btn-primary" onClick={handleBook}>{t('label_submit')}</button>
+              </fieldset>
+            </form>
+          </AccordionItem>
         </div>
       </div>
     </main>
