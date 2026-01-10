@@ -35,7 +35,7 @@
   "prefer_related_applications": false,
   "url_handlers": [
     {
-      "origin": "https://parafia.wlap.pl"
+      "origin": "https://parafia.wlap.pl/"
     }
   ]
 }
