@@ -236,7 +236,7 @@ const Reader = () => {
             </div>
           </AccordionItem>
           }
-          <AccordionItem id="book" parent="accordionExample">
+          { !!settings?.showBooking && <AccordionItem id="book" parent="accordionExample">
             <form id="form_book" enctype="multipart/form-data">
               <fieldset>
                 <legend>{t('label_book')}</legend>
@@ -267,6 +267,7 @@ const Reader = () => {
               </fieldset>
             </form>
           </AccordionItem>
+          }
         </div>
       </div>
     </main>
