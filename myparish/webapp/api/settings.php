@@ -41,12 +41,13 @@
   function post($repository) {
     $schedule = trim($_POST["schedule"]);
     $showVisits = trim($_POST["showVisits"]) ? 1 : 0;
+    $showBooking = trim($_POST["showBooking"]) ? 1 : 0;
     $tenant = $_SESSION["tenant"];
-    if (!isset($tenant) || !isset($schedule) || !isset($showVisits)) {
+    if (!isset($tenant) || !isset($schedule) || !isset($showVisits) || !isset($showBooking)) {
       pot();
     }
 
-    $result = $repository -> updateSettings($schedule, $showVisits, $tenant);
+    $result = $repository -> updateSettings($schedule, $showVisits, $showBooking, $tenant);
     echo(!!$result);
   }
 
