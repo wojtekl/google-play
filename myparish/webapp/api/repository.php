@@ -127,7 +127,7 @@ class Repository {
   }
   
   public function readSettings($tenant) {
-    $statement = $this -> sql -> prepare("SELECT `ID`, `SCHEDULE`, `SHOWVISITS` FROM `SETTINGS` WHERE `TENANT` = :tenant");
+    $statement = $this -> sql -> prepare("SELECT `ID`, `SCHEDULE`, `SHOWVISITS`, `SHOWBOOKING` FROM `SETTINGS` WHERE `TENANT` = :tenant");
     
     $statement -> bindParam(":tenant", $tenant);
     
