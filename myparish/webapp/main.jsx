@@ -20,7 +20,6 @@ if ('serviceWorker' in navigator) {
 
 let installPrompt = null;
 window.addEventListener("beforeinstallprompt", (event) => {
-  event.preventDefault();
   installPrompt = event;
 });
 
@@ -77,8 +76,8 @@ root.render(<Provider store={store}>
       <Route path="news" element={<News />} />
       <Route path="manage" element={<Manage />} />
       <Route path="signin" element={<Signin />} />
-      <Route path=":tenant" element={<Reader />} />
       <Route path="password" element={<Password />} />
+      <Route path=":tenant" element={<Reader />} />
     </Routes>
   </Router>
 </Provider>)
