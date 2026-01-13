@@ -8,6 +8,10 @@ class NewsInner extends React.PureComponent {
 
     const selected = clients.clients.find(i => i.name === store.getState().value)
 
+    const handleInstall = () => {
+      installPrompt.prompt()
+    }
+
     return <>
       <Navbar expand="md">
         <Container>
@@ -20,7 +24,7 @@ class NewsInner extends React.PureComponent {
               <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
               <Nav.Link href="https://wlap.pl/" rel="author">{t('nav_aboutus')}</Nav.Link>
               <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://wlap.pl/howto/">{t('nav_install')}</Nav.Link>
+              <Nav.Link onClick={handleInstall}>{t('nav_install')}</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
