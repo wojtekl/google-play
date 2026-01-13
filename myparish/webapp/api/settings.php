@@ -34,7 +34,7 @@
     }
     
     $e = ($repository -> readSettings($tenant))[0];
-    $toJson = "{\"schedule\": \"${e["SCHEDULE"]}\", \"showVisits\": ${e["SHOWVISITS"]}}";
+    $toJson = "{\"schedule\": \"${e["SCHEDULE"]}\", \"showVisits\": ${e["SHOWVISITS"]}, \"showBooking\": ${e["SHOWBOOKING"]}}";
     echo($toJson);
   }
 
