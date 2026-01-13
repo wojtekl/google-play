@@ -134,6 +134,7 @@ const resources = {
       "label_nodate": "Brak daty",
       "label_schedule": "Godziny sprawowania",
       "label_show_visit": "Wyświetlaj wizyty duszpasterskie",
+      "label_show_booking": "Wyświetlaj zaproszenia na wizytę duszpasterską",
       "label_firstname": "Imię",
       "label_surname": "Nazwisko",
       "label_donation": "Ofiara",
