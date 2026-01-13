@@ -9,7 +9,7 @@ const Manage = () => {
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
-      if (!response.data) {
+      if (!response.data || response.data.length > 99 || response.data.includes(';')) {
         store.dispatch({ type: 'tenant/set', payload: undefined })
         setTenant(undefined)
         navigate('/signin')
