@@ -12,7 +12,7 @@ const Signin = () => {
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
-      if (response.data && response.data.length < 256) {
+      if (response.data && !response.data.includes(';')) {
         store.dispatch({ type: 'tenant/set', payload: response.data })
         navigate('/manage')
       }
