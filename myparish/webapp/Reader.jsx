@@ -82,7 +82,7 @@ const Reader = () => {
     searchParams.append('tenant', tenant)
     axios.get(`api/settings?${searchParams.toString()}`).then((response) => {
       setSettings(response.data)
-      console.debug(response.data)
+      console.debug(settings?.showBooking)
     })
   }, [tenant])
 
