@@ -7,10 +7,6 @@ class AppInner extends React.PureComponent {
     selected: clients.clients.find(i => i.name === store.getState().value)
   }
 
-  handleInstall = () => {
-    installPrompt.prompt()
-  }
-
   getList = () => {
     const dayOfMonth = new Date().getDate()
     const month = new Date().getMonth() + 1
@@ -45,6 +41,10 @@ class AppInner extends React.PureComponent {
     const { selected } = this.state
 
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
+
+    const handleInstall = () => {
+      installPrompt.prompt()
+    }
 
     return <>
       <Navbar expand="md">
