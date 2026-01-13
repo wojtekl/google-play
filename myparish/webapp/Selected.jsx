@@ -14,6 +14,10 @@ const Selected = React.memo(() => {
     navigate(-1)
   }
 
+  const handleInstall = () => {
+    installPrompt.prompt()
+  }
+
   const handleSelect = () => {
     store.dispatch({ type: 'selected/added', payload: name })
   }
@@ -40,7 +44,7 @@ const Selected = React.memo(() => {
             <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
             <Nav.Link href="https://wlap.pl/" rel="author">{t('nav_aboutus')}</Nav.Link>
             <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
-            <Nav.Link href="https://wlap.pl/howto/">{t('nav_install')}</Nav.Link>
+            <Nav.Link onClick={handleInstall}>{t('nav_install')}</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
