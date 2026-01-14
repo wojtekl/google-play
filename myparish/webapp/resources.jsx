@@ -93,6 +93,7 @@ const resources = {
       "label_password": "Hasło",
       "label_remember_me": "Zapamiętaj",
       "label_sign_in": "Zaloguj",
+      "label_signin_failure": "Niepoprawne hasło lub nazwa parafii!",
       "label_dashboard": "Kontakt",
       "label_street": "Ulica",
       "label_number": "Numer domu",
