@@ -40,11 +40,11 @@ const Selected = React.memo(() => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
+            <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
             <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
             <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
-            <Nav.Link href="https://wlap.pl/" rel="author">{t('nav_aboutus')}</Nav.Link>
-            <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
             <Nav.Link onClick={handleInstall}>{t('nav_install')}</Nav.Link>
+            <Nav.Link href="#/manage">{t('nav_manage')}</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
