@@ -1,12 +1,19 @@
 const Signin = () => {
   const navigate = useNavigate()
   const { t } = useTranslation()
+  const [signinFailure, setSigninFailure] = useState(false)
 
   const handleSubmit = (event) => {
     event.preventDefault()
+    setSigninFailure(false)
     const form = document.querySelector('#form_submit')
     axios.post('api/signin', form).then((response) => {
-      navigate('/manage')
+      if (response.data.length > 0) {
+        navigate('/manage')
+      }
+      else {
+        setSigninFailure(true)
+      }
     })
   }
 
@@ -24,10 +31,11 @@ const Signin = () => {
     <div class="alert alert-success" role="alert">
       <h4 class="alert-heading">{t('label_try_title')}</h4>
       <p>{t('label_try_description')}</p>
-      <hr>
+      <hr />
       <p class="mb-0">{t('label_try_footer')}</p>
     </div>
     <main class="form-signin w-100 m-auto" style={{maxWidth: '330px', padding: '1rem'}}>
+      {signinFailure && <div class="alert alert-danger" role="alert">{t('label_signin_failure')}</div>}
       <form id="form_submit"  onSubmit={handleSubmit}>
         <h1 class="h3 mb-3 fw-normal">{t('label_please_sign_in')}</h1>
         <div class="form-floating">
