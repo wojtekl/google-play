@@ -35,6 +35,7 @@ class NewsInner extends React.PureComponent {
           <ListGroup.Item action href="https://www.gosc.pl/mobile" rel="external">Gość Niedzielny</ListGroup.Item>
           <ListGroup.Item action href="https://rycerzniepokalanej.pl/" rel="external">Rycerz Niepokalanej</ListGroup.Item>
           <ListGroup.Item action href="https://biblia.deon.pl/" rel="external">Biblia Tysiąclecia</ListGroup.Item>
+          <ListGroup.Item action href="https://cennik.wlap.pl/" rel="external">Historia cen produktów spożywczych w marketach</ListGroup.Item>
         </ListGroup>
       </Container>
     </>
