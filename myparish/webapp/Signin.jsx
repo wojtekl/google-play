@@ -28,13 +28,13 @@ const Signin = () => {
   }, [])
   
   return <div class="d-flex align-items-center py-4 bg-body-tertiary">
-    <div class="alert alert-success" role="alert">
-      <h4 class="alert-heading">{t('label_try_title')}</h4>
-      <p>{t('label_try_description')}</p>
-      <hr />
-      <p class="mb-0">{t('label_try_footer')}</p>
-    </div>
     <main class="form-signin w-100 m-auto" style={{maxWidth: '330px', padding: '1rem'}}>
+      <div class="alert alert-info" role="alert">
+        <h4 class="alert-heading">{t('label_try_title')}</h4>
+        <p>{t('label_try_description')}</p>
+        <hr />
+        <p class="mb-0">{t('label_try_footer')}</p>
+      </div>
       {signinFailure && <div class="alert alert-danger" role="alert">{t('label_signin_failure')}</div>}
       <form id="form_submit"  onSubmit={handleSubmit}>
         <h1 class="h3 mb-3 fw-normal">{t('label_please_sign_in')}</h1>
