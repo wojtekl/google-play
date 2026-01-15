@@ -15,7 +15,12 @@ const Selected = React.memo(() => {
   }
 
   const handleInstall = () => {
-    installPrompt.prompt()
+    if (installPrompt) {
+      installPrompt.prompt()
+    }
+    else {
+      navigate('https://wlap.pl/howto/')
+    }
   }
 
   const handleSelect = () => {
