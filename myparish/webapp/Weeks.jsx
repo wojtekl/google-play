@@ -1,4 +1,4 @@
-const Weeks = () => {
+const Weeks = React.memo(() => {
   const { t } = useTranslation()
   const [selectedWeek, setSelectedWeek] = useState()
 
@@ -60,4 +60,4 @@ const Weeks = () => {
       </table>
     </div>
   </>
-}
+})
