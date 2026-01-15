@@ -1,4 +1,4 @@
-const VisitModal = (props) => {
+const VisitModal = React.memo((props) => {
   const { t } = useTranslation()
   const { modalId } = props
 
@@ -62,4 +62,4 @@ const VisitModal = (props) => {
       </div>
     </div>
   </div>
-}
+})
