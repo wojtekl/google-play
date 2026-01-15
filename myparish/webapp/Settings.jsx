@@ -1,4 +1,4 @@
-const Settings = () => {
+const Settings = React.memo(() => {
   const { t } = useTranslation()
 
   const [tenant, setTenant] = useState(store.getState().tenant)
@@ -64,4 +64,4 @@ const Settings = () => {
       </fieldset>
     </form>
   </>
-}
+})
