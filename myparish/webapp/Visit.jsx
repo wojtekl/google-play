@@ -1,4 +1,4 @@
-const Visit = () => {
+const Visit = React.memo(() => {
   const { t } = useTranslation()
   const [tenant, setTenant] = useState(store.getState().tenant)
   const [donations, setDonations] = useState([])
@@ -63,4 +63,4 @@ const Visit = () => {
         setRefresh(true)
     })}} />
   </>
-}
+})
