@@ -1,4 +1,4 @@
-const ConfirmModal = (props) => {
+const ConfirmModal = React.memo((props) => {
   const { t } = useTranslation()
   const { title, onOk } = props
   
@@ -19,4 +19,4 @@ const ConfirmModal = (props) => {
       </div>
     </div>
   </div>
-}
+})
