@@ -36,14 +36,19 @@ class AppInner extends React.PureComponent {
   }
 
   render() {
-    const { t } = this.props
+    const { t, navigate } = this.props
 
     const { selected } = this.state
 
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
 
     const handleInstall = () => {
-      installPrompt.prompt()
+      if (installPrompt) {
+        installPrompt.prompt()
+      }
+      else {
+        navigate('https://wlap.pl/howto/')
+      }
     }
 
     return <>
