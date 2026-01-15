@@ -1,4 +1,4 @@
-const Signin = () => {
+const Signin = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
   const [signinFailure, setSigninFailure] = useState(false)
@@ -55,4 +55,4 @@ const Signin = () => {
       </form>
     </main>
   </div>
-}
+})
