@@ -3,6 +3,10 @@
   header("Access-Control-Allow-Headers: Content-Type");
   header("Content-Type: application/json");
 
+  if (!isset($_SESSION)) {
+    session_start();
+  }
+
   $address = strtolower(trim($_SERVER['REMOTE_ADDR']));
 
   require "./repository.php";
@@ -26,7 +30,7 @@
     }
     
     $e = ($repository -> readContact($tenant))[0];
-    $toJson = "{\"description\": \"${e["DESCRIPTION"]}\", \"street\": \"${e["STREET"]}\", \"number\": \"${e["NUMBER"]}\", \"city\": \"${e["CITY"]}\", \"postalcode\": \"${e["POSTALCODE"]}\", \"state\": \"${e["STATE"]}\", \"country\": \"${e["COUNTRY"]}\", \"email\":\"${e["EMAIL"]}\", \"phone\": \"${e["PHONE"]}\"}";
+    $toJson = "{\"description\": \"${e["DESCRIPTION"]}\", \"street\": \"${e["STREET"]}\", \"number\": \"${e["NUMBER"]}\", \"city\": \"${e["CITY"]}\", \"postalcode\": \"${e["POSTALCODE"]}\", \"state\": \"${e["STATE"]}\", \"country\": \"${e["COUNTRY"]}\", \"email\":\"${e["EMAIL"]}\", \"phone\": \"${e["PHONE"]}\", \"iban\": \"${e["IBAN"]}\"}";
     echo($toJson);
   }
 
@@ -38,12 +42,13 @@
     $postalcode = trim($_POST["postalcode"]);
     $email = trim($_POST["email"]);
     $phone = trim($_POST["phone"]);
+    $iban = trim($_POST["iban"]);
     $tenant = $_SESSION["tenant"];
-    if (!isset($tenant) || !isset($description) || !isset($street) || !isset($number) || !isset($city) || !isset($postalcode) || !isset($email) || !isset($phone)) {
+    if (!isset($tenant) || !isset($description) || !isset($street) || !isset($number) || !isset($city) || !isset($postalcode) || !isset($email) || !isset($phone) || !isset($iban)) {
       pot();
     }
 
-    $result = $repository -> updateContact($description, $street, $number, $city, $postalcode, $email, $phone, $tenant);
+    $result = $repository -> updateContact($description, $street, $number, $city, $postalcode, $email, $phone, $iban, $tenant);
     echo($result[0]);
   }
 
