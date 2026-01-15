@@ -105,6 +105,7 @@ const Reader = () => {
               <p class="text-body-secondary">{`${contact?.street} ${contact?.number}`}</p>
               <p class="text-body-secondary">{`${contact?.city} ${contact?.postalcode}`}</p>
               <p class="text-body-secondary">{`${t('label_phone')}: ${contact?.phone}`}</p>
+              <p class="text-body-secondary">{`${t('label_iban')}: ${contact?.iban}`}</p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
               <h4>{t('label_contact_subtitle')}</h4>
