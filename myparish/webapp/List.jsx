@@ -76,7 +76,12 @@ const List = React.memo(() => {
   }
 
   const handleInstall = () => {
-    installPrompt.prompt()
+    if (installPrompt) {
+      installPrompt.prompt()
+    }
+    else {
+      window.location.href = 'https://wlap.pl/howto/'
+    }
   }
 
   return <>
