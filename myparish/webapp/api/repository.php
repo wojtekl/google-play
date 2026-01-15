@@ -109,15 +109,15 @@ class Repository {
   }
     
   public function readContact($tenant) {
-    $statement = $this -> sql -> prepare("SELECT `ID`, `STREET`, `NUMBER`, `CITY`, `POSTALCODE`, `STATE`, `COUNTRY`, `EMAIL`, `PHONE`, `DESCRIPTION` FROM `CONTACT` WHERE `TENANT` = :tenant");
+    $statement = $this -> sql -> prepare("SELECT `ID`, `STREET`, `NUMBER`, `CITY`, `POSTALCODE`, `STATE`, `COUNTRY`, `EMAIL`, `PHONE`, `IBAN`, `DESCRIPTION` FROM `CONTACT` WHERE `TENANT` = :tenant");
     
     $statement -> bindParam(":tenant", $tenant);
     
     return $this -> execute($statement);
   }
   
-  public function updateContact($description, $street, $number, $city, $postalcode, $email, $phone, $tenant) {
-    $statement = $this -> sql -> prepare("UPDATE `CONTACT` SET `DESCRIPTION` = :description, `STREET` = :street, `NUMBER` = :number, `CITY` = :city, `POSTALCODE` = :postalcode, `EMAIL` = :email, `PHONE` = :phone WHERE `TENANT` = :tenant;");
+  public function updateContact($description, $street, $number, $city, $postalcode, $email, $phone, $iban, $tenant) {
+    $statement = $this -> sql -> prepare("UPDATE `CONTACT` SET `DESCRIPTION` = :description, `STREET` = :street, `NUMBER` = :number, `CITY` = :city, `POSTALCODE` = :postalcode, `EMAIL` = :email, `PHONE` = :phone, `IBAN` = :iban WHERE `TENANT` = :tenant;");
     
     $statement -> bindParam(":description", $description);
     $statement -> bindParam(":street", $street);
@@ -126,6 +126,7 @@ class Repository {
     $statement -> bindParam(":postalcode", $postalcode);
     $statement -> bindParam(":email", $email);
     $statement -> bindParam(":phone", $phone);
+    $statement -> bindParam(":iban", $iban);
     $statement -> bindParam(":tenant", $tenant);
     
     return $this -> execute($statement);
