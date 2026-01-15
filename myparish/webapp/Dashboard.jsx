@@ -1,4 +1,4 @@
-const Dashboard = () => {
+const Dashboard = React.memo(() => {
   const { t } = useTranslation()
   
   const [tenant, setTenant] = useState(store.getState().tenant)
@@ -84,4 +84,4 @@ const Dashboard = () => {
       </fieldset>
     </form>
   </>
-}
+})
