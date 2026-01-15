@@ -1,4 +1,4 @@
-const Password = () => {
+const Password = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
   
@@ -39,4 +39,4 @@ const Password = () => {
       </form>
     </main>
   </div>
-}
+})
