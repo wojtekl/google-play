@@ -1,4 +1,4 @@
-const Modal = (props) => {
+const Modal = React.memo((props) => {
   const { t } = useTranslation()
   const { modalId, itemId, type } = props
 
@@ -79,4 +79,4 @@ const Modal = (props) => {
       </div>
     </div>
   </div>
-}
+})
