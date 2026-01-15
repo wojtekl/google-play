@@ -9,7 +9,12 @@ class NewsInner extends React.PureComponent {
     const selected = clients.clients.find(i => i.name === store.getState().value)
 
     const handleInstall = () => {
-      installPrompt.prompt()
+      if (installPrompt) {
+        installPrompt.prompt()
+      }
+      else {
+        window.location.href = 'https://wlap.pl/howto/'
+      }
     }
 
     return <>
