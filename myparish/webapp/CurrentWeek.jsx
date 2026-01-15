@@ -1,4 +1,4 @@
-const CurrentWeek = (props) => {
+const CurrentWeek = React.memo((props) => {
   const { t } = useTranslation()
   const { date, type } = props
   const [currentWeek, setCurrentWeek] = useState([])
@@ -108,4 +108,4 @@ const CurrentWeek = (props) => {
         handleRefresh()
     })}} />
   </>
-}
+})
