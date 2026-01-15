@@ -80,7 +80,7 @@ const List = React.memo(() => {
       installPrompt.prompt()
     }
     else {
-      window.location.href = 'https://wlap.pl/howto/'
+      navigate('https://wlap.pl/howto/')
     }
   }
 
