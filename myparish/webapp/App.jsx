@@ -42,31 +42,8 @@ class AppInner extends React.PureComponent {
 
     const mapDiv = React.createElement('div', { id: "map", style: { width: "100%", height: "100%" } })
 
-    const handleInstall = () => {
-      if (installPrompt) {
-        installPrompt.prompt()
-      }
-      else {
-        window.location.href = 'https://wlap.pl/howto/'
-      }
-    }
-
     return <>
-      <Navbar expand="md">
-        <Container>
-          <Navbar.Brand><img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
-              {selected && <Nav.Link href={`#/selected/${selected.name}`}>{t('nav_your')}</Nav.Link>}
-              <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
-              <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
-              <Nav.Link onClick={handleInstall}>{t('nav_install')}</Nav.Link>
-              <Nav.Link href="#/manage">{t('nav_manage')}</Nav.Link>
-            </Nav>
-          </Navbar.Collapse>
-        </Container>
-      </Navbar>
+      <Navi current="map" />
       <Container style={{ height: "calc(100vh - 59px)" }}>{mapDiv}</Container>
     </>
   }
