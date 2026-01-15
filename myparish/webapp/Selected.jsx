@@ -39,21 +39,7 @@ const Selected = React.memo(() => {
   const saved = name === store.getState().value
 
   return (<>
-    <Navbar expand="md">
-      <Container>
-        <Navbar.Brand><img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
-            <Nav.Link href="#/">{t('nav_map')}</Nav.Link>
-            <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>
-            <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>
-            <Nav.Link onClick={handleInstall}>{t('nav_install')}</Nav.Link>
-            <Nav.Link href="#/manage">{t('nav_manage')}</Nav.Link>
-          </Nav>
-        </Navbar.Collapse>
-      </Container>
-    </Navbar>
+    <Navi current="selected" />
     <Container>
       <Breadcrumb>
         <Breadcrumb.Item><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></Breadcrumb.Item>
