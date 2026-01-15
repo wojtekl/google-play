@@ -1,6 +1,6 @@
 const useEffect = React.useEffect
 
-const Manage = () => {
+const Manage = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
   
@@ -156,4 +156,4 @@ const Manage = () => {
     <Modal modalId="newDepartureModal" type="departure" />
     <VisitModal modalId="newVisitModal" />
   </>
-}
+})
