@@ -36,7 +36,7 @@ class AppInner extends React.PureComponent {
   }
 
   render() {
-    const { t, navigate } = this.props
+    const { t } = this.props
 
     const { selected } = this.state
 
@@ -47,7 +47,7 @@ class AppInner extends React.PureComponent {
         installPrompt.prompt()
       }
       else {
-        navigate('https://wlap.pl/howto/')
+        window.location.href = 'https://wlap.pl/howto/'
       }
     }
 
