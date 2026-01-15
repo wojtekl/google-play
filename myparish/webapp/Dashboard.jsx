@@ -5,6 +5,22 @@ const Dashboard = () => {
   const [contact, setContact] = useState()
   const [disabled, setDisabled] = useState(true)
 
+  useEffect(() => {
+    const searchParams = new URLSearchParams()
+    searchParams.append('tenant', tenant)
+    axios.get(`api/contact?${searchParams.toString()}`).then((response) => {
+      setContact(response.data)
+      document.getElementById('contactDescription').value = response.data.description
+      document.getElementById('contactStreet').value = response.data.street
+      document.getElementById('contactNumber').value = response.data.number
+      document.getElementById('contactCity').value = response.data.city
+      document.getElementById('contactPostalcode').value = response.data.postalcode
+      document.getElementById('contactEmail').value = response.data.email
+      document.getElementById('contactPhone').value = response.data.phone
+      document.getElementById('contactIban').value = response.data.iban
+    })
+  }, [tenant])
+
   const handleDisabled = () => {
     setDisabled(!disabled)
   }
@@ -19,21 +35,6 @@ const Dashboard = () => {
     
     return false
   }
-
-  useEffect(() => {
-    const searchParams = new URLSearchParams()
-    searchParams.append('tenant', tenant)
-    axios.get(`api/contact?${searchParams.toString()}`).then((response) => {
-      setContact(response.data)
-      document.getElementById('contactDescription').value = response.data.description
-      document.getElementById('contactStreet').value = response.data.street
-      document.getElementById('contactNumber').value = response.data.number
-      document.getElementById('contactCity').value = response.data.city
-      document.getElementById('contactPostalcode').value = response.data.postalcode
-      document.getElementById('contactEmail').value = response.data.email
-      document.getElementById('contactPhone').value = response.data.phone
-    })
-  }, [tenant])
   
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
@@ -74,6 +75,10 @@ const Dashboard = () => {
         <div class="mb-3">
           <label for="contactPhone" class="form-label">{t('label_phone')}</label>
           <input type="tel" id="contactPhone" class="form-control" placeholder={contact?.phone} name="phone" />
+        </div>
+        <div class="mb-3">
+          <label for="contactIban" class="form-label">{t('label_iban')}</label>
+          <input type="text" id="contactIban" class="form-control" maxlength="28" placeholder={contact?.iban} name="iban" />
         </div>
         { !disabled && <button type="submit" class="btn btn-primary" onClick={handleSubmit}>{t('label_submit')}</button> }
       </fieldset>
