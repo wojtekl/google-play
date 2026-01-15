@@ -1,7 +1,7 @@
 const useParams = ReactRouterDOM.useParams
 const useEffect = React.useEffect
 
-const Reader = () => {
+const Reader = React.memo(() => {
   const { t } = useTranslation()
   const { tenant } = useParams()
   const [currentWeek, setCurrentWeek] = useState([])
@@ -282,4 +282,4 @@ const Reader = () => {
       </div>
     </footer>
   </>
-}
+})
