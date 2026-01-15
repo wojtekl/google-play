@@ -71,6 +71,7 @@ const resources = {
       "label_contact_title": "Kontakt",
       "label_contact_subtitle": "",
       "label_phone": "Telefon",
+      "label_iban": "IBAN",
       "label_emailus": "Napisz",
       "label_tenant": "Parafia",
       "label_toggle_navigation": "Nawigacja",
