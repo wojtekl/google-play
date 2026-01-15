@@ -14,15 +14,6 @@ const Selected = React.memo(() => {
     navigate(-1)
   }
 
-  const handleInstall = () => {
-    if (installPrompt) {
-      installPrompt.prompt()
-    }
-    else {
-      navigate('https://wlap.pl/howto/')
-    }
-  }
-
   const handleSelect = () => {
     store.dispatch({ type: 'selected/added', payload: name })
   }
