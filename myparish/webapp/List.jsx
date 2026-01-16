@@ -2,7 +2,7 @@ const List = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
 
-  const dayOfMonth = new Date().getDate()
+  /*const dayOfMonth = new Date().getDate()
   const month = new Date().getMonth() + 1
   const isSunday = (0 === new Date().getDay()) || (1 === month && (1 === dayOfMonth || 6 === dayOfMonth)) || (11 === month && 1 === dayOfMonth) || (12 === month && (25 === dayOfMonth || 26 === dayOfMonth)) ? true : false
 
@@ -24,7 +24,8 @@ const List = React.memo(() => {
       live: !!i.live,
       incoming: incoming.trim()
     }
-  })
+  })*/
+  const all = useGetClients()
 
   const selected = clients.clients.find(i => i.name === store.getState().value)
 
