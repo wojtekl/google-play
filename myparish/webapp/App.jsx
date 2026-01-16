@@ -44,7 +44,7 @@ class AppInner extends React.PureComponent {
 
     return <>
       <Navi current="map" />
-      <Container style={{ height: "calc(100vh - 59px)" }}>{mapDiv}</Container>
+      <div class="container" style={{ height: "calc(100vh - 59px)" }}>{mapDiv}</div>
     </>
   }
 
