@@ -12,14 +12,14 @@ const useTranslation = ReactI18next.useTranslation
 const ListGroup = ReactBootstrap.ListGroup
 
 
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('/sw.js')
-}
-
-var installPrompt = null;
+let installPrompt = null;
 window.addEventListener("beforeinstallprompt", (event) => {
   installPrompt = event;
 });
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js')
+}
 
 const state = localStorage.getItem('redux')
 const initialState = !state ? {
@@ -43,7 +43,10 @@ const selectedReducer = (state = initialState, action) => {
   }
 }
 
-const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? initialState.lang ?? navigator.language.substring(0, 2).toLocaleLowerCase()
+const store = Redux.createStore(selectedReducer)
+store.subscribe(() => { localStorage.setItem('redux', JSON.stringify(store.getState())) })
+
+const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? initialState.lang
 i18next.use(initReactI18next).init({
   resources: resources,
   lng: lang,
@@ -52,9 +55,6 @@ i18next.use(initReactI18next).init({
     escapeValue: false
   }
 })
-
-const store = Redux.createStore(selectedReducer)
-store.subscribe(() => { localStorage.setItem('redux', JSON.stringify(store.getState())) })
 store.dispatch({ type: 'lang/set', payload: lang })
 
 const container = document.getElementById('root')
