@@ -18,7 +18,7 @@ window.addEventListener("beforeinstallprompt", (event) => {
 });
 
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('https://raw.githubusercontent.com/wojtekl/google-play/main/myparish/webapp/sw.js')
+  navigator.serviceWorker.register('/sw.js')
 }
 
 const state = localStorage.getItem('redux')
