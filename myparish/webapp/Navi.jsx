@@ -9,6 +9,7 @@ const Navi = React.memo((props) => {
   const selected = clients.clients.find(i => i.name === store.getState().value)
 
   const handleInstall = () => {
+    alert(installPrompt)
     if (installPrompt) {
       installPrompt.prompt()
     }
