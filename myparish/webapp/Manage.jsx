@@ -1,5 +1,3 @@
-const useEffect = React.useEffect
-
 const Manage = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
