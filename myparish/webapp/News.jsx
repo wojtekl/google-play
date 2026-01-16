@@ -5,7 +5,7 @@ const News = React.memo((props) => {
   
   return <>
     <Navi current="news" />
-    <Container>
+    <div class="container">
       <ListGroup>
         <ListGroup.Item action href="https://m.niedziela.pl/" rel="external">Niedziela</ListGroup.Item>
         <ListGroup.Item action href="https://www.gosc.pl/mobile" rel="external">Gość Niedzielny</ListGroup.Item>
@@ -15,6 +15,6 @@ const News = React.memo((props) => {
         <ListGroup.Item action href="https://wlap.pl/" rel="author">{t('nav_aboutus')}</ListGroup.Item>
         <ListGroup.Item action href="https://cennik.wlap.pl/" rel="external">Historia cen produktów spożywczych w marketach</ListGroup.Item>
       </ListGroup>
-    </Container>
+    </div>
   </>
 })
