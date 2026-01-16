@@ -14,7 +14,7 @@ const Navi = React.memo((props) => {
       installPrompt.prompt()
     }
     else {
-      navigate('https://wlap.pl/howto/')
+      window.location.href = 'https://wlap.pl/howto/'
     }
   }
 
