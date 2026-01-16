@@ -77,7 +77,7 @@ const List = React.memo(() => {
 
   return <>
     <Navi current="list" />
-    <Container>
+    <div class="container">
       <form class="form-inline my-2">
         <input class="form-control mr-sm-2" type="search" name="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={handleFilter} />
         <div class="form-check form-switch">
@@ -92,6 +92,6 @@ const List = React.memo(() => {
       <ListGroup>
         {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)} className="d-flex justify-content-between align-tems-start"><div className="ms-2 me-auto">{i.name}</div><Badge bg={i.live ? 'danger' : 'primary'} pill>{i.incoming}</Badge></ListGroup.Item>)}
       </ListGroup>
-    </Container>
+    </div>
   </>
 })
