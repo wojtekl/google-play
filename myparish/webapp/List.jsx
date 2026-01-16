@@ -1,8 +1,3 @@
-const useState = React.useState
-
-const Badge = ReactBootstrap.Badge
-
-
 const List = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
@@ -90,7 +85,7 @@ const List = React.memo(() => {
         </div>
       </form>
       <ListGroup>
-        {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)} className="d-flex justify-content-between align-tems-start"><div className="ms-2 me-auto">{i.name}</div><Badge bg={i.live ? 'danger' : 'primary'} pill>{i.incoming}</Badge></ListGroup.Item>)}
+        {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)} className="d-flex justify-content-between align-tems-start"><div className="ms-2 me-auto">{i.name}</div><span class={`badge badge-${i.live ? 'danger' : 'primary'}`}>{i.incoming}</span></ListGroup.Item>)}
       </ListGroup>
     </div>
   </>
