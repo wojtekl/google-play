@@ -6,19 +6,14 @@ const Provider = ReactRedux.Provider
 const initReactI18next = ReactI18next.initReactI18next
 const useTranslation = ReactI18next.useTranslation
 
-const Container = ReactBootstrap.Container
-const Image = ReactBootstrap.Image
 const ListGroup = ReactBootstrap.ListGroup
-const Navbar = ReactBootstrap.Navbar
-const Nav = ReactBootstrap.Nav
-const Offcanvas = ReactBootstrap.Offcanvas
 
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/sw.js')
 }
 
-let installPrompt = null;
+var installPrompt = null;
 window.addEventListener("beforeinstallprompt", (event) => {
   installPrompt = event;
 });
