@@ -1,3 +1,7 @@
+const Navbar = ReactBootstrap.Navbar
+const Nav = ReactBootstrap.Nav
+
+
 const Navi = React.memo((props) => {
   const { t } = useTranslation()
   const { current } = props
@@ -15,7 +19,7 @@ const Navi = React.memo((props) => {
 
   return <>
     <Navbar expand="md">
-      <Container>
+      <div class="container">
         <Navbar.Brand><img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/myparish/MojaParafia/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
@@ -28,7 +32,7 @@ const Navi = React.memo((props) => {
             <Nav.Link href="#/manage">{t('nav_manage')}</Nav.Link>
           </Nav>
         </Navbar.Collapse>
-      </Container>
+      </div>
     </Navbar>
   </>
 })
