@@ -31,7 +31,7 @@ const Selected = React.memo(() => {
 
   return (<>
     <Navi current="selected" />
-    <Container>
+    <div class="container">
       <Breadcrumb>
         <Breadcrumb.Item><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></Breadcrumb.Item>
         {selected && <Breadcrumb.Item active>{selected.name}</Breadcrumb.Item>}
@@ -45,6 +45,6 @@ const Selected = React.memo(() => {
         <ListGroup.Item action href={`https://www.openstreetmap.org/directions?from=&to=${selected.latitude}%2C${selected.longitude}`} rel="external">{t('list_directions')}</ListGroup.Item>
         {!saved && <ListGroup.Item action onClick={handleSelect}>{t('list_select')}</ListGroup.Item>}
       </ListGroup> : <p>{t('label_missing')}</p>}
-    </Container>
+    </div>
   </>)
 })
