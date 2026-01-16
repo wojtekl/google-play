@@ -85,7 +85,7 @@ const List = React.memo(() => {
         </div>
       </form>
       <ListGroup>
-        {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)} className="d-flex justify-content-between align-tems-start"><div className="ms-2 me-auto">{i.name}</div><span class={`badge badge-${i.live ? 'danger' : 'primary'}`}>{i.incoming}</span></ListGroup.Item>)}
+        {filtered.map(i => <ListGroup.Item action onClick={() => handleClick(i.name)} className="d-flex justify-content-between align-tems-start"><div className="ms-2 me-auto">{i.name}</div><span class={`badge text-bg-${i.live ? 'danger' : 'primary'}`}>{i.incoming}</span></ListGroup.Item>)}
       </ListGroup>
     </div>
   </>
