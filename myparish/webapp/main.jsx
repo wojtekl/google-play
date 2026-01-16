@@ -1,4 +1,5 @@
 const useEffect = React.useEffect
+const useState = React.useState
 const Router = ReactRouterDOM.HashRouter
 const Routes = ReactRouterDOM.Routes
 const Route = ReactRouterDOM.Route
