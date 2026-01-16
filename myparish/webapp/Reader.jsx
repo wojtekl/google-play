@@ -1,6 +1,3 @@
-const useParams = ReactRouterDOM.useParams
-const useEffect = React.useEffect
-
 const Reader = React.memo(() => {
   const { t } = useTranslation()
   const { tenant } = useParams()
