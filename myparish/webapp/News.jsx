@@ -1,7 +1,7 @@
 const News = React.memo((props) => {
   const { t } = useTranslation()
   
-  const selected = clients.clients.find(i => i.name === store.getState().value)
+  //const selected = clients.clients.find(i => i.name === store.getState().value)
   
   return <>
     <Navi current="news" />
