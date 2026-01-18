@@ -7,6 +7,8 @@ class AppInner extends React.PureComponent {
     selected: clients.clients.find(i => i.name === store.getState().value)
   }
 
+  res = useGetClients()
+
   render() {
     const { t } = this.props
 
@@ -31,7 +33,7 @@ class AppInner extends React.PureComponent {
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright" rel="external">OpenStreetMap</a>'
     }).addTo(map)
 
-    const list = useGetClients()
+    const list = this.res
     const inactive = L.layerGroup(list.filter(i => !i.incoming).map(i => L
       .marker([i.latitude, i.longitude], { icon: markerDefault })
       .bindPopup(`<p>${i.name}</p><p>${i.incoming}</p><a href="#/selected/${i.name}"> ${t('see_link')} </a>`))).addTo(map)
