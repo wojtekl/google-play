@@ -1,9 +1,7 @@
 const List = React.memo(() => {
   const navigate = useNavigate()
   const { t } = useTranslation()
-  const all = useGetClients()
-
-  //const selected = clients.clients.find(i => i.name === store.getState().value)
+  const all = React.useMemo(() => useGetClients(), [])
 
   const [filtered, setFiltered] = useState(all)
   const [phrase, setPhrase] = useState('')
