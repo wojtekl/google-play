@@ -23,7 +23,7 @@ const useGetClients = () => {
       live: !!i.live,
       incoming: incoming.trim()
     }
-  }))
+  }), [])
 
   return result
 }
