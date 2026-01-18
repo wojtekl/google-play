@@ -41,7 +41,7 @@ const Selected = React.memo(() => {
         {selected.live && <a href={selected.live} rel="external" class="list-group-item list-group-item-action">{t('list_live')}</a>}
         <a href={`https://www.openstreetmap.org/directions?from=&to=${selected.latitude}%2C${selected.longitude}`} rel="external" class="list-group-item list-group-item-action">{t('list_directions')}</a>
         {!saved && <a onClick={handleSelect} class="list-group-item list-group-item-action">{t('list_select')}</a>}
-      </a> : <p>{t('label_missing')}</p>}
+      </div> : <p>{t('label_missing')}</p>}
     </div>
   </>)
 })
