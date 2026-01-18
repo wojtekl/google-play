@@ -9,8 +9,6 @@ const Provider = ReactRedux.Provider
 const initReactI18next = ReactI18next.initReactI18next
 const useTranslation = ReactI18next.useTranslation
 
-const ListGroup = ReactBootstrap.ListGroup
-
 
 let installPrompt = null;
 window.addEventListener("beforeinstallprompt", (event) => {
