@@ -1,9 +1,10 @@
 const useGetClients = () => {
+  [res, setRes] = useState([])
   const dayOfMonth = new Date().getDate()
   const month = new Date().getMonth() + 1
   const isSunday = (0 === new Date().getDay()) || (1 === month && (1 === dayOfMonth || 6 === dayOfMonth)) || (11 === month && 1 === dayOfMonth) || (12 === month && (25 === dayOfMonth || 26 === dayOfMonth)) ? true : false
 
-  const result = React.useMemo(() => clients.clients.map(i => {
+  const result = clients.clients.map(i => {
     let incoming = ''
     const base = new Date()
     const now = new Date()
@@ -23,7 +24,7 @@ const useGetClients = () => {
       live: !!i.live,
       incoming: incoming.trim()
     }
-  }), [])
+  })
 
   return result
 }
