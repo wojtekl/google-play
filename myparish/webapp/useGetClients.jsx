@@ -1,4 +1,5 @@
 const useGetClients = () => {
+  [res, setRes] = useState([])
   const dayOfMonth = new Date().getDate()
   const month = new Date().getMonth() + 1
   const isSunday = (0 === new Date().getDay()) || (1 === month && (1 === dayOfMonth || 6 === dayOfMonth)) || (11 === month && 1 === dayOfMonth) || (12 === month && (25 === dayOfMonth || 26 === dayOfMonth)) ? true : false
