@@ -1,6 +1,3 @@
-const Breadcrumb = ReactBootstrap.Breadcrumb
-
-
 const Selected = React.memo(() => {
   const { name } = useParams()
   const navigate = useNavigate()
@@ -30,10 +27,12 @@ const Selected = React.memo(() => {
   return (<>
     <Navi current="selected" />
     <div class="container">
-      <Breadcrumb>
-        <Breadcrumb.Item><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></Breadcrumb.Item>
-        {selected && <Breadcrumb.Item active>{selected.name}</Breadcrumb.Item>}
-      </Breadcrumb>
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="javascript:;" onClick={handleClick}> {t('button_back')} </a></li>
+          {selected && <li class="breadcrumb-item active" aria-current="page">{selected.name}</li>}
+        </ol>
+      </nav>
       {selected ? <ListGroup>
         <ListGroup.Item action href={urls.schedule} rel="external">{t('list_schedule')}</ListGroup.Item>
         <ListGroup.Item action href={urls.announcement} rel="external">{t('list_announcement')}</ListGroup.Item>
