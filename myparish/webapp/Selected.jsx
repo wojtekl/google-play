@@ -33,15 +33,15 @@ const Selected = React.memo(() => {
           {selected && <li class="breadcrumb-item active" aria-current="page">{selected.name}</li>}
         </ol>
       </nav>
-      {selected ? <ListGroup>
-        <ListGroup.Item action href={urls.schedule} rel="external">{t('list_schedule')}</ListGroup.Item>
-        <ListGroup.Item action href={urls.announcement} rel="external">{t('list_announcement')}</ListGroup.Item>
-        <ListGroup.Item action href={urls.contact} rel="external">{t('list_contact')}</ListGroup.Item>
-        {selected.other && <ListGroup.Item action href={selected.other} rel="external">{t('list_other')}</ListGroup.Item>}
-        {selected.live && <ListGroup.Item action href={selected.live} rel="external">{t('list_live')}</ListGroup.Item>}
-        <ListGroup.Item action href={`https://www.openstreetmap.org/directions?from=&to=${selected.latitude}%2C${selected.longitude}`} rel="external">{t('list_directions')}</ListGroup.Item>
-        {!saved && <ListGroup.Item action onClick={handleSelect}>{t('list_select')}</ListGroup.Item>}
-      </ListGroup> : <p>{t('label_missing')}</p>}
+      {selected ? <div class="list-group">
+        <a href={urls.schedule} rel="external" class="list-group-item list-group-item-action">{t('list_schedule')}</a>
+        <a href={urls.announcement} rel="external" class="list-group-item list-group-item-action">{t('list_announcement')}</a>
+        <a href={urls.contact} rel="external" class="list-group-item list-group-item-action">{t('list_contact')}</a>
+        {selected.other && <a href={selected.other} rel="external" class="list-group-item list-group-item-action">{t('list_other')}</a>}
+        {selected.live && <a href={selected.live} rel="external" class="list-group-item list-group-item-action">{t('list_live')}</a>}
+        <a href={`https://www.openstreetmap.org/directions?from=&to=${selected.latitude}%2C${selected.longitude}`} rel="external" class="list-group-item list-group-item-action">{t('list_directions')}</a>
+        {!saved && <a onClick={handleSelect} class="list-group-item list-group-item-action">{t('list_select')}</a>}
+      </a> : <p>{t('label_missing')}</p>}
     </div>
   </>)
 })
