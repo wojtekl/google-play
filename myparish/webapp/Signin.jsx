@@ -3,7 +3,7 @@ const Signin = React.memo(() => {
   const { t } = useTranslation()
   const [signinFailure, setSigninFailure] = useState(false)
 
-  const handleSubmit = (event) => {
+  const handleSubmit = React.useCallback((event) => {
     event.preventDefault()
     setSigninFailure(false)
     const form = document.querySelector('#form_submit')
@@ -15,7 +15,7 @@ const Signin = React.memo(() => {
         setSigninFailure(true)
       }
     })
-  }
+  }, [event])
 
   useEffect(() => {
     axios.get('api/signin').then((response) => {
