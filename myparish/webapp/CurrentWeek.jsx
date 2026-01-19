@@ -7,11 +7,11 @@ const CurrentWeek = React.memo((props) => {
 
   const handleSelect = (event) => {}
 
-  const handleRefresh = () => {
+  const handleRefresh = React.useCallback(() => {
     setRefresh(true)
-  }
+  }, [])
 
-  const getTitle = () => {
+  const getTitle = React.useCallback(() => {
     if ('eucharystia' === type) {
       if (!date) {
         return t('label_order')
@@ -26,7 +26,7 @@ const CurrentWeek = React.memo((props) => {
     else if ('departure' === type) {
       return t('label_departure')
     }
-  }
+  }, [])
   
   useEffect(() => {
     if (refresh) {
