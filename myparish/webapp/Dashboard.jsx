@@ -21,11 +21,11 @@ const Dashboard = React.memo(() => {
     })
   }, [tenant])
 
-  const handleDisabled = () => {
+  const handleDisabled = React.useCallback(() => {
     setDisabled(!disabled)
-  }
+  }, [])
 
-  const handleSubmit = (event) => {
+  const handleSubmit = React.useCallback((event) => {
     event.preventDefault()
     
     const form = document.querySelector(`#form_contact`)
@@ -34,7 +34,7 @@ const Dashboard = React.memo(() => {
     })
     
     return false
-  }
+  }, [])
   
   return <>
     <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
