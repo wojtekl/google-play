@@ -1,7 +1,3 @@
-const Navbar = ReactBootstrap.Navbar
-const Nav = ReactBootstrap.Nav
-
-
 const Navi = React.memo((props) => {
   const { t } = useTranslation()
   const navigate = useNavigate()
@@ -27,12 +23,12 @@ const Navi = React.memo((props) => {
         </button>
         <div class="collapse navbar-collapse" id="basic-navbar-nav">
           <div className="navbar-nav me-auto">
-            {selected && 'selected' != current && <Nav.Link href={`#/selected/${selected.name}`}>{t('nav_your')}</Nav.Link>}
-            {'map' != current && <Nav.Link href="#/">{t('nav_map')}</Nav.Link>}
-            {'list' != current && <Nav.Link href="#/list">{t('nav_list')}</Nav.Link>}
-            {'news' != current && <Nav.Link href="#/news">{t('nav_news')}</Nav.Link>}
-            <Nav.Link onClick={handleInstall}>{t('nav_install')}</Nav.Link>
-            <Nav.Link href="#/manage">{t('nav_manage')}</Nav.Link>
+            {selected && 'selected' != current && <div class="nav-item"><a class="nav-link" href={`#/selected/${selected.name}`}>{t('nav_your')}</a></div>}
+            {'map' != current && <div class="nav-item"><a class="nav-link active" aria-current="page" href="#/">{t('nav_map')}</a></div>}
+            {'list' != current && <div class="nav-item"><a class="nav-link" href="#/list">{t('nav_list')}</a></div>}
+            {'news' != current && <div class="nav-item"><a class="nav-link" href="#/news">{t('nav_news')}</a></div>}
+            <div class="nav-item"><a class="nav-link" onClick={handleInstall}>{t('nav_install')}</a></div>
+            <div class="nav-item"><a class="nav-link" href="#/manage">{t('nav_manage')}</a></div>
           </div>
         </div>
       </div>
