@@ -2,7 +2,7 @@ const VisitModal = React.memo((props) => {
   const { t } = useTranslation()
   const { modalId } = props
 
-  const handleSubmit = (event) => {
+  const handleSubmit = React.useCallback((event) => {
     event.preventDefault()
     
     const form = document.querySelector(`#form_${modalId}`)
@@ -12,7 +12,7 @@ const VisitModal = React.memo((props) => {
     })
     
     return false
-  }
+  }, [event])
 
   return <div class="modal fade" id={modalId} tabindex="-1" aria-labelledby={`${modalId}Label`} aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-sm">
