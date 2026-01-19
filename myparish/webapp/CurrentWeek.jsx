@@ -26,7 +26,7 @@ const CurrentWeek = React.memo((props) => {
     else if ('departure' === type) {
       return t('label_departure')
     }
-  }, [])
+  }, [type])
   
   useEffect(() => {
     if (refresh) {
