@@ -11,13 +11,13 @@ const App = React.memo(() => {
   </Container>)
   const [warning, setWarning] = React.useState(store.getState().warning)
 
-  const handleReplace = (source) => {
+  const handleReplace = React.useCallback((source) => {
     setSource(source)
-  }
+  }, [source])
 
-  const handleBack = () => {
+  const handleBack = React.callback(() => {
     setSource(<App />)
-  }
+  }, [])
 
   const handleGotit = () => {
     setWarning(false)
@@ -31,7 +31,6 @@ const App = React.memo(() => {
     if (selected) {
       searchParams.append('selected', selected)
     }
-    const parent = this
     axios.get(`items?${searchParams.toString()}`).then(function (response) {
       handleReplace(<List properties={columns_list} list={response.data} expandable={true} replace={handleReplace} back={handleBack} />)
     })
