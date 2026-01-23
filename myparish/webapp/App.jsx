@@ -2,7 +2,7 @@ const App = React.memo(() => {
   const { t } = useTranslation()
   const [selected, setSelected] = useState(clients.clients.find(i => i.name === store.getState().value))
 
-  const list = React.useMemo(useGetClients())
+  const list = React.useMemo(() => useGetClients(), [])
 
   useEffect(() => {
     const map = L.map('map').setView(selected ? [selected.latitude, selected.longitude] : [52.114503, 19.423561], 9)
