@@ -24,7 +24,7 @@ const App = React.memo(() => {
     store.dispatch({ type: 'warning/set' })
   }
 
-  useEffect(() => {
+  React.useEffect(() => {
     const searchParams = new URLSearchParams()
     searchParams.append('lang', store.getState().lang)
     const selected = new URLSearchParams(new URL(window.location).search).get('selected')
