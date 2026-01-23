@@ -4,12 +4,12 @@ const Spinner = ReactBootstrap.Spinner
 const App = React.memo(() => {
   const { t } = useTranslation()
   
-  const [source, setSource] = useState(<Container fluid>
+  const [source, setSource] = React.useState(<Container fluid>
     <Row className="mt-3">
       <Spinner animation="border" variant="warning" role="status" />
     </Row>
   </Container>)
-  const [warning, setWarning] = useState(store.getState().warning)
+  const [warning, setWarning] = React.useState(store.getState().warning)
 
   const handleReplace = (source) => {
     setSource(source)
