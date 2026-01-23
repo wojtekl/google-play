@@ -15,7 +15,7 @@ const App = React.memo(() => {
     setSource(source)
   }, [source])
 
-  const handleBack = React.callback(() => {
+  const handleBack = React.useCallback(() => {
     setSource(<App />)
   }, [])
 
