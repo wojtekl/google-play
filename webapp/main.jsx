@@ -2,7 +2,7 @@ import React from 'react'
 import { render } from 'react-dom'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { i18n } from 'i18next'
-import { react-i18next } from 'react-i18next'
+import { initReactI18next } from 'react-i18next'
 import { resources } from './resources'
 //const Router = ReactRouterDOM.BrowserRouter
 //const Routes = ReactRouterDOM.Routes
@@ -13,8 +13,8 @@ import { resources } from './resources'
 
 const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
 
-console.log(i18n, ri)
-i18n.use(ri.initReactI18next).init({
+console.log(i18n,  initReactI18next)
+i18n.use(initReactI18next).init({
   resources: resources,
   lng: lang,
   fallbacking: "pl",
