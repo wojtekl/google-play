@@ -10,7 +10,7 @@ import { resources } from './resources'
 
 //const initReactI18next = ReactI18next.initReactI18next
 
-//alert(react-i18next)
+alert(resources)
 
 const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
 
@@ -24,10 +24,13 @@ const lang = new URLSearchParams(new URL(window.location).search).get('lang') ??
 })*/
 
 render((
+  <>
+    okejka
  <Router>
     <Routes>
       <Route path="/" element={<p>raz</p>} />
       <Route path="/howto" element={<p>dwa</p>} />
     </Routes>
   </Router>
+  </>
 ), document.getElementById('app'))
