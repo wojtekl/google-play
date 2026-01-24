@@ -26,11 +26,6 @@ const lang = new URLSearchParams(new URL(window.location).search).get('lang') ??
 render((
   <>
     okejka
- <Router>
-    <Routes>
-      <Route path="/" element={<p>raz</p>} />
-      <Route path="/howto" element={<p>dwa</p>} />
-    </Routes>
-  </Router>
+ 
   </>
 ), document.getElementById('app'))
