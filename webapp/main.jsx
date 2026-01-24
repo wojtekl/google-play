@@ -1,6 +1,6 @@
-import React from "react"
-import { render } from "react-dom/client"
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
+import * as React from 'react'
+import { render } from 'react-dom/client'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 //const Router = ReactRouterDOM.BrowserRouter
 //const Routes = ReactRouterDOM.Routes
 //const Route = ReactRouterDOM.Route
