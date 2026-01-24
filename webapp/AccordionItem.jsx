@@ -1,4 +1,4 @@
-const withTranslation = ReactI18next.withTranslation
+import { withTranslation } from 'react-i18next'
 
 
 class AccordionItemInner extends React.Component {
