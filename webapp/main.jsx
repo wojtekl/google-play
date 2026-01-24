@@ -1,5 +1,5 @@
 import React from 'react'
-import { render } from 'react-dom/client'
+import { render } from 'react-dom'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 //const Router = ReactRouterDOM.BrowserRouter
 //const Routes = ReactRouterDOM.Routes
