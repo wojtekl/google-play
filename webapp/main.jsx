@@ -10,7 +10,7 @@ import { render } from 'react-dom'
 
 //const initReactI18next = ReactI18next.initReactI18next
 
-alert(react)
+alert(React)
 
 /*const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
 
