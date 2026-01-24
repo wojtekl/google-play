@@ -2,8 +2,8 @@ import React from 'react'
 import { render } from 'react-dom'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { resources } from './resources'
-import * as i18next from 'https://esm.sh/i18next'
-import * as initReactI18next from 'https://esm.sh/react-i18next'
+import * as i18next from 'i18next/i18n'
+import * as initReactI18next from 'react-i18next/*'
 //const Router = ReactRouterDOM.BrowserRouter
 //const Routes = ReactRouterDOM.Routes
 //const Route = ReactRouterDOM.Route
