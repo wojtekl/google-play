@@ -1,4 +1,5 @@
-const withTranslation = ReactI18next.withTranslation
+import React from 'react'
+import { withTranslation } from 'react-i18next'
 
 
 class HowtoInner extends React.Component {
