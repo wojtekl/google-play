@@ -1,5 +1,5 @@
-const useNavigate = ReactRouterDOM.useNavigate
-const useTranslation = ReactI18next.useTranslation
+import { useNavigate } from 'react-router-dom'
+import { useTranslation } from 'react-i18next'
 
 const Hero = (props) => {
   const { image, description, urlButtonOnline, small } = props
