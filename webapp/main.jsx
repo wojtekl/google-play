@@ -1,8 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import * as i18n from 'i18next'
-import * as ri from 'react-i18next'
+import { i18n } from 'i18next'
+import { react-i18next } from 'react-i18next'
 import { resources } from './resources'
 //const Router = ReactRouterDOM.BrowserRouter
 //const Routes = ReactRouterDOM.Routes
