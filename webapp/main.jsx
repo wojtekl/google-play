@@ -1,7 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import i18n from 'i18next'
+import * as i18n from 'i18next'
 import reactI18next from 'react-i18next'
 import { resources } from './resources'
 //const Router = ReactRouterDOM.BrowserRouter
