@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React from 'react'
 import { render } from 'react-dom/client'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 //const Router = ReactRouterDOM.BrowserRouter
