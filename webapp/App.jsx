@@ -1,4 +1,4 @@
-const withTranslation = ReactI18next.withTranslation
+import { withTranslation } = from 'react-i18next'
 
 
 class AppInner extends React.Component {
@@ -83,4 +83,4 @@ class AppInner extends React.Component {
   }
 }
 
-const App = withTranslation()(AppInner)
+export const App = withTranslation()(AppInner)
