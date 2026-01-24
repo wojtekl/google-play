@@ -13,7 +13,7 @@ import { resources } from './resources'
 
 const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
 
-console.log(initReactI18next)
+console.log(ri.initReactI18next)
 i18n.use(ri.initReactI18next).init({
   resources: resources,
   lng: lang,
