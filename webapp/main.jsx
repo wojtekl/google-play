@@ -1,7 +1,9 @@
-
-const Router = ReactRouterDOM.BrowserRouter
-const Routes = ReactRouterDOM.Routes
-const Route = ReactRouterDOM.Route
+import React from "react"
+import { render } from "react-dom/client"
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
+//const Router = ReactRouterDOM.BrowserRouter
+//const Routes = ReactRouterDOM.Routes
+//const Route = ReactRouterDOM.Route
 
 const initReactI18next = ReactI18next.initReactI18next
 
@@ -17,7 +19,7 @@ i18next.use(initReactI18next).init({
   }
 })
 
-ReactDOM.render((
+render((
   <Router>
     <Routes>
       <Route path="/" element={<App />} />
