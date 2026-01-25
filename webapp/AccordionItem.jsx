@@ -24,4 +24,6 @@ class AccordionItemInner extends React.Component {
   }
 }
 
-globalThis.AccordionItem = withTranslation()(AccordionItemInner)
+const AccordionItem = withTranslation()(AccordionItemInner)
+globalThis.AccordionItem = AccordionItem
+export default AccordionItem
