@@ -1,7 +1,7 @@
-//import React from 'react'
-//import { withTranslation } from 'react-i18next'
-const React = await import('react')
-const withTranslation = (await import('react-i18next')).withTranslation
+import React from 'react'
+import { withTranslation } from 'react-i18next'
+//const React = await import('react')
+//const withTranslation = (await import('react-i18next')).withTranslation
 
 
 class CardInner extends React.Component {
@@ -27,4 +27,4 @@ class CardInner extends React.Component {
   }
 }
 
-const Card = withTranslation()(CardInner)
+globalThis.Card = withTranslation()(CardInner)
