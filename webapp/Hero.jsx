@@ -23,3 +23,5 @@ const Hero = (props) => {
       </div>
     </div>
 }
+globalThis.Hero = Hero
+export default Hero
