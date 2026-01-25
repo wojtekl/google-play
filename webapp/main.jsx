@@ -22,6 +22,11 @@ i18n.use(initReactI18next).init({
 })
 
 render((
-  <>okejka</>
+  <>okejka
+    <Router>
+    
+  </Router>
+
+  </>
   
 ), document.getElementById('app'))
