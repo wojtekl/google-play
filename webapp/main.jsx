@@ -11,7 +11,7 @@ import { initReactI18next } from 'react-i18next'
 
 console.log(globalThis.App)
 
-while(!globalThis.App && !globalThis.Howto) {}
+while(!globalThis.App || !globalThis.Howto) {}
 
 const lang = new URLSearchParams(new URL(window.location).search).get('lang') ?? navigator.language.substring(0, 2).toLocaleLowerCase()
 
