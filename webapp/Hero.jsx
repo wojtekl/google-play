@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 //const useNavigate = (await import('react-router-dom')).useNavigate
 //const withTranslation = (await import('react-i18next')).withTranslation
 
-const Hero = (props) => {
+var Hero = (props) => {
   const { image, description, urlButtonOnline, small } = props
   const navigate = useNavigate()
   const { t } = useTranslation()
@@ -24,5 +24,4 @@ const Hero = (props) => {
       </div>
     </div>
 }
-globalThis.Hero = Hero
 export default Hero
