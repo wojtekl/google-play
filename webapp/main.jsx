@@ -22,8 +22,10 @@ i18n.use(initReactI18next).init({
 })
 
 render((
-  <>
-    okejka2
- 
-  </>
+  <Router>
+    <Routes>
+      <Route path="/" element={<App />} />
+      <Route path="/howto" element={<Howto />} />
+    </Routes>
+  </Router>
 ), document.getElementById('app'))
