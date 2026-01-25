@@ -27,4 +27,6 @@ class CardInner extends React.Component {
   }
 }
 
-globalThis.Card = withTranslation()(CardInner)
+const Card = withTranslation()(CardInner)
+globalThis.Card = Card
+export default Card
