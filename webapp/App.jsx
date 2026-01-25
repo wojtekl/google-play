@@ -1,6 +1,6 @@
 //import React from 'react'
 //import { withTranslation } from 'react-i18next'
-React = await import('react')
+const React = await import('react')
 //const withTranslation = import('react-i18next').withTranslation
 
 
