@@ -22,10 +22,10 @@ i18n.use(initReactI18next).init({
 })
 
 render((
-  <Router>
+    <Router>
     <Routes>
-      <Route path="/" element={<>aa</>} />
-      <Route path="/howto" element={<>bb</>} />
+      <Route path="/" element={<App />} />
+      <Route path="/howto" element={<Howto />} />
     </Routes>
   </Router>
 ), document.getElementById('app'))
