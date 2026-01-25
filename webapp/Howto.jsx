@@ -108,4 +108,6 @@ class HowtoInner extends React.Component {
   }
 }
 
-globalThis.Howto = withTranslation()(HowtoInner)
+const Howto = withTranslation()(HowtoInner)
+globalThis.Howto = Howto
+export default Howto
