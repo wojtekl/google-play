@@ -1,4 +1,4 @@
-const resources = {
+export const resources = {
   en: {
     translation: {
       "title_home": "wlap.pl",
