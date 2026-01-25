@@ -25,7 +25,6 @@ render((
   <Router>
     <Routes>
       
-      <Route path="/howto" element={<Howto />} />
-    </Routes>
+      
   </Router>
 ), document.getElementById('app'))
