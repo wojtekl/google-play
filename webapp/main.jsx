@@ -25,6 +25,6 @@ render((
   <Router>
     <Routes>
       
-    </Routes>Routes>
+    </Routes>
   </Router>
 ), document.getElementById('app'))
