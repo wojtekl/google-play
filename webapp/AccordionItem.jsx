@@ -1,7 +1,7 @@
-//import React from 'react'
-//import { withTranslation } from 'react-i18next'
-const React = await import('react')
-const withTranslation = (await import('react-i18next')).withTranslation
+import React from 'react'
+import { withTranslation } from 'react-i18next'
+//const React = await import('react')
+//const withTranslation = (await import('react-i18next')).withTranslation
 
 
 class AccordionItemInner extends React.Component {
@@ -24,4 +24,4 @@ class AccordionItemInner extends React.Component {
   }
 }
 
-const AccordionItem = withTranslation()(AccordionItemInner)
+globalThis.AccordionItem = withTranslation()(AccordionItemInner)
