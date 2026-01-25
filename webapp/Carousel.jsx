@@ -1,8 +1,7 @@
 //import React from 'react'
 //import { withTranslation } from 'react-i18next'
 const React = await import('react')
-const reactI18next = import('react-i18next')
-const withTranslation = reactI18next.withTranslation
+const withTranslation = (await import('react-i18next')).withTranslation
 
 
 class CarouselInner extends React.Component {
