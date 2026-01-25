@@ -3,7 +3,7 @@ import { render } from 'react-dom'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
-import { App } from 'https://wlap.pl/App.jsx'
+import App from './App.jsx'
 //const Router = ReactRouterDOM.BrowserRouter
 //const Routes = ReactRouterDOM.Routes
 //const Route = ReactRouterDOM.Route
