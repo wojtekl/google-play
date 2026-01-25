@@ -1,7 +1,7 @@
-//import React from 'react'
-//import { withTranslation } from 'react-i18next'
-const React = await import('react')
-const withTranslation = (await import('react-i18next')).withTranslation
+import React from 'react'
+import { withTranslation } from 'react-i18next'
+//const React = await import('react')
+//const withTranslation = (await import('react-i18next')).withTranslation
 
 
 class AppInner extends React.Component {
@@ -86,4 +86,4 @@ class AppInner extends React.Component {
   }
 }
 
-const App = withTranslation()(AppInner)
+export const App = withTranslation()(AppInner)
