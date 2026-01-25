@@ -21,17 +21,6 @@ i18n.use(initReactI18next).init({
   }
 })
 
-render((
-  <Router>
-    <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="/howto" element={<Howto />} />
-    </Routes>
-  </Router>
-), document.getElementById('app'))
-
-
-
 import { withTranslation } from 'react-i18next'
 
 
@@ -118,3 +107,13 @@ class AppInner extends React.Component {
 }
 
 const App = withTranslation()(AppInner)
+
+
+render((
+  <Router>
+    <Routes>
+      <Route path="/" element={<App />} />
+      <Route path="/howto" element={<Howto />} />
+    </Routes>
+  </Router>
+), document.getElementById('app'))
