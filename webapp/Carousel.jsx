@@ -34,6 +34,5 @@ class CarouselInner extends React.Component {
   }
 }
 
-const Carousel = withTranslation()(CarouselInner)
-globalThis.Carousel = Carousel
+var Carousel = withTranslation()(CarouselInner)
 export default Carousel
