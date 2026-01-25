@@ -84,4 +84,4 @@ class AppInner extends React.Component {
   }
 }
 
-export const App = withTranslation()(AppInner)
+const App = withTranslation()(AppInner)
