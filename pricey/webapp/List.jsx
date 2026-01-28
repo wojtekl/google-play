@@ -137,7 +137,7 @@ class ListInner extends React.PureComponent {
                       return <td> {row[property]} </td>
                     }
                   })}
-                  {expandable && <td><Button variant="link" size="sm" onClick={this.handleClick} disabled={!enabled}><span class={`badge text-bg-${enabled ? 'primary' : 'secondary'}`}> -{'>'} </span></Button></td>}
+                  {expandable && <td><a onClick={this.handleClick} disabled={!enabled}><span class={`badge text-bg-${enabled ? 'primary' : 'secondary'}`}> -{'>'} </span></a></td>}
                 </tr>)
               })}
             </tbody>
