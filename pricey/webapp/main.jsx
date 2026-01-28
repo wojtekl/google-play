@@ -2,10 +2,6 @@ const Provider = ReactRedux.Provider
 const initReactI18next = ReactI18next.initReactI18next
 const useTranslation = ReactI18next.useTranslation
 
-const Button = ReactBootstrap.Button
-const Container = ReactBootstrap.Container
-const Form = ReactBootstrap.Form
-const Image = ReactBootstrap.Image
 
 
 if ('serviceWorker' in navigator) {
