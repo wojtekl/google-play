@@ -1,9 +1,6 @@
-const BModal = ReactBootstrap.Modal
-
-
-const Modal = React.memo((props) => {
-  const { t } = useTranslation()
+const Modal = (props) => {
   const { show, handleClose, item, storeName, day } = props
+  const { t } = useTranslation()
 
   const handleSubmit = (event) => {
     event.preventDefault()
@@ -11,19 +8,19 @@ const Modal = React.memo((props) => {
     const form = document.querySelector('#form_item')
     axios.post('item', form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
       form.reset()
-      handleClose()
     })
-    
-    return false
   }
 
   return (
-    <BModal id="exampleModal" show={show} size="sm" aria-labelledby="exampleModalLabel" onHide={handleClose} centered>
-      <BModal.Header closeButton>
-        <BModal.Title> {!item ? t('button_new_product') : `${t('label_item')}: ${item}`} </BModal.Title>
-      </BModal.Header>
+<div class="modal" id="confirmModal" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"> {!item ? t('button_new_product') : `${t('label_item')}: ${item}`} </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label={t('label_close')}></button>
+      </div>
       <form id="form_item" enctype="multipart/form-data" onSubmit={handleSubmit}>
-        <BModal.Body>
+        <div class="modal-body">
           <div class="form-group">
             <label for="exampleInputName1">{t('label_name')}</label>
             <input type="text" class="form-control" id="exampleInputName1" aria-describedby="nameHelp" name="name" value={item} required minlength="5" maxlength="100" autocomplete="off" />
@@ -58,12 +55,14 @@ const Modal = React.memo((props) => {
             <label for="exampleInputBulk1" class="form-check-label">{t('label_bulk')}</label>
             <small id="couponHelp" class="form-text text-muted">{t('help_bulk')}</small>
           </div>
-        </BModal.Body>
-        <BModal.Footer>
-          <Button variant="secondary" onClick={handleClose}> {t('button_cancel')} </Button>
-          <Button type="submit" variant="primary"> {t('button_save')} </Button>
-        </BModal.Footer>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"> {t('button_cancel')} </button>
+          <button type="submit" class="btn btn-primary" data-bs-dismiss="modal"> {t('button_save')} </button>
+        </div>
       </form>
-    </BModal>
-  )
-})
+    </div>
+  </div>
+</div>
+)
+}
