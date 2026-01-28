@@ -1,10 +1,5 @@
 const withTranslation = ReactI18next.withTranslation
 
-const Badge = ReactBootstrap.Badge
-const Breadcrumb = ReactBootstrap.Breadcrumb
-const Row = ReactBootstrap.Row
-const Table = ReactBootstrap.Table
-
 
 const columns_list = ['item', 'store', 'price', 'posted']
 const columns_details = ['store', 'price', 'posted', 'coupon', 'bulk']
@@ -99,20 +94,21 @@ class ListInner extends React.PureComponent {
         </div>
       </div>
     </div>
-      <Container>
-        {!selected && <Row className="mt-3">
+      <div class="container">
+        {!selected && <div class="row mt-3">
           <form class="form-inline my-2" role="search" onSubmit={this.handleSearch}>
             <input class="form-control mr-sm-2" type="search" name="search" placeholder={t('label_search')} aria-label="Search" onKeyUp={this.handleFilter} maxlength="25" />
           </form>
-        </Row>}
-        <Row className="mt-3">
-          {!!selected && <Nav>
-            <Breadcrumb>
-              <Breadcrumb.Item><a href="javascript:;" onClick={back}> {t('button_back')} </a></Breadcrumb.Item>
-              <Breadcrumb.Item active> {selected} </Breadcrumb.Item>
-            </Breadcrumb>
-          </Nav>}
-          <Table hover size="sm">
+        </div>}
+          <div class="row mt-3">
+          {!!selected &&  <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="javascript:;" onClick={back}> {t('button_back')} </a></li>
+          {selected && <li class="breadcrumb-item active" aria-current="page"> {selected} </li>}
+        </ol>
+      </nav>}
+            <div class="table-responsive small">
+              <table class="table table-stripped table-sm table-hover">
             <thead class="table-dark">
               <tr>
                 <th> X </th>
@@ -141,14 +137,15 @@ class ListInner extends React.PureComponent {
                       return <td> {row[property]} </td>
                     }
                   })}
-                  {expandable && <td><Button variant="link" size="sm" onClick={this.handleClick} disabled={!enabled}><Badge bg={enabled ? 'primary' : 'secondary'}> -{'>'} </Badge></Button></td>}
+                  {expandable && <td><Button variant="link" size="sm" onClick={this.handleClick} disabled={!enabled}><span class={`badge text-bg-${enabled ? 'primary' : 'secondary'}`}> -{'>'} </span></Button></td>}
                 </tr>)
               })}
             </tbody>
-          </Table>
-        </Row>
+          </table>
+            </div>
+        </div>
         <Modal item={selected} show={show} handleClose={this.handleClose} storeName={storeName} day={day} />
-      </Container>
+      </div>
     </>)
   }
 }
