@@ -10,6 +10,7 @@ const Modal = (props) => {
       if (response.status === 200) {
         form.reset()
         $('#exampleModal').modal('hide')
+      }
     })
   }
 
