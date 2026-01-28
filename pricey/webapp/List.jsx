@@ -78,22 +78,29 @@ class ListInner extends React.PureComponent {
     const isYourList = new URLSearchParams(new URL(window.location).search).has('selected')
 
     return (<>
-      <Navbar expand="md">
-        <Container>
-          <Navbar.Brand><img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav" />
-          <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
-              <Nav.Link data-bs-toggle="modal" data-bs-target="#confirmModal">{!selected ? t('button_new_product') : t('button_update_price')}</Nav.Link>
-              {!isYourList ? <Nav.Link onClick={this.handleCopy}>{t('nav_yourlist')}</Nav.Link> : <Nav.Link href="/" rel="bookmark">{t('nav_home')}</Nav.Link>}
-              <Nav.Link href="https://wlap.pl/" rel="author">{t('nav_aboutus')}</Nav.Link>
-              <Nav.Link href={t('url_privacy')} rel="privacy-policy">{t('nav_privacy')}</Nav.Link>
-              <Nav.Link href="https://www.tiktok.com/@czarna.marchewka/">{t('nav_install')}</Nav.Link>
-              <Nav.Link onClick={this.handleLang}>{'pl' === lang ? 'en' : 'pl'}</Nav.Link>
-            </Nav>
-          </Navbar.Collapse>
-        </Container>
-      </Navbar>
+      <div class="navbar navbar-expand-md">
+      <div class="container">
+        <div class="navbar-brand"><img src="https://raw.githubusercontent.com/wojtekl/google-play/refs/heads/main/pricey/Pricey/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" width="30px" height="30px" alt="" />{t('title_app')}</div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#basic-navbar-nav" aria-controls="basic-navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="basic-navbar-nav">
+          <div className="navbar-nav me-auto">
+            <div class="nav-item"><a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#confirmModal"}>{!selected ? t('button_new_product') : t('button_update_price')}</a></div
+            <div class="nav-item">{!isYourList ? <a class="nav-link active" aria-current="page" href="#/" onClick={this.handleCopy}>{t('nav_yourlist')}</a> : <a class="nav-link active" aria-current="page" href="/" rel="bookmark">{t('nav_home')}</a>}</div>
+            <div class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">{t('nav_more')}</a>
+              <ul class="dropdown-menu">
+                <li><a href="https://wlap.pl/" rel="author" class="dropdown-item">{t('nav_aboutus')}</a></li>
+                <li><a href={t('url_privacy')} rel="privacy-policy" class="dropdown-item">{t('nav_privacy')}</a></li>
+              </ul>
+            </div>
+            <div class="nav-item"><a class="nav-link" onClick={() => {}}>{t('nav_install')}</a></div>
+            <div class="nav-item"><a class="nav-link" href="#" onClick={this.handleLang}>{'pl' === lang ? 'en' : 'pl'}</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
       <Container>
         {!selected && <Row className="mt-3">
           <form class="form-inline my-2" role="search" onSubmit={this.handleSearch}>
