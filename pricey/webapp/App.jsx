@@ -1,12 +1,11 @@
-const Spinner = ReactBootstrap.Spinner
-
-
 const App = React.memo(() => {
   const { t } = useTranslation()
   
   const [source, setSource] = React.useState(<div class="container-fluid">
     <div class="row mt-3">
-      <Spinner animation="border" variant="warning" role="status" />
+      <div class="spinner-border text-warning" role="status">
+        <span class="sr-only">Loading...</span>
+      </div>
     </div>
   </div>)
   const [warning, setWarning] = React.useState(store.getState().warning)
