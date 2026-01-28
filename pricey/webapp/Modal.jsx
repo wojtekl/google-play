@@ -6,8 +6,10 @@ const Modal = (props) => {
     event.preventDefault()
     
     const form = document.querySelector('#form_item')
-    axios.post('item', form, { headers: { 'Content-Type': 'multipart/form-data' } }).then(() => {
-      form.reset()
+    axios.post('item', form, { headers: { 'Content-Type': 'multipart/form-data' } }).then((response) => {
+      if (response.status === 200) {
+        form.reset()
+        $('#exampleModal').modal('hide')
     })
   }
 
@@ -58,7 +60,7 @@ const Modal = (props) => {
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal"> {t('button_cancel')} </button>
-          <button type="submit" class="btn btn-primary" data-bs-dismiss="modal"> {t('button_save')} </button>
+          <button type="submit" class="btn btn-primary"> {t('button_save')} </button>
         </div>
       </form>
     </div>
