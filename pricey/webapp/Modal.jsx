@@ -12,7 +12,7 @@ const Modal = (props) => {
   }
 
   return (
-<div class="modal" id="confirmModal" tabindex="-1">
+<div class="modal" id="exampleModal" tabindex="-1">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
