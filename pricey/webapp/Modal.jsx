@@ -9,7 +9,7 @@ const Modal = (props) => {
     axios.post('item', form, { headers: { 'Content-Type': 'multipart/form-data' } }).then((response) => {
       if (response.status === 200) {
         form.reset()
-        document.getElementById('#exampleModal').modal('hide')
+        document.getElementById('exampleModal').modal('hide')
       }
     })
   }
