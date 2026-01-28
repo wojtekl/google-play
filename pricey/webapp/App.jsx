@@ -4,11 +4,11 @@ const Spinner = ReactBootstrap.Spinner
 const App = React.memo(() => {
   const { t } = useTranslation()
   
-  const [source, setSource] = React.useState(<Container fluid>
-    <Row className="mt-3">
+  const [source, setSource] = React.useState(<div class="container-fluid">
+    <div class="row mt-3">
       <Spinner animation="border" variant="warning" role="status" />
-    </Row>
-  </Container>)
+    </div>
+  </div>)
   const [warning, setWarning] = React.useState(store.getState().warning)
 
   const handleReplace = React.useCallback((source) => {
