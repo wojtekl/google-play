@@ -2,8 +2,6 @@ const withTranslation = ReactI18next.withTranslation
 
 const Badge = ReactBootstrap.Badge
 const Breadcrumb = ReactBootstrap.Breadcrumb
-const Nav = ReactBootstrap.Nav
-const Navbar = ReactBootstrap.Navbar
 const Row = ReactBootstrap.Row
 const Table = ReactBootstrap.Table
 
@@ -86,7 +84,7 @@ class ListInner extends React.PureComponent {
         </button>
         <div class="collapse navbar-collapse" id="basic-navbar-nav">
           <div className="navbar-nav me-auto">
-            <div class="nav-item"><a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#confirmModal">{!selected ? t('button_new_product') : t('button_update_price')}</a></div>
+            <div class="nav-item"><a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal">{!selected ? t('button_new_product') : t('button_update_price')}</a></div>
             <div class="nav-item">{!isYourList ? <a class="nav-link active" aria-current="page" href="#/" onClick={this.handleCopy}>{t('nav_yourlist')}</a> : <a class="nav-link active" aria-current="page" href="/" rel="bookmark">{t('nav_home')}</a>}</div>
             <div class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">{t('nav_more')}</a>
